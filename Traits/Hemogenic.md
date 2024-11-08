@@ -1,0 +1,6 @@
+---
+tags:
+  - Trait
+  - Hemogenic
+---
+A creature with the hemogenic trait may store blood in a special gland, up to 1000mL of blood at one time. Every day they lose 250mL from this storage. If they do not have enough blood to cover the 250mL of blood loss they will suffer from 1 level of exhaustion. Every day they do not cover this blood cost will incur an additional level of exhaustion. The exhaustion may be remedied by having an extra 250mL of blood in storage (on top of the 250mL needed by default).

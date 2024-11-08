@@ -1,0 +1,30 @@
+---
+tags:
+  - Spell
+  - Abomination
+  - Transmutation
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - 1st-Level
+---
+- **Spell Type**:
+	- 1st level transmutation
+- **Casting Time**:
+	- 1 Reaction
+- [[Range]]:
+	- 150ft
+- **Target**:
+	- Surface, Creature, or Self
+- **Components**:
+	- S, M (1kg of [[Abomination Matter]])
+- **Duration**:
+	- Instant
+- **Classes**:
+	- Artificer, Bard, Cleric, Druid, Paladin
+- **Spell**:
+	- As a reaction to a target getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target from incoming damage. The shield absorbs one instance incoming damage, up to 12 damage, and dissipates after. If the shield is dealt more damage that it can absorb, the remaining damage is dealt to the target.
+- **At Higher Levels**:
+	- When you cast this spell using a spell slot of 2nd level or higher, the shield absorbs 12 more damage for each level above 1st.

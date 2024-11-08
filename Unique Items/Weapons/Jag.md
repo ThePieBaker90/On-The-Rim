@@ -1,0 +1,30 @@
+---
+tags:
+  - Weapon
+  - Melee
+  - Item
+  - One-Handed
+  - Wrench
+  - Simple
+  - Special
+---
+- [[Range]]:
+	- Melee: 5ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d6 + STR Bludgeoning
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Simple
+	- One-Handed
+	- Special
+- **Value**:
+	- TODO
+- **Looks**:
+	- It is a combination monkey and nut wrench, with a brown taped grip and a distinct curved upper jaw, similar to a Stillson wrench with a sharp point.
+- **Special**:
+	- The user may expend a level 5 spell slot to create a level 3 sentry. This sentry takes its turn after its creator and always attacks the closest hostile creature. The sentry never misses and deals 3d12 piercing damage. The level 3 sentry has an AC of 10 and 60 health.
+- **Lore:**
+	- *\[\*Lore]* TODO

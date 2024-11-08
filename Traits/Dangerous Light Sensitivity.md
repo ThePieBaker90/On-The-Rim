@@ -1,0 +1,12 @@
+---
+tags:
+  - Trait
+  - Dangerous-UV-Sensitivity
+---
+- A creature with the Dangerous Light Sensitivity trait suffers from the following while in bright light:
+	- All incoming damage multiplied by 2
+	- Speed multiplied by 0.5
+- The creature also suffers from the following while in dim light: (these effects do not occur while in bright light)
+	- All incoming damage multiplied by 1.5
+	- Speed multiplied by 0.75
+- The creature also gains a radiant damage vulnerability if it doesn't already have it.

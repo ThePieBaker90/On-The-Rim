@@ -1,0 +1,28 @@
+---
+tags:
+  - Ammunition
+  - Reload
+  - Two-Handed
+  - Burst-Fire
+  - Weapon
+  - Firearm
+  - Item
+  - Submachine-Gun
+  - Martial
+---
+* [[Range]]:
+	* Ranged: 5-60-120ft
+* __Damage__:
+	* 1d4+DEX piercing
+* [[Rate of Fire]]:
+	* 5
+* __Properties__:
+	* Martial
+	* [[Ammunition]](20)
+	* [[Reload]](Action, Full)
+	* Two-Handed
+	* [[Burst Fire]]
+* **Value**:
+	* 50 gp
+* **Looks**:
+	* A stock MP5 submachine gun.

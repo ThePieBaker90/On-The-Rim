@@ -1,0 +1,17 @@
+---
+tags:
+  - Material
+  - Item
+  - Abomination
+---
+- **Weight Per Unit**:
+	- 1 kg
+- **Rarity**:
+	- Uncommon
+	- One of the most common forms of matter made out of [[Archites]]
+- **Uses**:
+	- Used as a material component for several spells. 
+- **Looks:**
+	- An opaque purple ooze with the viscosity of mud.
+- **Notable Features**:
+	- CLEANUP Can be easily manipulated with magic to create shapes. Very soft when uncompressed but can easily be compressed with abomination magic. Can become harmful to the touch if filled with magic. Idk man.

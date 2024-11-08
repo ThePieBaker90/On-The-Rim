@@ -1,0 +1,30 @@
+---
+tags:
+  - Weapon
+  - Melee
+  - Item
+  - One-Handed
+  - Simple
+  - Special
+  - Dagger
+---
+- [[Range]]:
+	- Melee: 5ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d6 + STR Bludgeoning
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Simple
+	- One-Handed
+	- Special
+- **Value**:
+	- TODO
+- **Looks**:
+	- It is a butcher’s knife with the blade completely covered in a white cloth with black spots dotting it in a random pattern. The grip is a black leather which fits nicely into the hand. The white cloth is unremovable and cannot be damaged by normal means.
+- **Special**:
+	- Upon rolling a 14, this weapon will land a critical hit.
+- **Lore:**
+	- *\[\*Lore]* TODO

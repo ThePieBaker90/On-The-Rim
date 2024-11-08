@@ -1,0 +1,6 @@
+---
+tags:
+  - Thrown
+  - Weapon
+  - Item
+---

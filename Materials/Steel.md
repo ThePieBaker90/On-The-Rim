@@ -1,0 +1,13 @@
+---
+tags:
+  - Material
+  - Item
+---
+- **Weight Per Unit**:
+	- 0.5 kg
+- **Rarity**:
+	- TODO
+- **Uses**:
+	- TODO
+- **Notable Features**:
+	- Magnetic

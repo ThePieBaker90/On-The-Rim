@@ -1,0 +1,13 @@
+---
+tags:
+  - Template
+  - Phenomena
+---
+- **Type**:
+	- Phenomena
+- **Challenge:**
+	- \\\[#challengeRating]
+- **Lore**:
+	- *\[Lore of phenomena]*
+- **Anomaly**:
+	- \\\[Effects of the phenomena]

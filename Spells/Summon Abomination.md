@@ -1,0 +1,30 @@
+---
+tags:
+  - Spell
+  - Abomination
+  - Transmutation
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - 2nd-Level
+---
+- **Spell Type**:
+	- 2nd level transmutation 
+- **Casting Time**:
+	- 1 Action
+- [[Range]]:
+	- 10ft
+- **Target**:
+	- Surface
+- **Components**:
+	- S, M (4kg of [[Abomination Matter]])
+- **Duration**:
+	- Up to 1 day
+- **Classes**:
+	- Artificer, Bard, Cleric, Druid, Paladin 
+- **Spell**:
+	- You create an [[Abomination]] which will follow single word commands you direct at it. The [[Abomination]] has 65 (10d8+20) health and deals 1d6 + 3 Bludgeoning + 1d4 Acid Damage on hit.
+- **At Higher Levels**:
+	- When you cast this spell using a spell slot of 3rd level or higher, the [[Abomination]] starts with an additional 13 (2d8+2) health for each level above 2nd.

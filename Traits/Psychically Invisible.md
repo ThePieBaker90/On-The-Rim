@@ -1,0 +1,11 @@
+---
+tags:
+  - Trait
+  - Psychically-Invisible
+---
+- A creature with the Psychically Invisible trait can edit themselves out of the minds of those who perceive them and is therefore invisible to other creatures.
+- This invisibility can be dispelled at will.
+- This invisibility can be spelled with 1 action as long as the creature has not attacked this turn.
+- This invisibility has some conditions:
+	- The creature may not attack while invisible, they must dispel their invisibility before attacking
+	- The invisibility is dispelled if the creature takes damage of any kind or becomes stunned.

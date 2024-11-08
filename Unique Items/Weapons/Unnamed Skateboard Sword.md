@@ -1,0 +1,1 @@
+CLEANUP okay so you can ride your sword like a skateboard, it floats about 4 inches off of the ground and gives a movement buff

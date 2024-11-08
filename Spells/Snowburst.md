@@ -1,0 +1,28 @@
+---
+tags:
+  - Spell
+  - Wizard
+  - Sorcerer
+  - Evocation
+  - 3rd-Level
+---
+- **Spell Type**:
+	- 3rd level evocation.
+- **Casting Time:**
+	- 1 action.
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- V, S, M (TODO).
+- **Duration**:
+	- Instant.
+- **Classes**:
+	- Wizard, Sorcerer.
+- **Spell**:
+	- A wave of ice erupts from the user in a spherical shape. This sphere is centered on the user and has a radius of 20 feet. Every creature within this sphere must make a Dexterity saving throw. A creature takes 8d6 cold damage on a failed save, or half as much damage on a successful one. 
+	- The user and their allies take no damage from the snowburst.
+	- The ice freezes all standing water that isn't being held within the sphere.
+- **At Higher Levels**:
+	- When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 fire for each level above 3rd.

@@ -1,0 +1,6 @@
+---
+tags:
+  - Armor
+  - Item
+  - Clothing
+---

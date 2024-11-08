@@ -1,0 +1,13 @@
+---
+tags:
+  - Material
+  - Item
+---
+- **Weight Per Unit**:
+	- 50 g
+- **Rarity**:
+	- TODO
+- **Uses**:
+	- TODO
+- **Notable Features**:
+	- Extremely Flammable

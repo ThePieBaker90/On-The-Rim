@@ -1,0 +1,49 @@
+---
+tags:
+  - Creature
+  - Abomination
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Ooze
+- **Alignment**:
+	- True Neutral
+- **Armor Class**:
+	- 9
+- **Health**:
+	- 65 (10d8+20)
+- **Speed**:
+	- \\\[#speed]ft
+- **Ability Scores**:
+	- **STR -** 16(+3)*
+	- **DEX -** 8(-1)
+	- **CON -** 15(+2)*
+	- **INT -** 4(-3)
+	- **WIS -** 7(-2)
+	- **CHA -** 6(-2)
+- **Senses**:
+	- Passive Perception: 8
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1
+- **Damage Resistances**:
+	- Acid
+- **Damage Immunities**:
+	- Psychic
+	- Poison
+- **Condition Immunities**:
+	- Poisoned
+	- Bleeding
+	- Toxic Buildup
+- **Actions**:
+	- Slam - 
+		- *Melee Weapon Attack:* +3 to hit, reach 5ft, one target.
+		- *Hit:* 1d6 + 3 Bludgeoning + 1d4 Acid Damage
+	- Head Throw - 
+		- *Ranged Weapon Attack:* -1 to hit, range 5-40-60ft, one target.
+		- *Hit:* 1d6 - 1Bludgeoning + 1d4 Acid Damage
+		- The abomination takes its head and throws it at a target, a new head quickly regrows on it. The abomination takes 1d8 true damage due to the lost mass.
+- **Lore**:
+	- *\[Lore of creature]* TODO

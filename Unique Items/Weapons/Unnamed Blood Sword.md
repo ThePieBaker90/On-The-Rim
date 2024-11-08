@@ -1,0 +1,1 @@
+CLEANUP a sword which grows stronger when absorbing blood.

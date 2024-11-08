@@ -1,0 +1,14 @@
+---
+tags:
+  - Material
+  - Item
+---
+- **Weight Per Unit**:
+	- 0.4 kg
+- **Rarity**:
+	- Extremely Common.
+	- CLEANUP Trees nerd
+- **Uses**:
+	- TODO
+- **Notable Features**:
+	- Flammable

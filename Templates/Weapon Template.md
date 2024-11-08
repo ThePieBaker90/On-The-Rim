@@ -1,0 +1,24 @@
+---
+tags:
+  - Template
+  - Weapon
+---
+- [[Range]]:
+	- \\\[Type of Attack]: \[#range]ft
+- **Target:**
+	- \\\[Target]
+- **Damage**:
+	- \\\[Damage dice & constants] \[Type of damage]
+- [[Rate of Fire]]:
+	- \\\[#rateOfFire]
+- **Properties**:
+	- \\\[Properties]
+	- |(Every property should have its own bullet point)
+- **Value**:
+	- \\\[#value] \[Currency]
+- **Looks**:
+	- \\\[Looks]
+- \\\[\*"**Special:**"]
+	- \\\[\*Special]
+- \\\[\*"**Lore:**"]
+	- *\[\*Lore]*

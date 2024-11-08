@@ -1,0 +1,32 @@
+---
+tags:
+  - Template
+  - Info
+---
+- **Constants are anything outside of brackets.**
+	- **Ex:** Range: = Range:
+- **Anything inside of |() is information on the template.**
+	- **Ex:** |(These are the classes which can cast this spell)
+- **Anything inside of \[] is variable**
+	- **Syntax:** \[var]
+- **#index represents a number which represents the index of choice**
+	- **Syntax:** \[#index]
+- **|! inside of brackets are XOR between 2 or more items**
+	- **Syntax:** \[opt 1|!opt 2|!opt 2|!…] 
+- **|| inside of brackets are OR between 2 or more items**
+	- **Syntax:** \[opt 1||opt 2||opt 3||...]
+- **&& inside of brackets are AND between 2 or more items**
+	- **Syntax:** \[opt 1&&opt 2&&…]
+- **Anything inside of curly brackets is grouped together for logical statements**
+	- **Ex:** \[{#range||#level}&&"things"]
+- **+ inside of brackets ties two or more variables together**
+	- **Syntax:** \[var 1 + var 2 + …]
+- **"" inside of brackets represents a constant**
+	- **Syntax:** \["str 1"]
+- **\* at the start of brackets represents optional inclusion**
+	- **Syntax:** \[\*var]
+	- \\\[\*Thing] is equivalent to \[Thing|!""]
+- **-> inside of brackets represents an IF THEN statement**
+	- **Syntax:** \[condition -> output]
+- **^ inside of brackets represents an ELSE statement**
+	- **Syntax:** \[condition -> out 1 ^ out 2 ]
