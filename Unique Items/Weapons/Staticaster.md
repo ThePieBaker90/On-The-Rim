@@ -1,0 +1,30 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Instrument
+  - Two-Handed
+  - Martial
+  - Guitar
+  - Special
+---
+- [[Range]]:
+	- Ranged: 0-20-40ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d8 Thunder
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Martial
+	- Two-Handed
+	- Special
+- **Value**:
+	- TODO
+- **Looks**:
+	- A black Stratocaster with smears of blood. There is a speaker roughly built into the headstock of the guitar.
+- **Special:**
+	- The user may expend an action to double the speed (up to 30ft) of all allies within 30ft for one turn. 
+- **Lore:**
+	- *Its previous owner shredded himself to death with this, is there anything more metal?*
