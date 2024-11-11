@@ -4,20 +4,19 @@ tags:
   - Item
   - Eltex
   - Clothing
-  - Template
 ---
 - __Type of Armor__:
-	* Clothing
+	- Clothing
 - __Armor Class__:
-	* 10 + DEX
+	- 10 + DEX
 - __Strength Needed To Wear__:
-	* N/A
+	- N/A
 - __Properties__:
-	*[[Eltex]]
+	- [[Eltex]]
 - **Value:**
 	- 120 gp
 - **Looks:**
-	- \\\[Looks]
-- \\\[\*"**Lore:**"]
-	- *\[\*Lore]*
+	- A long teal cloak which shimmers uniquely in light.
+- **Lore:**
+	- TODO
 

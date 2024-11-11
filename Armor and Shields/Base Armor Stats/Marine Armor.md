@@ -2,16 +2,20 @@
 tags:
   - Armor
   - Item
-  - Medium-Armor
+  - Light-Armor
 ---
 * __Type of Armor__:
-	* Medium Armor
+	* Light Armor
 * __Armor Class__:
-	* 15 + Dexterity (Maximum of 2)
+	* 13 + DEX
 * __Strength Needed To Wear__:
-	* 14
-* __Properties__:
-	* N/A
+	* 12
+* **Value:**
+	* 110 gp
+* **Looks:**
+	* TODO
+* **Lore:**
+	* *The empire has entire factories dedicated to making this standard issue marine armor. It protects the user against burns, stabs, and blunt objects with a [[Synthread|synthread]] under armor and a [[Plasteel|plasteel]] over armor.*
 
-*The empire has entire factories dedicated to making this standard issue marine armor. It protects the user against burns, stabs, and blunt objects with [[Synthread|synthread]] under armor and a [[Plasteel|plasteel]] over armor.*
+
 

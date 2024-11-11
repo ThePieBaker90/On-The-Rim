@@ -1,0 +1,24 @@
+---
+tags:
+  - Template
+  - Cybernetic
+---
+- **Install Location:**
+	- \\\[Install location]
+- **Replaces the Part:**
+	- \\\[Yes|!No].
+- **[[Efficiency]]:**
+	- \\\[#efficiency]%
+- **[[Efficiency]] Effects:**
+	- \\\[+|-]\[Skill]
+- **Cost:**
+	- \\\[#value] \[Currency]
+- **[[Cybercost]]:**
+	- \\\[#cybercost]
+- \\\[\***Abilities:**]
+	- CLEANUP
+	- okay so basically the user can select from like 5 modes and these can buff their team's performance, maybe it could also debuff enemies or that could be a different implant.
+- **Looks:**
+	- \\\[Looks]
+- \\\[\***Lore:**]
+	- *\[Lore]*

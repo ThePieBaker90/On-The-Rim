@@ -5,4 +5,17 @@ tags:
   - Overshield
   - Heavy-Armor
 ---
-[[Overshield]]
+- __Type of Armor__:
+	* Heavy Armor
+- __Armor Class__:
+	* 18
+- __Strength Needed To Wear__:
+	* 16
+- __Properties__:
+	* [[Overshield]]
+- **Value:**
+	- 270 gp
+- **Looks:**
+	- TODO
+- **Lore:
+	- TODO
