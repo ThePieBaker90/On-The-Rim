@@ -23,4 +23,4 @@ tags:
 * **Value**:
 	* 90 gp
 * **Looks**:
-	* A stock M61 Vulcan minigun.
+	* A stock M134minigun.

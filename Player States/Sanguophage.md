@@ -29,6 +29,7 @@ Players who are a Sanguophage have the following changes:
 	* [[Mild UV Sensitivity]]
 	* [[Bloodfeeder]]
 	* [[Uncanny Coagulation]]
+	* [[Tinderskin]]
 
 Sanguophages also gain the sanguophage implant action.
 

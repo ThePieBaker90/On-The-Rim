@@ -3,7 +3,7 @@ tags:
   - Cybernetic
   - Brain
   - Psylink
-  - Rouge
+  - Rogue
 ---
 * Install Location:
 	* [[Brain]]
@@ -18,6 +18,6 @@ tags:
 * [[Cybercost]]:
 	* 1
 * Abilities:
-	* Allows the user to cast ranger spells
+	* Allows the user to cast rogue spells
 * Looks:
-		* The user has the rouge symbol on their dominant wrist (black rouge's sigil from Tasha's cauldron (p62))
+		* The user has the rouge symbol on their dominant wrist (black rogue's sigil from Tasha's cauldron (p62))

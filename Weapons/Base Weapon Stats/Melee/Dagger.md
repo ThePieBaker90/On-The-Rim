@@ -11,6 +11,7 @@ tags:
 	* Melee: 5ft
 * __Damage__:
 	* 1d4 + DEX Piercing
+	* 1d4 + DEX Slashing
 * [[Rate of Fire]]:
 	* 1
 * __Properties__:

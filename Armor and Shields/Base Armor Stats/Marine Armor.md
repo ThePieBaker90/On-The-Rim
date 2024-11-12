@@ -7,7 +7,7 @@ tags:
 * __Type of Armor__:
 	* Light Armor
 * __Armor Class__:
-	* 13 + DEX
+	* 12 + DEX
 * __Strength Needed To Wear__:
 	* 12
 * **Value:**

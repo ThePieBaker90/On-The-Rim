@@ -11,7 +11,7 @@ tags:
 * Cost Multiplier:
 	* x2
 * [[Cybercost]] Multiplier:
-	* x2
+	* x4
 * Nonexistent Versions:
 	* Prosthetic
 * Additional Info:
