@@ -10,7 +10,7 @@ tags:
   - Martial
 ---
 * [[Range]]:
-	* Ranged: 5-30-60ft
+	* Ranged: 5-25-50ft
 * __Damage__:
 	* 2d6+DEX piercing
 * [[Rate of Fire]]:

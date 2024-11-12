@@ -18,6 +18,6 @@ tags:
 * [[Cybercost]]:
 	* 1
 * Abilities:
-	* Allows the user to cast barbarian spells
+	* Allows the user to cast barbarian spells and rage
 * Looks:
-	* The user has the bard symbol on their dominant wrist (orange beast keeping coven sigil)
+	* The user has the barbarian symbol on their dominant wrist (orange beast keeping coven sigil)
