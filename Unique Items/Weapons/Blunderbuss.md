@@ -10,21 +10,21 @@ tags:
   - Shotgun
 ---
 - [[Range]]:
-	- Ranged: 15-30-60ft
+	- Ranged: 5-20-40ft
 - **Target:**
 	- One Target
 - **Damage**:
-	- 2d8+DEX piercing
+	- 2d12+DEX piercing
 - [[Rate of Fire]]:
 	- 1
 - **Properties**:
 	- Martial
-	- [[Ammunition]](3)
-	- [[Reload]](Bonus Action, 1)
+	- [[Ammunition]](1)
+	- [[Reload]](Action, Full)
 	- Two-Handed
 - **Value**:
-	- 50 gp
+	- 30 gp
 * **Looks**:
-	* A stock Bekas-M shotgun with a 26" barrel
+	* A blunderbuss
 - **Lore:**
 	- *\[\*Lore]* TODO

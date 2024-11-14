@@ -7,24 +7,25 @@ tags:
   - Reload
   - Two-Handed
   - Martial
-  - Shotgun
+  - Light-Machine-Gun
 ---
 - [[Range]]:
-	- Ranged: 15-30-60ft
+	- Ranged: 5-50-100ft
 - **Target:**
 	- One Target
 - **Damage**:
-	- 2d8+DEX piercing
+	- 1d8+DEX piercing
 - [[Rate of Fire]]:
-	- 1
+	- 3
 - **Properties**:
-	- Martial
-	- [[Ammunition]](3)
-	- [[Reload]](Bonus Action, 1)
-	- Two-Handed
+	* Martial
+	* [[Ammunition]](40)
+	* [[Reload]](Action, Full)
+	* Two-Handed
+	* [[Burst Fire]]
 - **Value**:
 	- 50 gp
 * **Looks**:
-	* A stock Bekas-M shotgun with a 26" barrel
+	* A Colt Model 1921A Thompson with a drum magazine.
 - **Lore:**
 	- *\[\*Lore]* TODO
