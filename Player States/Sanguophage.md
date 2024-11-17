@@ -12,11 +12,8 @@ tags:
 Players who are a Sanguophage have the following changes:
 * Ability Score Increase
 	* +2 to STR score (Max 20)
-	* +4 to DEX score (Max 20)
-	* +2 to CON score (Max 20)
-	* +1 to INT score (Max 20)
-	* +1 to WIS score (Max 20)
-	* +1 to CHA score (Max 20)
+	* +3 to DEX score (Max 20)
+	* +1 to CON score (Max 20)
 * Gain Damage Immunities
 	* Necrotic
 * Gain Damage Vulnerabilities
