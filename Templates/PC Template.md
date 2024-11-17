@@ -7,6 +7,8 @@
 - \[#proficiencyBonus] Proficiency Bonus
 - \[#speed]ft Speed
 - \[#maxHP] Max HP
+- \[\*#spellSave] Spell save DC
+	- \[\*Spell save breakdown]
 ********
 ## Skills
 - **Efficiencies:**
@@ -52,3 +54,8 @@
 ## Drawback:
 \[Detailed drawback effects]
 ********
+## Spells:
+- \[Spell name] - \[Spell Type] - \[Page Reference]
+- |(Every spell should have its own bullet point)
+********
+## References:

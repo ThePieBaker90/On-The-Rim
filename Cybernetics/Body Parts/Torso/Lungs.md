@@ -11,7 +11,7 @@ tags:
 * Cost Multiplier:
 	* x2
 * [[Cybercost]] Multiplier:
-	* x1
+	* x2
 * Nonexistent Versions:
 	* Archotech
 * Additional Info:

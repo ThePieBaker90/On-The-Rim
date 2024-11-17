@@ -8,14 +8,14 @@ tags:
 * Replaces the Part:
 	* Yes.
 * [[Efficiency]]:
-	* 110%
+	* 120%
 * [[Efficiency]] Effects:
 	* +[[Sight-Based Perception]]
 * Cost:
-	* 450gp
+	* 1000gp
 * [[Cybercost]]:
-	* 1.5
+	* 3
 * Abilities:
-	* All ranged attacks made by the user get +1 to hit.
+	* All ranged attacks made by the user get +2 to hit.
 * Looks:
-	* A completely ordinary looking eye but with a orange iris, a white pupil, and red crosshair over the entire eye.
+	* A completely ordinary looking eye but with an orange iris.
