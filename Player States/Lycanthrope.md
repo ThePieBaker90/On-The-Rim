@@ -1,4 +1,5 @@
 ---
 tags:
   - Player-State
+  - Xenotype
 ---

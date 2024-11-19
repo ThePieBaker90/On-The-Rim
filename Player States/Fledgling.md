@@ -4,6 +4,7 @@ tags:
   - Sanguophage
   - Bloodfeeder
   - Mild-UV-Sensitivity
+  - Xenotype
 ---
 Players who are a Fledgling have the following changes:
 * Gain Damage Vulnerabilities
