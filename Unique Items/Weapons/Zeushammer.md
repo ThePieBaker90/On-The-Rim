@@ -13,7 +13,7 @@ tags:
 - **Target:**
 	- One Target
 * __Damage__:
-	* 1d8 + STR bludgeoning + 2d6 lightning
+	* 1d8 + STR bludgeoning + 2d6 electric
 * [[Rate of Fire]]:
 	* 1
 * __Properties__:

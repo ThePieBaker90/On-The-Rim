@@ -1,0 +1,15 @@
+---
+tags:
+  - Material
+  - Item
+  - Blood
+---
+- **Unit Measurement**:
+	- Milliliters (ml)
+- **Rarity**:
+	- Rare
+	- Found in all creatures with the [[Hemogenic]] trait.
+- **Common Uses**:
+	- Needed to use powerful abilities for [[Bruxa|Bruxas]]
+- **Looks:**
+	- Looks like blood but slightly darker and with a purple shine.

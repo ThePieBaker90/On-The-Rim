@@ -8,21 +8,22 @@ tags:
   - Bloodfeeder
   - Tinderskin
   - Sanguofeeder
+  - Uncanny-Coagulation
+  - Blood-Share
+  - Heart-Crush
 ---
-*In the complex tapestry of the universe, the Bruxas emerged as a unique and alluring sub-xenotype of [[Sanguophage]]. Created by an enigmatic archotech entity seeking to weave together beauty and power, the Bruxas were gifted with unparalleled grace and charm. Designed as the ultimate companions to other sanguophages, the Bruxas were engineered with the unique ability to ___ and feed on their blood, bestowing mutual benefits upon both parties.*
+*In the complex tapestry of the universe, the Bruxas emerged as a unique and alluring sub-xenotype of [[Sanguophage]]. Created by an enigmatic archotech entity seeking to weave together beauty and power, the Bruxas were gifted with unparalleled grace and charm. Designed as the ultimate companions to other [[Sanguophage|Sanguophages]], the Bruxas were engineered with the unique ability to share blood and feed on [[Sanguophage Blood]], bestowing mutual benefits upon both parties.*
 
-TODO
+TODO stats and additional traits
 
 Bruxas are a sub-xenotype of [[Sanguophage]]
 
 Players who are a Sanguophage have the following changes:
 * Ability Score Increase
-	* +1 to STR score (Max 20)
-	* +1 to DEX score (Max 20)
-	* +1 to CON score (Max 20)
-	* +1 to INT score (Max 20)
-	* +1 to WIS score (Max 20)
-	* +1 to CHA score (Max 20)
+	* -1 to STR score (Min 1)
+	* +2 to INT score (Max 20)
+	* +2 to WIS score (Max 20)
+	* +3 to CHA score (Max 20)
 * Gain Damage Vulnerabilities
 	* Fire
 	* Radiant
@@ -34,6 +35,9 @@ Players who are a Sanguophage have the following changes:
 		* [[Tinderskin]]
 	* Sub-Xenotype Specific Traits:
 		* [[Sanguofeeder]]
+		* [[Uncanny Coagulation]]
+		* [[Blood Share]]
+		* [[Heart Crush]]
 
 
 Bruxas also gain the sanguophage implant action.
