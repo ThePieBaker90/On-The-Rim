@@ -20,5 +20,6 @@ tags:
 * Abilities:
 	* Allows the user to cast artificer spells
 * Looks:
-	* The user has the artificer symbol on their dominant wrist (yellow potions coven sigil)
+	* The user has the artificer symbol on their dominant wrist
+	* ![[ArtificerSymbol.png]]
 
