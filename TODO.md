@@ -1,0 +1,1 @@
+Magic radiation. i.e. Metaphor Re Fantazio

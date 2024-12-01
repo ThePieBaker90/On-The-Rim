@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Nose
   - Body-Part
+  - Sensory-Part
 ---
 * Necessary to live:
 	* No.

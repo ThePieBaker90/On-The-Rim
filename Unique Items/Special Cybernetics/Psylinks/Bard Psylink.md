@@ -20,4 +20,5 @@ tags:
 * Abilities:
 	* Allows the user to cast bard spells
 * Looks:
-	* The user has the bard symbol on their dominant wrist (maroon bard coven sigil)
+	* The user has the bard symbol on their dominant wrist 
+	![[bardsymbol.png]]

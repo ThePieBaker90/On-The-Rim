@@ -35,15 +35,16 @@ tags:
 	- Poison
 - **Condition Immunities**:
 	- Poisoned
-	- Bleeding
-	- Toxic Buildup
+	- [[Bleeding]]
+	- [[Toxic Buildup]]
+	- [[Acid Burned]]
 - **Actions**:
 	- Slam - 
 		- *Melee Weapon Attack:* +3 to hit, reach 5ft, one target.
-		- *Hit:* 1d6 + 3 Bludgeoning + 1d4 Acid Damage
+		- *Hit:* 1d10 + 3 Bludgeoning Damage
 	- Head Throw - 
 		- *Ranged Weapon Attack:* -1 to hit, range 5-40-60ft, one target.
-		- *Hit:* 1d6 - 1Bludgeoning + 1d4 Acid Damage
+		- *Hit:* 1d10 - 1 Bludgeoning Damage
 		- The abomination takes its head and throws it at a target, a new head quickly regrows on it. The abomination takes 1d8 true damage due to the lost mass.
 - **Lore**:
 	- *\[Lore of creature]* TODO

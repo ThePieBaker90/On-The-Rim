@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Jaw
   - Body-Part
+  - Sensory-Part
 ---
 * Necessary to live:
 	* No.

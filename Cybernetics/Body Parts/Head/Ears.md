@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Ears
   - Body-Part
+  - Sensory-Part
 ---
 * Necessary to live:
 	* No.

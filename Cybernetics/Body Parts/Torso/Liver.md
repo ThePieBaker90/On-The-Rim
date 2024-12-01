@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Liver
   - Body-Part
+  - Internal-Part
 ---
 * Necessary to live:
 	* Yes.

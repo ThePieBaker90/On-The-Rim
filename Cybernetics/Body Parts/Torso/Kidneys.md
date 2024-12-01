@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Kidneys
   - Body-Part
+  - Internal-Part
 ---
 * Necessary to live:
 	* Only One.

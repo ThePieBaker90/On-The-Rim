@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Heart
   - Body-Part
+  - Internal-Part
 ---
 * Necessary to live:
 	* Yes.

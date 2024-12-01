@@ -26,7 +26,7 @@ tags:
 	- Artificer, Bard, Cleric, Druid, Paladin
 - **Spell**:
 	- You create two massive arms out of [[Abomination Matter]], these arms cover another creature's natural arms and enhance their strength. While active, their [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5), they may wield heavy weapons if not already able to, and they may make a melee weapon attack with the abomination arms.
-	- Attacking with the abomination arms is a melee attack with a range of 15ft. It deals 1d12 + 2 acid + STR + DEX bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
+	- Attacking with the abomination arms is a melee attack with a range of 15ft. It deals 1d12 + 2  + STR bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
 	- The abomination arms may hold weapons to increase that weapon's melee range to 15ft.
 - **At Higher Levels**:
 	- When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 acid for each level above 4th.

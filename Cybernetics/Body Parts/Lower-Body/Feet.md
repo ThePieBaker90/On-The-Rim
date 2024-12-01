@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Feet
   - Body-Part
+  - Limb
 ---
 * Necessary to live:
 	* No.

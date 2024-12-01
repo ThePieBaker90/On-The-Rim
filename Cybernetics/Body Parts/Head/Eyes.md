@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Eyes
   - Body-Part
+  - Sensory-Part
 ---
 * Necessary to live:
 	* No.

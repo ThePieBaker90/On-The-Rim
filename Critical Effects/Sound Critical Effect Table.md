@@ -23,3 +23,4 @@ tags:
 | 18  |           |
 | 19  |           |
 | 20  |           |
+Removing senses such as sight and sound?

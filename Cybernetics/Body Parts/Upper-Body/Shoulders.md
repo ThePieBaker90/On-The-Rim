@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Arms
   - Body-Part
+  - Limb
 ---
 * Necessary to live:
 	* No.

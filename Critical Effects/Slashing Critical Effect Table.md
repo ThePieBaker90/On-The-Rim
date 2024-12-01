@@ -23,3 +23,5 @@ tags:
 | 18  |           |
 | 19  |           |
 | 20  |           |
+Bleed, lots of bleed
+Lop off a limb

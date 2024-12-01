@@ -13,7 +13,5 @@ The corresponding damage effect table is determined by the damage type the attac
 | 2        | Biggest Dice |
 | 3        | Listed First |
 
-
-
-
+TODO consider multiple rolls for high damage attacks
 

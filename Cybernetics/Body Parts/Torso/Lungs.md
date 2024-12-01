@@ -3,6 +3,7 @@ tags:
   - Cybernetic
   - Lungs
   - Body-Part
+  - Internal-Part
 ---
 * Necessary to live:
 	* Only One.

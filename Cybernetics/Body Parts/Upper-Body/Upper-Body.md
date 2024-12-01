@@ -20,3 +20,5 @@ Total efficiency is calculated by taking an unweighted average between all upper
 
 * We then take 740% and divide it by 6 to find the average, which gives us an overall upper-body efficiency of 123.33% which affects [[Upper-Body Strength and Dexterity]].
 * This only affects Upper-Body Strength and Dexterity, if an upper-body part affects a different skill, that skill's efficiency bonus is calculated like a normal cybernetic's efficiency bonus.
+
+Occasionally a character may lose a finger or two, each finger is counted as 1/5 of their corresponding hand's efficiency. Cybernetic fingers may not be separately installed outside of special circumstances.

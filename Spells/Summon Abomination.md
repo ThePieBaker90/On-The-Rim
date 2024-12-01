@@ -25,6 +25,6 @@ tags:
 - **Classes**:
 	- Artificer, Bard, Cleric, Druid, Paladin 
 - **Spell**:
-	- You create an [[Abomination]] which will follow single word commands you direct at it. The [[Abomination]] has 65 (10d8+20) health and deals 1d6 + 3 Bludgeoning + 1d4 Acid Damage on hit.
+	- You create an [[Abomination]] which will follow single word commands you direct at it. The [[Abomination]] has 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning on hit.
 - **At Higher Levels**:
 	- When you cast this spell using a spell slot of 3rd level or higher, the [[Abomination]] starts with an additional 13 (2d8+2) health for each level above 2nd.
