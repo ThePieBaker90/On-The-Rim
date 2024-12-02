@@ -13,7 +13,7 @@ tags:
 * [[Efficiency]] Effects:
 	* +[[Upper-Body Strength and Dexterity]]*
 * Cost:
-	* 900gp
+	* 900 credits
 * [[Cybercost]]:
 	* 2
 * Abilities:

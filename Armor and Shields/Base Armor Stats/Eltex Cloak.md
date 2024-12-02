@@ -14,7 +14,7 @@ tags:
 - __Properties__:
 	- [[Eltex]]
 - **Value:**
-	- 120 gp
+	- 120 credits
 - **Looks:**
 	- A long teal cloak which shimmers uniquely in light.
 - **Lore:**

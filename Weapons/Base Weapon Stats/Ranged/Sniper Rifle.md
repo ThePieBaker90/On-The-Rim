@@ -23,6 +23,6 @@ tags:
 	* Two-Handed
 	* Heavy
 * **Value**:
-	* 70 gp
+	* 70 credits
 * **Looks**:
 	* A stock AWM sniper rifle.

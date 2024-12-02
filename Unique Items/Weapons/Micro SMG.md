@@ -18,6 +18,6 @@ tags:
 	* One-Handed
 	* [[Burst Fire]]
 - **Value**:
-	- 55 gp
+	- 55 credits
 - **Looks**:
 	- CLEANUP a single one of the dual micro smgs from fortnite.

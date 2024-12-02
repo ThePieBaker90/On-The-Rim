@@ -14,7 +14,7 @@ tags:
 - __Properties__:
 	* [[Overshield]]
 - **Value:**
-	- 270 gp
+	- 270 credits
 - **Looks:**
 	- TODO
 - **Lore:

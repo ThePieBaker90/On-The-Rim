@@ -21,6 +21,6 @@ tags:
 	* [[Reload]](Bonus Action, 1)
 	* Two-Handed
 * **Value**:
-	* 50 gp
+	* 50 credits
 * **Looks**:
 	* A stock Remington 870 shotgun.

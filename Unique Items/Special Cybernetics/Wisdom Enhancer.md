@@ -12,7 +12,7 @@ tags:
 * [[Efficiency]] Effects:
 	* +Wisdom
 * Cost:
-	* 900gp
+	* 900 credits
 * [[Cybercost]]:
 	* 2
 * Looks:

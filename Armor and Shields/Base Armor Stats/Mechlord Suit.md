@@ -14,7 +14,7 @@ tags:
 - __Properties__:
 	* [[Mechlord]]
 - **Value:**
-	- 400 gp
+	- 400 credits
 - **Looks:**
 	- TODO
 - **Lore:**

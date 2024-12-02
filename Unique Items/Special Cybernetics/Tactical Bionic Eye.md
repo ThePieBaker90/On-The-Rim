@@ -12,7 +12,7 @@ tags:
 * [[Efficiency]] Effects:
 	* +[[Sight-Based Perception]]
 * Cost:
-	* 450gp
+	* 450 credits
 * [[Cybercost]]:
 	* 1.5
 * Abilities:

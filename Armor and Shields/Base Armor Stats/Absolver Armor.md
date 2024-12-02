@@ -14,7 +14,7 @@ tags:
 - __Properties__:
 	* [[Eltex]]
 - **Value:**
-	- 240 gp
+	- 240 credits
 - **Looks:**
 	- TODO
 - **Lore:

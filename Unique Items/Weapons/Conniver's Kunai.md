@@ -27,7 +27,7 @@ tags:
 	* [[Stealth]]
 	* Special
 * **Value**:
-	* 225 gp
+	* 225 credits
 * **Looks**:
 	* It is a Japanese kunai dagger with a cloth-bound handle that ends in a ring.
 * **Special**:

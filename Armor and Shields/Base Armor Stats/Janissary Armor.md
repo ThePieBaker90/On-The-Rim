@@ -11,7 +11,7 @@ tags:
 - __Strength Needed To Wear__:
 	* 17
 - **Value:**
-	- 270 gp
+	- 270 credits
 - **Looks:**
 	- TODO
 - **Lore:

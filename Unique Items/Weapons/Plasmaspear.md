@@ -25,7 +25,7 @@ tags:
 	* Thrown(10-30-60ft)
 	* Special
 * **Value**:
-	* 300 gp
+	* 300 credits
 * **Looks**:
 	* A metal-cored spear with a cutting edge. Plasma is wrapped around the core, held in place by an energy field.
 * **Special**:

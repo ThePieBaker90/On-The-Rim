@@ -23,6 +23,6 @@ tags:
 	* Two-Handed
 	* Heavy
 * **Value**:
-	* 50 gp
+	* 50 credits
 * **Looks**:
 	* A mostly stock M14 marksman rifle with an added scope.

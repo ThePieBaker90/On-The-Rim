@@ -14,7 +14,7 @@ tags:
 * __Properties__:
 	* [[Recon]]
 * **Value:**
-	* 110 gp
+	* 110 credits
 * **Looks:**
 	* TODO
 * **Lore:**

@@ -23,7 +23,7 @@ tags:
 	* Lacerating(4,Melee hit on target with broken armor or no armor)
 	* Special
 * **Value**:
-	* 300 gp
+	* 300 credits
 * **Looks**:
 	* It is a crystal-metallic longsword infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease.
 * **Special**:

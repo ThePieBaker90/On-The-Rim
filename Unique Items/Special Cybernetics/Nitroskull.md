@@ -12,7 +12,7 @@ tags:
 * [[Efficiency]] Effects:
 	* +Intimidation, -Persuasion.
 * Cost:
-	* 500gp
+	* 500 credits
 * [[Cybercost]]:
 	* 4
 * Abilities:

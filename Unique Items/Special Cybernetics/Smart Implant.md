@@ -12,7 +12,7 @@ tags:
 * [[Efficiency]] Effects:
 	* None.
 * Cost:
-	* 200gp
+	* 200 credits
 * [[Cybercost]]:
 	* 0.5
 * Abilities:

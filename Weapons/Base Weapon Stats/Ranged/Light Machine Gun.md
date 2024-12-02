@@ -25,6 +25,6 @@ tags:
 	* Heavy
 	* [[Burst Fire]]
 * **Value**:
-	* 70 gp
+	* 70 credits
 * **Looks**:
 	* A stock M249 SAW light machine gun.

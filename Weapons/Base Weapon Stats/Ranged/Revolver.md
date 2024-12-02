@@ -23,6 +23,6 @@ tags:
 	* One-Handed
 	* Light
 * **Value**:
-	* 25 gp
+	* 25 credits
 * **Looks**:
 	* A stock Chiappa Rhino 50DS revolver.

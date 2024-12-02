@@ -11,7 +11,7 @@ tags:
 - __Properties__:
 	* [[Armor and Shields/Properties/Shield Belt|Shield Belt]]
 - **Value:**
-	- 110 gp
+	- 110 credits
 - **Looks:**
 	- TODO
 - **Lore:

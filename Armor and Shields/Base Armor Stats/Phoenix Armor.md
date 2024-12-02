@@ -14,7 +14,7 @@ tags:
 - __Properties__:
 	* [[Shooter]](Flame)
 - **Value:**
-	- 170 gp
+	- 170 credits
 - **Looks:**
 	- TODO
 - **Lore:

@@ -21,7 +21,7 @@ tags:
 	* Versatile(1d10)
 	* Special
 * **Value**:
-	* 300 gp
+	* 300 credits
 * **Looks**:
 	* It is a longsword with a cobalt blue blade with no imperfections. The handle is made of white painted plasteel.
 * **Special**:

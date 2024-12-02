@@ -14,10 +14,10 @@ tags:
 * [[Efficiency]] Effects:
 	- None.
 * Cost:
-	* 1000gp
+	* 1000 credits
 * [[Cybercost]]:
 	* 1
 * Abilities:
 	* Allows the user to cast rogue spells
 * Looks:
-		* The user has the rouge symbol on their dominant wrist (black rogue's sigil from Tasha's cauldron (p62)) (or maybe black illusionist?)
+		* The user has the rouge symbol on their dominant wrist (dark grey rogue's sigil from Tasha's cauldron (p62)) (or maybe black illusionist?)

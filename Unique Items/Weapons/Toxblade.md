@@ -25,7 +25,7 @@ tags:
 	* Thrown(5-20-40ft)
 	* Special
 * **Value**:
-	* 150 gp
+	* 150 credits
 * **Looks**:
 	* A knife with a light green blade which smells like death, the handle is black with a straight grip. 
 * **Special**:

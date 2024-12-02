@@ -14,7 +14,7 @@ tags:
 - __Properties__:
 	* [[Armor and Shields/Properties/Jump Pack|Jump Pack]]
 - **Value:**
-	- 110 gp
+	- 110 credits
 - **Looks:**
 	- TODO
 - **Lore:

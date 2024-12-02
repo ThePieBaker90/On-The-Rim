@@ -25,7 +25,7 @@ tags:
 	- Two-Handed
 	- Special
 - **Value**:
-	- 350 gp
+	- 350 credits
 * **Looks**:
 	* A sawed off Remington 870 shotgun with bloodstains around the muzzle. There is a small engraving of a poker chip on the right side of the stock. You can feel a faint psychic presence from within.
 * **Special:**

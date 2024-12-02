@@ -23,7 +23,7 @@ tags:
 	- [[Reload]](Action, Full)
 	- Two-Handed
 - **Value**:
-	- 30 gp
+	- 30 credits
 * **Looks**:
 	* A blunderbuss
 - **Lore:**

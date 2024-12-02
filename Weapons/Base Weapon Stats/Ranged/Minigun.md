@@ -21,6 +21,6 @@ tags:
 	* Two-Handed
 	* [[Burst Fire]]
 * **Value**:
-	* 90 gp
+	* 90 credits
 * **Looks**:
 	* A stock M134minigun.

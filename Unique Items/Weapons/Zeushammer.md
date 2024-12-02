@@ -21,7 +21,7 @@ tags:
 	* Two-Handed
 	* Heavy
 * **Value**:
-	* 300 gp
+	* 300 credits
 * **Looks**:
 	* A Warhammer with an embedded EMP capacitor. Upon impact, it blasts the target with an EMP burst.
 - **Lore:**

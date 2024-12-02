@@ -23,6 +23,6 @@ tags:
 	* One-Handed
 	* Light
 * **Value**:
-	* 20 gp
+	* 20 credits
 * **Looks**:
 	* A standard flare gun with an orange painted barrel.

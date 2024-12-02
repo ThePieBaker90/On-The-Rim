@@ -17,6 +17,6 @@ tags:
 	* Simple
 	* One-Handed
 * **Value**:
-	* 5 gp
+	* 5 credits
 * **Looks**:
 	* A modern red wrench.

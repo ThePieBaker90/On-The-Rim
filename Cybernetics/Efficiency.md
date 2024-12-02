@@ -12,15 +12,15 @@ For ability scores, such as dexterity, you take the score itself and multiply it
 
 Below is a table of each type of cybernetic, its cost, its efficiency, and its [[Cybercost]]:
 
-| Name            | Base Cost | Efficiency | Base Cybercost |
-| --------------- | --------- | ---------- | -------------- |
-| Missing         | N/A       | 0%         | 0              |
-| Prosthetic      | 100gp     | 90%        | 0              |
-| Natural         | 1000gp    | 100%       | 0              |
-| Bionic          | 500gp     | 110%       | 1              |
-| Advanced Bionic | 900gp     | 120%       | 2              |
-| Archotech       | 2000gp    | 150%       | 4              |
-| Special         | Dependent | Dependent  | Dependent      |
+| Name            | Base Cost    | Efficiency | Base Cybercost |
+| --------------- | ------------ | ---------- | -------------- |
+| Missing         | N/A          | 0%         | 0              |
+| Prosthetic      | 100 credits  | 90%        | 0              |
+| Natural         | 1000 credits | 100%       | 0              |
+| Bionic          | 500 credits  | 110%       | 1              |
+| Advanced Bionic | 900 credits  | 120%       | 2              |
+| Archotech       | 2000 credits | 150%       | 4              |
+| Special         | Dependent    | Dependent  | Dependent      |
 Additionally, all skills/ability scores which are affected by an implant's efficiency have a modifier which affect the change to the skill from efficiency. To find the result, simply take the increase/decrease the skill/ability score receives from efficiency and multiply it by the corresponding multiplier. That is the new increase/decrease the skill/ability score receives. 
 
 | Thing | Effect on Ability Score Boost/Stat Boost |

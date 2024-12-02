@@ -23,7 +23,7 @@ tags:
 	* Two-Handed
 	* [[Burst Fire]]
 * **Value**:
-	* 50 gp
+	* 50 credits
 * **Looks**:
 	* A stock M16 assault rifle.
 

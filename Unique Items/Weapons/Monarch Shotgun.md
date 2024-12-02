@@ -23,7 +23,7 @@ tags:
 	- [[Reload]](Bonus Action, 1)
 	- Two-Handed
 - **Value**:
-	- 50 gp
+	- 50 credits
 * **Looks**:
 	* A stock Bekas-M shotgun with a 26" barrel
 - **Lore:**

@@ -23,9 +23,9 @@ tags:
 	* Two-Handed
 	* Special
 * **Value**:
-	* 300 gp
+	* 300 credits
 * **Looks**:
-	* It is a longsword with a cobalt blue blade with no imperfections. The handle is made of white painted plasteel.
+	* It is a longsword with a cobalt blue blade with no imperfections. The handle is made of white painted [[Plasteel]].
 * **Special**:
 	* The user may dip this weapon in nearby water granting the user +4 to hit and to +4 damage with this weapon for the next turn.
 - **Lore:**

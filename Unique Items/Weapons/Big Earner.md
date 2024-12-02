@@ -24,7 +24,7 @@ tags:
 	* Light
 	* [[Stealth]]
 * **Value**:
-	* 250 gp
+	* 250 credits
 * **Looks**:
 	* It is a broken Italian stiletto switchblade left permanently unsheathed. Three small bands of blood-stained tape are wrapped near the base of the blade.
 * **Special:**
