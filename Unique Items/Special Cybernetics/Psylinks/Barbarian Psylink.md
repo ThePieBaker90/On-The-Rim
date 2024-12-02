@@ -20,4 +20,5 @@ tags:
 * Abilities:
 	* Allows the user to cast barbarian spells and rage
 * Looks:
-	* The user has the barbarian symbol on their dominant wrist (orange beast keeping coven sigil)
+	* The user has the barbarian symbol on their dominant wrist
+	![[BarbarianSymbol.png]]

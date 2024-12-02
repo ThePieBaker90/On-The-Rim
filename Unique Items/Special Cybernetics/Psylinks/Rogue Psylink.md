@@ -20,4 +20,4 @@ tags:
 * Abilities:
 	* Allows the user to cast rogue spells
 * Looks:
-		* The user has the rouge symbol on their dominant wrist (black rogue's sigil from Tasha's cauldron (p62))
+		* The user has the rouge symbol on their dominant wrist (black rogue's sigil from Tasha's cauldron (p62)) (or maybe black illusionist?)

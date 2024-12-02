@@ -20,4 +20,5 @@ tags:
 * Abilities:
 	* Allows the user to cast cleric spells
 * Looks:
-	* The user has the cleric symbol on their dominant wrist (light blue healing coven sigil)
+	* The user has the cleric symbol on their dominant wrist
+	![[ClericSymbol.png]]
