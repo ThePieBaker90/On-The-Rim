@@ -8,12 +8,12 @@ tags:
 * Replaces the Part:
 	* No.
 * [[Efficiency]]:
-	* 110%
+	* 120%
 * [[Efficiency]] Effects:
 	* +Intelligence
 * Cost:
-	* 400 credits
+	* 900 credits
 * [[Cybercost]]:
-	* 1
+	* 2
 * Looks:
-	* A small computer which attaches to the user’s brain to assist them with intellectual tasks.
+	* A small quantum computer which attaches to the user’s brain to assist them with intellectual tasks.

@@ -8,12 +8,12 @@ tags:
 * Replaces the Part:
 	* No.
 * [[Efficiency]]:
-	* 120%
+	* 110%
 * [[Efficiency]] Effects:
 	* +Wisdom
 * Cost:
-	* 900 credits
+	* 400 credits
 * [[Cybercost]]:
-	* 2
+	* 1
 * Looks:
-	* A small archival computer which attaches to the user’s brain which allows the user to recall stored information to assist with decision making.
+	* A small archival computer which attaches to the user’s brain which allows the user to recall stored information quickly and assists with decision making.

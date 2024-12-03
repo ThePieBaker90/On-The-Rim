@@ -9,10 +9,11 @@ tags:
 	* No.
 * [[Efficiency]] Effects:
 	* +[[Scent-Based Perception]]
+	* +Charisma
 * Cost Multiplier:
-	* x0.75
+	* x1.1
 * [[Cybercost]] Multiplier:
-	* x0.5
+	* x1
 * Nonexistent Versions:
 	* None.
 * Additional Info:
