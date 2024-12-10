@@ -4,21 +4,21 @@ tags:
   - Weapon
 ---
 - [[Range]]:
-	- \\\[Type of Attack]: \[#range]ft
+	- {{Type of Attack}}: {{#range}}ft
 - **Target:**
-	- \\\[Target]
+	- {{Target}}
 - **Damage**:
-	- \\\[Damage dice & constants] \[Type of damage]
+	- {{Damage dice & constants}} {{Type of damage}}
 - [[Rate of Fire]]:
-	- \\\[#rateOfFire]
+	- {{#rateOfFire}}
 - **Properties**:
-	- \\\[Properties]
+	- {{Properties}}
 	- |(Every property should have its own bullet point)
 - **Value**:
-	- \\\[#value] \[Currency]
+	- {{#value}} credits
 - **Looks**:
-	- \\\[Looks]
-- \\\[\*"**Special:**"]
-	- \\\[\*Special]
-- \\\[\*"**Lore:**"]
-	- *\[\*Lore]*
+	- {{Looks}}
+- **Special:**
+	- {{\*Special}}
+- {{**Lore:**}}
+	- *{{\*Lore}}*

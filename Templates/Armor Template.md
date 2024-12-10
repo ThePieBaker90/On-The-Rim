@@ -1,23 +1,22 @@
 ---
 tags:
-  - Template
   - Armor
 ---
 - __Type of Armor__:
-	* \\\[Armor Type]
+	* {{Armor Type}}
 - __Armor Class__:
-	* \\\[#armorClass] \[\*"+ " + Relevant Skill]
+	* {{#armorClass}} \[\*"+ " + Relevant Skill}}
 - __Strength Needed To Wear__:
-	* \\\[#strNeeded]
+	* {{#strNeeded}}
 - __Properties__:
-	* \\\[Properties]
+	* {{Properties}}
 	* |(Every property should have its own bullet point)
 - **Value:**
-	- \\\[#value] \[Currency]
+	- {{#value}} credits
 - **Looks:**
-	- \\\[Looks]
-- \\\[\*"**Special:**"]
-	- \\\[\*Special]
-- \\\[\*"**Lore:**"]
-	- *\[\*Lore]*
+	- {{Looks}}
+- **Special:**
+	- {{\*Special}}
+- *Lore:**
+	- *{{\*Lore}}*
 

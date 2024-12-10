@@ -17,3 +17,5 @@ tags:
 - **Lore:
 	- TODO
 
+Disadvantage on stealth checks.
+

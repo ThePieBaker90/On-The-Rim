@@ -6,6 +6,8 @@ Efficiency affects the user of the implants stats and can either benefit or hind
 
 Efficiency is represented as a percent with no upper cap and a lower cap of 0%. All basic [[Cybernetics]] (along with some special cybernetics) will have a skill/ability score associated with them. That cybernetic's efficiency will affect that skill/ability score. 
 
+Efficiency is multiplicative. This is important for when 2 or more cybernetics affect a skill or ability score.
+
 For skills, such as [[Sight-Based Perception]], you take the ability score that affects it, wisdom in our case, and multiply the score by the efficiency.  The result will be the ability score which is used to determine the skill bonus. If the ability score is in between numbers, round to the nearest number. Additionally this ability score is not limited to 20.
 
 For ability scores, such as dexterity, you take the score itself and multiply it by the efficiency. Then you update all skills which rely on that ability score, sleight of hand and stealth in our case. The resulting ability score may exceed 20 (unlike other ability score buffs). Additionally, if the resulting ability score is between a number, round to the nearest number.

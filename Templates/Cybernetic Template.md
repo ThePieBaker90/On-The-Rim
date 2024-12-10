@@ -1,24 +1,23 @@
 ---
 tags:
-  - Template
   - Cybernetic
 ---
 - **Install Location:**
-	- \\\[Install location]
+	- {{Install location}}
 - **Replaces the Part:**
-	- \\\[Yes|!No].
+	- {{Yes|!No}}.
 - **[[Efficiency]]:**
-	- \\\[#efficiency]%
+	- {{#efficiency}}%
 - **[[Efficiency]] Effects:**
-	- \\\[+|-]\[Skill]
+	- {{+|-}}{{Skill}}
 - **Cost:**
-	- \\\[#value] \[Currency]
+	- {{#value}} credits
 - **[[Cybercost]]:**
-	- \\\[#cybercost]
-- \\\[\***Abilities:**]
-	- \\\[\*Abilities]
+	- {{#cybercost}}
+- **Abilities:**
+	- {{\*Abilities}}
 	- |(Every ability should have its own bullet point)
 - **Looks:**
-	- \\\[Looks]
-- \\\[\***Lore:**]
-	- *\[Lore]*
+	- {{Looks}}
+- **Lore:**
+	- *{{\*Lore}}*

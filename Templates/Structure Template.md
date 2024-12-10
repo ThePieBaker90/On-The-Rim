@@ -4,26 +4,26 @@ tags:
   - Structure
 ---
 - **Size**:
-	- \\\[Size of structure]
+	- {{Size of structure}}
 - **Type**:
 	- Structure
 - **Armor Class**:
 	- 0
 - **Health**:
-	- \\\[#healthPoints] (\[hit dice])
+	- {{#healthPoints}} ({{hit dice}})
 - **Challenge**:
-	- \\\[#challengeRating]
-- \\\[\***Damage Vulnerabilities**:]
-	- \\\[\*Vulnerabilities of structure]
-- \\\[\***Damage Resistances**:]
-	- \\\[\*Resistances of structure]
-- \\\[\***Damage Immunities**:]
-	- \\\[\*Immunities of structure]
+	- {{#challengeRating}}
+- **Damage Vulnerabilities**:
+	- {{\*Vulnerabilities of structure}}
+- **Damage Resistances**:
+	- {{\*Resistances of structure}}
+- **Damage Immunities**:
+	- {{\*Immunities of structure}}
 - **Traits**:
-	- \\\[Traits]
+	- {{Traits}}
 	- |(Every trait should have its own bullet point)
 - **Lore**:
-	- *\[Lore of structure]*
+	- *{{Lore of structure}}*
 - **Anomaly**:
-	- \\\[Anomalous Traits]
+	- {{Anomalous Traits}}
 	- |(Anomalous traits are traits which are unique to this creature and will never be put on another creature)

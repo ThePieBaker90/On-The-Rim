@@ -15,5 +15,5 @@ tags:
 * Gods and Goddesses are created by their believers and gain powers from their believers. Every religion has an ideology which can be fluid or rigid. When all followers of an ideology are killed or converted the god ceases to exist. Not every ideology has a deity. Some ideologies have holy relics that are sought after for their ideological significance or technological significance. All ideologies have memes which are described in the memes section.
 * New Proficiencies: Pistols, Assault Rifles, Submachine Guns, Sniper Rifles, Shotguns, Launchers, Marksman Rifles, Jump Packs, Shield Packs.
 * Lightning Damage is now Electric Damage.
-* Thunder Damage is now Sound Damage.
+* Thunder Damage is now Sonic Damage.
 * Currency is in the form of credits. Credits are a virtual currency and do not take up physical space.

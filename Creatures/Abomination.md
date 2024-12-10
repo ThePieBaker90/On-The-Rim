@@ -14,7 +14,7 @@ tags:
 - **Health**:
 	- 65 (10d8+20)
 - **Speed**:
-	- \\\[#speed]ft
+	- 25ft
 - **Ability Scores**:
 	- **STR -** 16(+3)*
 	- **DEX -** 8(-1)
@@ -39,12 +39,12 @@ tags:
 	- [[Toxic Buildup]]
 	- [[Acid Burned]]
 - **Actions**:
-	- Slam - 
+	- Slam - 1 Action
 		- *Melee Weapon Attack:* +3 to hit, reach 5ft, one target.
 		- *Hit:* 1d10 + 3 Bludgeoning Damage
-	- Head Throw - 
+	- Head Throw - 1 Action
 		- *Ranged Weapon Attack:* -1 to hit, range 5-40-60ft, one target.
 		- *Hit:* 1d10 - 1 Bludgeoning Damage
 		- The abomination takes its head and throws it at a target, a new head quickly regrows on it. The abomination takes 1d8 true damage due to the lost mass.
 - **Lore**:
-	- *\[Lore of creature]* TODO
+	- *Abominations are golem-like semi-sentient creatures typically made from [[Abomination Matter]]. They will mindlessly take commands from their creator although wild abominations do have a tendency to rebel. Although abominations easily fall apart they can easily reform themselves making them useful for dangerous tasks*

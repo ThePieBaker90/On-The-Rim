@@ -5,19 +5,17 @@ tags:
 - **Spell Type**:
 	- \\\[\#levelRequired + Ordinal Indicator] level \[Spell Type]
 - **Casting Time**:
-	- \\\[\#actionNeeded] \["Action"|!"Bonus Action"|!"Reaction"]
+	- \\\[\#actionNeeded] Action
 - [[Range]]:
-	- \\\[\#range + "ft"|!"Self"|!"Touch"]
+	- range ft
 - **Target**:
-	- \\\["Surface"|!"Friendly Creature"|!"Hostile Creature"|!"Self"]
+	- Hostile Creature
 - **Components**:
-	- \\\["V "||"S "||"M (" + Materials Needed +")"]
-	- (Add commas between components if multiple components are listed)
+	- S, M (3kg of [[Abomination Matter]])
 - **Duration**:
-	- \\\["Instant"|!"Concentration, up to " + \#time + measurement of time|!\#time + measurement of time]
+	- Instant
 - **Classes**:
-	- \\\["Artificer "||"Bard "||"Cleric "||"Druid "||"Paladin "||"Ranger "||"Sorcerer "||Warlock "||"Wizard "]
-	- (Add commas between classes if multiple classes are listed.)
+	- Artificer, Bard, Cleric, Druid, Paladin
 - **Spell**:
 	- \\\[Spell Effects]
 - **At Higher Levels**:

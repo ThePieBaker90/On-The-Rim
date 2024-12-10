@@ -1,13 +1,12 @@
 ---
 tags:
-  - Template
   - Phenomena
 ---
 - **Type**:
 	- Phenomena
 - **Challenge:**
-	- \\\[#challengeRating]
+	- {{#challengeRating}}
 - **Lore**:
-	- *\[Lore of phenomena]*
+	- *{{Lore of phenomena}}*
 - **Anomaly**:
-	- \\\[Effects of the phenomena]
+	- {{Effects of the phenomena}}
