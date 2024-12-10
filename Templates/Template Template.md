@@ -1,6 +1,5 @@
 ---
 tags:
-  - Template
   - Info
 ---
 - **Constants are anything outside of brackets.**
