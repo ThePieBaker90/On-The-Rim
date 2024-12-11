@@ -2,16 +2,16 @@
 tags:
   - Spell
   - Abomination
-  - Transmutation
   - Artificer
   - Bard
   - Cleric
   - Druid
   - Paladin
   - 4th-Level
+  - Conjuration
 ---
 - **Spell Type**:
-	- 4th level transmutation 
+	- 4th level Conjuration 
 - **Casting Time**:
 	- 1 Action
 - [[Range]]:

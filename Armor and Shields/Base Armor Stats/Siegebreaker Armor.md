@@ -14,8 +14,9 @@ tags:
 - __Properties__:
 	* [[Overshield]]
 - **Value:**
-	- 270 credits
+	- 390 credits
 - **Looks:**
 	- TODO
 - **Lore:
 	- TODO
+Disadvantage on stealth checks.

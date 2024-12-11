@@ -2,16 +2,16 @@
 tags:
   - Spell
   - Abomination
-  - Transmutation
   - Artificer
   - Bard
   - Cleric
   - Druid
   - Paladin
   - 2nd-Level
+  - Conjuration
 ---
 - **Spell Type**:
-	- 2nd level transmutation 
+	- 2nd level Conjuration
 - **Casting Time**:
 	- 1 Action
 - [[Range]]:

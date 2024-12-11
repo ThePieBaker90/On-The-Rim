@@ -11,7 +11,7 @@ tags:
   - 4th-Level
 ---
 - **Spell Type**:
-	- 4th level transmutation
+	- 4th level Transmutation
 - **Casting Time**:
 	- 1 Action
 - [[Range]]:

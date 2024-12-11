@@ -2,16 +2,16 @@
 tags:
   - Spell
   - Abomination
-  - Transmutation
   - Artificer
   - Bard
   - Cleric
   - Druid
   - Paladin
   - 3rd-Level
+  - Conjuration
 ---
 - **Spell Type**:
-	- 3rd level transmutation
+	- 3rd level Conjuration
 - **Casting Time**:
 	- 1 Action
 - [[Range]]:

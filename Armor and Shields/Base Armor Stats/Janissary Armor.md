@@ -7,7 +7,7 @@ tags:
 - __Type of Armor__:
 	* Heavy Armor
 - __Armor Class__:
-	* 19
+	* 18
 - __Strength Needed To Wear__:
 	* 17
 - **Value:**
@@ -16,3 +16,4 @@ tags:
 	- TODO
 - **Lore:
 	- TODO
+Disadvantage on stealth checks.

@@ -3,7 +3,7 @@ tags:
   - Spell
 ---
 - **Spell Type**:
-	- \\\[\#levelRequired + Ordinal Indicator] level \[Spell Type]
+	- 1st level Evocation
 - **Casting Time**:
 	- \\\[\#actionNeeded] Action
 - [[Range]]:
@@ -19,4 +19,4 @@ tags:
 - **Spell**:
 	- \\\[Spell Effects]
 - **At Higher Levels**:
-	- When you cast this spell using a spell slot of \[#levelRequired + Ordinal Indicator] level or higher, \[Spell Modifiers at Higher Levels] for each level above \[#levelRequired + Ordinal Indicator].
+	- When you cast this spell using a spell slot of 2nd level or higher, \[Spell Modifiers at Higher Levels] for each level above 1st.

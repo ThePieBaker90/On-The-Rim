@@ -2,16 +2,16 @@
 tags:
   - Spell
   - Abomination
-  - Transmutation
   - Artificer
   - Bard
   - Cleric
   - Druid
   - Paladin
   - 1st-Level
+  - Abjuration
 ---
 - **Spell Type**:
-	- 1st level transmutation
+	- 1st level Abjuration
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
 - [[Range]]:

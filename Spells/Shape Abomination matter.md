@@ -1,6 +1,14 @@
 ---
 tags:
   - Spell
+  - Abomination
+  - Cantrip
+  - Transmutation
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
 ---
 - **Spell Type**:
 	- Transmutation Cantrip
