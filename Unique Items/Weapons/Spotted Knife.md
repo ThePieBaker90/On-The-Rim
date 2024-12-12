@@ -23,7 +23,7 @@ tags:
 - **Value**:
 	- TODO
 - **Looks**:
-	- It is a butcher’s knife with the blade completely covered in a white cloth with black spots dotting it in a random pattern. The grip is a black leather which fits nicely into the hand. The white cloth is unremovable and cannot be damaged by normal means.
+	- It is a butcher’s knife with the blade completely covered in a white cloth with black spots dotting it in a random pattern. The grip is a black leather which fits nicely into the hand. The white cloth is irremovable and cannot be damaged by normal means.
 - **Special**:
 	- Upon rolling a 14, this weapon will land a critical hit.
 - **Lore:**

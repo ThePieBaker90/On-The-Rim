@@ -7,6 +7,7 @@ tags:
 	- Creatures who are immune to psychic damage are not affected by this condition.
 	- If a creature already suffers from mind-shattering pain and suffers another effect that causes mind-shattering pain, its current level of mind-shattering pain increases by the amount specified in the effect’s description.
 - Mind-Shattering Pain dissipates on its own, 1 level every 1 turn (6 seconds).
+- Mind-Shattering Pain is not capped.
 
 | Mind-Shattering Pain Level | Effects                                                              |
 | -------------------------- | -------------------------------------------------------------------- |

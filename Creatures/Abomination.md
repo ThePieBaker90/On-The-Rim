@@ -36,7 +36,7 @@ tags:
 - **Condition Immunities**:
 	- Poisoned
 	- [[Bleeding]]
-	- [[Toxic Buildup]]
+	- [[Radiation Buildup]]
 	- [[Acid Burned]]
 - **Actions**:
 	- Slam - 1 Action

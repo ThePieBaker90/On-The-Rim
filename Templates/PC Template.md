@@ -19,11 +19,7 @@ tags:
 	- |(Every efficiency should have its own bullet point)
 - **Ability Scores:**
 	- STR - {{#strScr}}(+{{#strMod}})
-		- Upper Body - {{#upperStrScr}}(+{{#upperStrMod}})
-		- Lower Body - {{#lowerStrScr}}(+{{\#lowerStrMod}})
 	- DEX - {{#dexScr}}(+{{\#dexMod}})
-		- Upper Body - {{#upperDexScr}}(+{{\#upperDexMod}})
-		- Lower Body - {{#lowerDexScr}}(+{{\#lowerDexMod}})
 	- CON - {{#conScr}}(+{{\#conMod}})
 	- INT - {{#intScr}}(+{{\#intMod}})
 	- WIS - {{#wisScr}}(+{{\#wisMod}})
@@ -81,6 +77,14 @@ tags:
 ## Traits:
 - {{Traits}}
 - |(Every trait should have its own bullet point)
+********
+## Hediff:
+
+| Hediff     | Effect                                                                              |
+| ---------- | ----------------------------------------------------------------------------------- |
+| Base Stats | {{#str}} STR, {{#dex}} DEX, {{#con}} CON, {{#int}} INT, {{#wis}} WIS, {{#cha}} CHA. |
+| {{Hediff}} | Changes                                                                             |
+
 ********
 ## References:
 - {{External Links}}
