@@ -13,6 +13,7 @@ tags:
 	- N/A
 - __Properties__:
 	- [[Eltex]]
+	- Flammable
 - **Value:**
 	- 120 credits
 - **Looks:**

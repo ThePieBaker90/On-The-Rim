@@ -15,5 +15,5 @@ tags:
 - **Looks:**
 	- TODO
 - **Lore:**
-	- TODO
+	- *A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.*
 

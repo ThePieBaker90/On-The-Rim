@@ -25,7 +25,7 @@ tags:
 - **Looks**:
 	- A black Stratocaster with smears of blood. There is a speaker roughly built into the headstock of the guitar.
 - **Special:**
-	- The user may expend an action to double the speed (up to 30ft) of all allies within 30ft for one turn. 
+	- The user may expend an action to increase the speed of all allies within 30ft by 10ft for one turn. 
 	- Has a chaotic neutral psychic presence within. This psychic presence can communicate telepathically with the user.
 - **Lore:**
 	- *Its previous owner shredded himself to death with this, is there anything more metal?*
