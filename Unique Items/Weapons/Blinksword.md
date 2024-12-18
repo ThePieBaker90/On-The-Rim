@@ -7,6 +7,7 @@ tags:
   - Martial
   - Special
   - Longsword
+  - Unmoddable
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -20,6 +21,7 @@ tags:
 	* Martial
 	* Versatile(1d10)
 	* Special
+	* [[Unmoddable]]
 * **Value**:
 	* 300 credits
 * **Looks**:

@@ -9,6 +9,7 @@ tags:
   - Martial
   - Shotgun
   - Special
+  - Unmoddable
 ---
 - [[Range]]:
 	- Ranged: 15-30-60ft
@@ -24,6 +25,7 @@ tags:
 	- [[Reload]](Action,  Full)
 	- Two-Handed
 	- Special
+	- [[Unmoddable]]
 - **Value**:
 	- 350 credits
 * **Looks**:

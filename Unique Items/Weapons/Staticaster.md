@@ -7,6 +7,7 @@ tags:
   - Martial
   - Guitar
   - Special
+  - Unmoddable
 ---
 - [[Range]]:
 	- Ranged: 0-20-40ft
@@ -20,6 +21,7 @@ tags:
 	- Martial
 	- Two-Handed
 	- Special
+	- [[Unmoddable]]
 - **Value**:
 	- TODO
 - **Looks**:

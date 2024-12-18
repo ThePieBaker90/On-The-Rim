@@ -9,6 +9,7 @@ tags:
   - Dagger
   - Stealth
   - Special
+  - Unmoddable
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -23,6 +24,7 @@ tags:
 	* One-Handed
 	* Light
 	* [[Stealth]]
+	* [[Unmoddable]]
 * **Value**:
 	* 250 credits
 * **Looks**:

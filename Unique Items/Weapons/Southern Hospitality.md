@@ -8,6 +8,7 @@ tags:
   - Wrench
   - Simple
   - Special
+  - Unmoddable
 ---
 - [[Range]]:
 	- Melee: 5ft
@@ -22,6 +23,7 @@ tags:
 	- [[Lacerating]](3, Melee hit on target)
 	- One-Handed
 	- Special
+	- [[Unmoddable]]
 - **Value**:
 	- TODO
 - **Looks**:

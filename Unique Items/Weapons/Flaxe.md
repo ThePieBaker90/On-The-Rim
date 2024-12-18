@@ -11,6 +11,7 @@ tags:
   - Flare-Gun
   - Martial
   - Special
+  - Unmoddable
 ---
 - [[Range]]:
 	- Melee: 5ft
@@ -28,6 +29,7 @@ tags:
 	- [[Reload]](Bonus Action, Full)
 	- Two-Handed
 	- Special
+	- [[Unmoddable]]
 - **Value**:
 	- TODO
 - **Looks**:

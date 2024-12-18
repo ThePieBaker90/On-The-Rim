@@ -10,6 +10,7 @@ tags:
   - Stealth
   - Thrown
   - Special
+  - Unmoddable
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -26,6 +27,7 @@ tags:
 	* Thrown
 	* [[Stealth]]
 	* Special
+	* [[Unmoddable]]
 * **Value**:
 	* 225 credits
 * **Looks**:

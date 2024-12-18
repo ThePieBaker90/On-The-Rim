@@ -9,6 +9,7 @@ tags:
   - Dagger
   - Stealth
   - Special
+  - Unmoddable
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -24,6 +25,7 @@ tags:
 	* Light
 	* [[Stealth]]
 	* Special
+	* [[Unmoddable]]
 * **Value**:
 	* TODO
 * **Looks**:

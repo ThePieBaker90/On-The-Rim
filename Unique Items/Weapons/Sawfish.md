@@ -8,6 +8,7 @@ tags:
   - Greatsword
   - Heavy
   - Two-Handed
+  - Unmoddable
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -22,6 +23,7 @@ tags:
 	* Heavy
 	* Two-Handed
 	* Special
+	* [[Unmoddable]]
 * **Value**:
 	* 300 credits
 * **Looks**:

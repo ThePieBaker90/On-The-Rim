@@ -11,12 +11,21 @@ tags:
 - {Dominant Hand}
 - {Height}
 - {Body}
+	- Average
+	- Thin
+	- Hulking
+	- Heavyset
 - {Eyes}
 - {Face}
 - {Clothes}
 ****
 ## Personality
-- {Personality}
+### Personality Traits
+- .
+### Likes
+- .
+### Dislikes
+- .
 ****
 ## Services
 
@@ -59,6 +68,8 @@ tags:
 ### Spells
 - .
 ### Inventory
+- .
+### Cybernetics
 - .
 ****
 ## References:

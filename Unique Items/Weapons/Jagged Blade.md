@@ -9,6 +9,7 @@ tags:
   - Dagger
   - Special
   - Thrown
+  - Unmoddable
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -27,6 +28,7 @@ tags:
 	* Returning
 	* [[Magnetic]]
 	* Special
+	* [[Unmoddable]]
  * **Value**:
 	* TODO
 * **Looks**:
