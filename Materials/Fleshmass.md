@@ -4,8 +4,6 @@ tags:
   - Item
   - Fleshmass
 ---
-- **Weight Per Unit**:
-	- 10kg
 - **Rarity**:
 	- Common while near a fleshmass infestation
 - **Uses**:

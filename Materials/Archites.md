@@ -3,12 +3,10 @@ tags:
   - Material
   - Item
 ---
-- **Weight Per Unit**:
-	- 1 mg
 - **Rarity**:
-	- Varies.
-	- Rarity of archites depends on the type of archite, some are incredibly common while others are extremely rare.
+	- Rare.
+	- Rarity of archites depends on the type of archite, although most are extremely rare.
 - **Uses**:
-	- An archite is a general term for a nanomachine which alters some thing. 
+	- An archite is a general term for an extremely advanced [[Mechanites|Mechanite]] which utilizes [[The Archotech|Archotechnology]]. They are a modern magic.
 - **Notable Features**:
-	- Archites are mass produced on urbworlds all over the universe, they are a modern magic.
+	- Archites are mass produced on glitterworlds all over the universe.

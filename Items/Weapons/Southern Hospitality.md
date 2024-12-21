@@ -1,0 +1,35 @@
+---
+tags:
+  - Weapon
+  - Melee
+  - Item
+  - One-Handed
+  - Lacerating
+  - Wrench
+  - Simple
+  - Special
+  - Unmoddable
+  - Unique
+---
+- [[Range]]:
+	- Melee: 5ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d6 + STR Bludgeoning
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Simple
+	- [[Lacerating]](3, Melee hit on target)
+	- One-Handed
+	- Special
+	- [[Unmoddable]]
+- **Value**:
+	- TODO
+- **Looks**:
+	- It is a modified pipe wrench with a spiked knuckle guard and a sharp metal spike on the top
+- **Special**:
+	- The user may expend a level 3 spell slot to create a level 2 sentry. This sentry takes its turn after its creator and always attacks the closest hostile creature. The sentry never misses and deals 2d8 piercing damage. The level 2 sentry has an AC of 10 and 40 health.
+- **Lore:**
+	- *\[\*Lore]* TODO

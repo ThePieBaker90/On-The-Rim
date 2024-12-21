@@ -4,8 +4,6 @@ tags:
   - Item
   - Blood
 ---
-- **Unit Measurement**:
-	- Milliliters (ml)
 - **Rarity**:
 	- Common
 	- Found in all living (non-construct & non-undead) creatures without unique blood ([[Sanguophage|Sanguophages]] having [[Sanguophage Blood]])

@@ -1,0 +1,24 @@
+---
+tags:
+  - Cybernetic
+  - Legs
+---
+- **Install Location:**
+	- [[Legs|Leg]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +[[Lower-Body Strength and Dexterity|Lower-Body Strength]]
+	- +Constitution
+	- -[[Lower-Body Strength and Dexterity|Lower-Body Dexterity]]
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- The user has -5ft of movement speed
+	- Cannot be removed through [[Core Critical Changes|Critical Effects]]
+- **Looks:**
+	- A solid mass of bone grows from the thigh as if it was a boney tree-stump. This growth has no joint to act as a knee.

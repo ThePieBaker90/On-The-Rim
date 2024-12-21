@@ -3,8 +3,6 @@ tags:
   - Material
   - Item
 ---
-- **Weight Per Unit**:
-	- 0.25 kg
 - **Rarity**:
 	- TODO
 - **Uses**:

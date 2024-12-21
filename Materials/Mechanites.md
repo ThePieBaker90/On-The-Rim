@@ -1,0 +1,11 @@
+---
+tags:
+  - Material
+  - Item
+---
+- **Rarity**:
+	- Common
+- **Uses**:
+	- An mechanite is a general term for a nano-machine. They do various things depending on what they are built for. They require a special manufacturing process to create.
+- **Notable Features**:
+	- Mechanites are mass produced on urbworlds all over the universe.

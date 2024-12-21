@@ -1,9 +1,9 @@
 ---
 tags:
   - Cybernetic
-  - Arms
   - Body-Part
   - Limb
+  - Shoulders
 ---
 * Necessary to live:
 	* No.
