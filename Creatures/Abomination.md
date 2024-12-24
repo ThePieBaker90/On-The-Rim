@@ -25,7 +25,7 @@ tags:
 - **Senses**:
 	- Passive Perception: 8
 - **Languages**:
-	- None
+	- Common
 - **Challenge**:
 	- 1
 - **Damage Resistances**:

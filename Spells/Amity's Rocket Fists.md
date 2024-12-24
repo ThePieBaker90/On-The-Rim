@@ -1,0 +1,30 @@
+---
+tags:
+  - Spell
+  - 2nd-Level
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Evocation
+  - Abomination
+---
+- **Spell Type**:
+	- 2nd level Evocation
+- **Casting Time**:
+	- 1 Action
+- [[Range]]:
+	- 60 ft
+- **Target**:
+	- Hostile Creature
+- **Components**:
+	- S, M (3kg of [[Abomination Matter]])
+- **Duration**:
+	- Instant
+- **Classes**:
+	- Artificer, Bard, Cleric, Druid, Paladin
+- **Spell**:
+	- You shoot two rocket fists made out of [[Abomination Matter]] out of your hands and shoot them at at targets within range, you can shoot them at one target or multiple targets. Make a ranged spell attack for each ray. On a hit the fists explode dealing 1d8 + 2 force damage and 1d8 acid damage.
+- **At Higher Levels**:
+	- When you cast this spell using a spell slot of 3rd level or higher, you deal an additional 1d8 force damage and 1d8 acid damage for each level above 2nd.
