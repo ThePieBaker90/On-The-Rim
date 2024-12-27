@@ -71,6 +71,8 @@ tags:
 - .
 ### Cybernetics
 - .
+### Spell Slots
+- .
 ****
 ## References:
 - 

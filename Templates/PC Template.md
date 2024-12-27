@@ -63,6 +63,8 @@ tags:
 ## Spells:
 - {{Spell name}} - {{Spell Type}} - {{Page Reference}} - {{Trait Origin}}
 - |(Every spell should have its own bullet point)
+### Spell Slots
+- .
 ********
 ## Proficiencies:
 - **Armor:**

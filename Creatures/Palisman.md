@@ -58,8 +58,8 @@ tags:
 	- Every palisman takes the appearance of a mostly mono-color tiny version of a creature. The color and creature are chosen by the carver of the palisman.
 	- Every palisman can be bonded with another non-palisman creature. This creature is referred to as its bonded user. Its bonded user can understand it without needing to know palisman.
 	- Every palisman can turn into a specific weapon, this weapon is chosen by the carver of the palisman. 
-		- If this weapon is a magic staff, it gains a unique powerful perk.
-		- If this weapon isn’t a magic staff it’s stats are determined by the base version of the weapon with a level dependent modifier and a unique perk: 
+		- If this weapon is a [[Staff]], it gains a unique powerful perk.
+		- If this weapon isn’t a [[Staff]] it’s stats are determined by the base version of the weapon with a level dependent modifier and a unique perk: 
 
 | Level | Modifier |
 | ----- | -------- |
