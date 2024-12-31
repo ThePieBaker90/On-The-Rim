@@ -10,7 +10,7 @@ tags:
 - __Armor Class__:
 	* 14 + DEX (Max 2)
 - __Strength Needed To Wear__:
-	* 14
+	* 0
 - __Properties__:
 	* [[Shooter]](Flame)
 - **Value:**
@@ -19,3 +19,5 @@ tags:
 	- TODO
 - **Lore:
 	- TODO
+
+Disadvantage on stealth checks.

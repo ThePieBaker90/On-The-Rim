@@ -8,9 +8,9 @@ tags:
 - __Type of Armor__:
 	* Medium Armor
 - __Armor Class__:
-	* 15 + DEX (Max 2)
+	* 14 + DEX (Max 2)
 - __Strength Needed To Wear__:
-	* 14
+	* 0
 - __Properties__:
 	* [[Grappling Hook]]
 - **Value:**
@@ -19,3 +19,5 @@ tags:
 	- TODO
 - **Lore:
 	- TODO
+
+Disadvantage on stealth checks.

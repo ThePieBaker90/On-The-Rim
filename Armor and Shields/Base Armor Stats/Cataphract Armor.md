@@ -2,17 +2,20 @@
 tags:
   - Armor
   - Item
-  - Medium-Armor
+  - Heavy-Armor
+  - Cumbersome
 ---
 - __Type of Armor__:
-	* Medium Armor
+	* Heavy Armor
 - __Armor Class__:
-	* 17 + DEX (Max 2)
+	* 19
 - __Strength Needed To Wear__:
-	* 15
+	* 17
+- __Properties__:
+	* [[Cumbersome]]
 - **Value:**
-	- 210 credits
-- **Looks:**
-	- TODO
+	- 1000 credits
 - **Lore:
-	- TODO
+	- *A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered [[Plasteel]]-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.*
+
+Disadvantage on stealth checks.

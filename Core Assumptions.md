@@ -4,12 +4,7 @@ tags:
 ---
 * The world has magic, although all magic is done through a [[Basic Psylink|Psylinks]]. Characters will all start with a psylink matching their class unless refused.
 * The world is developing, there are many different cultures at many different tech levels. There are no clear borders between different societies. Settlements are scattered all over the world.
-* The world is about the same size as earth and follows the same 24-hour day night cycle, although years are only 60 days rather than 365.
-* Seasons all are of equal length; 15 days. The months also line up with the seasons, months are called quadrums due to there being 4 of them.
-	* Aprimay (Spring)
-	* Jugust (Summer)
-	* Septober (Fall)
-	* Decembary (Winter)
+* Universal time is earth time. Local time is dependent on the planet, this time usually begins when the planet was discovered.
 * All factions have varying technology levels. Additionally, all factions have very different styles of architecture and cultures.
 * Guns exist and are prominent, but that does not mean melee is useless, [[Armor and Shields/Properties/Shield Belt|Shield Belts]] and [[Armor and Shields/Base Armor Stats/Jump Pack|Jump Packs]] allow melee users to close the gap between them and an opponent. Additionally, certain guns may be extremely difficult to use at close range (such as a [[Sniper Rifle]]) or ineffective at long range (such as a [[Submachine Gun]])
 * Gods and Goddesses are created by their believers and gain powers from their believers. Every religion has an ideology which can be fluid or rigid. When all followers of an ideology are killed or converted the god ceases to exist. Not every ideology has a deity. Some ideologies have holy relics that are sought after for their ideological significance or technological significance. All ideologies have memes which are described in the memes section.

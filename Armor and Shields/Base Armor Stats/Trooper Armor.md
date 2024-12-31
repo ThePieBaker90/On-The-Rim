@@ -9,9 +9,9 @@ tags:
 - __Armor Class__:
 	* 15 + DEX (Max 2)
 - __Strength Needed To Wear__:
-	* 14
+	* 0
 - **Value:**
-	- 150 credits
+	- 50 credits
 - **Looks:**
 	- TODO
 - **Lore:

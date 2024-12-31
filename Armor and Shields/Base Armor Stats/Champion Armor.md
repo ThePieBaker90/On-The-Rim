@@ -2,24 +2,17 @@
 tags:
   - Armor
   - Item
-  - Overshield
   - Heavy-Armor
 ---
 - __Type of Armor__:
 	* Heavy Armor
 - __Armor Class__:
-	* 17
+	* 18
 - __Strength Needed To Wear__:
-	* 16
-- __Properties__:
-	* [[Overshield]]
+	* 15
 - **Value:**
 	- 1000 credits
-- **Looks:**
-	- TODO
 - **Lore:
-	- *A suit of* heavy powered armor, built for increased protection while
+	- *A suit of powered armor, built for protection whilst not sacrificing much mobility. [[Plasteel]]-weave plates cover the armor along with a [[Synthread]] underlayer.*
 
 Disadvantage on stealth checks.
-
-From: Vanilla Expanded Armors

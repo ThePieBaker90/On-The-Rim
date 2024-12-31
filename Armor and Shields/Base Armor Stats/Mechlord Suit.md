@@ -10,7 +10,7 @@ tags:
 - __Armor Class__:
 	* 12 + DEX
 - __Strength Needed To Wear__:
-	* 11
+	* 0
 - __Properties__:
 	* [[Mechlord]]
 - **Value:**

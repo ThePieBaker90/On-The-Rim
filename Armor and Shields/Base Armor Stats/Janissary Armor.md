@@ -7,13 +7,12 @@ tags:
 - __Type of Armor__:
 	* Heavy Armor
 - __Armor Class__:
-	* 18
+	* 16
 - __Strength Needed To Wear__:
-	* 17
+	* 14
 - **Value:**
-	- 270 credits
-- **Looks:**
-	- TODO
+	- 75 credits
 - **Lore:
 	- TODO
+
 Disadvantage on stealth checks.

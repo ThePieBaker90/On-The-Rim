@@ -15,9 +15,9 @@ tags:
 	- [[Eltex]]
 	- Flammable
 - **Value:**
-	- 120 credits
+	- 110 credits
 - **Looks:**
 	- A long teal cloak which shimmers uniquely in light.
 - **Lore:**
-	- TODO
+	- *A long teal clock embedded with special spellcasting enhancing materials. The cloak shimmers indescribably in the light.*
 

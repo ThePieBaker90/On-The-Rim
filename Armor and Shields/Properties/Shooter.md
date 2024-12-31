@@ -11,4 +11,4 @@ The projectiles are the following:
 	* Creatures caught in the blast must succeed in a DC 15 Dexterity saving throw or take full damage. Upon a successful save, the creature takes half damage.
 * Flame
 	* 30ft range, circle with 10ft radius, 2d6 fire damage.
-	* Creatures caught in the blast must succeed in a DC 14 Dexterity saving throw or take full damage. Upon a successful save, the creature takes half damage.
+	* Creatures caught in the blast must succeed in a DC 15 Dexterity saving throw or take full damage. Upon a successful save, the creature takes half damage.

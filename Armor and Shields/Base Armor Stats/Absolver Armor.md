@@ -3,20 +3,19 @@ tags:
   - Armor
   - Item
   - Medium-Armor
-  - Eltex
+  - Telemetry
 ---
 - __Type of Armor__:
 	* Medium Armor
 - __Armor Class__:
 	* 15 + DEX (Max 2)
 - __Strength Needed To Wear__:
-	* 14
+	* 13
 - __Properties__:
-	* [[Eltex]]
+	* [[Telemetry]]
 - **Value:**
-	- 240 credits
-- **Looks:**
-	- TODO
+	- 800 credits
 - **Lore:
-	- TODO
+	- *A high-tech suit of powered armor with layered [[Plasteel]]-weave plates and multi-spectrum sensors, which feed telemetry data to the user. Armor like this is quite rare due to its high cost and limited production.*
 
+From: Vanilla Expanded: Empire
