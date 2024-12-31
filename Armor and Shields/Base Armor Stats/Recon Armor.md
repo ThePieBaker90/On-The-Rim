@@ -15,8 +15,6 @@ tags:
 	* [[Recon]]
 * **Value:**
 	* 350 credits
-* **Looks:**
-	* TODO
 * **Lore:**
 	* *A suit of light powered armor, designed to assist with quick movements. Lightweight [[Plasteel]]-weave plates block attacks without compromising mobility and neuro-memetic assistors in the lower body help the user move faster.*
 

@@ -3,8 +3,6 @@ tags:
   - Material
   - Item
 ---
-- **Weight Per Unit**:
-	- TODO
 - **Rarity**:
 	- TODO
 - **Uses**:

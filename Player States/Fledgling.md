@@ -15,4 +15,4 @@ Players who are a Fledgling have the following changes:
 
 Fledglings can be cured with a [[Garlic Injection]]. 
 
-If a fledgling drinks 500mL of blood they will immediately transform into a either a [[Sanguophage]], [[Ekkimian Vampire]], TODO
+If a fledgling drinks 500mL of blood they will immediately transform into a either a [[Sanguophage]], [[Ekkimian Vampire]], or [[Bruxa]]

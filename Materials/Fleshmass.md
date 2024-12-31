@@ -9,4 +9,4 @@ tags:
 - **Uses**:
 	- TODO
 - **Notable Features**:
-	- CLEANUP Can be easily manipulated with magic to create shapes. Very soft when uncompressed but can easily be compressed with abomination magic.
+	- TODO

@@ -32,5 +32,3 @@ tags:
 	* Consists of little more than a grip with rings to hold a bullet and a firing pin. Along with this is a hammer to hit the firing pin with.
 * **Special**:
 	* Cannot be detected as a weapon unless it has been fired in LOS of the creature attempting to search for weapons.
-- **Lore:**
-	- *\[\*Lore]* TODO

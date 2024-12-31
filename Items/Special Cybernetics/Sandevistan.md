@@ -16,6 +16,6 @@ tags:
 * [[Cybercost]]:
 	* 3
 * Abilities:
-	* dio!
+	* TODO
 * Looks:
 	* TODO

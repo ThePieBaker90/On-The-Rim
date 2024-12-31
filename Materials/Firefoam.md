@@ -7,7 +7,5 @@ tags:
 	- TODO
 - **Uses**:
 	- Extinguishes Fires
-- **Looks:**
-	- A white foam
 - **Notable Features**:
 	- TODO

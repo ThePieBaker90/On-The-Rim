@@ -15,7 +15,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- V, S, M (TODO).
+	- V, S, M (an ice cube and a bit of quartz).
 - **Duration**:
 	- Instant.
 - **Classes**:

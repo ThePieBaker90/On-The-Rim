@@ -14,7 +14,7 @@ tags:
 ---
 *In the complex tapestry of the universe, the Bruxas emerged as a unique and alluring sub-xenotype of [[Sanguophage]]. Created by an enigmatic archotech entity seeking to weave together beauty and power, the Bruxas were gifted with unparalleled grace and charm. Designed as the ultimate companions to other [[Sanguophage|Sanguophages]], the Bruxas were engineered with the unique ability to share blood and feed on [[Sanguophage Blood]], bestowing mutual benefits upon both parties.*
 
-TODO stats and additional traits
+ CLEANUP stats and additional traits
 
 Bruxas are a sub-xenotype of [[Sanguophage]]
 

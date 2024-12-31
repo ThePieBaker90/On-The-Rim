@@ -36,5 +36,3 @@ tags:
 * **Special**:
 	* Upon killing a creature with this weapon, the user immediately heals health equal to the slain creature’s maximum health.
 		* If the creature has greater maximum health than the user, excess health is gained as temporary health but is both: divided by two, and the temporary health is lost after an hour.
-- **Lore:**
-	- *TODO*

@@ -40,5 +40,3 @@ tags:
 	- When used as a melee weapon it does not consume any ammunition and does not need ammunition to be used. 
 	- The number needed to roll a critical hit while attacking with this weapon is reduced by 1. This effect can stack.
 	- If a critical hit is landed while attacking with the melee part of the weapon, the user may expend one piece of loaded ammunition to immediately fire a flare at the creature they just landed a critical hit on. This always hits and benefits from critical hit effects.
-- **Lore:**
-	- *\[\*Lore]* TODO
