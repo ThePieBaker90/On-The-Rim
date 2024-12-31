@@ -33,4 +33,4 @@ tags:
 * **Special:**
 	* Upon killing a creature with this weapon, the user immediately gains an action, 30ft of movement, and immunity to opportunity attacks. These effects last until the end of the turn. There is no limit to the number of times this can happen in one turn.
 - **Lore:**
-	- *TODO*
+	- *A persona dagger which grants its user a burst of energy on a kill*

@@ -14,10 +14,10 @@ tags:
 - __Properties__:
 	* [[Grappling Hook]]
 - **Value:**
-	- 240 credits
-- **Looks:**
-	- TODO
+	- 600 credits
 - **Lore:
-	- TODO
+	- *A variant of [[Trooper Armor]] with an integrated grappling hook on the shoulder. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again.*
 
 Disadvantage on stealth checks.
+
+From: Vanilla Expanded: Pirates

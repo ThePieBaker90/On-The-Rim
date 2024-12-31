@@ -3,7 +3,7 @@ tags:
   - Property
   - Jump-Pack
 ---
-A piece of armor that has the jump pack property grants the wearer the ability to jump anywhere within a circle with a 90ft radius. This ability may be used once per short rest for free or be recharged with one tank of [[Chemfuel]].
+A piece of armor that has the jump pack property grants the wearer the ability to jump anywhere within a circle with a 90ft radius. This ability may be used thrice per short rest for free or be refueled with 1L of [[Chemfuel]]. Refueling takes 30 seconds of time.
 
 If the wearer lands on a creature, the wearer may make an opportunity melee attack on the creature.
 

@@ -14,8 +14,8 @@ tags:
 - __Properties__:
 	* [[Shooter]](Grenade)
 - **Value:**
-	- 170 credits
+	- 350 credits
 - **Lore:
-	- *A variant of [[Marine Armor]] with an integrated frag launcher*
+	- *A variant of [[Marine Armor]] with an integrated frag launcher on the shoulder. The launcher can only hold a limited amount of ammo and must be reloaded after use.*
 
 

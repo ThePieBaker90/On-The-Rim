@@ -13,8 +13,6 @@ tags:
 	* |(Every property should have its own bullet point)
 - **Value:**
 	- {{#value}} credits
-- **Looks:**
-	- {{Looks}}
 - **Special:**
 	- {{\*Special}}
 - *Lore:**

@@ -10,11 +10,11 @@ tags:
 * __Armor Class__:
 	* 12 + DEX
 * __Strength Needed To Wear__:
-	* N/A
+	* 0
 * **Value:**
-	* 190 credits
+	* 350 credits
 * **Looks:**
-	* Cheerleader outfit :P TODO
+	* A cheerleader outfit made of [[Synthread]] with [[Plasteel]]-weave plates sewn inside the fabric. A psychic presence can be felt within the outfit, making the user more intimidating.
 * **Special:**
 	* Wearer gains +2 and advantage on all intimidation checks
 

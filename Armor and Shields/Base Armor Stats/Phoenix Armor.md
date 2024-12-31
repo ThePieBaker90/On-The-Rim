@@ -3,21 +3,19 @@ tags:
   - Armor
   - Item
   - Shooter
-  - Medium-Armor
+  - Light-Armor
 ---
 - __Type of Armor__:
-	* Medium Armor
+	* Light Armor
 - __Armor Class__:
-	* 14 + DEX (Max 2)
+	* 12 + DEX
 - __Strength Needed To Wear__:
 	* 0
 - __Properties__:
 	* [[Shooter]](Flame)
 - **Value:**
-	- 170 credits
-- **Looks:**
-	- TODO
+	- 350 credits
 - **Lore:
-	- TODO
+	- *A variant of [[Marine Armor]] with a shoulder-mounted flamebolt launcher. The flamebolt launcher has very limited ammo and must be reloaded after use.*
 
 Disadvantage on stealth checks.

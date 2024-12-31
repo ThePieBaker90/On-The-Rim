@@ -4,8 +4,8 @@ tags:
   - Item
 ---
 - **Rarity**:
-	- TODO
+	- Uncommon
 - **Uses**:
-	- TODO
+	- Containing entities, pressurized fuel, building material.
 - **Notable Features**:
-	- 
+	- An exotic metal-like fibrous substance with both organic and metallic properties. It interacts with certain psychic flows disrupting them. Under extreme pressure bioferrite becomes extremely flammable.

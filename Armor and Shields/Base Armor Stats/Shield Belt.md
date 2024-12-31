@@ -11,9 +11,7 @@ tags:
 - __Properties__:
 	* [[Armor and Shields/Properties/Shield Belt|Shield Belt]]
 - **Value:**
-	- 110 credits
-- **Looks:**
-	- TODO
+	- 200 credits
 - **Lore:
-	- TODO
+	- *A projectile-repulsion device. it will attempt to stop incoming projectiles but does nothing against melee attacks or temperature. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP.*
 

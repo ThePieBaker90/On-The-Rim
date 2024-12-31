@@ -2,10 +2,12 @@
 tags:
   - Material
   - Item
+  - Liquid
 ---
 - **Rarity**:
-	- TODO
+	- Common
 - **Uses**:
-	- TODO
+	- Fuel for combustion
 - **Notable Features**:
 	- Extremely Flammable
+

@@ -26,5 +26,3 @@ tags:
 	- 30 credits
 * **Looks**:
 	* A blunderbuss
-- **Lore:**
-	- *\[\*Lore]* TODO

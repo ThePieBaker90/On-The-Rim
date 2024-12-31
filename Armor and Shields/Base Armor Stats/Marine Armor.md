@@ -18,4 +18,3 @@ tags:
 	* *The empire has entire factories dedicated to making this standard issue marine armor. It protects the user against burns, stabs, and blunt objects with a [[Synthread|synthread]] under armor and a [[Plasteel|plasteel]] over armor.*
 
 
-

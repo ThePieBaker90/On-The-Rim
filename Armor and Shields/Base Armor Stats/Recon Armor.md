@@ -14,11 +14,11 @@ tags:
 * __Properties__:
 	* [[Recon]]
 * **Value:**
-	* 155 credits
+	* 350 credits
 * **Looks:**
 	* TODO
 * **Lore:**
-	* *Recon armor is made with hydraulic servos to assist extended durations of running. Commonly given to field scouts of the Empire*
+	* *A suit of light powered armor, designed to assist with quick movements. Lightweight [[Plasteel]]-weave plates block attacks without compromising mobility and neuro-memetic assistors in the lower body help the user move faster.*
 
 
 

@@ -13,6 +13,6 @@ tags:
 - **Value:**
 	- 75 credits
 - **Lore:
-	- TODO
+	- *A suit of powered armor, built for protection and cost efficiency. Although not as protective as other armors, its mass production makes it very easy to get ahold of.*
 
 Disadvantage on stealth checks.

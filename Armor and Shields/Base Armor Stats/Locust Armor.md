@@ -14,9 +14,7 @@ tags:
 - __Properties__:
 	* [[Armor and Shields/Properties/Jump Pack|Jump Pack]]
 - **Value:**
-	- 155 credits
-- **Looks:**
-	- TODO
+	- 350 credits
 - **Lore:
-	- TODO
+	- *A variant of [[Marine Armor]] with an integrated burst rocket for short-ranged flight. Each jump consumes a burst of fuel, so the armor must be refueled after several uses.*
 

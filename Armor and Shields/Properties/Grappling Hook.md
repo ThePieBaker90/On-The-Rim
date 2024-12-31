@@ -3,7 +3,7 @@ tags:
   - Property
   - Grappling-Hook
 ---
-A piece of armor that has the grappling hook property grants the wearer the ability to shoot a grappling hook. The grappling hook has a range of 80ft and has different behavior depending on what it collides with:
+A piece of armor that has the grappling hook property grants the wearer the ability to shoot a grappling hook as an action. The grappling hook must be reloaded after each shot, reloading takes an action. The grappling hook has a range of 80ft and has different behavior depending on what it collides with:
 *** 
 If the grappling hook is shot at a surface, the wearer will be pulled towards the surface. The surface takes 2d4 piercing damage because of this.
 ***
