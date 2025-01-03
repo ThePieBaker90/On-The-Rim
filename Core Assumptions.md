@@ -4,6 +4,8 @@ tags:
 ---
 * The world has magic, although all magic is done through a [[Basic Psylink|Psylinks]]. Characters will all start with a psylink matching their class unless refused.
 * The world is developing, there are many different cultures at many different tech levels. There are no clear borders between different societies. Settlements are scattered all over the world.
+* Faster than light travel exists and is used prominently to travel the universe.
+* Cryogenics have progressed to the point that creatures can be put into a suspended animation where they don’t age which they can later be taken out of.
 * Universal time is earth time. Local time is dependent on the planet, this time usually begins when the planet was discovered.
 * All factions have varying technology levels. Additionally, all factions have very different styles of architecture and cultures.
 * Guns exist and are prominent, but that does not mean melee is useless, [[Armor and Shields/Properties/Shield Belt|Shield Belts]] and [[Armor and Shields/Base Armor Stats/Jump Pack|Jump Packs]] allow melee users to close the gap between them and an opponent. Additionally, certain guns may be extremely difficult to use at close range (such as a [[Sniper Rifle]]) or ineffective at long range (such as a [[Submachine Gun]])

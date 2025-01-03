@@ -12,7 +12,7 @@ tags:
 - **[[Efficiency]] Effects:**
 	- \\\[+|-]\[Skill]
 - **Cost:**
-	- \\\[#value] \[Currency]
+	- \\\[value] \[Currency]
 - **[[Cybercost]]:**
 	- \\\[#cybercost]
 - \\\[\***Abilities:**]

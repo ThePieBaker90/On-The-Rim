@@ -8,7 +8,7 @@ tags:
 	- **Ex:** |(These are the classes which can cast this spell)
 - **Anything inside of \{{}} is variable**
 	- **Syntax:** \{{var}}
-- **#index represents a number which represents the index of choice**
+- **\#index represents a number which represents the index of choice**
 	- **Syntax:** \{{#index}}
 - **|! inside of brackets are XOR between 2 or more items**
 	- **Syntax:** {{opt 1|!opt 2|!opt 2|!…}}

@@ -25,3 +25,8 @@ tags:
 * Looks:
 	* TODO
 	* The arm has the style of a gauntlet plated with a blue-grey steel and copper claws. On the back of the hand there is a glowing blue glyph circle which translates to "lightning". The arm is highly insulated to high voltages as to not malfunction from its own use. The palm of the hand can produce extremely high wattage and launch high voltage projectiles with no need to recharge with an external source.
+
+Spell ideas 
+Mold Earth (XGtE)
+Earth Tremor (XGtE)
+Erupting Earth (XGtE)
