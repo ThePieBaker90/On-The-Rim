@@ -1,6 +1,7 @@
 ---
 tags:
   - NPC
+  - Adventurer
 ---
 {Gender} {Race} {Class} ({Subclass}) - {Alignment}
 ****
