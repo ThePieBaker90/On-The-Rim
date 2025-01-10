@@ -12,7 +12,7 @@ tags:
 * [[Efficiency]] Effects:
 	* +Intelligence
 * Cost:
-	* 400 credits
+	* 500 credits
 * [[Cybercost]]:
 	* 1
 * Looks:
