@@ -17,9 +17,9 @@ tags:
 * [[Cybercost]]:
 	* 2
 * Abilities:
-	* The user may cast firebolt at will without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
-	* The user may cast level 1 burning hands once per short rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
-	* The user may cast level 3 fireball once per long rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
+	* The user may cast Fire Bolt (PH 242) at will without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
+	* The user may cast level 1 Burning Hands (PH 220) once per short rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
+	* The user may cast level 3 Fireball (PH 241) once per long rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
 	* The user may add 1d4 fire damage to any unarmed strikes made with the arm.
 	* (Unarmed strikes deal 1 + STR bludgeoning by default)
 * Looks:

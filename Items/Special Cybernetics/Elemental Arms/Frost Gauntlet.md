@@ -17,9 +17,9 @@ tags:
 * [[Cybercost]]:
 	* 2
 * Abilities:
-	* The user may cast ray of frost at will without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
-	* The user may cast level 1 ice knife once per short rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot.
-	* The user may cast level 3 [[Snowburst]] once per long rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
+	* The user may cast Ray of Frost at will without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
+	* The user may cast level 1 Ice Knife (XGtE 157) once per short rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot.
+	* The user may cast level 3 [[Snowburst]] (OtR) once per long rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
 	* The user may add 1d4 cold damage to any unarmed strikes made with the arm.
 	* (Unarmed strikes deal 1 + STR bludgeoning by default)
 * Looks:

@@ -17,9 +17,9 @@ tags:
 * [[Cybercost]]:
 	* 2
 * Abilities:
-	* The user may cast shocking grasp at will without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
-	* The user may cast level 1 witch bolt once per short rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component. 
-	* The user may cast level 3 lightning bolt once per long rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
+	* The user may cast Shocking Grasp (PH 275) at will without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
+	* The user may cast level 1 Witch Bolt (PH 289) once per short rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component. 
+	* The user may cast level 3 Lightning Bolt (PH 255) once per long rest without any need for a [[Basic Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
 	* The user may add 1d4 electric damage to any unarmed strikes made with the arm.
 	* (Unarmed strikes deal 1 + STR bludgeoning by default)
 * Looks:
