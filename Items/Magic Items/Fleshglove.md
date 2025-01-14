@@ -5,6 +5,7 @@ tags:
   - Glove
   - One-Handed
   - Unique
+  - Accessory
 ---
 While worn on your hands you can use the Unnatural Healing ability. This may be used once every long rest.
 

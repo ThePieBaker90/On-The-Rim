@@ -20,7 +20,7 @@ tags:
 * **Properties**:
 	* Martial
 	* Versatile(1d10)
-	* Lacerating(4,Melee hit on target with broken armor or no armor)
+	* [[Lacerating]](4,Melee hit on target with broken armor or no armor)
 	* Special
 * **Value**:
 	* 3000 credits
