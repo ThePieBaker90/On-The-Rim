@@ -26,5 +26,3 @@ tags:
 	- 50 credits
 * **Looks**:
 	* A stock Bekas-M shotgun with a 26" barrel
-- **Lore:**
-	- *\[\*Lore]* TODO

@@ -25,11 +25,9 @@ tags:
 	* Thrown(10-30-60ft)
 	* Special
 * **Value**:
-	* 300 credits
+	* 3000 credits
 * **Looks**:
 	* A metal-cored spear with a cutting edge. Plasma is wrapped around the core, held in place by an energy field.
 * **Special**:
 	* Ignores fire or piercing resistance on the target (does not ignore fire or piercing immunity)
 	* Once per short rest, as a reaction to striking a creature with the plasmaspear, the user may apply the [[Plasma Burned]] condition to the target. 
-- **Lore:**
-	- *\[\*Lore]* TODO

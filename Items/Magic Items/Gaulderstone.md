@@ -18,3 +18,5 @@ While holding this you have a -3 modifier to your AC due to how cumbersome the s
 The bonuses granted by the stone do not occur if the stone is not directly held by both hands.
 
 *A large glowing blue stone, you feel psychic energy emanating from it*
+
+Cost: 2000 Credits

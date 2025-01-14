@@ -25,10 +25,8 @@ tags:
 	* Thrown(5-20-40ft)
 	* Special
 * **Value**:
-	* 150 credits
+	* 1500 credits
 * **Looks**:
 	* A knife with a light green blade which smells like death, the handle is black with a straight grip. 
 * **Special**:
 	* Upon hitting a creature, that creature gains 1 stack of [[Radiation Buildup]]
-- **Lore:**
-	- *\[\*Lore]* TODO

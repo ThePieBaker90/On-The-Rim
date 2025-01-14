@@ -27,10 +27,8 @@ tags:
 	- Burst-Fire
 	- Special
 - **Value**:
-	- TODO
+	- 400 Credits
 * **Looks**:
-	* It is a versatile assault rifle which has been modified with a mini-burner unit which uses pressurized bioferrite.
+	* It is a versatile [[Assault Rifle]] which has been modified with a mini-burner unit which uses pressurized bioferrite.
 * **Special**:
 	* Once per short rest, the user may use an action to ignite a 30ft cone in front of them. Each creature within that cone must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
-- **Lore:**
-	- *\[\*Lore]* TODO

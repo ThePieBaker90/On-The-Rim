@@ -27,7 +27,7 @@ tags:
 	* [[Stealth]]
 	* [[Unmoddable]]
 * **Value**:
-	* 250 credits
+	* 2500 credits
 * **Looks**:
 	* It is a broken Italian stiletto switchblade left permanently unsheathed. Three small bands of blood-stained tape are wrapped near the base of the blade.
 * **Special:**

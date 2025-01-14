@@ -26,7 +26,7 @@ tags:
 	- Special
 	- [[Unmoddable]]
 - **Value**:
-	- TODO
+	- 500 credits
 - **Looks**:
 	- It is a modified pipe wrench with a spiked knuckle guard and a sharp metal spike on the top
 - **Special**:

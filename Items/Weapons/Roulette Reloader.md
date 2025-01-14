@@ -38,5 +38,3 @@ tags:
 		* In effect, this makes every bullet a 50/50 chance of dealing damage.
 	* If the bullet was a blank and the gun was aimed at a friendly creature, the user immediately gains 2 actions. This does not occur if the bullet was a live round or if the shotgun was not pointed at a friendly creature.
 	* The discard pile is shuffled into the standard deck once the standard deck is fully expended. If it is expended while cards are being drawn, the discard pile is shuffled back in and the remaining needed cards are drawn from the new deck.
-- **Lore:**
-	- *\[\*Lore]* TODO

@@ -24,7 +24,7 @@ tags:
 	- Special
 	- [[Unmoddable]]
 - **Value**:
-	- TODO
+	- N/A
 - **Looks**:
 	- A black Stratocaster with smears of blood. There is a speaker roughly built into the headstock of the guitar.
 - **Special:**

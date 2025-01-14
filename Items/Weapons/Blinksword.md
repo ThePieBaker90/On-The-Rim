@@ -24,7 +24,7 @@ tags:
 	* Special
 	* [[Unmoddable]]
 * **Value**:
-	* 300 credits
+	* 1000 credits
 * **Looks**:
 	* It is a longsword with a cobalt blue blade with no imperfections. The handle is made of white painted [[Plasteel]].
 * **Special**:

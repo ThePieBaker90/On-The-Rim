@@ -28,10 +28,8 @@ tags:
 	* Special
 	* [[Unmoddable]]
 * **Value**:
-	* TODO
+	* 1000 credits
 * **Looks**:
 	* It is a long, ornate dagger with distinctive oriental designs, a reddish wooden handle, and a curved golden hilt. The other side of the handle, when holding the knife, has a crack in it.
 * Special
 	* Upon killing a creature with this weapon, the user is immediately disguised as the killed creature, this disguise lasts up to an hour and can be dispelled anytime by the user. The corpse of the creature that was killed is invisible until the disguise is dispelled. The disguise does not require concentration. 
-- **Lore:**
-	- *\[\*Lore]* TODO

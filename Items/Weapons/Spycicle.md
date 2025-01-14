@@ -28,10 +28,8 @@ tags:
 	* [[Unmoddable]]
 	* Special
 * **Value**:
-	* TODO
+	* 3000 credits
 * **Looks**:
 	* It is a long, translucent, light blue icicle. It appears not to melt in the sun.
 * **Special:**
 	* If the user is hit with fire damage, The Spycicle will melt nullifying half of the fire damage. The Spycicle will magically reform in the user's hand (or pockets) after 1 turn.
-- **Lore:**
-	- *\[\*Lore]* TODO

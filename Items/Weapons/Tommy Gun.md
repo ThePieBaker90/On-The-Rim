@@ -27,5 +27,3 @@ tags:
 	- 50 credits
 * **Looks**:
 	* A Colt Model 1921A Thompson with a drum magazine.
-- **Lore:**
-	- *\[\*Lore]* TODO

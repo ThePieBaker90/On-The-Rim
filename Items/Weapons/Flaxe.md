@@ -32,11 +32,11 @@ tags:
 	- Special
 	- [[Unmoddable]]
 - **Value**:
-	- TODO
+	- 150 credits
 - **Looks**:
 	- A handle made of a light wood which ergonomically curves and terminates in the barrel of a flare gun with a trigger to fire it not too far. Attached to this is the head of a fireman's axe. Overall this has a very impressive build quality, feeling great in the hands.
 - **Special**:
-	- Can be used as a melee weapon (Fireman's Axe) or ranged weapon (Flare Gun). 
+	- Can be used as a melee weapon (Fireman's Axe) or ranged weapon ([[Flare Gun]]). 
 	- When used as a melee weapon it does not consume any ammunition and does not need ammunition to be used. 
 	- The number needed to roll a critical hit while attacking with this weapon is reduced by 1. This effect can stack.
 	- If a critical hit is landed while attacking with the melee part of the weapon, the user may expend one piece of loaded ammunition to immediately fire a flare at the creature they just landed a critical hit on. This always hits and benefits from critical hit effects.

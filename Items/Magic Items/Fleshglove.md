@@ -15,3 +15,5 @@ Touch a target creature, that creature instantly heals 2d12 health and does one 
 Additionally the user rolls 1d20, on a 4 or lower the target has a random natural limb replaced with a random mutated limb.
 
 *A glove made out of flesh, it looks like you took the skin off of someone's hand.*
+
+Cost: 0

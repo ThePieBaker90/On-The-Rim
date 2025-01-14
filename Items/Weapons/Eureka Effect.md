@@ -24,7 +24,7 @@ tags:
 	- Special
 	- [[Unmoddable]]
 - **Value**:
-	- TODO
+	- 200 credits
 - **Looks**:
 	- It is a retro-futuristic pipe wrench with a red handle and an atomic symbol etched into the top of it. A spiral antenna, not unlike a Tesla coil, is attached to the head. A switch near the top of the grip is connected to a red wire that is plugged into the bottom of the antenna.
 - **Special**:

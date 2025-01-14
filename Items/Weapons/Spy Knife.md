@@ -23,6 +23,6 @@ tags:
 	* Light
 	* [[Stealth]]
 * **Value**:
-	* TODO
+	* 100 credits
 * **Looks**:
 	* A butterfly knife with a dark brown handle. Although it's well used, it feels great in the hands.
