@@ -1,0 +1,12 @@
+---
+tags:
+  - Condition
+  - Serum
+---
+- When a creature has the Mind-Numb condition, the following effects happen
+	- (+) x75% incoming psychic damage.
+	- (+) Cannot have their thoughts read.
+	- (+/-) Cannot have insight checks performed on them .
+	- (+/-) Cannot feel emotions.
+	- (-) Cannot perform insight checks
+	- (-) Cannot use or gain inspirations.

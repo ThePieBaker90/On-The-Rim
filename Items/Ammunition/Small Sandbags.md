@@ -1,0 +1,11 @@
+---
+tags:
+  - Item
+  - Ammunition
+---
+- **Usable In:**
+	- Special
+- **Effect:**
+	- N/A
+- **Cost:**
+	- 1 credit for 10

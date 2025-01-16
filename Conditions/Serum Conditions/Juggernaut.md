@@ -1,0 +1,14 @@
+---
+tags:
+  - Condition
+  - Serum
+---
+- When a creature has the Juggernaut condition, the following effects happen
+	- (+) Strength increases to 18.
+	- (+) Constitution increases to 18.
+	- (+) Speed increases by 10 feet.
+	- (+) Heals an additional 1 health for every 5 health healed.
+	- (-) Intelligence decreases to 10.
+	- (-) Wisdom decreases to 10.
+	- (-) Charisma decreases to 10 (except for intimidation).
+	- (-) All Intelligence, Wisdom, and Charisma skill checks (except for intimidation) roll with disadvantage.
