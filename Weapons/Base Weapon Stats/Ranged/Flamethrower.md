@@ -11,9 +11,9 @@ tags:
   - Martial
 ---
 * [[Range]]:
-	* Ranged: 5-30-60ft
+	* Ranged: 5-25-50ft
 * __Damage__:
-	* 1d10+DEX Fire
+	* 1d8+DEX Fire
 * [[Rate of Fire]]:
 	* 4
 * __Properties__:
@@ -23,6 +23,6 @@ tags:
 	* Two-Handed
 	* Heavy
 * **Value**:
-	* 70 credits
+	* 700 credits
 * **Looks**:
 	* A standard flare gun with an orange painted barrel.
