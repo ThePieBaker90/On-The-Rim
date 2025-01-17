@@ -25,7 +25,7 @@ tags:
 - **Skills**:
 	- {{\*Skill proficiencies}}
 - **Senses**:
-	- {{"Passive Perception: " + \#wisScr}}
+	- Passive Perception: {{#wisScr}}
 	- {{\*Other senses}}
 - **Languages**:
 	- {{Languages of the creature}}
