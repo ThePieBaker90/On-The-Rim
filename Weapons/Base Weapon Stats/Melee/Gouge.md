@@ -4,20 +4,19 @@ tags:
   - Melee
   - Item
   - One-Handed
-  - Martial
-  - Sap
+  - Simple
+  - Scalpel
 ---
 * [[Range]]:
 	* Melee: 5ft
 * __Damage__:
-	* 1d8 + DEX Piercing
+	* 1d4 + DEX Piercing
 * [[Rate of Fire]]:
 	* 1
 * __Properties__:
-	* Martial
+	* Simple
 	* One-Handed
-	* [[Sap]] (Mastery)
 * **Value**:
 	* 5 credits
 * **Looks**:
-	* A basic flail made out of steel.
+	* A simple gouge

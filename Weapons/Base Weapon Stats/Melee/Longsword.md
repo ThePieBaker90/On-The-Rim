@@ -3,21 +3,22 @@ tags:
   - Weapon
   - Melee
   - Item
-  - One-Handed
   - Martial
+  - Versatile
   - Sap
 ---
 * [[Range]]:
 	* Melee: 5ft
 * __Damage__:
-	* 1d8 + DEX Piercing
+	* One-Handed: 1d8 + STR Slashing
+	* Two-Handed: 1d10 + STR Slashing
 * [[Rate of Fire]]:
 	* 1
 * __Properties__:
 	* Martial
-	* One-Handed
+	* Versatile
 	* [[Sap]] (Mastery)
 * **Value**:
 	* 5 credits
 * **Looks**:
-	* A basic flail made out of steel.
+	* A standard longsword
