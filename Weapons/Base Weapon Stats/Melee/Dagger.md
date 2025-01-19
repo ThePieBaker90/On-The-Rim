@@ -18,6 +18,6 @@ tags:
 	* Simple
 	* One-Handed
 * **Value**:
-	* 5 credits
+	* 2 credits
 * **Looks**:
 	* A standard issue dagger with no identifying details.

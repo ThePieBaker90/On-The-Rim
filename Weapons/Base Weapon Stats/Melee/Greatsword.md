@@ -3,21 +3,23 @@ tags:
   - Weapon
   - Melee
   - Item
-  - One-Handed
   - Martial
-  - Sap
+  - Heavy
+  - Two-Handed
+  - Graze
 ---
 * [[Range]]:
 	* Melee: 5ft
 * __Damage__:
-	* 1d8 + DEX Piercing
+	* 2d6 + STR Slashing
 * [[Rate of Fire]]:
 	* 1
 * __Properties__:
 	* Martial
-	* One-Handed
-	* [[Sap]] (Mastery)
+	* Two Handed
+	* Heavy
+	* [[Graze]] (Mastery)
 * **Value**:
-	* 10 credits
+	* 50 credits
 * **Looks**:
-	* A basic flail made out of steel.
+	* A standard greatsword

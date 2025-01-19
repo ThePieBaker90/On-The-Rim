@@ -19,6 +19,6 @@ tags:
 	* Versatile
 	* [[Sap]] (Mastery)
 * **Value**:
-	* 5 credits
+	* 15 credits
 * **Looks**:
 	* A standard longsword

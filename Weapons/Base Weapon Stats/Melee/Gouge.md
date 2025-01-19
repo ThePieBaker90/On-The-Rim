@@ -17,6 +17,6 @@ tags:
 	* Simple
 	* One-Handed
 * **Value**:
-	* 5 credits
+	* 2 credits
 * **Looks**:
 	* A simple gouge

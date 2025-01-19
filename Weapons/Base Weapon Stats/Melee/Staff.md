@@ -18,6 +18,6 @@ tags:
 	* Martial
 	* Versatile
 * **Value**:
-	* 5 credits
+	* 2 credits
 * **Looks**:
 	* A basic staff with no extra qualities.
