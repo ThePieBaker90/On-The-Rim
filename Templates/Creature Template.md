@@ -35,7 +35,7 @@ tags:
 	- {{\*Vulnerabilities of creature}}
 - **Damage Resistances**:
 	- {{\*Resistances of creature}}
-- {{**Damage Immunities**:}}
+- **Damage Immunities**:
 	- {{\*Immunities of creature}}
 - **Condition Immunities**:
 	- {{\*Conditions that cannot affect the creature}}

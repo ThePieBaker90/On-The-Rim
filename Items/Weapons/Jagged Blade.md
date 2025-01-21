@@ -33,7 +33,7 @@ tags:
  * **Value**:
 	* 2000 credits
 * **Looks**:
-	* JUNKA QUEEN
+	* A scrapped together serrated dagger with a highly magnetic handle. The handle is painted a rust red.
 * **Special:**
 	* When the jagged blade returns to its user, it may seek around walls. It will always take the shortest path to its user.
 	* If the jagged blade’s return path passes through a creature, that creature must take a DC 14 Dexterity saving throw or take 1d6 + 2 slashing damage and gain the [[Bleeding]] condition for 2 turns.

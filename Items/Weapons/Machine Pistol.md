@@ -1,7 +1,14 @@
 ---
 tags:
-  - Template
   - Weapon
+  - Martial
+  - Ammunition
+  - Reload
+  - One-Handed
+  - Burst-Fire
+  - Pistol
+  - Firearm
+  - Item
 ---
 - [[Range]]:
 	- Ranged: 5-20-40ft
@@ -20,4 +27,4 @@ tags:
 - **Value**:
 	- 55 credits
 - **Looks**:
-	- CLEANUP a single one of the dual micro smgs from fortnite.
+	- A very compact modern machine pistol.

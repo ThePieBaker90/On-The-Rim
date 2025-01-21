@@ -7,7 +7,7 @@ tags:
 	- Creatures who are immune to poison damage are not affected by this condition.
 	- If a creature already suffers from radiation buildup and suffers another effect that causes radiation buildup, its current level of radiation buildup increases by the amount specified in the effect’s description.
 - All reductions in maximum health are rounded down if maximum health is not a whole number.
-- radiation Buildup dissipates on its own, 1 level for a short rest & 3 levels for a long rest. 
+- Radiation Buildup dissipates on its own, 1 level for a short rest & 3 levels for a long rest. 
 	- radiation Buildup can also be removed by any effect that removes the poisoned condition (unless specified in the effect's description). If removed this way, two levels of radiation buildup are removed.
 	- Greater Restoration can be used to remove 10 levels of radiation buildup.
 

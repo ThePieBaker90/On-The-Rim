@@ -23,7 +23,7 @@ tags:
 - **Properties**:
 	- Martial
 	- [[Ammunition]](1d6+1)
-	- [[Reload]](Action,  Full)
+	- [[Reload]](Action, Full)
 	- Two-Handed
 	- Special
 	- [[Unmoddable]]
