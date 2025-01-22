@@ -19,6 +19,7 @@ tags:
 		- [[Kidneys]] (x2)
 		- [[Ribs]] (x24)
 		- [[Spine]]
+		- [[Stomach]]
 	- Lower-Body
 		- [[Pelvis]]
 		- [[Legs]] (x2)
