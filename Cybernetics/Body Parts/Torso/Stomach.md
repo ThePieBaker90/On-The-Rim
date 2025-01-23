@@ -10,9 +10,9 @@ tags:
 * [[Efficiency]] Effects:
 	* +Constitution
 * Cost Multiplier:
-	* x1
+	* x0.5
 * [[Cybercost]] Multiplier:
-	* x1
+	* x0.5
 * Nonexistent Versions:
 	* Advanced Bionic and Archotech
 * Additional Info:
