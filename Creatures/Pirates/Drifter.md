@@ -1,0 +1,39 @@
+---
+tags:
+  - Creature
+  - Pirate
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid (Pirate)
+- **Alignment**:
+	- Chaotic Neutral
+- **Armor Class**:
+	- 12
+- **Health**:
+	- 11 (2d8 + 2)
+- **Speed**:
+	- 30ft
+- **Ability Scores**:
+	- **STR -** 11(0)
+	- **DEX -** 12(+1)
+	- **CON -** 12(+1)
+	- **INT -** 10(0)
+	- **WIS -** 10(0)
+	- **CHA -** 10(0)
+- **Senses**:
+	- Passive Perception: 10
+- **Languages**:
+	- Common
+- **Challenge**:
+	- 1/8
+- **Actions**:
+	- Scimitar - 1 Action
+		- *Melee Weapon Attack:* +3 to hit,  reach 5ft, one target.
+		- *Hit:* 1d6 + 1 Slashing Damage
+	-  Revolver - 1 Action
+		- *Ranged Weapon Attack:* +3 to hit,  range 5-100-200ft, one target.
+		- *Hit:* 1d8 + 1 Piercing Damage
+- **Lore**:
+	- *The lowest ranking pirate, usually sent in as meat shields for the more valuable pirates*

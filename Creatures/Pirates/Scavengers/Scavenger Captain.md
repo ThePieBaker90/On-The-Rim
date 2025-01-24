@@ -1,0 +1,49 @@
+---
+tags:
+  - Creature
+  - Pirate
+  - Scavenger
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid (Pirate)
+- **Alignment**:
+	- Neutral Evil
+- **Armor Class**:
+	- 15
+- **Health**:
+	- 38 (7d8+7)
+- **Speed**:
+	- 30ft
+- **Ability Scores**:
+	- **STR -** 13(+1)*
+	- **DEX -** 14(+2)*
+	- **CON -** 12(+1)
+	- **INT -** 10(0)
+	- **WIS -** 10(0)
+	- **CHA -** 10(0)
+- **Skills**:
+	- Athletics
+	- Sleight of Hand
+	- Survival
+- **Senses**:
+	- Passive Perception: 10
+- **Languages**:
+	- Common
+- **Challenge**:
+	- 1/2
+- **Traits**:
+	- [[Pirate Brutality]]
+- **Actions**:
+	- Rapier - 1 Action
+		- *Melee Weapon Attack:* +4 to hit,  reach 5ft, one target.
+		- *Hit:* 1d8 + 2 Piercing Damage
+	-  Revolver - 1 Action
+		- *Ranged Weapon Attack:* +4 to hit,  range 5-100-200ft, one target.
+		- *Hit:* 1d8 + 2 Piercing Damage
+	-  Boomstick - 1 Action
+		- *Ranged Weapon Attack:* +4 to hit,  range 5-20-40ft, one target.
+		- *Hit:* 2d6 Piercing Damage
+- **Lore**:
+	- *Even the lowest ranking squads need a captain*
