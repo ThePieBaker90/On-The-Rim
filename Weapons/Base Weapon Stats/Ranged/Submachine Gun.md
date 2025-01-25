@@ -15,7 +15,7 @@ tags:
 * __Damage__:
 	* 1d4+DEX piercing
 * [[Rate of Fire]]:
-	* 5
+	* 4
 * __Properties__:
 	* Martial
 	* [[Ammunition]](20)
