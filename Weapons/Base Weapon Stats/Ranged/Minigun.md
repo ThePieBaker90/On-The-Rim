@@ -12,7 +12,7 @@ tags:
 * [[Range]]:
 	* Ranged: 10-35-70ft
 * __Damage__:
-	* 1d6+DEX piercing
+	* 1d4+DEX piercing
 * [[Rate of Fire]]:
 	* 6
 * __Properties__:
@@ -23,4 +23,4 @@ tags:
 * **Value**:
 	* 90 credits
 * **Looks**:
-	* A stock M134minigun.
+	* A stock M134 minigun.
