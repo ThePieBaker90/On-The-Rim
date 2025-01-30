@@ -11,20 +11,20 @@ tags:
   - Item
 ---
 - [[Range]]:
-	- Ranged: 5-20-40ft
+	- Ranged: 5-30-60ft
 - **Target:**
 	- One Target
 - **Damage**:
-	- 1d4+DEX-2 piercing (min 1)
+	- 1d4+DEX piercing
 - [[Rate of Fire]]:
-	- 6
+	- 4
 - **Properties**:
 	- Martial
-	* [[Ammunition]](36)
-	* [[Reload]](Action, Full)
+	* [[Ammunition]](12)
+	* [[Reload]](Bonus Action, Full)
 	* One-Handed
 	* [[Burst Fire]]
 - **Value**:
 	- 55 credits
 - **Looks**:
-	- A very compact modern machine pistol.
+	- A quad barreled machine pistol with two barrels over the trigger and two barrels under the trigger.

@@ -1,0 +1,21 @@
+---
+tags:
+  - Cybernetic
+  - Eyes
+---
+- **Install Location:**
+	- [[Eyes]]
+- **Replaces the Part:**
+	- No.
+- **[[Efficiency]]:**
+	- N/A
+- **[[Efficiency]] Effects:**
+	- N/A
+- **Cost:**
+	- 1450 credits
+- **[[Cybercost]]:**
+	- 2
+- **Abilities:**
+	- User does not need any components to cast spells that use [[Abomination Matter]] as a material (Unless a material component has a specified cost).
+- **Looks:**
+	- Streaks of [[Abomination Matter]] descend from the tear ducts of each eye.

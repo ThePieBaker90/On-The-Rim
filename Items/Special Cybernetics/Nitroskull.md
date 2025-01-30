@@ -17,7 +17,7 @@ tags:
 * [[Cybercost]]:
 	* 4
 * Abilities:
-	* The user may drink 500mL of [[Chemfuel]] to the following effects for 60 seconds (10 turns):
+	* The user may drink 500mL of [[Chemfuel]] to get the following effects for 60 seconds (10 turns):
 		* Double speed.
 		* All melee attacks deal an extra 1d6 force damage.
 		* All ranged attacks have +1 to their [[Rate of Fire]]

@@ -28,4 +28,4 @@ tags:
 - **Looks**:
 	- It is an antique monkey [[Wrench]].
 - **Special**:
-	- The user may expend a level 1 spell slot to create a level 1 sentry. This sentry always takes its turn after its creator and always attacks the closest hostile creature. The sentry never misses and deals 1d6 piercing damage. The level 1 sentry has an AC of 10 and 20 health.
+	- The user may expend a level 1 spell slot to create a [[Level 1 Sentry]]. The user may have only 1 of these out at a time.

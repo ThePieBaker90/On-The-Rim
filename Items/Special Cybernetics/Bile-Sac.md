@@ -1,0 +1,21 @@
+---
+tags:
+  - Cybernetic
+  - Heart
+---
+- **Install Location:**
+	- [[Heart]]
+- **Replaces the Part:**
+	- No.
+- **[[Efficiency]]:**
+	- N/A
+- **[[Efficiency]] Effects:**
+	- N/A
+- **Cost:**
+	- {{cost}} credits
+- **[[Cybercost]]:**
+	- 2
+- **Abilities:**
+	- TODO
+- **Looks:**
+	- TODO

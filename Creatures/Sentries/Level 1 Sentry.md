@@ -1,0 +1,47 @@
+---
+tags:
+  - Creature
+---
+- **Size**:
+	- Small
+- **Type**:
+	- Construct (Turret)
+- **Alignment**:
+	- True Neutral
+- **Armor Class**:
+	- 10
+- **Health**:
+	- TODO (6d6)
+- **Speed**:
+	- None.
+- **Ability Scores**:
+	- **STR -** 10(0)
+	- **DEX -** 15(+2)*
+	- **CON -** 10(0)
+	- **INT -** 14(+2)
+	- **WIS -** 14(+2)
+	- **CHA -** 1(-5)
+- **Skills**:
+	- [[Sight-Based Perception]]
+- **Senses**:
+	- Passive Perception: 16
+- **Languages**:
+	- None.
+- **Challenge**:
+	- {{#challengeRating}}
+- **Damage Vulnerabilities**:
+	- Electric
+- **Damage Immunities**:
+	- Psychic
+	- Poison
+- **Actions**:
+	- Shoot - 1 Action
+		- *Ranged Weapon Attack:* +7 to hit, range 10-60-120ft, One Target.
+		- *ROF:* 2
+		- *Hit:* 1d6 piercing damage
+	- Shoot - Reaction to enemy creature entering sight line within range
+		- *Ranged Weapon Attack:* +4 to hit, range 10-60-120ft, One Target.
+		- *ROF:* 1
+		- *Hit:* 1d6 piercing damage
+- **Lore**:
+	- *{{Lore of creature}}*

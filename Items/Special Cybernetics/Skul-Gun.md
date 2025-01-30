@@ -1,0 +1,25 @@
+---
+tags:
+  - Cybernetic
+  - Skull
+---
+- **Install Location:**
+	- [[Skull]]
+- **Replaces the Part:**
+	- No.
+- **[[Efficiency]]:**
+	- N/A
+- **[[Efficiency]] Effects:**
+	- N/A
+- **Cost:**
+	- 400 credits
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- The user gains the Skul-Gun action.
+	- Skul-Gun - 1 Action
+		- *Ranged Weapon Attack:* +DEX to hit, range 5-35-70ft, One Target.
+		- *ROF:* 2
+		- *Hit:* 1d8 + DEX piercing damage
+- **Looks:**
+	- A hole in the skull and skin allow for an internal gun to fire. The gun generates its own ammunition.
