@@ -10,17 +10,16 @@ tags:
   - One-Handed
   - Light
   - Revolver
-  - Unmoddable
   - Unique
 ---
 - [[Range]]:
-	- Ranged: 10-60-120ft
+	- Ranged: 10-100-200ft
 - **Target:**
 	- One Target
 - **Damage**:
 	- 1d12+DEX piercing
 - [[Rate of Fire]]:
-	- 1.5
+	- 1
 - **Properties**:
 	- Martial
 	* [[Ammunition]](6)
