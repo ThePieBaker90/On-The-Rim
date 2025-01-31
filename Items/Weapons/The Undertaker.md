@@ -17,7 +17,7 @@ tags:
 - **Target:**
 	- One Target
 - **Damage**:
-	- 1d12+DEX piercing
+	- 1d10+DEX piercing
 - [[Rate of Fire]]:
 	- 1
 - **Properties**:
@@ -26,8 +26,10 @@ tags:
 	* [[Reload]](Bonus Action, Full)
 	* One-Handed
 	* Light
-	* [[Unmoddable]]
+	* Special
 - **Value**:
-	- 90 credits
+	- 400 credits
 * **Looks**:
-	* A Colt Python revolver with a miniature metal cowboy hat welded onto the hammer. The words "*This Thang Spits*" are engraved onto the side of the extended barrel.
+	* .
+- **Special:**
+	- .
