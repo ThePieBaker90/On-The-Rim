@@ -11,9 +11,10 @@ tags:
   - Light
   - Revolver
   - Unique
+  - Vampiric
 ---
 - [[Range]]:
-	- Ranged: 10-100-200ft
+	- Ranged: 5-70-140ft
 - **Target:**
 	- One Target
 - **Damage**:
@@ -23,13 +24,11 @@ tags:
 - **Properties**:
 	- Martial
 	* [[Ammunition]](6)
-	* [[Reload]](Bonus Action, Full)
+	* [[Reload]](Action, Full)
 	* One-Handed
 	* Light
-	* Special
+	* [[Vampiric]](50%)
 - **Value**:
 	- 400 credits
 * **Looks**:
-	* .
-- **Special:**
-	- .
+	* A custom fully black Korth Combat revolver with red embellishments.

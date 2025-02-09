@@ -12,10 +12,10 @@ tags:
 - **[[Efficiency]] Effects:**
 	- N/A
 - **Cost:**
-	- {{cost}} credits
+	- 2400 credits
 - **[[Cybercost]]:**
-	- 2
+	- 4
 - **Abilities:**
-	- TODO
+	- Gives the user 3 additional level 1 spell slots and 1 spell slot of the highest level that the user already has (maximum of level 5)
 - **Looks:**
-	- TODO
+	- A sac made of various animal skins which has been infused with similar [[Mechanites]] found in a [[Basic Psylink|Psylink]].

@@ -11,7 +11,7 @@ tags:
 - **Armor Class**:
 	- 10
 - **Health**:
-	- 21 (6d6)
+	- 42 (12d6)
 - **Speed**:
 	- None.
 - **Ability Scores**:
@@ -28,7 +28,7 @@ tags:
 - **Languages**:
 	- None.
 - **Challenge**:
-	- 1
+	- 2
 - **Damage Vulnerabilities**:
 	- Electric
 - **Damage Immunities**:
@@ -38,8 +38,8 @@ tags:
 	- Shoot - 1 Action
 		- *Ranged Weapon Attack:* +7 to hit, range 10-60-120ft, One Target.
 		- *ROF:* 2
-		- *Hit:* 1d6 piercing damage
+		- *Hit:* 1d12 bludgeoning damage
 	- Shoot - Reaction to enemy creature entering sight line within range
 		- *Ranged Weapon Attack:* +4 to hit, range 10-60-120ft, One Target.
 		- *ROF:* 1
-		- *Hit:* 1d6 piercing damage
+		- *Hit:* 1d12 bludgeoning damage

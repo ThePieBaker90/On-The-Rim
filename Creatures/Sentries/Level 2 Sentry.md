@@ -28,7 +28,7 @@ tags:
 - **Languages**:
 	- None.
 - **Challenge**:
-	- {{#challengeRating}}
+	- 2
 - **Damage Vulnerabilities**:
 	- Electric
 - **Damage Immunities**:
@@ -43,5 +43,3 @@ tags:
 		- *Ranged Weapon Attack:* +4 to hit, range 10-60-120ft, One Target.
 		- *ROF:* 2
 		- *Hit:* 1d6 piercing damage
-- **Lore**:
-	- *{{Lore of creature}}*

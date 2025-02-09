@@ -11,7 +11,7 @@ tags:
 - **Armor Class**:
 	- 10
 - **Health**:
-	- 21 (6d6)
+	- 42 (12d6)
 - **Speed**:
 	- None.
 - **Ability Scores**:
@@ -28,18 +28,19 @@ tags:
 - **Languages**:
 	- None.
 - **Challenge**:
-	- 1
+	- 2
 - **Damage Vulnerabilities**:
 	- Electric
 - **Damage Immunities**:
+	- Fire
 	- Psychic
 	- Poison
 - **Actions**:
 	- Shoot - 1 Action
-		- *Ranged Weapon Attack:* +7 to hit, range 10-60-120ft, One Target.
-		- *ROF:* 2
-		- *Hit:* 1d6 piercing damage
+		- *Ranged Weapon Attack:* +7 to hit, range 10-30-60ft, One Target.
+		- *ROF:* 4
+		- *Hit:* 1d6 fire damage
 	- Shoot - Reaction to enemy creature entering sight line within range
-		- *Ranged Weapon Attack:* +4 to hit, range 10-60-120ft, One Target.
-		- *ROF:* 1
-		- *Hit:* 1d6 piercing damage
+		- *Ranged Weapon Attack:* +4 to hit, range 10-30-60ft, One Target.
+		- *ROF:* 2
+		- *Hit:* 1d6 fire damage

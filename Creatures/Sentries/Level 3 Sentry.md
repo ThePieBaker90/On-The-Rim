@@ -28,7 +28,7 @@ tags:
 - **Languages**:
 	- None.
 - **Challenge**:
-	- {{#challengeRating}}
+	- 3
 - **Damage Vulnerabilities**:
 	- Electric
 - **Damage Immunities**:
@@ -36,7 +36,7 @@ tags:
 	- Poison
 - **Actions**:
 	- Shoot - 1 Action
-		- *Ranged Weapon Attack:* +7 to hit, range 10-60-120ft, One Target.
+		- *Ranged Weapon Attack:* +8 to hit, range 10-60-120ft, One Target.
 		- *ROF:* 4
 		- *Hit:* 1d10 piercing damage
 	- Shoot - Reaction to enemy creature entering sight line within range
