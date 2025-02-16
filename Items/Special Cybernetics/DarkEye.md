@@ -3,7 +3,7 @@ tags:
   - Cybernetic
   - Eyes
 ---
-* Install Location:
+ * Install Location:
 	* [[Eyes|Eye]]
 * Replaces the Part:
 	* Yes.

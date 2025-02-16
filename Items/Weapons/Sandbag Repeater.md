@@ -27,6 +27,6 @@ tags:
 - **Value**:
 	- 20 credits
 * **Looks**:
-	* A hand-crossbow which has been modified to launch sandbags at high speeds. The modifications are expertly done.
+	* A heavy-crossbow which has been modified to launch sandbags at high speeds. The modifications are expertly done.
 - **Special**:
 	- Uses [[Small Sandbags]] as ammo rather than bolts.

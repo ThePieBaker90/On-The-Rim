@@ -12,12 +12,12 @@ tags:
 - __Strength Needed To Wear__:
 	- N/A
 - __Properties__:
-	- [[Eltex]]
+	- [[Armor and Shields/Properties/Eltex|Eltex]]
 	- Flammable
 - **Value:**
 	- 110 credits
 - **Looks:**
 	- A long teal cloak which shimmers uniquely in light.
 - **Lore:**
-	- *A long teal clock embedded with special spellcasting enhancing materials. The cloak shimmers indescribably in the light.*
+	- *A long teal cloak made of [[Materials/Eltex|Eltex]] weave. The cloak shimmers indescribably in the light.*
 

@@ -3,7 +3,7 @@ tags:
   - Trait
   - Sanguofeeder
 ---
-A creature with the sanguofeeder trait gains the Sanguofeed action. They may only take blood from [[Sanguophage]] (and its sub-xenotypes) humanoids.
+A creature with the sanguofeeder trait gains the Sanguofeed action. They may only take blood from [[Sanguophage]], [[Bruxa]], [[Strigoi]], or [[Ekkimian]] humanoids.
 
 This trait gives the creature 1000 mL of [[Sanguophage Blood]] storage.
 

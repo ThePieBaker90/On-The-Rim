@@ -9,7 +9,7 @@ tags:
   - Mild-UV-Sensitivity
   - Bloodfeeder
   - Uncanny-Coagulation
-
+  - Tinderskin
 ---
 *Sanguophages are a type of archotech-enhanced xenotype. Powered by [[Archites]], their abilities go far beyond normal genetic enhancements. They are mentally adept and preternaturally beautiful. Sanguophages must regularly consume hemogen derived from human blood, and they're easily destroyed by fire.
 The first sanguophage appeared thousands of years ago when the lord-explorer Varan-Dur sought to control a hyperintelligent archotech and found himself transformed by it instead. Every sanguophage is descended from him. Since then, sanguophages have often been hunted because of their destabilizing power and their need for blood. Since they can pass for baseliners, many live in hiding among typical humans.  
@@ -26,19 +26,21 @@ Players who are a Sanguophage have the following changes:
 * Gain Damage Vulnerabilities
 	* Fire
 	* Radiant
+* Gain Damage Immunities
+	* Poison
 * Gain the following traits
-	* Sanguophage Inherent Traits:
-		* [[Hemogenic]]
-		* [[Mild UV Sensitivity]]
-		* [[Bloodfeeder]]
-		* [[Tinderskin]]
-	* Sub-Xenotype Specific Traits:
-		* [[Longjump Legs]]
-		* [[Superfast Wound Healing]]
-		* [[Uncanny Coagulation]]
-
+	* [[Hemogenic]]
+	* [[Mild UV Sensitivity]]
+	* [[Tinderskin]]
+	* [[Superfast Wound Healing]]
+	* [[Bloodfeeder]]
+	* [[Longjump Legs]]
+	* [[Uncanny Coagulation]]
+* Gain the following appearance changes
+	* Elongated canine teeth.
+	* Lack of wrinkles or other age related features.
 
 Sanguophages also gain the sanguophage implant action.
 
 Sanguophage Implant:
-You bite a creature of choice within 5ft of you. This will always succeed if the target is willing or asleep. Additionally, a target who is asleep will not be woken up. The target will be transformed into a [[Fledgling]] immediately.
+You bite a creature of choice within 5ft of you. This will always succeed if the target is willing or asleep. Additionally, a target who is asleep will not be woken up. The target will be transformed into a [[Sanguophage Fledgling]] immediately.
