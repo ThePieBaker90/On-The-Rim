@@ -4,7 +4,7 @@ tags:
   - Kidneys
 ---
 * Install Location:
-	* [[Kidneys|Kidney]]
+	* [[Kidneys|Kidney]] (Module)
 * Replaces the Part:
 	* No.
 * [[Efficiency]]:

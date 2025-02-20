@@ -1,0 +1,11 @@
+---
+tags:
+  - Trait
+  - Mild-Light-Sensitivity
+---
+- A creature with the Mild Light Sensitivity trait suffers from the following:
+	- The [[Flashed]] condition lasts for twice as long.
+	- -1d4 - 2 (min 0) modifier to all rolls while in bright light.
+	- Gain the [[Flashed]] condition for 1 turn when a bright light is generated suddenly within 10 ft.
+		- For example, if the creature is in dim-light and the light cantrip is cast next to them, they gain [[Flashed]] for 1 turn.
+		- The [[Flashed]] granted by this cannot be doubled by other effects of this trait.

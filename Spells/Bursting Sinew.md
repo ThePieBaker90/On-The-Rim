@@ -1,0 +1,30 @@
+---
+tags:
+  - Spell
+  - Cantrip
+  - Necromancy
+  - Cleric
+  - Druid
+  - Ranger
+  - Wizard
+  - Sorcerer
+---
+- **Spell Type**:
+	- Necromancy Cantrip
+- **Casting Time**:
+	- 1 Action
+- [[Range]]:
+	- 60 ft
+- **Target**:
+	- A corpse with a skeletal system within range.
+- **Components**:
+	- V, S
+- **Duration**:
+	- Instant
+- **Classes**:
+	- Cleric, Druid, Ranger, Sorcerer, Wizard
+- **Spell**:
+	- All creatures within a 10 ft sphere of the corpse must make a dexterity saving throw. Upon a failed save they take 1d12 piercing damage.
+	- Corpses targeted by this spell have their bones explode outwards, and therefore cannot be targeted by this spell again.
+- **At Higher Levels**:
+	- This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12) and 17th level (4d12).

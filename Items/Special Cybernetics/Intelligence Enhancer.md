@@ -4,7 +4,7 @@ tags:
   - Brain
 ---
 * Install Location:
-	* [[Brain]]
+	* [[Brain]] (Enhancer)
 * Replaces the Part:
 	* No.
 * [[Efficiency]]:

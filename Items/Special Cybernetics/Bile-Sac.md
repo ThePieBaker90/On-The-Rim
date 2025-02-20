@@ -4,7 +4,7 @@ tags:
   - Heart
 ---
 - **Install Location:**
-	- [[Heart]]
+	- [[Heart]] (Sac)
 - **Replaces the Part:**
 	- No.
 - **[[Efficiency]]:**
@@ -18,4 +18,4 @@ tags:
 - **Abilities:**
 	- Gives the user 3 additional level 1 spell slots and 1 spell slot of the highest level that the user already has (maximum of level 5)
 - **Looks:**
-	- A sac made of various animal skins which has been infused with similar [[Mechanites]] found in a [[Basic Psylink|Psylink]].
+	- A sac made of various animal skins which creates and holds [[Psychofluid]].

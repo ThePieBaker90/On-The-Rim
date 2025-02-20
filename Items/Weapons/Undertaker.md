@@ -16,7 +16,7 @@ tags:
 - [[Range]]:
 	- Ranged: 5-70-140ft
 - **Target:**
-	- One Target
+[Undertaker]]	- One Target
 - **Damage**:
 	- 1d10+DEX piercing
 - [[Rate of Fire]]:

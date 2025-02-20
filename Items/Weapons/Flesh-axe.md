@@ -10,7 +10,7 @@ tags:
   - Martial
 ---
 * [[Range]]:
-	* Melee: 10ft
+	* Melee: 5ft
 - **Target:**
 	- One Target
 * __Damage__:

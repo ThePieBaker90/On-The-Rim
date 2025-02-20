@@ -4,7 +4,7 @@ tags:
   - Eyes
 ---
 - **Install Location:**
-	- [[Eyes]]
+	- [[Eyes]] (Tear Ducts)
 - **Replaces the Part:**
 	- No.
 - **[[Efficiency]]:**
@@ -17,5 +17,6 @@ tags:
 	- 2
 - **Abilities:**
 	- User does not need any components to cast spells that use [[Abomination Matter]] as a material (Unless a material component has a specified cost).
+	- The user may cast one spell that uses [[Abomination Matter]] as a material without expending a spell slot once per long rest.
 - **Looks:**
 	- Streaks of [[Abomination Matter]] descend from the tear ducts of each eye.

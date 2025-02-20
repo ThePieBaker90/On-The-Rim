@@ -15,9 +15,9 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - [[Range]]:
-	- 30ft
+	- 30 ft
 - **Target**:
-	- Up to 1kg of [[Abomination Matter]]
+	- A point within range.
 - **Components**:
 	- S, M (Up to 1kg of [[Abomination Matter]])
 - **Duration**:

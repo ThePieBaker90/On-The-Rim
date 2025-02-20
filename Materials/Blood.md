@@ -6,7 +6,7 @@ tags:
 ---
 - **Rarity**:
 	- Common
-	- Found in all living (non-construct & non-undead) creatures without unique blood ([[Sanguophage|Sanguophages]] having [[Sanguophage Blood]])
+	- Found in all living (non-construct & non-undead) creatures without unique blood ([[Sanguophage|Sanguophages]] having [[Hemogenic Blood]])
 - **Common Uses**:
 	- Needed to survive for creatures with the [[Hemogenic]] trait.
 - **Looks:**
