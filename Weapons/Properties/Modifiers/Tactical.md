@@ -4,7 +4,7 @@ tags:
   - Modifier
 ---
 * Cost:
-	* +80% cost
+	* +200% cost
 * Usability:
 	* Usable on all firearms
 * Effects:

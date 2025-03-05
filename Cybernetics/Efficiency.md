@@ -18,7 +18,7 @@ Below is a table of each type of cybernetic, its cost, its efficiency, and its [
 | --------------- | ------------ | ---------- | -------------- |
 | Missing         | N/A          | 0%         | 0              |
 | Prosthetic      | 100 credits  | 90%        | 0              |
-| Natural         | 1000 credits | 100%       | 0              |
+| Natural         | 400 credits  | 100%       | 0              |
 | Bionic          | 500 credits  | 110%       | 1              |
 | Advanced Bionic | 1100 credits | 120%       | 2              |
 | Archotech       | 5500 credits | 150%       | 4              |

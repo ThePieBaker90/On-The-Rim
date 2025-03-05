@@ -29,6 +29,6 @@ tags:
 	* Light
 	* [[Unmoddable]]
 - **Value**:
-	- 90 credits
+	- 750 credits
 * **Looks**:
 	* A Colt Python revolver with a miniature metal cowboy hat welded onto the hammer. The words "*This Thang Spits*" are engraved onto the side of the extended barrel.

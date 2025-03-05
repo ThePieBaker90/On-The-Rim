@@ -23,8 +23,9 @@ TODO
 		* [[Minor Light Sensitivity]]
 		* [[Warhowl]]
 	* Gain the following appearance changes
-		* TODO.
-	* Morph into a [[Wolfman]] at 6am every day. They will morph back to a [[Lycan]] at 6pm the following night.
+		* Fur grows everywhere.
+		* Gain a canine nose, ears, and tail. (normal ears )
+	* Morph into a [[Wolfman]] at 6am every day. They will morph back to a [[Lycan]] at 6pm the following night. (All appearance changes revert, fur falls off)
 	* Gain the lycan implant action.
 
 - Lycan Implant:

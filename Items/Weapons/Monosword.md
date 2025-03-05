@@ -25,6 +25,6 @@ tags:
 * **Value**:
 	* 3000 credits
 * **Looks**:
-	* It is a crystal-metallic longsword infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease.
+	* A crystal-metallic [[Longsword]] infused with [[Mechanites]] that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease.
 * **Special**:
 	* When this weapon successfully damages an opponent, that opponent's currently equipped armor gains the [[Broken Armor]] condition. 

@@ -26,6 +26,6 @@ tags:
 - **Value**:
 	* 1400 credits
 * **Looks**:
-	*  It is a large retro-futuristic ray gun with some metal parts colored silver with a large red battery attached at the bottom. It fires waves of heat energy rather than fire.
+	*  A large retro-futuristic ray gun with some metal parts colored silver with a large red battery attached at the bottom. It fires waves of heat energy.
 * **Special**:
 	* Creatures hit by this weapon have 1d6 turns of [[Plasma Burned]] applied.
