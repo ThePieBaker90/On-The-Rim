@@ -1,0 +1,12 @@
+---
+tags:
+  - Item
+  - Ammunition
+---
+- **Usable In:**
+	- [[Shotgun]]s
+- **Effect:**
+	- 1 dice worth of damage becomes fire damage rather than piercing damage.
+	- 1 fire damage dealt to target upon a missed shot
+- **Cost:**
+	- 1 credit for 5

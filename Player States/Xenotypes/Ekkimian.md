@@ -20,8 +20,6 @@ tags:
 		* +1 to CON score (Max 20)
 		* +1 to INT score (Max 20)
 		* -3 to CHA score (Min 1)
-	* Gain Damage Immunities
-		* Poison
 	* Gain Damage Vulnerabilities
 		* Fire
 		* Radiant
