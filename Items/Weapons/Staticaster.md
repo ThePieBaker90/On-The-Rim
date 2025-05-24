@@ -15,7 +15,7 @@ tags:
 - **Target:**
 	- One Target
 - **Damage**:
-	- 1d8 Thunder
+	- 1d8 + CHA Thunder
 - [[Rate of Fire]]:
 	- 1
 - **Properties**:

@@ -14,4 +14,4 @@ Though most Transcendent worlds maintain the same state indefinitely – where t
 ## Archotechnology
 - [[Archites]]
 - Archotech Cybernetics
-- [[Basic Psylink|Psylinks]]
+- [[NOR-1 My First Psylink|Psylinks]]

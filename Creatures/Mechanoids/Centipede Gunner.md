@@ -1,0 +1,50 @@
+---
+tags:
+  - Creature
+  - Mechanoid
+  - Construct
+  - Heavy-Mechanoid
+---
+- **Size**:
+	- Large
+- **Type**:
+	- Construct (Mechanoid)
+- **Alignment**:
+	- Lawful Evil
+- **Armor Class**:
+	- 14
+- **Health**:
+	-  97 (13d10 + 26)
+- **Speed**:
+	- 20ft
+- **Ability Scores**:
+	- **STR -** 11(0)
+	- **DEX -** 12(+1)
+	- **CON -** 14(+2)*
+	- **INT -** 15(+2)*
+	- **WIS -** 15(+2)*
+	- **CHA -** 10(0)
+- **Skills**:
+	- Perception
+	- [[Mechanical Skill|Mechanical]]
+- **Senses**:
+	- Passive Perception: 14
+	- Darkvision: 60ft
+- **Languages**:
+	- Mechanoid
+- **Challenge**:
+	- 2
+- **Damage Resistances:**
+	- Psychic
+- **Damage Immunities**:
+	- Fire
+	- Poison
+- **Traits**:
+	- [[Mechanoid]]
+- **Actions**:
+	- Minigun - 1 Action
+		- *Ranged Spell Attack:* 14 Spellcasting Ability, range 15-100-200ft, 10ft cube within range.
+		- Each creature within the 10ft cube must succeed a DC 14 Dexterity saving throw or be hit by the minigun.
+		- *Hit:* 2d10 + 4 Piercing Damage
+- **Lore**:
+	- *Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.*

@@ -1,0 +1,26 @@
+---
+tags:
+  - Cybernetic
+  - Heart
+---
+- **Install Location:**
+	- [[Heart]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- Depends.
+- **[[Efficiency]] Effects:**
+	- +Constitution
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- Grows [[Fleshmass]] inside the user, this [[Fleshmass]] growth is measured in a percent and must be pruned to reduce the amount. 
+		- [[Fleshmass]] growth increases by 20% every day.
+		- [[Fleshmass]] growth can be pruned with an invasive medical procedure that takes 2 hours and 1 [[Industrial-Tech Medicine]]. The [[Fleshmass]] growth can be pruned to any amount below its current amount.
+		- When the [[Fleshmass]] growth reaches 100% the user gains a random mutation and the growth drops to 50%.
+	- Efficiency of the part is determined by the following equation: 
+		- `100% + (Fleshmass Growth% / 4)`
+- **Looks:**
+	- A heart made of cancerous flesh, it has way too many ventricles, atriums, arteries, and veins.

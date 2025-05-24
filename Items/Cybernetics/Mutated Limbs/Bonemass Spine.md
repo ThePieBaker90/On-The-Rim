@@ -1,0 +1,23 @@
+---
+tags:
+  - Cybernetic
+  - Spine
+---
+- **Install Location:**
+	- [[Spine]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 120%
+- **[[Efficiency]] Effects:**
+	- +Constitution
+	- -Dexterity
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 0.5
+- **Abilities:**
+	- Getting up from prone takes an entire action in addition to other costs.
+	- Cannot be removed through [[Core Critical Changes|Critical Effects]].
+- **Looks:**
+	- The spine grows extra bone which is unnaturally strong, unfortunately these growths restrict movement in the spine.

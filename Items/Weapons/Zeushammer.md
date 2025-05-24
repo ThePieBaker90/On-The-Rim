@@ -6,7 +6,6 @@ tags:
   - Item
   - Melee
   - Hammer
-  - Martial
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -24,3 +23,4 @@ tags:
 	* 3000 credits
 * **Looks**:
 	* A Warhammer with an embedded EMP capacitor. Upon impact, it blasts the target with an EMP burst.
+	* Manufactured by Raging Barbarian Inc.

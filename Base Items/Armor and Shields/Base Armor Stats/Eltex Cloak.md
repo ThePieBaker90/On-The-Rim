@@ -1,0 +1,23 @@
+---
+tags:
+  - Armor
+  - Item
+  - Eltex
+  - Clothing
+---
+- __Type of Armor__:
+	- Clothing
+- __Armor Class__:
+	- 10 + DEX
+- __Strength Needed To Wear__:
+	- N/A
+- __Properties__:
+	- [[Base Items/Armor and Shields/Properties/Eltex|Eltex]]
+	- Flammable
+- **Value:**
+	- 110 credits
+- **Looks:**
+	- A long teal cloak which shimmers uniquely in light.
+- **Lore:**
+	- *A long teal cloak made of [[Materials/Eltex|Eltex]] weave. The cloak shimmers indescribably in the light.*
+

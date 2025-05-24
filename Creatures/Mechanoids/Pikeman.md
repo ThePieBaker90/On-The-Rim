@@ -1,0 +1,49 @@
+---
+tags:
+  - Creature
+  - Mechanoid
+  - Construct
+  - Medium-Mechanoid
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Construct (Mechanoid)
+- **Alignment**:
+	- Lawful Evil
+- **Armor Class**:
+	- 12
+- **Health**:
+	- 42 (12d8 - 12)
+- **Speed**:
+	- 25ft
+- **Ability Scores**:
+	- **STR -** 7(-2)
+	- **DEX -** 14(+2)*
+	- **CON -** 9(-1)
+	- **INT -** 13(+1)
+	- **WIS -** 13(+1)
+	- **CHA -** 11(0)
+- **Skills**:
+	- Perception
+	- [[Mechanical Skill|Mechanical]]
+- **Senses**:
+	- Passive Perception: 16
+	- Darkvision: 120ft
+- **Languages**:
+	- Mechanoid
+- **Challenge**:
+	- 1/2
+- **Damage Resistances:**
+	- Psychic
+- **Damage Immunities**:
+	- Fire
+	- Poison
+- **Traits**:
+	- [[Mechanoid]]
+- **Actions**:
+	- Needle Gun - 1 Action
+		- *Ranged Weapon Attack:* +4 to hit, range 10-120-240ft, one target.
+		- *Hit:* 1d4 + 4 Piercing Damage.
+- **Lore**:
+	- *A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.*

@@ -9,6 +9,7 @@ tags:
   - Spear
   - Simple
   - Special
+  - Finesse
 ---
 * [[Range]]:
 	* Melee: 10ft
@@ -23,6 +24,7 @@ tags:
 	* Versatile(1d8)
 	* Reach
 	* Thrown(10-30-60ft)
+	* Finesse
 	* Special
 * **Value**:
 	* 3000 credits

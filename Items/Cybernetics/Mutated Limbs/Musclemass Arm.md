@@ -1,0 +1,22 @@
+---
+tags:
+  - Cybernetic
+  - Arms
+---
+- **Install Location:**
+	- [[Arms|Arm]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +[[Upper-Body Strength and Dexterity]]
+	- -Charisma
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- Gain advantage on [[Upper-Body Strength and Dexterity|Upper-Body Strength]] checks.
+- **Looks:**
+	- Muscles in the arm overgrow giving an extremely ugly appearance.

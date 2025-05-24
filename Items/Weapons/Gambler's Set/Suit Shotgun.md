@@ -13,7 +13,7 @@ tags:
   - Unique
 ---
 - [[Range]]:
-	- Ranged: 15-30-60ft
+	- Ranged: 5-30-60ft
 - **Target:**
 	- One Target
 - **Damage**:
@@ -22,7 +22,7 @@ tags:
 	- 1
 - **Properties**:
 	- Martial
-	- [[Ammunition]](1d6+1)
+	- [[Ammunition]](4)
 	- [[Reload]](Action, Full)
 	- Two-Handed
 	- Special
@@ -32,9 +32,7 @@ tags:
 * **Looks**:
 	* A sawed off Remington 870 shotgun with dried bloodstains around the muzzle. There is a small engraving of a poker chip on the right side of the stock. You can feel a faint psychic presence from within.
 * **Special:**
-	* Can only be reloaded if there are no bullets left in the magazine.
 	* When reloaded:
-		* The number of bullets loaded is equal to 1d6+1. 
 		* the DM should draw a playing card from a standard deck for every bullet. This card is added face down into a second deck (called the "bullet deck"). 
 	* Anytime the weapon is used one card is drawn from the bullet deck and shown to the players. 
 		* If the card's suit is a spade or club (black suit) then the bullet was a blank and no damage is done. The card is then added to the discard pile.

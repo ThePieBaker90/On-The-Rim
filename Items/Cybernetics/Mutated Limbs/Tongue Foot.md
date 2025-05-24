@@ -1,0 +1,22 @@
+---
+tags:
+  - Cybernetic
+  - Feet
+---
+- **Install Location:**
+	- [[Feet|Foot]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +[[Lower-Body Strength and Dexterity|Lower-Body Strength]]
+	- -[[Lower-Body Strength and Dexterity|Lower-Body Dexterity]]
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 0.25
+- **Abilities:**
+	- You can taste things with your foot
+- **Looks:**
+	- A giant tongue which attaches to the ankle

@@ -1,0 +1,22 @@
+---
+tags:
+  - Cybernetic
+  - Liver
+---
+- **Install Location:**
+	- [[Liver]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +Constitution
+	- -Dexterity
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 0.5
+- **Abilities:**
+	- User cannot get drunk
+- **Looks:**
+	- A wad of cancerous flesh which somehow functions as a liver, albeit painfully.

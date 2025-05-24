@@ -7,19 +7,21 @@ tags:
   - Finesse
   - Simple
   - Versatile
+  - Special
 ---
 * [[Range]]:
 	* Melee: 5ft
 - **Target:**
 	- One Target
 * __Damage__:
-	* 1d6 + STR/DEX bludgeoning
+	* 1d6 + STR bludgeoning
 * [[Rate of Fire]]:
 	* 1
 * __Properties__:
 	* Simple
 	* Versatile(1d8)
 	* Finesse
+	* Special
 * **Value**:
 	* 300 credits
 * **Looks**:

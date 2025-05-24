@@ -1,0 +1,21 @@
+---
+tags:
+  - Cybernetic
+  - Spine
+---
+- **Install Location:**
+	- [[Spine]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +Constitution
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 0.5
+- **Abilities:**
+	- When the user is damaged, all creatures within 10ft of the user must make a DC 16 constitution saving throw, on a failed save they take 1d6 acid damage.
+- **Looks:**
+	- Bulbs of a yellow bodily fluid emerge up and down the back around the spine. These bulbs are spherical and range in diameter from 1 inch to 6 inches.

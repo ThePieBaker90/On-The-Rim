@@ -1,0 +1,23 @@
+---
+tags:
+  - Cybernetic
+  - Jaw
+---
+- **Install Location:**
+	- [[Jaw]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +Intimidation
+	- -Persuasion
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 0.5
+- **Abilities:**
+	- The user can bite as a melee weapon attack dealing 1d4+STR piercing damage to a target.
+	- All bite attacks made by the user deal an additional 5 piercing damage.
+- **Looks:**
+	- The jaw muscles over develop creating a very refined and strong jaw, unfortunately talking isn't the easiest.

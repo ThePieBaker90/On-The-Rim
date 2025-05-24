@@ -1,0 +1,22 @@
+---
+tags:
+  - Cybernetic
+  - Arms
+---
+- **Install Location:**
+	- [[Arms|Arm]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +[[Lower-Body Strength and Dexterity]]
+	- -Charisma
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- Gain advantage on [[Lower-Body Strength and Dexterity|Lower-Body Strength]] checks.
+- **Looks:**
+	- Muscles in the leg enlarge in size massively, giving an extremely deformed appearance.

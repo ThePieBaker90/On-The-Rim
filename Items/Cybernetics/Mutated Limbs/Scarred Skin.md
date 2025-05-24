@@ -1,0 +1,21 @@
+---
+tags:
+  - Cybernetic
+  - Skin
+---
+- **Install Location:**
+	- [[Skin]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +Constitution
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- [[[Core Critical Changes|Critical Effect Rolls]] made against the user have advantage.
+- **Looks:**
+	- The skin is covered in tissue scars which have various degrees of discoloration.

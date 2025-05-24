@@ -1,0 +1,12 @@
+---
+tags:
+  - Item
+  - Ammunition
+---
+- **Usable In:**
+	- All firearms except [[Shotgun]]s and [[Sniper Rifle]]s
+- **Effect:**
+	- Weapon gains [[Lacerating]](1, on hit)
+	- -2 to hit.
+- **Cost:**
+	- 1 credit for 3

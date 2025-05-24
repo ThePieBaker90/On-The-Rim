@@ -1,0 +1,51 @@
+---
+tags:
+  - Creature
+  - Mechanoid
+  - Medium-Mechanoid
+  - Construct
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Construct (Mechanoid)
+- **Alignment**:
+	- Lawful Evil
+- **Armor Class**:
+	- 14
+- **Health**:
+	- 84 (13d8 + 26)
+- **Speed**:
+	- 35ft
+- **Ability Scores**:
+	- **STR -** 16(+3)*
+	- **DEX -** 15(+2)*
+	- **CON -** 14(+2)*
+	- **INT -** 13(+1)
+	- **WIS -** 13(+1)
+	- **CHA -** 9(-1)
+- **Skills**:
+	- Perception
+	- Athletics
+	- [[Mechanical Skill|Mechanical]]
+- **Senses**:
+	- Passive Perception: 15
+	- Darkvision: 30ft
+- **Languages**:
+	- Mechanoid
+- **Challenge**:
+	- 1
+- **Damage Resistances:**
+	- Psychic
+- **Damage Immunities**:
+	- Fire
+	- Poison
+- **Traits**:
+	- [[Mechanoid]]
+- **Actions**:
+	- Blades - 1 Action
+		- *Melee Weapon Attack:* +4 to hit, reach 5ft, one target.
+		- *ROF:* 2
+		- *Hit:* 1d8 + 4 Slashing Damage
+- **Lore**:
+	- *Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive.*

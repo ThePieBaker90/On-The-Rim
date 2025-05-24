@@ -1,0 +1,22 @@
+---
+tags:
+  - Cybernetic
+  - Skull
+---
+- **Install Location:**
+	- [[Skull]]
+- **Replaces the Part:**
+	- No
+- **[[Efficiency]]:**
+	- N/A
+- **[[Efficiency]] Effects:**
+	- N/A
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- The user can headbutt with your antlers as a melee weapon attack dealing 1d8+STR bludgeoning damage to a target.
+	- The user cannot wear helmets that don't have antler holes.
+- **Looks:**
+	- Antlers made of bone sprout from the sides of the forehead.

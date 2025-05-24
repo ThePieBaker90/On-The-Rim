@@ -1,0 +1,17 @@
+---
+tags:
+  - Trait
+  - Ghoulish
+---
+- A creature with the Ghoulish trait gains the following effects:
+	- Can have [[Ghoul]] specific [[Cybernetics]] installed.
+	- 50% Intelligence, Wisdom, and Charisma [[Efficiency]].
+	- 135% Strength, Dexterity, and Constitution [[Efficiency]].
+	- Unable to cast spells.
+	- Only able to consume raw meat.
+	- Immune to [[Mind-Shattering Pain]], [[Radiation Buildup]], and [[Bleeding]].
+	- +5 ft speed.
+	- +1d8 max hp per level.
+	- Regenerates the natural version of missing limbs over a long rest.
+	- Gains the [[Uncanny Regeneration]] Trait.
+	- Gains the [[Superfast Wound Healing]] Trait.

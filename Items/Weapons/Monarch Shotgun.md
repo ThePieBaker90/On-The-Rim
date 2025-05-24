@@ -10,7 +10,7 @@ tags:
   - Shotgun
 ---
 - [[Range]]:
-	- Ranged: 15-30-60ft
+	- Ranged: 5-30-60ft
 - **Target:**
 	- One Target
 - **Damage**:

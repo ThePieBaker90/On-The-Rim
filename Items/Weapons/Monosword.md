@@ -8,6 +8,7 @@ tags:
   - Martial
   - Special
   - Longsword
+  - Finesse
 ---
 * [[Range]]:
 	* Melee: 5ft
@@ -22,6 +23,7 @@ tags:
 	* Versatile(1d10)
 	* [[Lacerating]](4,Melee hit on target with broken armor or no armor)
 	* Special
+	* Finesse
 * **Value**:
 	* 3000 credits
 * **Looks**:

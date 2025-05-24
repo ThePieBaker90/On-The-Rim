@@ -1,0 +1,22 @@
+---
+tags:
+  - Cybernetic
+  - Ribs
+---
+- **Install Location:**
+	- [[Ribs|Rib]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 101%
+- **[[Efficiency]] Effects:**
+	- ++Constitution
+	- -Charisma
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 0.1
+- **Abilities:**
+	- You cannot wear armor that hasn't been modified to fit the protruding rib
+- **Looks:**
+	- Bonemass extends the rib through the skin piercing it, although appearing dangerous this does not cause any blood loss or immunity issues.

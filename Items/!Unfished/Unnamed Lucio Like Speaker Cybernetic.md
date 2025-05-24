@@ -14,7 +14,7 @@ tags:
 - **Cost:**
 	- \\\[value] \[Currency]
 - **[[Cybercost]]:**
-	- \\\[#cybercost]
+	- \[cybercost]
 - \\\[\***Abilities:**]
 	- CLEANUP
 	- okay so basically the user can select from like 5 modes and these can buff their team's performance, maybe it could also debuff enemies or that could be a different implant.

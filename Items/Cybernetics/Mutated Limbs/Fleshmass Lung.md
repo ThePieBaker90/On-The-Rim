@@ -1,0 +1,23 @@
+---
+tags:
+  - Cybernetic
+  - Lungs
+---
+- **Install Location:**
+	- [[Lungs|Lung]]
+- **Replaces the Part:**
+	- Yes
+- **[[Efficiency]]:**
+	- 110%
+- **[[Efficiency]] Effects:**
+	- +Strength
+	- +Constitution
+	- -Dexterity
+- **Cost:**
+	- N/A
+- **[[Cybercost]]:**
+	- 1
+- **Abilities:**
+	- You make a very quiet wheezing sound while breathing. This can be heard with a DC 18 [[Sound-Based Perception]] check.
+- **Looks:**
+	- A cancerous mass of flesh which miraculously works as a lung

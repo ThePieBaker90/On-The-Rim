@@ -1,0 +1,52 @@
+---
+tags:
+  - Creature
+  - Mechanoid
+  - Light-Mechanoid
+  - Construct
+---
+- **Size**:
+	- Small
+- **Type**:
+	- Construct (Mechanoid)
+- **Alignment**:
+	- Lawful Evil
+- **Armor Class**:
+	- 9
+- **Health**:
+	- 24 (7d6)
+- **Speed**:
+	- 25ft
+- **Ability Scores**:
+	- **STR -** 7(-2)
+	- **DEX -** 9(-1)
+	- **CON -** 11(0)
+	- **INT -** 13(+1)
+	- **WIS -** 14(+2)
+	- **CHA -** 10(0)
+- **Skills**:
+	- [[Mechanical Skill|Mechanical]]
+	- Perception
+- **Senses**:
+	- Passive Perception: 14
+	- Darkvision: 30ft
+- **Languages**:
+	- Mechanoid
+- **Challenge**:
+	- 1/8
+- **Damage Resistances:**
+	- Psychic
+- **Damage Immunities**:
+	- Fire
+	- Poison
+- **Traits**:
+	- [[Mechanoid]]
+- **Actions**:
+	- Mini-shotgun - 1 Action
+		- *Ranged Weapon Attack:* +1 to hit, range 5-20-40ft, one target.
+		- *Hit:* 1d6 + 1 Piercing Damage
+	- Headbutt - 1 Action
+		- *Melee Weapon Attack:* -1 to hit, reach 5ft, one target.
+		- *Hit:* 1d4 Bludgeoning Damage
+- **Lore**:
+	- *A small combat mechanoid armed with a low-powered mini-shotgun. Roughly four feet tall, militors lack the power, range, and toughness of more senior combat mechs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.*

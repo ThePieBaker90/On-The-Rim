@@ -1,0 +1,21 @@
+---
+tags:
+  - Cybernetic
+  - Heart
+---
+- **Install Location:**
+	- [[Heart]]
+- **Replaces the Part:**
+	- No
+- **[[Efficiency]]:**
+	- N/A
+- **[[Efficiency]] Effects:**
+	- N/A
+- **Cost:**
+	- 1500 credits
+- **[[Cybercost]]:**
+	- 1 Cybercost
+- **Abilities:**
+	- If the user dies, they immediately resurrect as if targeted by a [[Resurrector Mech Injection]]. This cybernetic then destroys itself.
+- **Looks:**
+	- A blood red shard pokes out of the skin over the user's heart.
