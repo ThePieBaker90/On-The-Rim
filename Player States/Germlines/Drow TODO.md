@@ -1,0 +1,35 @@
+---
+tags:
+  - Germline
+---
+*TODO*
+- **Size:**
+	- Medium, around 6-7ft tall generally
+- **Speed:**
+	- 35ft
+- **Languages:**
+	- Common
+	- Elvish
+- **Cosmetic Genes:**
+	- [[Skin Color]]
+		- Copperish with varying amounts of green
+	- [[Hair Color]]
+		- Tends towards browns and blacks
+	- [[Body Type]]
+		- Average, Thin
+	- [[Eye Color]]
+		- Green, Brown, Hazel
+	- [[Pointy Ears]]
+- **Life Genes:**
+	- [[Average Lifespan]]
+- **Ability Genes:**
+	- [[Mask of the Wild]]
+- **Passive Genes:**
+	- [[Darkvision (60ft)]]
+	- [[Charm Resistant]]
+- **Skill Genes:**
+	- [[Dexterous]]
+	- [[Sharp]]
+	- [[Keen Senses]]
+	- [[Elf Weapon Training]]
+

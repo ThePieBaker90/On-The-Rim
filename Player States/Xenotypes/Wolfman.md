@@ -13,7 +13,17 @@ tags:
 	* Gain the following Senses
 		* Darkvision
 			* 30 ft
-	* Gain the following traits
+	*  Gain the following genes
+		-  **Cosmetic Genes:**
+			- .
+		- **Life Genes:**
+			- .
+		- **Ability Genes:**
+			- .
+		- **Passive Genes:**
+			- .
+		- **Skill Genes:**
+			- .
 		* [[Minor Light Sensitivity]]
 	* Gain the following appearance changes
 		* Hair-growth sped up dramatically.

@@ -1,0 +1,28 @@
+---
+tags:
+  - Germline
+---
+*lore*
+- **Size:**
+	- Size, Description
+- **Speed:**
+	- speed in ft
+- **Languages:**
+	- Itemized languages
+- **Cosmetic Genes:**
+	- [[Skin Color]]
+		- List of possible colors
+	- [[Hair Color]]
+		- List of possible hairs
+	- [[Body Type]]
+		- List of possible body types
+	- [[Eye Color]]
+		- List of possible eye colors
+- **Life Genes:**
+	- Itemized life genes
+- **Ability Genes:**
+	- Itemized ability genes
+- **Passive Genes:**
+	- Itemized passive genes
+- **Skill Genes:**
+	- Itemized skill genes

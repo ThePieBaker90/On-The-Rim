@@ -28,7 +28,17 @@ tags:
 		* Radiant
 	* Gain Damage Immunities
 		* Poison
-	* Gain the following traits
+	*  Gain the following genes
+		-  **Cosmetic Genes:**
+			- .
+		- **Life Genes:**
+			- .
+		- **Ability Genes:**
+			- .
+		- **Passive Genes:**
+			- .
+		- **Skill Genes:**
+			- .
 		* [[Hemogenic]]
 		* [[Dangerous UV Sensitivity]]
 		* [[Tinderskin]]

@@ -17,7 +17,17 @@ tags:
 	* Gain the following Senses
 		* Darkvision
 			* 60 ft
-	* Gain the following traits
+	*  Gain the following genes
+		-  **Cosmetic Genes:**
+			- .
+		- **Life Genes:**
+			- .
+		- **Ability Genes:**
+			- .
+		- **Passive Genes:**
+			- .
+		- **Skill Genes:**
+			- .
 		* [[Lightweight Flying]]
 		* [[Mild Light Sensitivity]]
 	* Gain the following appearance changes

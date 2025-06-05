@@ -1,6 +1,6 @@
 ---
 tags:
-  - Race
+  - Germline
 ---
 - **Creature Type:** 
 	- You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
@@ -11,7 +11,7 @@ tags:
 - **Darkvision:**
 	- 60 Feet
 - **Traits:**
-	- [[Fey Ancestry]]
+	- Fey Ancestry
 	- [[Phytokin Magic]]
 	- [[Photosynthesis]]
 	- [[Green Thumb]]

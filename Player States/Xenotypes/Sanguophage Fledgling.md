@@ -9,7 +9,17 @@ tags:
 - Sanguophage Fledglings have the following changes:
 	* Gain Damage Vulnerabilities
 		* Fire
-	* Gain the following traits
+	*  Gain the following genes
+		-  **Cosmetic Genes:**
+			- .
+		- **Life Genes:**
+			- .
+		- **Ability Genes:**
+			- .
+		- **Passive Genes:**
+			- .
+		- **Skill Genes:**
+			- .
 		* [[Mild UV Sensitivity]]
 		* [[Bloodfeeder]]
 	* Gain the following appearance changes

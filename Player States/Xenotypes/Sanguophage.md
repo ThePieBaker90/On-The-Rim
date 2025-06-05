@@ -28,7 +28,17 @@ Their numbers are unknown. Some think they are legends or rare irrelevancies. So
 		* Radiant
 	* Gain Damage Immunities
 		* Poison
-	* Gain the following traits
+	*  Gain the following genes
+		-  **Cosmetic Genes:**
+			- .
+		- **Life Genes:**
+			- .
+		- **Ability Genes:**
+			- .
+		- **Passive Genes:**
+			- .
+		- **Skill Genes:**
+			- .
 		* [[Hemogenic]]
 		* [[Mild UV Sensitivity]]
 		* [[Tinderskin]]

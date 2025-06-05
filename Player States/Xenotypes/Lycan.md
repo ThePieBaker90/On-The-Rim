@@ -17,7 +17,17 @@ TODO
 	* Gain the following Senses
 		* Darkvision
 			* 60 ft
-	* Gain the following traits
+	*  Gain the following genes
+		-  **Cosmetic Genes:**
+			- .
+		- **Life Genes:**
+			- .
+		- **Ability Genes:**
+			- .
+		- **Passive Genes:**
+			- .
+		- **Skill Genes:**
+			- .
 		* [[Strong Melee Damage]]
 		* [[Aggressive]]
 		* [[Minor Light Sensitivity]]

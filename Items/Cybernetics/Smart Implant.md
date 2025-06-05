@@ -16,6 +16,6 @@ tags:
 * [[Cybercost]]:
 	* 0.5
 * Abilities:
-	* Allows the user to interface with [[Smart]] weapons.
+	* Allows the user to interface with [[Base Items/Weapons/Properties/Modifiers/Smart]] weapons.
 * Looks:
 	* A sub-dermal implant installed on the side of the hand. A blinking LED can be faintly seen through skin when installed.
