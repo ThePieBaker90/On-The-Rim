@@ -8,23 +8,16 @@ tags:
 *Lore*
 
 - Wolfmen have the following changes:
-	* Ability Score Increase
-		* +2 to CON score (Max 20)
-	* Gain the following Senses
-		* Darkvision
-			* 30 ft
 	*  Gain the following genes
 		-  **Cosmetic Genes:**
-			- .
+			- [[Increased Hair-Growth]]
 		- **Life Genes:**
-			- .
+			- None.
 		- **Ability Genes:**
-			- .
+			- None.
 		- **Passive Genes:**
-			- .
+			- [[Minor Light Sensitivity]]
+			- [[Darkvision (30ft)]]
 		- **Skill Genes:**
-			- .
-		* [[Minor Light Sensitivity]]
-	* Gain the following appearance changes
-		* Hair-growth sped up dramatically.
+			- [[Resilient]]
 	* Morph into a [[Lycan]] at 6pm every night. They will morph back to a wolfman at 6am the following day.

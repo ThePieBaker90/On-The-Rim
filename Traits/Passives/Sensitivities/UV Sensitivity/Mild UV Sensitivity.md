@@ -1,8 +1,12 @@
 ---
 tags:
-  - Trait
-  - Mild-UV-Sensitivity
+  - Passive-Gene
+  - Gene
 ---
-- A creature with the Mild UV sensitivity trait suffers from the following while in UV light (such as direct sunlight)
-	- -4 to all ability checks
-	- Speed Halved
+- **[[Complexity]]:**
+	- 1
+- **Effects:**
+	- Carriers of this gene suffer from the following while in UV light:
+		- The [[Flashed]] condition lasts for 50% longer (rounded up)
+			- -4 to all ability checks
+			- Speed Halved

@@ -6,7 +6,7 @@ tags:
   - Xenotype
   - Strigoi
 ---
-- Strigoi Fledglings have the following changes:
+  - Strigoi Fledglings have the following changes:
 	* Gain Damage Vulnerabilities
 		* Fire
 	*  Gain the following genes
@@ -17,10 +17,9 @@ tags:
 		- **Ability Genes:**
 			- .
 		- **Passive Genes:**
-			- .
+			- [[Mild UV Sensitivity]]
 		- **Skill Genes:**
 			- .
-		* [[Mild UV Sensitivity]]
 		* [[Bloodfeeder]]
 	* Gain the following appearance changes
 		* Elongated canine teeth.

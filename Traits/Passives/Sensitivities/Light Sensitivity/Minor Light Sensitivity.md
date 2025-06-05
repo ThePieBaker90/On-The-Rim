@@ -1,7 +1,10 @@
 ---
 tags:
-  - Trait
-  - Minor-Light-Sensitivity
+  - Passive-Gene
+  - Gene
 ---
-- A creature with the Minor Light Sensitivity trait suffers from the following:
-	- The [[Flashed]] condition lasts for 50% longer (rounded up)
+- **[[Complexity]]:**
+	- 1
+- **Effects:**
+	- Carriers of this gene suffer from the following:
+		- The [[Flashed]] condition lasts for 50% longer (rounded up)
