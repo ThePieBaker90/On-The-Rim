@@ -1,0 +1,11 @@
+---
+tags:
+  - Passive-Gene
+  - Gene
+---
+- **[[Complexity]]:**
+	- 2
+- **Effects:**
+	- Carriers of this gene suffer from the following while in direct UV light:
+		- -4 to all ability checks
+		- Speed Halved

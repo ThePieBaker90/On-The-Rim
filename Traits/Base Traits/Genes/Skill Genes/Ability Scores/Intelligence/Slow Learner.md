@@ -6,4 +6,4 @@ tags:
 - **[[Complexity]]:**
 	- 1
 - **Effects:**
-	- Carriers of this gene have their charisma score increased by 2.
+	- Carriers of this gene have their intelligence score decreased by 1.

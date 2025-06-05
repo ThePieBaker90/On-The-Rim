@@ -1,13 +1,15 @@
 ---
 tags:
-  - Trait
-  - Sonic-Screech
+  - Ability-Gene
+  - Gene
 ---
-- A creature with the Sonic-Screech trait gains the Sonic-Screech action. 
-
-- Sonic-Screech - Action
-	- *Ranged Spell Attack*: 8 + DEX + Proficiency Bonus Spellcasting Ability, self, 15ft sphere. 
-	- All creatures within the sphere must make a constitution saving throw. (Creature must be able to hear)
-		- Upon failure, target takes 1d10 sonic damage and gain [[Sonic Stunned]] for 1 turn.
-		- Upon success, target takes half as much damage
-	- The user expends 200 ml of stored [[Materials/Blood|Blood]]
+- **[[Complexity]]:**
+	- 1
+- **Effects:**
+	- Carriers of this gene gain the Sonic-Screech action.
+		- Sonic-Screech - Action
+			- *Ranged Spell Attack*: 8 + DEX + Proficiency Bonus Spellcasting Ability, self, 15ft sphere. 
+			- All creatures within the sphere must make a constitution saving throw. (Creature must be able to hear)
+				- Upon failure, target takes 1d10 sonic damage and gain [[Sonic Stunned]] for 1 turn.
+				- Upon success, target takes half as much damage
+			- The user expends 200 ml of stored [[Materials/Blood|Blood]]

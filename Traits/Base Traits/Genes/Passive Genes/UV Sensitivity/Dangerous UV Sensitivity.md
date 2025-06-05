@@ -1,0 +1,13 @@
+---
+tags:
+  - Passive-Gene
+  - Gene
+---
+- **[[Complexity]]:**
+	- 3
+- **Effects:**
+	- Carriers of this gene suffer from the following while in direct UV light:
+		- -5 to all ability checks
+		- Disadvantage on all ability checks
+		- 1 radiant damage every turn
+		- Speed Halved
