@@ -11,10 +11,14 @@
             "id": "e4aba5b558df1914",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Core Assumptions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Core Assumptions"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core Assumptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Core Assumptions"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core Assumptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Core Assumptions"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Core Assumptions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Core Assumptions"
             }
           }
         ]
@@ -161,6 +168,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4aba5b558df1914",
-  "lastOpenFiles": []
+  "active": "7f4ec08d9e5d5127",
+  "lastOpenFiles": [
+    "Templates/Weapon Template.md",
+    "Templates/Template Template.md",
+    "Templates/Structure Template.md",
+    "Templates/Spell Template.md",
+    "Templates/Race Template.md",
+    "Templates/Phenomena Template.md",
+    "Templates/PC Template.md",
+    "Templates/Palisman Template.md",
+    "Templates/Minimal NPC Template.md",
+    "Templates/Incident Template.md",
+    "Templates/Germline Template.md",
+    "Templates/Cybernetic Template.md",
+    "Templates/Creature Template.md",
+    "Templates/Armor Template.md",
+    "Templates/Adventurer NPC Template.md",
+    "Templates",
+    "Spells/Cantrips/Shape Abomination Matter.md",
+    "Spells/Cantrips/Bursting Sinew.md",
+    "Spells/4th Level/Summon Abomination Army.md",
+    "Spells/4th Level/Amity's Abomination Arms.md",
+    "Spells/3rd Level/Snowburst.md",
+    "Spells/3rd Level/Alador's Apparate.md",
+    "Spells/2nd Level/Summon Abomination.md",
+    "Spells/2nd Level/Fabricate Abomination Tool.md",
+    "Spells/2nd Level/Amity's Rocket Fists.md",
+    "Spells/1st Level/Sludge Shield.md",
+    "Spells/Unnamed Abomination Acid Spell.md",
+    "Spells/Cantrips",
+    "Spells/4th Level",
+    "Spells/3rd Level",
+    "Spells/2nd Level",
+    "Spells/1st Level",
+    "Spells",
+    "Skills",
+    "Jesh's Shit/Player traits/skills (idk what to call)/explaination",
+    "Jesh's Shit/Weapons/placeholder",
+    "Items/Cybernetics/Psylinks/Class Symbols/ClericSymbol.png",
+    "Items/Cybernetics/Psylinks/Class Symbols/BardSymbol.png",
+    "Items/Cybernetics/Psylinks/Class Symbols/BarbarianSymbol.png",
+    "Items/Cybernetics/Psylinks/Class Symbols/ArtificerSymbol.png"
+  ]
 }
