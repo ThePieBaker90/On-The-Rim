@@ -1,0 +1,37 @@
+---
+tags:
+  - Creature
+  - Entity
+  - Basic-Entity
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid
+- **Alignment**:
+	- True Neutral
+- **Armor Class**:
+	- 13
+- **Health**:
+	- 66 (12d8+12)
+- **Speed**:
+	- 30ft
+- **Ability Scores**:
+	- **STR -** 16(+3)
+	- **DEX -** 16(+3)
+	- **CON -** 12(+1)
+	- **INT -** 10(0)
+	- **WIS -** 9(-1)
+	- **CHA -** 12(+1)
+- **Senses**:
+	- Passive Perception: 11
+- **Languages**:
+	- Common
+- **Challenge**:
+	- 1
+- **Actions**:
+	- Improvised Weapon - 1 Action
+		- *Melee Weapon Attack*: +3 to hit, reach 5ft, one target.
+		- *Hit*: 1d12+3 bludgeoning damage
+- **Lore**:
+	- *An imperfect clone of someone long dead. Although imperfect, duplicants are fast and cheap to create making them perfect for hazardous or low skill jobs.*

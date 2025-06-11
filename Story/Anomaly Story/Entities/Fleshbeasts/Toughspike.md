@@ -1,0 +1,45 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Creature
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Fleshbeast
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 17
+- **Health**:
+	- 67 (9d8+27)
+- **Speed**:
+	- 30ft
+- **Ability Scores**:
+	- **STR -** 17(+3)*
+	- **DEX -** 11(0)
+	- **CON -** 16(+3)*
+	- **INT -** 3(-4)
+	- **WIS -** 9(-1)
+	- **CHA -** 3(-4)
+- **Senses**:
+	- Passive Perception: 9
+	- Darkvision: 60ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1
+- **Damage Vulnerabilities**:
+	- Fire
+- **Actions**:
+	- Spike Launch - 1 Action
+		- Ranged Weapon Attack: +0 to hit,  range 5-40-80ft, one target.
+		- *ROF:* 2
+		- *Hit:* 1d4 piercing damage
+	- Spike Pierce - 1 Action
+		- Melee Weapon Attack: +3 to hit,  reach 5ft, one target.
+		- *ROF:* 2
+		- *Hit:* 1d4 + 3 piercing damage
+- **Lore**:
+	- *A fleshy man-sized creature with two spiked limbs and an armored carapace. Toughspikes throw hardened keratin spikes to take down victims from a distance.*  

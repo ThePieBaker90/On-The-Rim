@@ -1,0 +1,90 @@
+---
+tags:
+  - Info
+---
+- Leveling
+	- How
+		- Once a significant moment in the story finishes.
+	- When
+		- At the end of the session.
+- Player Behavior
+	- Drugs
+		- Please be sober at the meetings. This is zero tolerance and you will be asked to leave the session if you show up high or drunk.
+	- Attention
+		- Please stay off of your phones and pay attention to the game at hand. We are here to play DnD, not play Slay the Spire, do homework, or watch Youtube videos. If this happens repeatedly you may be asked to leave the campaign.
+	- Disruptive Topics
+		- Homophobia, Transphobia, Misogyny, Racism, and other forms of hate will not be tolerated in this campaign. Additionally sensitive topics like SA or CP will not be tolerated. Use your brain, stupid.
+	- Unannounced Dice Rolls
+		- If you roll for a check that I do not call for (or roll for a check before it is called), the result of that roll will be ignored.
+	- Dice Rolls Against One Another
+		- Dice rolls against other player characters are okay when they would make sense, for example a bard convincing a barbarian to calm down with a charisma check would be fine.
+	- PvP
+		- PvP is not allowed unless a character has gone mad (crown of madness, cyberpsycho, etc.) or all players involved agree to it.
+	- Secrets
+		- Player secrets are perfectly fine! You all start with a secret drawback anyways.
+	- Player Goals
+		- Everyone is here to have a fun time, whether you have a Min/Maxed character or you leaned all the way into roleplay, please don't trample other's goals.
+	- Player Discomfort
+		- If a player is uncomfortable they are encouraged to speak up! If another player is making people uncomfortable they will be talked to. If this happens repeatedly they may be asked to leave the campaign.
+	- Balance
+		- If an item is too OP then it may be nerfed mid campaign, a heads up will be given to the entire group about any changes like this. Same goes for items that are underpowered and get buffed.
+	- Disagreements on Rules
+		- Disagreeing on the rules is fine but if a disagreement goes on for too long, the DM's say is final. (This will rarely happen).
+	- Stealing the Spotlight
+		- Please do not become the leader of the campaign. Being the leader of a session is fine but if you are consistently taking the leader position when others have voiced that they would like to lead, then you will be asked to have your character take a background presence.
+	- Meta-Knowledge
+		- Please do not use meta-knowledge to sway your decisions.
+	- Murder Hobos
+		- Murder Hobos will be swiftly executed.
+	- Player Respect
+		- Respect other players, if you do not you will be asked to leave the table for a bit. If you continue to disrespect your fellow players you will be asked to leave the session. If this continues after this point you will be asked to leave the campaign.
+	- Absence
+		- Please let me know ASAP if you cannot make it to a session. I create these sessions with 6 players in mind and I will need to balance around absent players. If only 3 or fewer players can show up in a group, the session will be made into a side-quest. If you no-show no-call to a session you will get a warning, if it happens again you will be asked to leave the campaign. 
+- The DM
+	- My Style
+		- I tend to let the players have plenty of control over what they choose to do. There are safeguards in place to prevent the party from wandering too far off track. I tend to let player's know their next objective in semi-obvious in universe ways, such as a vision or an unignorable incident.
+	- Pet Peeves
+		- Attendance and Attention. Please attend the meetings and don't go radio silent on me if you aren't able to, it is very disrespectful to leave me and your fellow players in the dark. Please pay attention to the game, you are here to play DnD, being distracted during the campaign is very disrespectful to me and your fellow players. I have poured so many hours into this world and campaign, the least you could do is pay attention.
+- Content
+	- Content Warnings
+		- Descriptions of Body Horror; this campaign has lots of descriptions (not pictured) of body horror. This includes (but isn't limited to) characters performing surgery on themselves, creatures being blended into a fine red mist, limbs being torn/sliced off, humanoid transformations.
+	- Romance Between Player Characters
+		- This is not allowed unless both players agree outside of the session that it is fine. 
+	- Romance Between a NPC and a Player Character
+		- This is allowed but don't be surprised when the NPCs reject you.
+- Campaign
+	- Length
+		- This will last from January to Early May
+	- Preface
+		- This is a cyberpunk cosmic horror campaign. 
+	- References
+		- This campaign is full of references to other media, you will never need to understand a reference to know everything you need to know within this campaign.
+- Combat
+	- How is Combat Done
+		- Combat is done like BG3.
+	- Initiative
+		- Initiative is rolled at the beginning of each session.
+	- Critical Hits
+		- Critical hits have changed massively, see the critical hit tables for more info
+- Spells
+	- Spell Tweaks
+		- Some spells have been tweaked to be more like BG3 (sanctuary for example). You will be told of any tweaks before you choose a spell
+	- Spell Core Changes
+		- Spells are cast from your psylink, you still will need a focus if your class requires one.
+	- New Spells
+		- See the spells folder for new spells
+- Death, Resurrection, Resting
+	- Death
+		- If your character dies and your character isn't resurrected you will make a new character, guidelines for this will be shared if this happens.
+	- Resurrection
+		- If you are not resurrected in the same session you die, you can opt to make a new character for next session or you can wait until resurrection.
+	- Resting
+		- You may not short rest or long rest in dangerous areas. Short rests take 1 hour and long rests take 8 hours.
+
+## Additional Topics Brought Up During Discussion:
+- Encumbrance
+	- Not used.
+- Are Cybernetics Waterproof?
+	- Yes.
+- How was your day?
+	- Pretty Good

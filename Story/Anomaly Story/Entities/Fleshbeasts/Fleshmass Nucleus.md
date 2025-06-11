@@ -1,0 +1,32 @@
+---
+tags:
+  - Entity
+  - Structure
+  - Advanced-Entity
+---
+- **Size**:
+	- {{Size of structure}}
+- **Type**:
+	- Structure
+- **Armor Class**:
+	- 0
+- **Health**:
+	- {{#healthPoints}} ({{hit dice}})
+- **Challenge**:
+	- {{#challengeRating}}
+- **Damage Vulnerabilities**:
+	- {{\*Vulnerabilities of structure}}
+- **Damage Resistances**:
+	- {{\*Resistances of structure}}
+- **Damage Immunities**:
+	- {{\*Immunities of structure}}
+- **Traits**:
+	- {{Traits}}
+	- |(Every trait should have its own bullet point)
+- **Lore**:
+	- *The archotech core of a fleshmass heart. It is a chaotic lattice of fluid-smeared metal. Solid chunks of jagged metal appear here and there, packed with archotechnology. The whole structure slowly twists and bends under its own power. It constantly grows meat on its surface, which occasionally erupts violently. If too much meat builds up, it will regrow into a fleshmass heart.*
+- **Anomaly**:
+	- {{Anomalous Traits}}
+	- |(Anomalous traits are traits which are unique to this creature and will never be put on another creature)
+
+TODO

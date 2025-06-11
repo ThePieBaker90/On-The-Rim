@@ -1,0 +1,57 @@
+---
+tags:
+  - Creature
+  - Entity
+  - Ultimate-Entity
+  - Uncanny-Regeneration
+  - Superfast-Wound-Healing
+---
+- **Size**:
+	- Large
+- **Type**:
+	- Monstrosity
+- **Alignment**:
+	- Lawful Neutral
+- **Armor Class**:
+	- 18
+- **Health**:
+	- 552 (85d10+85)
+- **Speed**:
+	- 40ft
+- **Ability Scores**:
+	- **STR -** 21(+5)*
+	- **DEX -** 23(+6)*
+	- **CON -** 13(+1)
+	- **INT -** 14(+2)
+	- **WIS -** 19(+4)*
+	- **CHA -** 13(+1)
+- **Skills**:
+	- Athletics
+	- Acrobatics
+	- Stealth
+	- Perception
+- **Senses**:
+	- Passive Perception: 16
+- **Languages**:
+	- None
+- **Challenge**:
+	- 15
+- **Damage Immunities**:
+	- Poison
+- **Condition Immunities**:
+	- [[Anger]]
+	- [[Bleeding]]
+	- [[Crumbling Mind]]
+- **Traits**:
+	- [[Uncanny Regeneration]]
+	- [[Superfast Wound Healing]]
+- **Actions**:
+	- Cleave - 1 Action
+		- *Melee Weapon Attack:* +7 to hit, reach 5ft, Semi-Circle.
+		- *Hit:* 4d8 + 7 slashing damage
+		- [[Lacerating]](2,on melee hit)
+- **Lore**:
+	- *{{Lore of creature}}*
+- **Anomaly**:
+	- Gets knocked back 5ft for every 5 bludgeoning, piercing, slashing, or force damage.
+	- When knocked back into a wall, Jean-Luc becomes stunned for 1 turn.

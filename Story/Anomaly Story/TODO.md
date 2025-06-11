@@ -1,0 +1,41 @@
+Magic radiation. i.e. Metaphor Re Fantazio
+
+Character Ideas
+- a scientist who is found in cryosleep in the facility
+- a gruff explorer who they occasionally come across in the facility
+- Joe Schmoe
+- Johnny silverhand
+- Abby mindscape
+
+Stat blocks for general thieves and pirates
+
+Add dripplers and other blood moon terraria monsters to blood rain
+
+Chimera Containment
+Devourer Containment
+Noctolith Containment
+Blood Rain Containment
+
+Ideas for Ammo
+- Chemfuel ammo which increases fire damage (arsonists oil kinda)
+- Magnetic ammo which homes onto magnetic things 
+- Time/Space bullets
+- Healing Bullets
+
+Check out Amsel suite
+
+Psylinks for every class/subclass
+
+Genotypes for every race
+
+
+Cyberpunk
+Fantastical
+Modern-Day
+Apocalypse
+War
+Steampunk
+Sci-Fi
+Historical
+Absurdist
+Supernatural

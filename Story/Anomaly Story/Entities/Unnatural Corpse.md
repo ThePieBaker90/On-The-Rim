@@ -1,0 +1,28 @@
+---
+tags:
+  - Entity
+  - Advanced-Entity
+  - Phenomena
+---
+- **Type**:
+	- Phenomena
+- **Challenge:**
+	- 1
+- **Lore**:
+	- *An odd corpse that feels waxy and warm to the touch. Something is deeply unsettling about it.*
+- **Anomaly**:
+	- A corpse which appears identical to a randomly chosen player character (determined by a hidden 1d6 roll), this player is the target. The appearance of the corpse is constant and never changes.
+	- If the corpse is destroyed it will reappear at an unoccupied and unobserved space after 1d10 hours. Destroying the corpse also inflicts 2d10 psychic damage on its target and applies 8 stacks of [[Mind-Shattering Pain]].
+	- The corpse will randomly teleport to an unoccupied and unobserved space near its target. This is determined by 1d20 roll, if the roll is a 1 the corpse teleports. This roll automatically fails if the corpse is being observed. The roll is done at the following times:
+		- Target makes a skill check
+		- Target moves locations
+		- Target takes a short or long rest
+	- The corpse will become an [[Awakened Corpse]] after 7 days. After 4 days the corpse will begin breathing, after 6 days the corpse's eyes will begin the look around and it will blink. 1 hour before awakening the corpse will twitch.
+	- The corpse can be studied, to study the corpse a creature must succeed at one of the following checks. When a check is passed the corresponding information is revealed to the party. The corpse may be studied once per day and failed checks may be retried the next day.
+		- DC 17 Investigation (On the corpse) - Your investigation reveals this is no ordinary corpse, as far as you can tell there is a distant archotech machine affecting it.
+		- DC 17 Arcana (On the corpse) - You can sense a faint psychic presence within the corpse, it feels identical to {Target}.
+		- DC 17 Religion (In a library) - You read of rumors of a dark cult who would summon the corpses of their enemies to hunt them down. 
+		- DC 17 History (In a library) - You find urban legends of a corpse who would take the appearance of those who are destined to die soon.
+		- DC 17 Medicine (On the corpse) - Medical analysis on the corpse reveals no external nor internal trauma that could've caused its death.
+	- To fully understand the corpse and find a way to destroy it for good, the party must succeed a total of 3 skill checks. This can be any combination of checks. Each skill check and ability check may only count towards this requirement once.
+	- When the corpse is fully understood, the party may destroy it with a [[Dark Archotech Shard]]. To do this they can attune the body to the shard through a 10 minute ritual, and then destroy the [[Dark Archotech Shard]]. This will cause the body to explode into guts and gibs leaving behind a [[Resurrection Shard]].

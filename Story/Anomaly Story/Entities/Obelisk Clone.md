@@ -1,0 +1,52 @@
+---
+tags:
+  - Creature
+  - Entity
+  - Basic-Entity
+---
+- **Size**:
+	- Size of Original
+- **Type**:
+	- Type of Original
+- **Alignment**:
+	- Chaotic Neutral
+- **Armor Class**:
+	- 10 + Original's Dexterity
+- **Health**:
+	- Health of Original
+- **Speed**:
+	- Speed of Original
+- **Ability Scores**:
+	- **STR -** 10(0)
+	- **DEX -** 10(0)
+	- **CON -** 10(0)
+	- **INT -** 10(0)
+	- **WIS -** 10(0)
+	- **CHA -** 10(0)
+	- All ability scores match the Original's
+- **Skills**:
+	- Skills of Original
+- **Senses**:
+	- Passive Perception: 10 + Original's Wisdom
+	- Darkvision: Darkvision of Original
+- **Languages**:
+	- Languages of Original
+- **Challenge**:
+	- 1/2
+- **Damage Vulnerabilities**:
+	- Vulnerabilities of Original
+- **Damage Resistances**:
+	- Resistances of Original
+- **Damage Immunities**:
+	- Immunities of Original
+- **Condition Immunities**:
+	- Condition Immunities of Original
+- **Traits:**
+	- Traits of Original
+- **Actions**:
+	- Unnarmed Strike - 1 Action
+		- *Melee Weapon Attack*: +Original's Strength to hit, reach 5ft, one target.
+		- *Hit*: 1d4 + Original's Strength bludgeoning damage
+	- All spells of the Original
+- **Lore**:
+	- *A clone created by a [[Corrupted Obelisk]], these tend to be very flawed clones with [[Organ Decay|Decaying Organs]], [[Duplication Sickness]], [[Crumbling Mind|Crumbling Sanities]], or unyielding hostility.*

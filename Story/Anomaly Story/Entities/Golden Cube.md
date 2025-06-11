@@ -1,0 +1,57 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Advanced-Entity
+---
+- **Size**:
+	- Tiny
+- **Type**:
+	- Construct
+- **Alignment**:
+	- Neutral Evil
+- **Armor Class**:
+	- 10
+- **Health**:
+	- 30 (4d4+20)
+- **Speed**:
+	- 0 ft
+- **Ability Scores**:
+	- **STR -** 1(-5)
+	- **DEX -** 1(-5)
+	- **CON -** 20(+5)*
+	- **INT -** 13(+1)*
+	- **WIS -** 14(+2)*
+	- **CHA -** 20(+5)*
+- **Senses**:
+	- Passive Perception: 12
+	- Truesight: 360ft
+- **Languages**:
+	- All
+- **Challenge**:
+	- 1
+- **Damage Immunities**:
+	- All Damage Types
+- **Condition Immunities**:
+	- All Conditions
+- **Traits**:
+- **Actions**:
+	- Cube Affliction - 1 Action (Cooldown of 12 Hours)
+		- *Ranged Spell Attack*: 15 Spellcasting Ability, range 360 ft., one target.
+		- Target must make a wisdom saving throw.
+			- Upon failure, target gains 1 level of [[Cube Obsession]].
+			- Upon success, nothing happens.
+- **Lore**:
+	- *A cube that fits snugly in the hand. Golden in color, it is always invitingly warm to the touch, like a trusted pet or a hug from a good friend. Those that look closely are rewarded for their attention, by the delightful way light plays across its welcoming surface. The cube seems impervious to most damage.*
+- **Anomaly**:
+	- Creatures with any level of [[Cube Obsession]] enjoy being around the cube, playing with the cube, and doing cube related tasks. Creatures without this condition see the cube as mundane and uninteresting.
+	- The cube can be studied, to study the cube a creature must succeed at one of the following checks. When a check is passed the corresponding information is revealed to the party. The cube may be studied once per day and failed checks may be retried the next day.
+		- DC 15 Investigation (On the cube) - Your investigation reveals that the cube is impervious to all damage.
+		- DC 15 Arcana (On the cube) - You have found that the cube is able to psychically influence those nearby.
+		- DC 15 Insight (On a cube obsessed creature) - You have found that the creature is not possessed or replaced. They genuinely enjoy the cube.
+		- DC 15 Perception (On the cube) - You have found that the cube is not made out of gold but a substance that looks a lot like gold but weighs a lot less.
+		- DC 15 Mechanical (On the psychic emanators) - You have found that these were used to create some sort of psychic wave, unfortunately they are broken now.
+	- To fully understand the cube and find a way to stop it for good, the party must succeed a total of 3 skill checks. This can be any combination of checks. Each skill check and ability check may only count towards this requirement once.
+	- When the cube is fully understood, the party may subdue the cube by repairing the psychic emanators in the [[Facility Anomaly#Golden Cube Containment|Golden Cube Containment]] (with a DC 14 [[Mechanical Skill]] check) and placing the cube in the containment room. This prevents the cube from using the cube affliction action and removes all levels of [[Cube Obsession]] and [[Cube Withdrawal]] from all creatures. If the cube is removed, the cube reactivates.
+		- If the party attempts to repair the psychic emanators before fully understanding the cube, the DC is 22.
+

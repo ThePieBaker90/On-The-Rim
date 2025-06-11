@@ -1,0 +1,61 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Advanced-Entity
+---
+- **Size**:
+	- {{Size of Creature}}
+- **Type**:
+	- {{Type of creature}}
+- **Alignment**:
+	- {{Alignment of creature}}
+- **Armor Class**:
+	- {{#armorClass}}
+- **Health**:
+	- {{#healthPoints}} ({{hit dice}})
+- **Speed**:
+	- {{#speed}}ft
+- **Ability Scores**:
+	- **STR -** {{#strScr}}(+{{#strMod}})
+	- **DEX -** {{#dexScr}}(+{{#dexMod}})
+	- **CON -** {{#conScr}}(+{{#conMod}})
+	- **INT -** {{#intScr}}(+{{#intMod}})
+	- **WIS -** {{#wisScr}}(+{{#wisMod}})
+	- **CHA -** {{#chaScr}}(+{{#chaMod}})
+	-  |(a \* may be attached at the end of line to show proficiency with that skill)
+- **Skills**:
+	- {{\*Skill proficiencies}}
+- **Senses**:
+	- {{"Passive Perception: " + \#wisScr}}
+	- {{\*Other senses}}
+- **Languages**:
+	- {{Languages of the creature}}
+- **Challenge**:
+	- {{#challengeRating}}
+- **Damage Vulnerabilities**:
+	- {{\*Vulnerabilities of creature}}
+- **Damage Resistances**:
+	- {{\*Resistances of creature}}
+- {{**Damage Immunities**:}}
+	- {{\*Immunities of creature}}
+- **Condition Immunities**:
+	- {{\*Conditions that cannot affect the creature}}
+- **Traits**:
+	- {{Traits}}
+	- |(Every trait should have its own bullet point)
+- **Actions**:
+	- {{Name of Action}} - {{\*#actionNeeded + "Action"|!"Bonus Action"|!"Reaction"}}
+		- *{{Type of attack}}:* +{{#abilityMod}} to hit,  {{{"range "&&\Range}!|{"reach "&&\#reach}}}ft, {{Target}}.
+		- {{\*"*ROF:* " + \#rateOfFire}}
+		- {{Effects of hit}}
+		- {{\*Additional Info}}
+- **Lore**:
+	- *The primary organ of a [[Fleshmass]] infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads [[Fleshmass]] around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.*  
+	- *The heart grows [[Fleshmass Spitter|Fleshmass Spitters]]. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.*  
+	- *Ultra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass.*
+- **Anomaly**:
+	- {{\*Anomalous Traits}}
+	- |(Anomalous traits are traits which are unique to this creature and will never be put on another creature)
+
+TODO

@@ -1,0 +1,42 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Creature
+---
+- **Size**:
+	- Small
+- **Type**:
+	- Fleshbeast
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 13
+- **Health**:
+	- 13 (4d6+4)
+- **Speed**:
+	- 40ft
+- **Ability Scores**:
+	- **STR -** 12(+1)
+	- **DEX -** 13(+1)
+	- **CON -** 12(+1)
+	- **INT -** 3(-4)
+	- **WIS -** 3(-4)
+	- **CHA -** 3(-4)
+- **Senses:**
+	- Passive Perception: 6
+	- Darkvision: 10ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 0
+- **Damage Vulnerabilities**:
+	- Fire
+- **Actions**:
+	- Spike Whip - 1 Action
+		- _Melee Weapon Attack:_ +1 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d4 + 1 slashing damage
+- **Lore**:
+	- *A fleshy dog-sized creature with a single spiked limb. Despite their short legs, fingerspikes can move remarkably fast.*
+- **Anomaly**:
+	- Upon death, it bursts into a bloody puddle leaving no corpse behind.

@@ -1,0 +1,43 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Creature
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Fleshbeast
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 13
+- **Health**:
+	- 32 (5d8+12)
+- **Speed**:
+	- 20ft
+- **Ability Scores**:
+	- **STR -** 14(+2)*
+	- **DEX -** 13(+1)
+	- **CON -** 15(+2)*
+	- **INT -** 3(-4)
+	- **WIS -** 9(-1)
+	- **CHA -** 3(-4)
+- **Senses**:
+	- Passive Perception: 9
+	- Darkvision: 60ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1/4
+- **Damage Vulnerabilities**:
+	- Fire
+- **Actions**:
+	- Spike Whip Barrage - 1 Action
+		- _Melee Weapon Attack:_ +2 to hit, reach 5ft, one target. 
+		- *ROF:* 2
+		- _Hit:_ 1d4 + 2 slashing damage
+- **Lore**:
+	- *A man-sized amalgamation of several smaller fleshbeasts. Each of the creature's limbs is capable of surviving independently. On death, trispikes may split into separate [[Fingerspike|fingerspikes]] as each limb rips free and attacks.*
+- **Anomaly**:
+	- Upon death, the trispike bursts into 1d4 [[Fingerspike|fingerspikes]]. These [[Fingerspike|fingerspikes]] burst out up to 10ft from where the trispike died, spawn with the surprised condition, and take their turns when the trispike would've. The trispike leaves no corpse behind.

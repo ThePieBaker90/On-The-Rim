@@ -1,0 +1,57 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Advanced-Entity
+  - Psychically-Invisible
+---
+- **Size**:
+	- Large
+- **Type**:
+	- Humanoid
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 15
+- **Health**:
+	- 99 (12d10+33)
+- **Speed**:
+	- 40ft
+- **Ability Scores**:
+	- **STR -** 13(+1)
+	- **DEX -** 15(+2)*
+	- **CON -** 17(+3)*
+	- **INT -** 12(+1)
+	- **WIS -** 14(+2)
+	- **CHA -** 8(-1)
+- **Skills:**
+	- Stealth
+	- Perception
+- **Senses:**
+	- Passive Perception: 14
+	- Darkvision: 60ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 5
+- **Damage Immunities:
+	- Necrotic
+- **Traits**:
+	- [[Psychically Invisible]]
+	- Extra Action
+- **Actions**:
+	- Scratch - 1 Action
+		- _Melee Weapon Attack:_ +2 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d10 + 2 slashing damage
+	- Hypnotize - 2 Actions
+		- _Melee Spell Attack:_ 14 spellcasting ability, reach 5 ft., one target. 
+		- Target must make a wisdom saving throw.
+			- Upon failure, they become paralyzed and will remain paralyzed until given a [[Revenant Paralysis Dose]] or until the revenant is defeated.
+			- Upon success, they become stunned for 1 turn and may not be the target for Hypnotize next turn.
+- **Lore**:
+	- *A spindly figure of desiccated skin stretched over an impossibly tall humanoid frame. The revenant's name comes from its pattern of returning to hypnotize new people each night.  Outlander folklore describes an invisible specter that captures the minds of sinners, placing them in a living hell. In the story, the victims can only be returned to life by hunting the creature as it sleeps and killing it. A hidden revenant can be revealed with disruptor flares, explosives, or by being lit on fire.*
+- **Anomaly**:
+	- When defeated, the revenant reverts into a [[Revenant Spine]] which may be destroyed or modified to be a [[Spine]] replacement in a creature. 
+		- A creature who has a revenant spine may gain the Psychically Invisible trait. 
+		- When destroyed the spine gives the creature who destroyed it an ability score improvement of 2. The creature gets to choose which ability scores are improved. This is permanent.
+		- If neither installed or destroyed the spine will regenerate back into a revenant after 48 hours.

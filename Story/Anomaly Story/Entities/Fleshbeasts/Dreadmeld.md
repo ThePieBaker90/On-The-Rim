@@ -1,0 +1,44 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Advanced-Entity
+---
+- **Size**:
+	- Huge
+- **Type**:
+	- Fleshbeast
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 10
+- **Health**:
+	- 133 (14d12+42)
+- **Speed**:
+	- 5ft
+- **Ability Scores**:
+	- **STR -** 16(+3)*
+	- **DEX -** 10(0)
+	- **CON -** 17(+3)*
+	- **INT -** 3(-4)
+	- **WIS -** 9(-1)
+	- **CHA -** 3(-4)
+- **Senses**:
+	- Passive Perception: 9
+	- Darkvision: 60ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 4
+- **Damage Vulnerabilities**:
+	- Fire
+- **Actions**:
+	- Spike - 1 Action
+		- _Melee Weapon Attack:_ +3 to hit, reach 5ft, one target. 
+		- *ROF:* 2
+		- _Hit:_ 1d10 + 3 Piercing damage
+- **Lore**:
+	- *A gargantuan amalgamation of dozens of smaller fleshbeasts linked together by a loosely shared central nervous system. It uses its massive claws to dig tunnels through solid rock. Dreadmelds are rarely seen above ground, instead sheltering in caverns built from living flesh.
+- **Anomaly**:
+	- Upon death, the dreadmeld bursts into a [[Bulbfreak]]. This [[Bulbfreak]] burst out on the same spot where the dreadmeld died, spawns with the surprised condition, and takes its turn when the dreadmeld would've. The dreadmeld leaves no corpse behind.
+	- Upon being damaged to 40 health, 1d4+1 [[Trispike|Trispikes]] + 1d4 [[Toughspike|Toughspikes]] burst out of the dreadmeld up to 10ft away. They spawn with the surprised condition and take their turns immediately after the dreadmeld. 

@@ -1,0 +1,27 @@
+---
+tags:
+  - Entity
+  - Advanced-Entity
+  - Structure
+---
+- **Size**:
+	- Large 
+- **Type**:
+	- Structure
+- **Armor Class**:
+	- 18
+- **Health**:
+	- 27 (5d10)
+- **Languages**:
+	- None
+- **Challenge**:
+	- 2
+- **Damage Immunities**:
+	- Poison
+	- Psychic
+- **Lore**:
+	- *A twisted pillar of jagged blade-like structures made of dark, oily metal. It pulses with energy, powered by dark archotechnology at its core.*
+- **Anomaly**:
+	- While the Noctolith is standing, [[Unnatural Darkness]] will be present in a 3 km radius.
+	- When the Noctolith is damaged by any source, roll 1d4, on a 4 spawn a [[Noctol]] in nearby unnatural darkness. This may only trigger 5 times per Noctolith
+	- The [[Noctolith Compass]] will point towards the nearest Noctolith.

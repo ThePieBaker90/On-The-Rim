@@ -1,0 +1,57 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Ultimate-Entity
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 15
+- **Health**:
+	- 475 (50d8+250)
+- **Speed**:
+	- 40ft
+- **Ability Scores**:
+	- **STR -** 20(+5)*
+	- **DEX -** 20(+5)*
+	- **CON -** 20(+5)*
+	- **INT -** 20(+5)*
+	- **WIS -** 20(+5)*
+	- **CHA -** 20(+5)*
+- **Skills**:
+	- All Skills
+- **Senses**:
+	- Passive Perception: 15
+- **Languages**:
+	- Understands All Languages
+- **Challenge**:
+	- 15
+- **Condition Immunities**:
+	- [[Mind-Shattering Pain]]
+	- [[Berserk Rage]]
+	- Frightened
+	- Incapacitated
+	- Paralyzed
+	- Petrified
+	- Stunned
+	- Unconscious
+	- Exhaustion
+	- [[Radiation Buildup]]
+- **Actions**:
+	- Psychic Incineration - 1 Action
+		- *Melee Spell Attack:* 17 Spellcasting Ability,  reach 5ft, one target.
+		- Target must make a saving throw of their choice.
+			- Upon failure, the target's brain is incinerated
+			- Upon success, nothing happens.
+		- Can only be used on the creature the awakened corpse is a copy of.
+	- Teleport - 1 Action
+		- The awakened corpse teleports to an unoccupied space, the awakened corpse will only do this action if it cannot find a path to its target. It will always teleport the nearest spot for which a path can be found to its target.
+- **Lore**:
+	- *ITS ALIVE!!!*
+- **Anomaly**:
+	- The awakened corpse looks exactly like a creature, this creature is its target and the awakened corpse will only attack this creature. If that creature dies, the corpse will wander around before teleporting away.

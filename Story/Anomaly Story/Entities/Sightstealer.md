@@ -1,0 +1,50 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Creature
+  - Psychically-Invisible
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid
+- **Alignment**:
+	- Chaotic Neutral
+- **Armor Class**:
+	- 12
+- **Health**:
+	- 32 (9d8-9)
+- **Speed**:
+	- 40ft
+- **Ability Scores**:
+	- **STR -** 13(+1)
+	- **DEX -** 15(+2)*
+	- **CON -** 9(-1)
+	- **INT -** (5)(-3)
+	- **WIS -** (9)(-1)
+	- **CHA -** (4)(-3)
+- **Senses**:
+	- Passive Perception: 9
+	- Darkvision: 60ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1/4
+- **Damage Vulnerabilities**:
+	- Fire
+- **Traits**:
+	- [[Psychically Invisible]]
+- **Actions**:
+	- Scratch - 1 Action
+		- _Melee Weapon Attack:_ +1 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d8 + 1 slashing damage
+	- Blinding Spray - 1 Action
+		- _Ranged Spell Attack:_ 15 Spellcasting Ability, range 15ft, cone. 
+		- Each creature within the cone must make a dexterity saving throw. 
+			- Upon failure, target becomes blinded for 3 turns.
+			- Upon success, nothing happens.
+- **Lore**:
+	- *Emaciated and misshapen humanoids. Their arms end in sharp, curled claws formed from [[Bioferrite|bioferrite]]. Sightstealers are fragile, but use psychic influence to render themselves invisible until they get close to their victims. They are known to emit haunting screams as they gather on their terrible hunts.*
+- **Anomaly**:
+	- A group of Sightstealers (3 or more) may scream dealing 1d8 psychic damage to all non-deaf & non-monstrosities within 120ft of any sightstealer participating in the scream. This scream may only be performed by a sightstealer once every day. This scream does not cost an action to perform. 

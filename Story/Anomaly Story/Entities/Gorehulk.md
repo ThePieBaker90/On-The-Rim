@@ -1,0 +1,49 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Creature
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid
+- **Alignment**:
+	- Chaotic Neutral
+- **Armor Class**:
+	- 15
+- **Health**:
+	- 33 (6d8+12)
+- **Speed**:
+	- 35ft
+- **Ability Scores**:
+	- **STR -** 7(-2)
+	- **DEX -** 18(+4)*
+	- **CON -** 14(+2)
+	- **INT -** 9(-1)
+	- **WIS -** 15(+2)*
+	- **CHA -** 8(-1)
+- **Senses**:
+	- Passive Perception: 12
+	- Darkvision: 60ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1/2
+- **Damage Vulnerabilities**:
+	- Bludgeoning
+- **Damage Resistances**:
+	- Piercing
+- **Actions**:
+	- Spine Launch - 1 Action
+		- *Ranged Weapon Attack:* +4 to hit,  range 10-75-150ft, one target.
+		- *ROF:* 3
+		- *Hit:* 1d4 + 4 piercing damage
+	- Swing - 1 Action
+		- _Melee Weapon Attack:_ -2 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d6 - 2 bludgeoning damage
+- **Lore**:
+	- *A monstrous creature that resembles a massive, painfully swollen human with randomly reconfigured body parts. Near its top is a stretched face that watches its victim with dead eyes. Hundreds of sharp keratin spines protrude from the gorehulk's skin. It can launch these spines to spear its victims at a distance. However, its awkward fleshy body is less effective at causing harm up close. It's hard to know whether this is a human that was horribly distorted by the influence of the void or a poor imitation of humanity created from scratch by some evil intelligence.*
+- **Anomaly**:
+	- Can be affected by animal exclusive affects (speak with animals, manhunter pulse).
+	- Prioritizes getting out of melee range of hostiles at all costs.

@@ -1,0 +1,60 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Advanced-Entity
+---
+- **Size**:
+	- {{Size of Creature}}
+- **Type**:
+	- {{Type of creature}}
+- **Alignment**:
+	- {{Alignment of creature}}
+- **Armor Class**:
+	- {{#armorClass}}
+- **Health**:
+	- {{#healthPoints}} ({{hit dice}})
+- **Speed**:
+	- {{#speed}}ft
+- **Ability Scores**:
+	- **STR -** {{#strScr}}(+{{#strMod}})
+	- **DEX -** {{#dexScr}}(+{{#dexMod}})
+	- **CON -** {{#conScr}}(+{{#conMod}})
+	- **INT -** {{#intScr}}(+{{#intMod}})
+	- **WIS -** {{#wisScr}}(+{{#wisMod}})
+	- **CHA -** {{#chaScr}}(+{{#chaMod}})
+	-  |(a \* may be attached at the end of line to show proficiency with that skill)
+- **Skills**:
+	- {{\*Skill proficiencies}}
+- **Senses**:
+	- {{"Passive Perception: " + \#wisScr}}
+	- {{\*Other senses}}
+- **Languages**:
+	- {{Languages of the creature}}
+- **Challenge**:
+	- {{#challengeRating}}
+- **Damage Vulnerabilities**:
+	- {{\*Vulnerabilities of creature}}
+- **Damage Resistances**:
+	- {{\*Resistances of creature}}
+- {{**Damage Immunities**:}}
+	- {{\*Immunities of creature}}
+- **Condition Immunities**:
+	- {{\*Conditions that cannot affect the creature}}
+- **Traits**:
+	- {{Traits}}
+	- |(Every trait should have its own bullet point)
+- **Actions**:
+	- {{Name of Action}} - {{\*#actionNeeded + "Action"|!"Bonus Action"|!"Reaction"}}
+		- *{{Type of attack}}:* +{{#abilityMod}} to hit,  {{{"range "&&\Range}!|{"reach "&&\#reach}}}ft, {{Target}}.
+		- {{\*"*ROF:* " + \#rateOfFire}}
+		- {{Effects of hit}}
+		- {{\*Additional Info}}
+- **Lore**:
+	- *A huge creature that resembles a disfigured combination of a bear and other animals. It is vicious without limit. It's not known if this is a combination of natural animals or a poor imitation of animal life created by an insane machine mind.*
+- **Anomaly**:
+	- {{\*Anomalous Traits}}
+	- |(Anomalous traits are traits which are unique to this creature and will never be put on another creature)
+
+
+TODO

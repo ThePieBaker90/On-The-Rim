@@ -1,0 +1,14 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Phenomena
+---
+- **Type**:
+	- Phenomena
+- **Challenge:**
+	- 1
+- **Lore**:
+	- *A corpse-gray cloud composed of [[Deadlife Dust]] created by some unknown superintelligence. When it lands on dead flesh, it enters the body and reanimates it to create a shambling imitation of life.*
+- **Anomaly**:
+	- Any corpses not covered by a roof reanimate with the [[Reanimated Shambler]] trait.

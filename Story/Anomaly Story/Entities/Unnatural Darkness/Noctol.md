@@ -1,0 +1,50 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Advanced-Entity
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Monstrosity
+- **Alignment**:
+	- Chaotic Evil
+- **Armor Class**:
+	- 15 
+	- (+2 if in darkness due to [[Darkness Proficiency]] trait)
+- **Health**:
+	- 49 (9d8+9)
+- **Speed**:
+	- 40ft
+- **Ability Scores**:
+	- **STR -** 15(+2)*
+	- **DEX -** 17(+3)*
+	- **CON -** 13(+1)
+	- **INT -** 8(-1)
+	- **WIS -** 11(0)
+	- **CHA -** 7(-2)
+- **Senses:**
+	- Passive Perception: 11
+	- Darkvision: 500ft
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1
+- **Damage Vulnerabilities**:
+	- Radiant
+- **Traits**:
+	- [[Darkness Proficiency]]
+- **Actions**:
+	- Scratch - 1 Action
+		- _Melee Weapon Attack:_ +2 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d10 + 2 slashing + 1d6 necrotic damage
+- **Lore**:
+	- *A large, chittering creature covered with an oily black carapace and armed with claws formed from [[Bioferrite]]. While it is deadly in the dark, exposure to light irritates its eyes and flesh, slowing it down considerably.*
+- **Anomaly**:
+	- Noctols suffer from the following while in bright light:
+		- All incoming damage multiplied by 2
+		- Speed multiplied by 0.5
+	- Noctols suffer from the following while in dim light: (these effects do not occur while in bright light)
+		- All incoming damage multiplied by 1.5
+		- Speed multiplied by 0.75

@@ -1,0 +1,69 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Ultimate-Entity
+---
+- **Size**:
+	- Large
+- **Type**:
+	- Construct
+- **Alignment**:
+	- Neutral Evil
+- **Armor Class**:
+	- 16
+- **Health**:
+	- 297 (35d10+105)
+- **Speed**:
+	- 30ft Fly Speed
+- **Ability Scores**:
+	- **STR -** 15(+2)
+	- **DEX -** 14(+2)
+	- **CON -** 17(+3)*
+	- **INT -** 20(+5)*
+	- **WIS -** 17(+3)*
+	- **CHA -** 7(-2)
+- **Senses**:
+	- Passive Perception: 13
+	- Darkvision: 20ft
+- **Languages**:
+	- All
+- **Challenge**:
+	- 15
+- **Damage Vulnerabilities:**
+	- Electric
+- **Damage Resistances**:
+	- Acid
+	- Bludgeoning
+	- Cold
+	- Fire
+	- Force
+	- Necrotic
+	- Piercing
+	- Radiant
+	- Slashing
+	- Sonic
+- **Damage Immunities**:
+	- Poison
+	- Psychic
+- **Condition Immunities**:
+	- [[Anger]]
+	- [[Bleeding]]
+	- [[Crumbling Mind]]
+- **Actions**:
+	- Dual Machine Guns - Action
+		- _Ranged Weapon Attack:_ +7 to hit, range 5-40-80ft, one target. 
+		- *ROF:* 4
+		- *Hit:* 1d4 + 2 piercing damage
+	- Teleport - Action
+		- *Spell:* range 30ft, point within range.
+		- The nociosphere teleports to the chosen point, the point does not need to be within line of sight of the nociosphere.
+	- Missile Launcher - Action
+		- *Ranged Spell Attack:* 15 Spellcasting Ability, range 25-70-140ft, 10ft sphere within range.
+		- All targets within the sphere make a dexterity saving throw.
+			- Upon failure, target takes 4d6 force damage.
+			- Upon success, target takes 2d6 force damage
+- **Lore**:
+	- *A dark metallic sphere covered with curved and jagged grooves. The sphere emanates sensations of pain. It hurts to be near it. The sphere thrums with a mysterious energy.*  
+- **Anomaly**:
+	- On the nociosphere's turn, all creatures within 20 ft of the it must succeed a DC 15 wisdom saving throw or take 1d8 psychic damage and gain 1 level of [[Mind-Shattering Pain]].

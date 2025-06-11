@@ -1,0 +1,27 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Structure
+---
+- **Size**:
+	- Large
+- **Type**:
+	- Plant
+- **Armor Class**:
+	- 15
+- **Health**:
+	- 16 (3d10)
+- **Challenge**:
+	- 0
+- **Damage Vulnerabilities**:
+	- Fire
+- **Damage Immunities**:
+	- Poison
+	- Psychic
+- **Lore**:
+	- *A gnarled tree that grows a flesh-like covering. Harbinger trees are capable of feeding on corpses and raw meat, and will consume those placed nearby. If well fed, the grove will continue to grow.*  
+	- *In a tribal myth, these trees are the emissaries of a mad, shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky.*
+- **Anomaly**:
+	- Consumes corpses within a 25 ft radius. Each corpse restores 1d10 health for the tree. If it consumes a corpse while at full health the tree will sprout creating 2 harbinger tree saplings nearby. 
+	- Harbinger tree saplings grow into full harbinger trees by consuming 1 corpse.

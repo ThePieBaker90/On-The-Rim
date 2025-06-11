@@ -1,0 +1,32 @@
+---
+tags:
+  - Entity
+  - Advanced-Entity
+  - Structure
+---
+- **Size**:
+	- {{Size of structure}}
+- **Type**:
+	- Structure
+- **Armor Class**:
+	- 0
+- **Health**:
+	- {{#healthPoints}} ({{hit dice}})
+- **Challenge**:
+	- {{#challengeRating}}
+- **Damage Vulnerabilities**:
+	- {{\*Vulnerabilities of structure}}
+- **Damage Resistances**:
+	- {{\*Resistances of structure}}
+- **Damage Immunities**:
+	- {{\*Immunities of structure}}
+- **Traits**:
+	- {{Traits}}
+	- |(Every trait should have its own bullet point)
+- **Lore**:
+	- *A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below.*
+- **Anomaly**:
+	- {{Anomalous Traits}}
+	- |(Anomalous traits are traits which are unique to this creature and will never be put on another creature)
+
+TODO

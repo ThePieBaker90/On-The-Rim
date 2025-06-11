@@ -1,0 +1,26 @@
+---
+tags:
+  - Structure
+  - Entity
+  - Advanced-Entity
+---
+- **Size**:
+	- Small
+- **Type**:
+	- Structure
+- **Armor Class**:
+	- 13
+- **Health**:
+	- 10 (3d6)
+- **Challenge**:
+	- 1
+- **Damage Vulnerabilities**:
+	- Bludgeoning
+- **Damage Immunities**:
+	- Psychic
+	- Poison
+- **Lore**:
+	- *A crimson red crystal orb with a [[Psychofluid]] inside. Creates a blood-like rain along with disfigured creatures in the nearby area.*
+- **Anomaly**:
+	- Causes [[Blood Rain]] in the current room (up to 1 mile across).
+	- Creates [[Drippler]]s and [[Blood Abomination]]s

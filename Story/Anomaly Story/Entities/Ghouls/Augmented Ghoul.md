@@ -1,0 +1,45 @@
+---
+tags:
+  - Entity
+  - Basic-Entity
+  - Creature
+  - Ghoulish
+  - Uncanny-Regeneration
+---
+- **Size**:
+	- Medium
+- **Type**:
+	- Humanoid
+- **Alignment**:
+	- Neutral Evil
+- **Armor Class**:
+	- 16
+- **Health**:
+	- 75 (10d8+30)
+- **Speed**:
+	- 30ft
+- **Ability Scores**:
+	- **STR -** 18(+3)*
+	- **DEX -** 17(+3)*
+	- **CON -** 16(+3)*
+	- **INT -** 7(-2)
+	- **WIS -** 7(-2)
+	- **CHA -** 7(-2)
+- **Senses:**
+	- Passive Perception: 8
+- **Languages**:
+	- Understands Common
+- **Challenge**:
+	- 2
+- **Traits**:
+	- [[Ghoulish]]
+	- [[Uncanny Regeneration]]
+	- [[Superfast Wound Healing]]
+- **Actions**:
+	- Claws - 1 Action
+		- _Melee Weapon Attack:_ +4 to hit, reach 5ft, one target. 
+		- _Hit:_ 2d8 + 4 slashing damage
+- **Lore**:
+	- *Ghouls are engineered murder machines, twisted by dark psychic influences. They are very dangerous in melee combat. However, the process of their creation leaves them incapable of higher levels of thought, preventing them from complex socialization and intellect. Many people find the constant twitching of ghouls disturbing. More disturbing is their dependence on raw meat. If they go hungry they will turn hostile, even attacking their creators to sate their hunger.*
+- **Anomaly**:
+	- When defeated, drops a [[Dark Archotech Shard]]. 

@@ -1,0 +1,11 @@
+---
+tags:
+  - Material
+  - Item
+---
+- **Rarity**:
+	- Very Rare
+- **Uses**:
+	- A scavenged fragment of dark archotechnology. Originally created by a hyperintelligent archotech mind, this shard is packed with technology beyond human comprehension. It is capable of manipulating psychic flows, inducing archotech influences and more esoteric outcomes. While it is useless by itself, it can be built into devices that harness its power to produce exotic effects.
+- **Notable Features**:
+	- Can be implanted into a humanoid to create a [[Ghoul]].

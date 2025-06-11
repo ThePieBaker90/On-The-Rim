@@ -1,0 +1,43 @@
+---
+tags:
+  - Entity
+  - Advanced-Entity
+  - Structure
+---
+- **Size**:
+	- Large
+- **Type**:
+	- Structure
+- **Armor Class**:
+	- 19
+- **Health**:
+	- 27 (5d10)
+- **Challenge**:
+	- 1
+- **Damage Vulnerabilities**:
+	- Force
+- **Damage Resistances**:
+	- Slashing
+	- Bludgeoning
+	- Piercing
+- **Damage Immunities**:
+	- Necrotic
+	- Radiant
+	- Fire
+	- Poison
+	- Psychic
+	- Electric
+	- Cold
+- **Lore**:
+	- *A large metallic statue of a claw that emanates a putrid psychic energy. The statue hums ominously and appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity.*
+	- *You can attack the statue to destroy it, but doing so may unleash unnatural and dangerous phenomena.*
+- **Anomaly**:
+	- The obelisk must be suppressed otherwise it will build up activity. It gains 24% activity every day (1% every hour). 
+		- When suppressing the obelisk, the activity reduces by 10% every hour
+		- The obelisk takes one person to suppress, it takes the hour to suppress it and they must be touching the obelisk.
+		- Every hour that the obelisk is suppressed the suppressor must roll 1d20, if the result is below 20 x The Activity Level (rounded up), the obelisk teleports a random creature within 40ft.
+			- For example if the activity level is 50%, the DC would be 10.
+	- Upon being damaged, the obelisk gains 15% activity.
+	- When at 100% activity, the obelisk explodes teleporting every member of the party.
+		- The explosion deals 2d12 force damage in a 10ft sphere.
+	- When the obelisk teleports a creature that creature is teleported to [[The Labyrinth]], a structure on another plane. Creatures are not teleported to the same spot in [[The Labyrinth]] if teleported together.
