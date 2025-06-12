@@ -12,7 +12,7 @@ tags:
 - __Strength Needed To Wear__:
 	* 0
 - __Properties__:
-	* [[Base Items/Armor and Shields/Properties/Eltex|Eltex]]
+	* [[Items/Armor/Properties/Eltex|Eltex]]
 - **Value:**
 	- 600 credits
 - **Lore:

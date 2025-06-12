@@ -74,7 +74,7 @@ Female High-Elf Artificer 13 (Alchemist) - Neutral Good
 	- Light Armor
 	- Medium Armor
 	- Shields
-	- [[Base Items/Armor and Shields/Base Armor Stats/Shield Belt|Shield Belts]]
+	- [[Items/Accessories/Belts/Shield Belt|Shield Belts]]
 - **Weapons:**
 	- Simple Weapons
 	- Martial Weapons

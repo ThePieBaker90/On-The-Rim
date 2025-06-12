@@ -75,7 +75,7 @@ Male High-Elf Druid 4 (Circle of the Stars) Rogue 3 (Arcane Trickster) Artificer
 	- Light Armor
 	- Medium Armor
 	- Shields
-	- [[Base Items/Armor and Shields/Base Armor Stats/Shield Belt|Shield Belts]]
+	- [[Items/Accessories/Belts/Shield Belt|Shield Belts]]
 - **Weapons:**
 	- Simple Weapons
 	- Hand Crossbows
