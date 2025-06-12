@@ -5,6 +5,7 @@ tags:
 ---
 - Fired from [Grenade Launchers]
 - Aimed at a target or point within range
+- Minimum range 10ft
 - On a miss, the grenade impacts the location of the target but does not directly hit the target
 - All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC13 dexterity sving throw.
   - On a failure, they take 2D6 force damage
