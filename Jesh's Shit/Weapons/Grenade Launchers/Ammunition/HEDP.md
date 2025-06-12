@@ -15,6 +15,6 @@ tags:
 **Armour Penetration**
 - AP 6
 
-*A High-Explosive Dual-Purpose 40mm grenade, with hybrid anti-armour/anti-personnel warhead*
+*A 40mm High-Explosive Dual-Purpose 40mm grenade, with hybrid anti-armour/anti-personnel warhead*
 
 90 credits
