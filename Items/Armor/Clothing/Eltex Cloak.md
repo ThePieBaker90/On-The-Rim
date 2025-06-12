@@ -12,7 +12,7 @@ tags:
 - __Strength Needed To Wear__:
 	- N/A
 - __Properties__:
-	- [[Base Items/Armor and Shields/Properties/Eltex|Eltex]]
+	- [[Items/Armor/Properties/Eltex|Eltex]]
 	- Flammable
 - **Value:**
 	- 110 credits

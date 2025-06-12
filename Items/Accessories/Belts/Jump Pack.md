@@ -9,7 +9,7 @@ tags:
 - __Type of Armor__:
 	* Belt
 - __Properties__:
-	* [[Base Items/Armor and Shields/Properties/Jump Pack|Jump Pack]]
+	* [[Items/Armor/Properties/Jump Pack|Jump Pack]]
 - **Value:**
 	- 200 credits
 - **Lore:
