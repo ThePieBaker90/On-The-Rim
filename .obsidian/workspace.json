@@ -13,15 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Assumptions.md",
+                "file": "Items/Weapons/Rate of Fire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Assumptions"
+              "title": "Rate of Fire"
             }
           }
         ]
+      },
+      {
+        "id": "070345f0b742f737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8242baf5b448d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Weapons/Melee/Longswords/Longsword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longsword"
+            }
+          },
+          {
+            "id": "bfade19688a5800e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Weapons/Melee/Bats/Bat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bat"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,36 +203,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4ec08d9e5d5127",
+  "active": "e4aba5b558df1914",
   "lastOpenFiles": [
-    "Story/Anomaly Story/1. Crash/Crash.md",
-    "Story/Anomaly Story/1. Crash",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Group B/Devourer Ambush TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Group B/Jean-Luc Hunt TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Group B",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Unused/Into the Pit TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Unused/The Fleshbeast Tunneling Incident.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Unused",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Group A/Nociosphere Follower TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Group A/Save the Children TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Group A",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/Deadlife Storm.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/Blackout TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/We Need To Go Deeper.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/The Obelisks TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/The Heart TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/Blood Rain Falling.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/Adventure into the Facility.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups/Metalhorror Infection TODO.md",
-    "Story/Anomaly Story/2. Anomalies/Incidents/Both Groups",
-    "Story/Anomaly Story/2. Anomalies/Incidents",
-    "Story/Anomaly Story/2. Anomalies/Overall Anomaly Outline.md",
-    "Story/Anomaly Story/2. Anomalies/Facility Anomaly.md",
-    "Story/Anomaly Story/2. Anomalies",
-    "Story/Anomaly Story/Story Files/Conditions/Cube Withdrawal.md",
-    "Story/Anomaly Story/Story Files/Conditions/Cube Obsession.md",
-    "Story/Anomaly Story/Story Files/Conditions",
-    "Story/Anomaly Story/Story Files/Traits",
+    "Items/Cosumables/Grenades/Grenade.md",
+    "Items/Weapons/Melee/Wrenches/Wrench.md",
+    "Items/Weapons/Ranged/Mundane Staff.md",
+    "Items/Weapons/Magical",
+    "Items/Weapons/Melee/Greatswords/Greatsword.md",
+    "Items/Weapons/Melee/Improvised/Solemn Vow.md",
+    "Items/Weapons/Melee/Improvised/Gouge.md",
+    "Items/Weapons/Melee/Untitled",
+    "Items/Weapons/Melee/Flails/Flail.md",
+    "Items/Weapons/Melee/Flails",
+    "Items/Weapons/Melee/Bats/Bat.md",
+    "Items/Weapons/Ranged/Pistols/Pistol.md",
+    "Items/Weapons/Ranged/Heavy Crossbows/Sandbag Repeater.md",
+    "Items/Weapons/Melee/Hammers",
+    "Items/Weapons/Melee/Greatswords",
+    "Items/Weapons/Melee/Spears",
+    "Items/Weapons/Ranged/Heavy Crossbows",
+    "Items/Weapons/Melee/Hammers/Zeushammer.md",
+    "Items/Weapons/Instruments/Guitars/Staticaster.md",
+    "Items/Weapons/Melee/Improvised",
+    "Items/Weapons/Instruments/Guitars",
+    "Items/Weapons/Instruments",
+    "Items/Weapons/Melee/Bats/Kneecapper.md",
+    "Items/Weapons/Melee/Greatswords/Sawfish.md",
+    "Items/Weapons/Melee 1/Wrenches/Uhlman Build-Matic Wrench.md",
+    "Items/Weapons/Melee 1/Wrenches/Southern Hospitality.md",
+    "Items/Weapons/Melee 1/Wrenches/Jag.md",
+    "Items/Weapons/Melee 1/Wrenches/Eureka Effect.md",
+    "Items/Weapons/Melee 1/Longswords/Monosword.md",
+    "Items/Weapons/Melee 1/Longswords/Blinksword.md",
+    "Items/Weapons/Melee 1/Daggers/Your Eternal Reward.md",
+    "Items/Weapons/Melee 1/Daggers/Toxblade.md",
+    "Items/Weapons/Melee 1/Daggers/Spycicle.md",
+    "Items/Weapons/Melee 1/Daggers/Spy Knife.md",
+    "Items/Weapons/Melee 1/Daggers/Spotted Knife.md",
+    "Items/Weapons/Melee 1/Daggers/Serrated Dagger.md",
     "Story/Anomaly Story/Story Files/Images/Level2/Offices.png",
     "Story/Anomaly Story/Story Files/Images/Level2/ShamblerOperatingRoom.png",
     "Story/Anomaly Story/Story Files/Images/Level2/ShamblerContainment.png",
@@ -207,14 +250,6 @@
     "Story/Anomaly Story/Story Files/Images/Level2/DuplicantHall.png",
     "Story/Anomaly Story/Story Files/Images/Level2/GeneStorageRoom.png",
     "Story/Anomaly Story/Story Files/Images/Level2/FleshmassContainment.png",
-    "Story/Anomaly Story/Story Files/Images/Level2",
-    "Story/Anomaly Story/Story Files/Images/Level3/Labyrinth.png",
-    "Story/Anomaly Story/Story Files/Items/Value Items/Gorehulks - A Gory Guide.md",
-    "Story/Anomaly Story/Story Files/Items/Value Items/Using Algorithms to Detect Psychically Invisible Induviduals.md",
-    "Story/Anomaly Story/Story Files/Items/Value Items/Ghouls for Dummies (or Ghouls).md",
-    "Story/Anomaly Story/Story Files/Items/Facility Keycard (Level 4).md",
-    "Story/Anomaly Story/Story Files/Items/Facility Keycard (Level 1).md",
-    "Story/Anomaly Story/Story Files/Items/Facility Keycard (Level 2).md",
-    "Story/Anomaly Story/Story Files/Items/Facility Keycard (Level 3).md"
+    "Story/Anomaly Story/Story Files/Images/Level3/Labyrinth.png"
   ]
 }

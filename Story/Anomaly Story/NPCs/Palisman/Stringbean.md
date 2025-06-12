@@ -10,7 +10,7 @@ Female Palisman - Neutral Good
 - Purple snake with small pointed ears, small tufts of fur on her cheeks, and a light green orb on the end of her tail.
 ****
 ## Palisman
-- She can turn into a [[Staff]]. She is a long purple [[Staff]] with a carving of her creature form atop. This carving is curled around her light green orb.
+- She can turn into a [[Mundane Staff]]. She is a long purple [[Mundane Staff]] with a carving of her creature form atop. This carving is curled around her light green orb.
 - User can cast Chromatic Orb (1st Level Evocation, PH 221) at will without expending a spell slot. 
 ****
 ## Personality

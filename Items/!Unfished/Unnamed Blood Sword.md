@@ -1,1 +1,34 @@
-CLEANUP a sword which grows stronger when absorbing blood.
+---
+tags:
+  - Weapon
+  - Item
+  - Melee
+  - Versatile
+  - Martial
+  - Special
+  - Longsword
+  - Unmoddable
+  - Unique
+---
+- [[Range]]:
+	- Melee: 5ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- {{Damage dice & constants}} {{Type of damage}}
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Martial
+	- Versatile(1d10)
+	- [[Sap]] (Mastery)
+	- Special
+	- [[Unmoddable]]
+- **Value**:
+	- {{#value}} credits
+- **Looks**:
+	- A dark metallic longsword, red streaks can be spotted when light shines off of it.
+- **Special:**
+	- {{\*Special}}
+- **Lore:**
+	- *{{\*Lore}}*

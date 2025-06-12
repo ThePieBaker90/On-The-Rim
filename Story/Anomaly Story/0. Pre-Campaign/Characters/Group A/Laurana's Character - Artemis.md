@@ -47,7 +47,7 @@ Female Human Ranger 4 (Hunter) - Lawful Neutral
 	- 3 Total Cybercost Used
 ********
 ## Items
-- [[Sniper Rifle]] ([[Base Items/Weapons/Properties/Modifiers/Smart]])
+- [[Sniper Rifle]] ([[Items/Weapons/Properties/Modifiers/Smart]])
 - [[Machine Pistol]]
 - [[Marine Armor]]
 - Tinker's Tools

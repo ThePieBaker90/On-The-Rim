@@ -9,8 +9,8 @@ Female Palisman - Neutral Good
 - A large bee with a golden-yellow body and pale yellow fur around the neck.
 ****
 ## Palisman
-- She can turn into a [[Staff]]. {{Looks}}
-- User can fly on her while she is in [[Staff]] form. They can also cast Plant Growth (PH 266) at will without expending a spell slot
+- She can turn into a [[Mundane Staff]]. {{Looks}}
+- User can fly on her while she is in [[Mundane Staff]] form. They can also cast Plant Growth (PH 266) at will without expending a spell slot
 ****
 ## Personality
 ### Personality Traits
