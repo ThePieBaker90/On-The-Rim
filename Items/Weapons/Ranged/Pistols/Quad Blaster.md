@@ -20,7 +20,7 @@ tags:
 	- 4
 - **Properties**:
 	- Martial
-	* [[Ammunition]](12)
+	* [[Ammunition]](20)
 	* [[Reload]](Bonus Action, Full)
 	* One-Handed
 	* [[Burst Fire]]
