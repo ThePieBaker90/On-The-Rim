@@ -67,7 +67,7 @@ Protector of Nature
 	- Light Armor
 	- Medium Armor
 	- Shields
-	- [[Base Items/Armor and Shields/Base Armor Stats/Shield Belt|Shield Belts]]
+	- [[Items/Accessories/Belts/Shield Belt|Shield Belts]]
 - **Weapons:**
 	- Simple Weapons
 	- Martial Weapons

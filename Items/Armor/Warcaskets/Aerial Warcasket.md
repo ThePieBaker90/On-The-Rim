@@ -13,7 +13,7 @@ tags:
 - __Strength Needed To Wear__:
 	* 0
 - __Properties__:
-	* [[Base Items/Armor and Shields/Properties/Jump Pack|Jump Pack]]
+	* [[Items/Armor/Properties/Jump Pack|Jump Pack]]
 - **Value:**
 	- 1000 credits
 - *Lore:*

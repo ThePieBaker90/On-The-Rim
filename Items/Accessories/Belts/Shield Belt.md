@@ -9,7 +9,7 @@ tags:
 - __Type of Armor__:
 	* Belt
 - __Properties__:
-	* [[Base Items/Armor and Shields/Properties/Shield Belt|Shield Belt]]
+	* [[Items/Armor/Properties/Shield Belt|Shield Belt]]
 - **Value:**
 	- 200 credits
 - **Lore:

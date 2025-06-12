@@ -61,7 +61,7 @@ Female Drow-Elf, [[Sanguophage]], Sorcerer 6 (Shadow Magic) - Chaotic Neutral
 - [[Kneecapper]]
 - [[Solemn Vow]]
 - [[Phlogistinator]]
-- 1 [[Base Items/Armor and Shields/Properties/Shield Belt|Shield Belt]]
+- 1 [[Items/Armor/Properties/Shield Belt|Shield Belt]]
 - [[Palistrom Wood]]
 - [[Light Machine Gun]]
 - 1 [[Facility Keycard (Level 2)]]

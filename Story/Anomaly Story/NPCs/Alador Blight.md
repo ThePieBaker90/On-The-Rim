@@ -67,7 +67,7 @@ Male High-Elf Artificer 13 (Armorer) - Chaotic Neutral
 	- Light Armor
 	- Medium Armor
 	- Shields
-	- [[Base Items/Armor and Shields/Base Armor Stats/Shield Belt|Shield Belts]]
+	- [[Items/Accessories/Belts/Shield Belt|Shield Belts]]
 - **Weapons:**
 	- Simple Weapons
 - **Tools:**

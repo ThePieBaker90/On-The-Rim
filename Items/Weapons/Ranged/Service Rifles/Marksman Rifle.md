@@ -7,8 +7,8 @@ tags:
   - Two-Handed
   - Weapon
   - Heavy
-  - Marksman-Rifle
   - Martial
+  - Service-Rifle
 ---
 * [[Range]]:
 	* Ranged: 20-120-240ft
