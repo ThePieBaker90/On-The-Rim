@@ -36,6 +36,7 @@ tags:
  	- [Ammunition:] 5
   	- [Reload:] (bonus action, 1; action, full; bonus action, full, if empty)
   	- Two-handed
+  	- Heavy
   	- Special
   	- Unmoddable 
 - **Value**:
