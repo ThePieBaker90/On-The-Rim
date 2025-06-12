@@ -3,6 +3,7 @@ tags:
   - Weapon
   - Bolt-Action
   - Reload
+  - For Review (copy to main if approved or leave an issue for edits)
 ---
 ### Rifle
 - **Range**:
@@ -23,15 +24,20 @@ tags:
 - **Rate of Fire**:
 	- 1
 - **Armor Penetration:** 
-	- 1
+	- AP 1
 ---
 ### Special: Bayonet Charge
 - Once per short rest, as an action, move up to your normal movement speed in a straight line towards a target.
 - If ending within melee distance from the target, make a 2D4+STR piercing attack.
-- On a hit, the target must make a DC 10+proficiency+STR strength save or be knocked prone
+- On a hit, the target must make a DC 10+proficiency+STR strength save or be knocked prone.
 ---
 - **Properties**:
-	- I don't know what properties mean exactly yet, to be figured out later
+	- Martial
+ 	- [Ammunition:] 5
+  	- [Reload:] (bonus action, 1; action, full; bonus action, full, if empty)
+  	- Two-handed
+  	- Special
+  	- Unmoddable 
 - **Value**:
 	- Negligible sale value, except to perhaps a collector or historian.
 - **Looks**:
