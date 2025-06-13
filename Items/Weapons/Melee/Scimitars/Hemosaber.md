@@ -1,0 +1,37 @@
+---
+tags:
+  - Weapon
+  - Item
+  - Melee
+  - Versatile
+  - Martial
+  - Special
+  - Unmoddable
+  - Unique
+  - Scimitar
+---
+- [[Range]]:
+	- Melee: 5ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d6 + STR slashing
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Martial
+	- Finesse
+	- [[Light]]
+	- [[Nick]] (Mastery)
+	- Special
+	- [[Unmoddable]]
+- **Value**:
+	- 1000 credits
+- **Looks**:
+	- A dark metallic Scimitar, red streaks can be spotted when light shines off of it.
+- **Special:**
+	- When this weapon damages a creature that can have the [[Bleeding]] condition, the weapon gains 1 stack of Blood Power.
+	- Every turn that the weapon did not gain a stack of Blood Power, it loses one stack of Blood Power if it has one. 
+	- Every stack of Blood Power increases this weapon’s reach by 5ft, up to 3 stacks.
+- **Lore:**
+	- *{{\*Lore}}*
