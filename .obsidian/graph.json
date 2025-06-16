@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Info  ",
+      "color": {
+        "a": 1,
+        "rgb": 9392823
+      }
+    },
+    {
+      "query": "tag:#Item ",
+      "color": {
+        "a": 1,
+        "rgb": 12343127
+      }
+    },
+    {
+      "query": "tag:#Cybernetic  ",
+      "color": {
+        "a": 1,
+        "rgb": 5225039
+      }
+    },
+    {
+      "query": "tag:#Entity",
+      "color": {
+        "a": 1,
+        "rgb": 13158750
+      }
+    },
+    {
+      "query": "tag:#Property  ",
+      "color": {
+        "a": 1,
+        "rgb": 12556879
+      }
+    },
+    {
+      "query": "tag:#Skill  ",
+      "color": {
+        "a": 1,
+        "rgb": 6076313
+      }
+    },
+    {
+      "query": "tag:#Trait  ",
+      "color": {
+        "a": 1,
+        "rgb": 5663938
+      }
+    },
+    {
+      "query": "tag:#Player-State  ",
+      "color": {
+        "a": 1,
+        "rgb": 11059809
+      }
+    },
+    {
+      "query": "tag:#Condition",
+      "color": {
+        "a": 1,
+        "rgb": 13526178
+      }
+    },
+    {
+      "query": "tag:#Creature",
+      "color": {
+        "a": 1,
+        "rgb": 5745607
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 11494475
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.1676306068866772,
+  "close": true
+}
