@@ -21,7 +21,7 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* Light
+	* [[Light]]
 	* Thrown(5-20-40ft)
 	* Special
 * **Value**:

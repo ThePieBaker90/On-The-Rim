@@ -20,7 +20,7 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* Light
+	* [[Light]]
 	* [[Stealth]]
 * **Value**:
 	* 100 credits
