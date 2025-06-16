@@ -6,6 +6,7 @@ tags:
   - Martial
   - Versatile
   - Sap
+  - Longsword
 ---
 * [[Range]]:
 	* Melee: 5ft
