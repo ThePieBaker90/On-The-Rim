@@ -19,7 +19,7 @@ tags:
 	* 4
 * __Properties__:
 	* Martial
-	* [[Ammunition]](40)
+	* [[Ammunition]](64)
 	* [[Reload]](Action, Full)
 	* Two-Handed
 	* Heavy

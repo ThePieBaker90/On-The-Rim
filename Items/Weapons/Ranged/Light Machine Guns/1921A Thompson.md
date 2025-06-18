@@ -26,4 +26,5 @@ tags:
 - **Value**:
 	- 50 credits
 * **Looks**:
-	* A Colt Model 1921A Thompson with a drum magazine.
+	* An old-world Colt model 1921A Thompson with a drum magazine.
+	* Manufactured by Colt Firearms (Defunct).

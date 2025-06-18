@@ -30,5 +30,6 @@ tags:
 	- 400 Credits
 * **Looks**:
 	* A modified [[AR-6 Baseliner]] assault rifle which has been fitted with a [[Bioferrite]] compressor.
+	* Manufactured by Armstek.
 * **Special**:
 	* Once per short rest, the user may use an action to ignite a 20ft cone in front of them. Each creature within that cone must make a DC 13 dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
