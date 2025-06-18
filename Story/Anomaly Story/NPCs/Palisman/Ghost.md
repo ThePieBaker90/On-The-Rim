@@ -9,7 +9,7 @@ Female Palisman - Neutral Good
 - White short hair cat with periwinkle eyes
 ****
 ## Palisman
-- She can turn into an [[Assault Rifle]]. She is a white JW3 TTI MPX with a periwinkle scope color. On each side of the barrel is a cartoonish periwinkle cat eye.
+- She can turn into an [[AR-6 Baseliner]]. She is a white JW3 TTI MPX with a periwinkle scope color. On each side of the barrel is a cartoonish periwinkle cat eye.
 - User can use action surge once per long rest
 ****
 ## Personality

@@ -49,7 +49,7 @@ Female Tiefling Cleric 6 (Knowledge Domain) - Lawful Evil
 - Set of Darts
 - Flashlight
 - [[Submachine Gun]]
-- [[Hellcat Assault Rifle]]
+- [[AR-6Z Hellcat]]
 ********
 ## Appearance:
 - 52 Years Old

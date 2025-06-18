@@ -48,7 +48,7 @@ Female Shadar-Kai Paladin 4 (Oath of Vengeance)- Chaotic Neutral
 ********
 ## Items
 - [[Champion Armor]]
-- [[Assault Rifle]] ([[Tactical]])
+- [[AR-6 Baseliner]] ([[Tactical]])
 - Longsword
 - Phone
 - 504 Credits

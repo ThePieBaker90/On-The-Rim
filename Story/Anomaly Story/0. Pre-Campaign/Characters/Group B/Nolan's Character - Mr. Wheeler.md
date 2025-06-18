@@ -59,7 +59,7 @@ Male Rock-Gnome Warlock 4 (Fiendish Pact) - Chaotic Good
 - [[Pact of the Tome|Book of Shadows]]
 - Phone
 - 3 [[Revenant Paralysis Dose]]
-- 2 [[Assault Rifle]]
+- 2 [[AR-6 Baseliner]]
 - [[Mind-Numb Serum]]
 - [[Juggernaut Serum]]
 - [[Metalblood Serum]]
