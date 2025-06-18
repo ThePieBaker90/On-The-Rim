@@ -68,7 +68,7 @@ Male High-Elf Artificer 2 (Artillerist) Fighter 4 (Arcane Archer) (Total 3)- Neu
 - [[Mind-Numb Serum]]
 - [[Juggernaut Serum]]
 - [[Metalblood Serum]]
-- [[The Undertaker]]
+- [[CR-97 Undertaker]]
 - [[Sandbag Repeater]]
 - [[Biological Magazine]]
 - [[Netrunner Eye]]

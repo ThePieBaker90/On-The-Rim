@@ -244,7 +244,7 @@ Level 1 Access
 ![[FleshmassContainmentKey.png]]
 #### Airlock
 - 4 [[Flame Sentry]]
-- [[The Undertaker]]
+- [[CR-97 Undertaker]]
 - A&B
 ![[Airlock.png]]
 #### Zone 1

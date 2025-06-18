@@ -49,7 +49,7 @@ Male Drow-Elf Rogue 4 (Assassin) - Lawful Evil
 	- 4 Total Cybercost Used
 ********
 ## Items
-- [[The Undertaker]] ([[Silenced]])
+- [[CR-97 Undertaker]] ([[Silenced]])
 - 3 [[Firefoam Capsule|Firefoam Capsules]]
 - [[Recon Armor]]
 - Phone
