@@ -7,7 +7,7 @@ tags:
   - Weapon
   - Firearm
   - Item
-  - Anti-Materiel Rifle
+  - Anti-Material-Rifle
   - Martial
 ---
 * [[Range]]:
