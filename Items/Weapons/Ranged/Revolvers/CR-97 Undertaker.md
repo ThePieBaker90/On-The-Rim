@@ -27,8 +27,9 @@ tags:
 	* [[Reload]](Action, Full)
 	* One-Handed
 	* [[Light]]
-	* [[Vampiric]](50%)
+	* [[Vampiric]](25%)
 - **Value**:
 	- 400 credits
 * **Looks**:
-	* A custom fully black Korth Combat revolver with red embellishments.
+	* A fully black revolver with red embellishments.
+	* Manufactured by Armstek.
