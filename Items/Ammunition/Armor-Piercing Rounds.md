@@ -4,7 +4,7 @@ tags:
   - Ammunition
 ---
 - **Usable In:**
-	- [[Assault Rifle]]s, [[Marksman Rifle]]s, [[Sniper Rifle]]s, [[Light Machine Gun]]s and [[Revolver]]s
+	- [[AR-6 Baseliner]]s, [[Marksman Rifle]]s, [[Sniper Rifle]]s, [[Light Machine Gun]]s and [[Revolver]]s
 - **Effect:**
 	- +2 to hit.
 - **Cost:**

@@ -117,7 +117,7 @@ The entrance consists of 11 rooms.
 - Enemies:
 	- 3 [[Level 2 Sentry]]
 - **Loot:**
-	- 2 [[Assault Rifle]]
+	- 2 [[AR-6 Baseliner]]
 		- A&B
 	- [[Flamethrower]]
 		- A&B
@@ -161,7 +161,7 @@ Level 0 Access
 ### [[Revenant]] Containment
 Level 3 Access (Door is Jammed Open)
 - Loot:
-	- [[Hellcat Assault Rifle]]
+	- [[AR-6Z Hellcat]]
 		- A&B
 ![[RevenantContainment.png]]
 ### [[Sightstealer]] Containment
@@ -171,7 +171,7 @@ Level 1 Access
 - Loot:
 	- [[Pocket Proximity Detector]]
 	- [[Using Algorithms to Detect Psychically Invisible Induviduals]]
-	- 2 [[Assault Rifle]]s
+	- 2 [[AR-6 Baseliner]]s
 		- A
 	- 2 [[Shotgun]]s
 		- A
@@ -207,7 +207,7 @@ Level 0 Access
 	- A Storage:
 		- .
 	- B Storage:
-		- 1 [[Assault Rifle]]
+		- 1 [[AR-6 Baseliner]]
 		- 2 [[Pistol]]
 		- 1 [[Shotgun]]
 		- 1 Chefs Knife

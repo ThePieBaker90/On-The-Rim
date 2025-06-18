@@ -6,7 +6,6 @@ tags:
   - Ammunition
   - Reload
   - Two-Handed
-  - Light
   - Pistol
   - Martial
   - Special
@@ -24,7 +23,6 @@ tags:
 	- [[Ammunition]](1)
 	- [[Reload]](Bonus Action, Full)
 	- Two-Handed
-	- Light
 	- Special
 - **Value**:
 	- 50 credits
