@@ -26,7 +26,7 @@ tags:
 	- [[Ammunition]](6)
 	- [[Reload]](Bonus Action, 1-6)
 	- One-Handed
-	- Light
+	- [[Light]]
 	- Special
 	- [[Unmoddable]]
 - **Value**:

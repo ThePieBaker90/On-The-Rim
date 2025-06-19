@@ -42,14 +42,14 @@ Female Tiefling Cleric 6 (Knowledge Domain) - Lawful Evil
 	- 2.3 Total Cybercost Used
 ********
 ## Items
-- [[Tommy Gun]]
+- [[1921A Thompson]]
 - [[Trooper Armor]] (Bonemass Rib Modified)
 - Phone
 - 330 Credits
 - Set of Darts
 - Flashlight
 - [[Submachine Gun]]
-- [[Hellcat Assault Rifle]]
+- [[AR-6Z Hellcat]]
 ********
 ## Appearance:
 - 52 Years Old

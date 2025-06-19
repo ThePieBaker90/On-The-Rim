@@ -24,7 +24,7 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* Light
+	* [[Light]]
 	* Thrown
 	* [[Stealth]]
 	* Special

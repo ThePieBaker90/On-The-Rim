@@ -26,7 +26,7 @@ tags:
 	* [[Ammunition]](6)
 	* [[Reload]](Bonus Action, Full)
 	* One-Handed
-	* Light
+	* [[Light]]
 	* [[Unmoddable]]
 - **Value**:
 	- 750 credits

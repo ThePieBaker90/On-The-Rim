@@ -1,0 +1,29 @@
+---
+tags:
+  - Weapon
+  - Item
+  - Melee
+  - Versatile
+  - Martial
+  - Scimitar
+  - Finesse
+  - Light
+  - Nick
+---
+- [[Range]]:
+	- Melee: 5ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d6 + STR slashing
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+	- Martial
+	- Finesse
+	- [[Light]]
+	- [[Nick]] (Mastery)
+- **Value**:
+	- 15 credits
+- **Looks**:
+	- A standard scimitar

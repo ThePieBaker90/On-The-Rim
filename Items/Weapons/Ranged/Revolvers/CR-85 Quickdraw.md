@@ -1,28 +1,29 @@
 ---
 tags:
-  - Weapon
-  - Firearm
-  - Item
   - Ammunition
   - Reload
   - One-Handed
   - Light
-  - Flare-Gun
+  - Weapon
+  - Item
+  - Firearm
+  - Revolver
   - Martial
 ---
 * [[Range]]:
-	* Ranged: 5-50-100ft
+	* Ranged: 5-60-120ft
 * __Damage__:
-	* 1d10+DEX Fire
+	* 1d8+DEX piercing
 * [[Rate of Fire]]:
-	* 1
+	* 1.5
 * __Properties__:
 	* Martial
-	* [[Ammunition]](1)
+	* [[Ammunition]](8)
 	* [[Reload]](Bonus Action, Full)
 	* One-Handed
 	* [[Light]]
 * **Value**:
-	* 20 credits
+	* 25 credits
 * **Looks**:
-	* A standard flare gun with an orange painted barrel.
+	* A stock CR-87 "Quickdraw" revolver.
+	* Manufactured by Armstek.

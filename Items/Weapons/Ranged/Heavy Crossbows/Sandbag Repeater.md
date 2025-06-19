@@ -7,7 +7,6 @@ tags:
   - Martial
   - Special
   - One-Handed
-  - Light
   - Heavy-Crossbow
 ---
 - [[Range]]:
@@ -23,7 +22,6 @@ tags:
 	* [[Ammunition]](5)
 	* [[Reload]](Bonus Action, Full)
 	* One-Handed
-	* Light
 - **Value**:
 	- 20 credits
 * **Looks**:

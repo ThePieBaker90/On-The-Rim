@@ -25,5 +25,6 @@ tags:
 * **Value**:
 	* 50 credits
 * **Looks**:
-	* A stock M16 assault rifle.
+	* A stock AR7 "Baseliner" assault rifle.
+	* Manufactured by Armstek.
 

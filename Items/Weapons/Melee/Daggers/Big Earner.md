@@ -23,7 +23,7 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* Light
+	* [[Light]]
 	* [[Stealth]]
 	* [[Unmoddable]]
 * **Value**:
