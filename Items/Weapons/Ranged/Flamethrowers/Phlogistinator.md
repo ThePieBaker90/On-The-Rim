@@ -1,7 +1,6 @@
 ---
 tags:
   - Weapon
-  - Firearm
   - Item
   - Two-Handed
   - Heavy
@@ -9,6 +8,7 @@ tags:
   - Martial
   - Special
   - Unmoddable
+  - Ranged
 ---
 - [[Range]]:
 	- Ranged: 5-25-50ft

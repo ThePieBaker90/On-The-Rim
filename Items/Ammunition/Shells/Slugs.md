@@ -2,6 +2,8 @@
 tags:
   - Item
   - Ammunition
+  - Shotgun
+  - Shell
 ---
 - **Usable In:**
 	- Shotguns

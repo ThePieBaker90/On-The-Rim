@@ -2,6 +2,11 @@
 tags:
   - Item
   - Ammunition
+  - Assault-Rifle
+  - Submachine-Gun
+  - Pistol
+  - Revolver
+  - Bullet
 ---
 - **Usable In:**
 	- Assault Rifles, Submachine Guns, Pistols, and Revolvers.

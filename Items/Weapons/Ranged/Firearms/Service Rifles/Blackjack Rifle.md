@@ -31,7 +31,7 @@ tags:
 * **Looks**:
 	* A worn M14 rifle with iron sights. Carved into the right side of the wooden stock is the ace of spades. On the left, the jack of clubs. 
 * **Special:**
-	* When rolling for damage, create a running total, n. n starts at 0 and the user may add 1d10 to the result any amount of times (If they roll the 1d10, they must add it to n, regardless of the result). Once the user is done adding 1d10s to n, the final value of n is examined and the listed effects occur.
+	* When rolling for damage, create a running total, n. n starts at 1d10 (the dm rolls this and keeps it a secret) and the user may add 1d10 to n any amount of times (If they roll the 1d10, they must add it to n, regardless of the result). Then the final value of n is examined and the listed effects occur.
 		* n < 21
 			* You deal that much damage to your target.
 		* n = 21

@@ -2,6 +2,11 @@
 tags:
   - Item
   - Ammunition
+  - Assault-Rifle
+  - Service-Rifle
+  - Light-Machine-Gun
+  - Revolver
+  - Bullet
 ---
 - **Usable In:**
 	- Assault Rifles, Service Rifles, Sniper Rifles, Light Machine Guns, and Revolvers.
