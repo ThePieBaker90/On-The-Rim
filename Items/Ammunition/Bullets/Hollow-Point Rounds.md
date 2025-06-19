@@ -4,7 +4,7 @@ tags:
   - Ammunition
 ---
 - **Usable In:**
-	- [[AR-6 Baseliner]]s, [[Submachine Gun]]s, [[Pistol]]s, and [[Revolver]]s
+	- Assault Rifles, Submachine Guns, Pistols, and Revolvers.
 - **Effect:**
 	- Additional damage depending on the [[Rate of Fire]] of the weapon
 		- +1 piercing damage if ROF >= 4

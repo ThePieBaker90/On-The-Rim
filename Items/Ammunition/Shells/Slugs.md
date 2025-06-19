@@ -4,7 +4,7 @@ tags:
   - Ammunition
 ---
 - **Usable In:**
-	- [[Shotgun]]s
+	- Shotguns
 - **Effect:**
 	- +10ft to all effective ranges
 		- For example, a shotgun with range 10-40-80ft would become 20-50-90ft

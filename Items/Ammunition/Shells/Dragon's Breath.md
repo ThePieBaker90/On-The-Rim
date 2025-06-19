@@ -4,7 +4,7 @@ tags:
   - Ammunition
 ---
 - **Usable In:**
-	- [[Shotgun]]s
+	- Shotguns
 - **Effect:**
 	- 1 dice worth of damage becomes fire damage rather than piercing damage.
 	- 1 fire damage dealt to target upon a missed shot

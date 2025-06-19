@@ -4,7 +4,7 @@ tags:
   - Ammunition
 ---
 - **Usable In:**
-	- All firearms except [[Shotgun]]s and [[Sniper Rifle]]s
+	- All firearms except Shotguns and Sniper Rifles
 - **Effect:**
 	- Weapon gains [[Lacerating]](1, on hit)
 	- -2 to hit.

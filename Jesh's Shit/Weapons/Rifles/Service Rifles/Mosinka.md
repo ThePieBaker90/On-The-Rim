@@ -3,26 +3,13 @@ tags:
   - Weapon
   - Bolt-Action
   - Reload
-  - For Review (copy to main if approved or leave an issue for edits)
 ---
 ### Rifle
-- **Range**:
-	- Ranged: 15-60-120ft
-- **Damage**:
-	- 2D6+DEX Piercing
-- **Rate of Fire**:
-	0.5
 - **Armor Penetration:**
 	- AP 2
 
 ---
 ### Bayonet
-- **Range**:
-	- Melee: 5ft
-- **Damage**:
-	- 1D6+DEX or STR Piercing
-- **Rate of Fire**:
-	- 1
 - **Armor Penetration:** 
 	- AP 1
 ---
@@ -45,3 +32,32 @@ tags:
 	- A dirty, corroded, Mosin M1891/30 rifle with attached bayonet, broken off at aproximately half length
 - **Lore:**
 	- An ancient relic of Pre-Calamity Old Earth, this rifle still miraculously cycles and fires with little issue. Etched into its long-petrified wooden stock is a mysterious inscription in one of Old Earth's many forgotten pre-common languages: "Пуля глупа, штык умен". Affixed to the rifle is a fracutred bayonet, the two fuzed inseperably together after millenium of neglect.
+
+- [[Range]]:
+	- Melee: 5ft
+	- Ranged: 15-60-120ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- Melee: 1d6 + DEX Piercing
+	- Ranged: 2d6 + DEX Piercing
+- [[Rate of Fire]]:
+	- Melee: 1
+	- Ranged: 0.5
+- [[Armor Penetration]]
+- **Properties**:
+	- Martial
+	- [[Ammunition]](1)
+	- [[Reload]](Bonus Action, Full)
+	- Two-Handed
+	- Special
+	- [[Unmoddable]]
+- **Value**:
+	- 150 credits
+- **Looks**:
+	- A handle made of a light wood which ergonomically curves and terminates in the barrel of a flare gun with a trigger to fire it not too far. Attached to this is the head of a fireman's axe. Overall this has a very impressive build quality, feeling great in the hands.
+- **Special**:
+	- Can be used as a melee weapon (Fireman's Axe) or ranged weapon ([[Flare Gun]]). 
+	- When used as a melee weapon it does not consume any ammunition and does not need ammunition to be used. 
+	- The number needed to roll a critical hit while attacking with this weapon is reduced by 1. This effect can stack.
+	- If a critical hit is landed while attacking with the melee part of the weapon, the user may expend one piece of loaded ammunition to immediately fire a flare at the creature they just landed a critical hit on. This always hits and benefits from critical hit effects.

@@ -1,0 +1,14 @@
+---
+tags:
+  - Item
+  - Ammunition
+  - Grenade-Cartidge
+---
+- **Usable In:**
+	- Grenade Launchers
+- **Effect:**
+	- All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC 13 Dexterity saving throw.
+		- On a failed save, they take 2d6 force damage.
+		- On a successful save, they take half damage, rounded up.
+- **Cost:**
+	- 90 credits for 1
