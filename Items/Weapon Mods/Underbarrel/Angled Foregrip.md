@@ -12,3 +12,5 @@ tags:
 	- [[Quick Handling]]
 * **Looks:**
 	* Weapons with this modifier have an angled foregrip attached to the underbarrel
+* **Value:**
+	* 

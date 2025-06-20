@@ -1,7 +1,6 @@
 ---
 tags:
   - Weapon
-  - Firearm
   - Item
   - Ammunition
   - Reload
@@ -9,6 +8,7 @@ tags:
   - Light
   - Flare-Gun
   - Martial
+  - Ranged
 ---
 * [[Range]]:
 	* Ranged: 5-50-100ft

@@ -2,6 +2,7 @@
 tags:
   - Item
   - Ammunition
+  - Special
 ---
 - **Usable In:**
 	- Special

@@ -2,11 +2,14 @@
 tags:
   - Item
   - Ammunition
+  - Shotgun
+  - Shell
 ---
 - **Usable In:**
-	- [[Shotgun]]s
+	- Shotguns
 - **Effect:**
 	- 1 dice worth of damage becomes fire damage rather than piercing damage.
 	- 1 fire damage dealt to target upon a missed shot
+	- Target must succeed a DC 15 Dexterity saving throw or gain the [[On Fire!]] condition for 1 turn.
 - **Cost:**
 	- 1 credit for 5

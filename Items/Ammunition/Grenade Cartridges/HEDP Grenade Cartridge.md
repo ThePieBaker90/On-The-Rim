@@ -1,0 +1,18 @@
+---
+tags:
+  - Item
+  - Ammunition
+  - Grenade-Cartridge
+  - Grenade-Launcher
+---
+- **Usable In:**
+	- Grenade Launchers
+- **Effect:**
+	- When this shell is fired, the user rolls to hit a target.
+		- Regardless of target, upon a miss, the grenade cart impacts target of the DM's choice. 
+	- All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC 13 Dexterity saving throw.
+		- On a failed save, they take 2d6 force damage.
+		- On a successful save, they take half damage, rounded up.
+			- A target who was hit takes an additional 2d8 piercing damage and their armor receives the [[Broken Armor]] condition.
+- **Cost:**
+	- 125 credits for 1

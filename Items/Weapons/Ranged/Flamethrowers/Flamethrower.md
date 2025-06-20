@@ -1,7 +1,6 @@
 ---
 tags:
   - Weapon
-  - Firearm
   - Item
   - Ammunition
   - Reload
@@ -10,6 +9,7 @@ tags:
   - Flamethrower
   - Martial
   - Special
+  - Ranged
 ---
 * [[Range]]:
 	* Ranged: 5-25-50ft

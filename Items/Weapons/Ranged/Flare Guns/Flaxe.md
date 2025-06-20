@@ -2,7 +2,6 @@
 tags:
   - Item
   - Weapon
-  - Firearm
   - Melee
   - Ammunition
   - Reload
@@ -13,6 +12,7 @@ tags:
   - Special
   - Unmoddable
   - Unique
+  - Ranged
 ---
 - [[Range]]:
 	- Melee: 5ft
