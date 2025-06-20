@@ -2,7 +2,7 @@
 tags:
   - Item
   - Ammunition
-  - Grenade-Cartidge
+  - Grenade-Cartridge
   - Grenade-Launcher
 ---
 - **Usable In:**
