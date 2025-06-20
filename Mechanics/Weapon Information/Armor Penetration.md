@@ -24,18 +24,18 @@ Larger targets may have multiple armor values, for example on front/sides/rear. 
 
 When attempting to damage a target with an AV exceeding the source's AP, a decrease to hit rolls is applied due to the difficulty of penetrating the target. 
 
-This decrease is modeled by 2^n where n is AV-AP, the result is then rounded down. Below is a table of possible values.
+This decrease is simply AV-AP with an upper bound of 0.
 
-| n   | Hit Modifier |
-| --- | ------------ |
-| ≤ 0 | None         |
-| 1   | -1           |
-| 2   | -2           |
-| 3   | -4           |
-| 4   | -8           |
-| 5   | -16          |
-| 6   | -32          |
-| 7   | -64          |
-| 8   | -128         |
-| 9   | -256         |
+| AV-AP | Hit Modifier |
+| ----- | ------------ |
+| ≤ 0   | None         |
+| 1     | -1           |
+| 2     | -2           |
+| 3     | -3           |
+| 4     | -4           |
+| 5     | -5           |
+| 6     | -6           |
+| 7     | -7           |
+| 8     | -8           |
+| 9     | -9           |
 
