@@ -1,4 +1,4 @@
-A Weapon with the [Recoil] property has a high recoil. After the first shot, each sucessive shot in an attack action has a cumulative -3 to hit, as shown below.
+A Weapon with the Recoil property has a high recoil. After the first shot, each sucessive shot in an attack action has a cumulative -3 to hit, as shown below.
 | Attack | Hit Modifier |
 | --- | --- |
 | 1 | none |
@@ -8,6 +8,14 @@ A Weapon with the [Recoil] property has a high recoil. After the first shot, eac
 | 5 | -12 |
 | etc | etc |
 
-On their turn, a character may expend 10ft of movement and take the [Brace] action, reducing each shot's detriment to hit from -3 to -1.
+On their turn, a character may expend 10ft of movement and take the Brace action, reducing each shot's detriment to hit from -3 to -1, as shown below.
+| Attack | Hit Modifier |
+| --- | --- |
+| 1 | none |
+| 2 | -1 |
+| 3 | -2 |
+| 4 | -3 |
+| 5 | -4 |
+| etc | etc |
 
-UNFINISHED!!!
+They will remain Braced until they move.
