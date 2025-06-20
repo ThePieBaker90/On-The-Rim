@@ -11,6 +11,6 @@ tags:
 - **Usable In:**
 	- Assault Rifles, Service Rifles, Sniper Rifles, Light Machine Guns, and Revolvers.
 - **Effect:**
-	- +2 to hit.
+	- +2 [[Armor Penetration]]
 - **Cost:**
 	- 1 credit for 5

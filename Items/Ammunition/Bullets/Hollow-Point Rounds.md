@@ -11,10 +11,7 @@ tags:
 - **Usable In:**
 	- Assault Rifles, Submachine Guns, Pistols, and Revolvers.
 - **Effect:**
-	- Additional damage depending on the [[Rate of Fire]] of the weapon
-		- +1 piercing damage if ROF >= 4
-		- +1d4 piercing damage if ROF >= 2
-		- +1d6 piercing damage if ROF < 2
-	- -2 to hit.
+	- +1d4 piercing damage.
+	- -1 [[Armor Penetration]]
 - **Cost:**
 	- 1 credit for 10
