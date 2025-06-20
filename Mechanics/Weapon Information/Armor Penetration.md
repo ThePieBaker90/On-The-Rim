@@ -6,18 +6,18 @@ Every creature, vehicle, construct, etc. that can be targeted has an Armor Value
 All weapons, ammunition, spells, or anything else that may cause damage has an Armor Penetration (AP). Some damage sources may ignore armor value completely. 
 AV/AP ranges on a scale of 0 to 9.
 
-| Armor Value | Example Armor             | Example Attack |
-| ----------- | ------------------------- | -------------- |
-| 0           | No Armor                  |                |
-| 1           | Clothing                  |                |
-| 2           | Light Personal Armor      |                |
-| 3           | Medium Personal Armor     |                |
-| 4           | Heavy Personal Armor      |                |
-| 5           | Armored Car               |                |
-| 6           | Mech                      |                |
-| 7           | Armored Personnel Carrier |                |
-| 8           | Infantry Fighting Vehicle |                |
-| 9           | Battle Tank               |                |
+| Armor Value/Penetration | Example Armor             | Example Attack |
+| ----------------------- | ------------------------- | -------------- |
+| 0                       | No Armor                  |                |
+| 1                       | Clothing                  |                |
+| 2                       | Light Personal Armor      |                |
+| 3                       | Medium Personal Armor     |                |
+| 4                       | Heavy Personal Armor      |                |
+| 5                       | Armored Car               |                |
+| 6                       | Mech                      |                |
+| 7                       | Armored Personnel Carrier |                |
+| 8                       | Infantry Fighting Vehicle |                |
+| 9                       | Battle Tank               |                |
 
 
 Larger targets may have multiple armor values, for example on front/sides/rear. Larger targets may also have multiple modules of varying AV and AC, destroying which may disable the target in various ways.
