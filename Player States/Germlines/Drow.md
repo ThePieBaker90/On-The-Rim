@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-*TODO*
+*Elves evolved from humans on lush, hard to navigate planets. Their skin color and faster speed help them to navigate and hide among the foliage.*
 - **Size:**
 	- Medium, around 6-7ft tall generally
 - **Speed:**
