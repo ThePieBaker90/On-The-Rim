@@ -23,11 +23,13 @@ tags:
 - **Life Genes:**
 	- [[Average Lifespan]]
 - **Ability Genes:**
-	- .
+	- TODO (Drow Magic)
 - **Passive Genes:**
-	- [[Darkvision (60ft)]]
+	- [[Darkvision (120ft)]]
 	- [[Charm Resistant]]
+	- [[Minor UV Sensitivity]]
 - **Skill Genes:**
 	- [[Dexterous]]
+	- [[Charming]]
 	- [[Keen Senses]]
 
