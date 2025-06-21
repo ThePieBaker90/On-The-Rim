@@ -1,0 +1,35 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Firearm
+  - Ammunition
+  - Reload
+  - Martial
+  - Grenade-Launcher
+  - Special-Ammunition
+  - Heavy
+  - Two-Handed
+---
+- **[[Range]]:**
+	- 15-50-100
+- **Target:**
+	- One Target
+- **Damage:**
+	- Dependent on grenade fired
+- **[[Rate of Fire]]**
+	- 1
+- **Properties**
+	- Martial
+	- [[Ammunition]](5)
+	- [[Reload]](Action, 2)
+	- Two-Handed
+	- Heavy
+	- [[Special Ammunition]](Grenade Cartridge)
+- **Value**
+	- 150 credits
+- **Lore**
+	- The Bumble Ballistics GL-5M2 "Badger" is a five-cylinder semi-automatic revolver-type grenade launcher, offering an increase in firepower over other grenade launchers with an accompanying increase in weight, size, and cost.
+- **Looks**
+	- A stock GL-5M2 "Badger" grenade launcher
+	- Manufactured by Bumble Ballistics
