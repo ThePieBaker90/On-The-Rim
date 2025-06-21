@@ -3,12 +3,14 @@ tags:
   - Armor
   - Item
   - Mechlord
-  - Light-Armor
+  - Medium-Armor
 ---
 - __Type of Armor__:
-	* Light Armor
-- __Armor Class__:
-	* 13 + DEX (Max 2)
+	* Medium Armor
+- * __Armor Class__:
+	* +7
+* __Evade Class:__
+	* Max 8 or -2, whichever is lower
 - __Strength Needed To Wear__:
 	* 0
 - __Properties__:

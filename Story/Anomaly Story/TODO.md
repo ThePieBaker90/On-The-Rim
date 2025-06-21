@@ -28,14 +28,6 @@ Psylinks for every class/subclass
 
 Genotypes for every race
 
-
-Cyberpunk
-Fantastical
-Modern-Day
-Apocalypse
-War
-Steampunk
-Sci-Fi
-Historical
-Absurdist
-Supernatural
+Smart Ammunition 3/4 or 1/2 Maybe idk
+Smart Weapons 1/2
+Hypersmart Weapon 1/4

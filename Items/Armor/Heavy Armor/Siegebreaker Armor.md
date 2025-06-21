@@ -7,8 +7,10 @@ tags:
 ---
 - __Type of Armor__:
 	* Heavy Armor
-- __Armor Class__:
-	* 17
+* __Armor Class__:
+	* +13
+* __Evade Class:__
+	* Max 4
 - __Strength Needed To Wear__:
 	* 16
 - __Properties__:
