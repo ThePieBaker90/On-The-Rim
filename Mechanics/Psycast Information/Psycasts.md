@@ -17,7 +17,7 @@ All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Abominator - Summoning Abominations and Manipulation Abomination Goo
 	- Technator - Item Creation and Repairing
 	- Harmonator - Transformation of Items and Stats
-	- ator - Energy Creation and Infusion
+	- Kinetor - Energy Creation and Infusion
 	- Luzator - Light Creation and Information Revealing
 - Utility Paths
 	- Skipmancer - Teleportation and Portals
