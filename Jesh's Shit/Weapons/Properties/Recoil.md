@@ -19,3 +19,4 @@ On their turn, a character may expend 10ft of movement and take the Brace action
 | etc | etc |
 
 They will remain Braced until they move.
+Bracing is a free action while prone.
