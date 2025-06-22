@@ -8,7 +8,7 @@ tags:
 	- Uncommon
 	- One of the most common forms of matter made out of [[Mechanites]]
 - **Uses**:
-	- Used as a material component for several spells. 
+	- Used as a material component for several psycasts. 
 - **Looks:**
 	- An opaque purple ooze with the viscosity of slime.
 - **Notable Features**:

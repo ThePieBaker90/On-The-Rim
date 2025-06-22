@@ -44,7 +44,7 @@ tags:
 	- [[Radiation Buildup]]
 - **Actions**:
 	- Psychic Incineration - 1 Action
-		- *Melee Spell Attack:* 17 Spellcasting Ability,  reach 5ft, one target.
+		- *Melee Attack:* 17 Spellcasting Ability,  reach 5ft, one target.
 		- Target must make a saving throw of their choice.
 			- Upon failure, the target's brain is incinerated
 			- Upon success, nothing happens.

@@ -5,7 +5,7 @@ tags:
   - 1st-Level
 ---
 - **Spell Type**:
-	- 1st level [[Abominator Spells|Abominator Spell]]
+	- 1st level [[Abominator Psycasts|Abominator Spell]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**

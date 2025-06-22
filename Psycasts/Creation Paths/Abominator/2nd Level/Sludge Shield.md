@@ -5,7 +5,7 @@ tags:
   - Psycast
 ---
 - **Spell Type**:
-	- 2nd level [[Abominator Spells|Abominator Spell]]
+	- 2nd level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
 - **[[Psyfocus]] Cost:**

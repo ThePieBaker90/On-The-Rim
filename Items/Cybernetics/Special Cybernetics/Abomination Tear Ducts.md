@@ -16,7 +16,7 @@ tags:
 - **[[Cybercost]]:**
 	- 1.5
 - **Abilities:**
-	- User does not need any components to cast spells that use [[Abomination Matter]] as a material (Unless a material component has a specified cost).
-	- The user may cast one spell that uses [[Abomination Matter]] as a material without expending a spell slot once per short rest.
+	- User does not need any components to cast psycasts that use [[Abomination Matter]] as a material (Unless a material component has a specified cost).
+	- Once per short rest, the user may cast one psycast that uses [[Abomination Matter]] as a material without generating [[Neural Heat]] or consuming [[Psyfocus]].
 - **Looks:**
 	- Streaks of [[Abomination Matter]] descend from the tear ducts of each eye.

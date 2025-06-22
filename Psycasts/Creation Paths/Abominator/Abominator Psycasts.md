@@ -3,7 +3,7 @@ tags:
   - Abominator
   - Info
 aliases:
-  - Abominator Spell
+  - Abominator Psycast
 ---
 - 1st Level:
 	- .
