@@ -8,7 +8,9 @@ tags:
 * __Type of Armor__:
 	* Light Armor
 * __Armor Class__:
-	* 12 + DEX
+	* +2
+* __Evade Class:__
+	* 0
 * __Strength Needed To Wear__:
 	* 0
 * __Properties__:

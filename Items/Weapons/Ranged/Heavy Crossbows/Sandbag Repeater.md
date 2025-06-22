@@ -8,6 +8,7 @@ tags:
   - Special
   - One-Handed
   - Heavy-Crossbow
+  - Ranged
 ---
 - [[Range]]:
 	- Ranged: 5-50-100ft

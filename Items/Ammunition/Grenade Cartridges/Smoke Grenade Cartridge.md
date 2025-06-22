@@ -1,0 +1,14 @@
+---
+tags:
+  - Item
+  - Ammunition
+  - Grenade-Cartridge
+  - Grenade-Launcher
+---
+- **Usable In:**
+	- Grenade Launchers
+- **Effect:**
+	- Creates a 15ft cube of thick smoke centered on grenade's impact point. This smoke lasts 1 minute unless dispersed.
+		- Thermal, sound, or magic-based sight is unaffected
+- **Cost:**
+	- 70 credits for 1
