@@ -2,40 +2,45 @@
 tags:
   - Info
 ---
-Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. There are two resources that are concerned with psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
+- Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. There are two resources that are concerned with psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
+- All psycasts belong to a path, the following is a comprehensive list of paths:
+	- Damage Paths
+		- Blazelord - Fire Damage and Temperature
+		- Neurolord - Psychic Damage and Neural Manipulation
+		- Frostlord - Cold Damage and Water
+		- Staticlord- Electrical Damage and Weather
+		- Necrolord - Necrotic Damage and Undead Command
+		- Acrilord - Acid Damage and Armor Debuffs
+		- Toxilord - Poison Damage and Damage Over Time
+		- Terralord - Bludgeoning Damage and Earth shaping
+	- Creation Paths
+		- Abominator - Summoning Abominations and Manipulation Abomination Goo
+		- Technonator - Item Creation and Repairing
+		- Harmonator - Transformation of Items and Stats
+		- Kinetor - Energy Creation and Infusion
+		- Luzator - Light Creation and Information Revealing
+		- Vegetator - Plant Creation and Growth
+	- Utility Paths
+		- Skipmancer - Teleportation and Portals
+		- Chronomancer - Time Manipulation and Prediction
+		- Wildemancer - Animal Commands and Tracking
+		- Noctomancer - Darkness Manipulation and Stealth
+		- Illusiomancer - Illusion Creation and Sense Disabling
+		- Puppetmancer - Creature Commanding and Mind Meddling 
+	- Support Paths
+		- Empath - Mood Buffs and Positive Enchantments
+		- Tegopath - Damage Mitigation and Damage Debuffs
+		- Mendopath - Temporary Health Granting and Healing
+		- Wagepath - Damage Buffs and Accuracy Increases
+		- Hemopath - Wound Manipulation and Bleeding
+	- Ultimate Paths
+		- Archosage - TODO
+	- Each path contains 8-10 spells of varying levels. To be able to learn a spell from a path, you must know a lower level spell from the same path. Level 1 is the lowest level for a spell and has no prerequisites to learn. 
+- Spells may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each spell's description.
+	- This cost may be psyfocus, neural heat, or some other cost.
+- All spells require components listed in that spell's description, the components are as follows: Verbal, Somatic, and Material
+	- Verbal components require the psycaster to be able to speak.
+	- Somatic components require the psycaster have one free hand.
+	- Material components require the psycaster have the materials within their inventory, these materials are not consumed unless explicitly stated. 
 
-All psycasts belong to a path, the following is a comprehensive list of paths:
-- Damage Paths
-	- Blazelord - Fire Damage and Temperature
-	- Neurolord - Psychic Damage and Neural Manipulation
-	- Frostlord - Cold Damage and Water
-	- Staticlord- Electrical Damage and Weather
-	- Necrolord - Necrotic Damage and Undead Command
-	- Acrilord - Acid Damage and Armor Debuffs
-	- Toxilord - Poison Damage and Damage Over Time
-	- Terralord - Bludgeoning Damage and Earth shaping
-- Creation Paths
-	- Abominator - Summoning Abominations and Manipulation Abomination Goo
-	- Technonator - Item Creation and Repairing
-	- Harmonator - Transformation of Items and Stats
-	- Kinetor - Energy Creation and Infusion
-	- Luzator - Light Creation and Information Revealing
-	- Vegetator - Plant Creation and Growth
-- Utility Paths
-	- Skipmancer - Teleportation and Portals
-	- Chronomancer - Time Manipulation and Prediction
-	- Wildemancer - Animal Commands and Tracking
-	- Noctomancer - Darkness Manipulation and Stealth
-	- Illusiomancer - Illusion Creation and Sense Disabling
-	- Puppetmancer - Creature Commanding and Mind Meddling 
-- Support Paths
-	- Empath - Mood Buffs and Positive Enchantments
-	- Tegopath - Damage Mitigation and Damage Debuffs
-	- Mendopath - Temporary Health Granting and Healing
-	- Wagepath - Damage Buffs and Accuracy Increases
-	- Hemopath - Wound Manipulation and Bleeding
-- Ultimate Paths
-	- Archosage - TODO
-
-Each path contains 8-10 spells of varying levels. To be able to learn a spell from a path, you must know a lower level spell from the same path. Level 1 is the lowest level for a spell and has no prerequisites to learn. 
 
