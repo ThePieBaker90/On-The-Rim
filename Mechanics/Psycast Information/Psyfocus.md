@@ -10,7 +10,7 @@ The base amount of psyfocus a psycaster can store is 100. The amount that can be
 
 | Spell     | Combat Psycast Cost | Utility Psycast Cost |
 | --------- | ------------------- | -------------------- |
-| 1st Level |                     |                      |
+| 1st Level |                     | 3                    |
 | 2nd Level | 15                  |                      |
 | 3rd Level |                     |                      |
 | 4th Level |                     |                      |
