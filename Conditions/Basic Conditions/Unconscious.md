@@ -8,4 +8,4 @@ tags:
 	- Automatically fails all perception, strength, and dexterity based checks. 
 	- Drops whatever it is holding and falls [[Prone]].
 	- Attack rolls against this creature have advantage.
-	- All melee attacks are critical hits.
+	- All melee attacks against this creature are critical hits.

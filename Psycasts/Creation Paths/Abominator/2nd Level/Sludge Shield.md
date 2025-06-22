@@ -23,4 +23,4 @@ tags:
 - **Spell**:
 	- As a reaction to a target within range getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target from incoming damage. The shield absorbs incoming damage, up to 20 damage, and dissipates after 1 round. If the shield is dealt more damage that it can absorb, the remaining damage is dealt to the target.
 - **Upcasting**:
-	- You may upcast this spell. For every 15 psyfocus spent above the normal cost for this spell, the shield lasts 1 turn longer and absorbs 20 more damage.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this spell, the shield lasts 1 turn longer and absorbs 20 more damage.

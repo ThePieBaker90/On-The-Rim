@@ -1,6 +1,8 @@
 ---
 tags:
   - Info
+aliases:
+  - Psycast
 ---
 - Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. There are two resources that are concerned with psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
 - All psycasts belong to a path, the following is a comprehensive list of paths:
@@ -33,12 +35,11 @@ tags:
 		- Mendopath - Temporary Health Granting and Healing
 		- Wagepath - Damage Buffs and Accuracy Increases
 		- Hemopath - Wound Manipulation and Bleeding
-	- Ultimate Paths
-		- Archosage - TODO
-	- Each path contains 8-10 spells of varying levels. To be able to learn a spell from a path, you must know a lower level spell from the same path. Level 1 is the lowest level for a spell and has no prerequisites to learn. 
-- Spells may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each spell's description.
+	- Each path contains 8-10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
+- Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- This cost may be psyfocus, neural heat, or some other cost.
-- All spells require components listed in that spell's description, the components are as follows: Verbal, Somatic, and Material
+	- Upcasting a psycast one time is called a first upcast, upcasting it 
+- All psycasts require components listed in that psycast's description, the components are as follows: Verbal, Somatic, and Material
 	- Verbal components require the psycaster to be able to speak.
 	- Somatic components require the psycaster have one free hand.
 	- Material components require the psycaster have the materials within their inventory, these materials are not consumed unless explicitly stated. 

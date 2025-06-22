@@ -2,10 +2,10 @@
 tags:
   - Condition
 ---
-- When a creature has the unconscious condition they suffer the following effects:
+- When a creature has the psychic stun condition they suffer the following effects:
+	- They are [[Psy Sapped]]
 	- They are [[Incapacitated]].
-	- They can't move or speak.
-	- Automatically fails all perception, strength, and dexterity based checks. 
-	- Drops whatever it is holding and falls [[Prone]].
+	- They cannot move or speak.
+	- They automatically fail all non-constitution based checks.
 	- Attack rolls against this creature have advantage.
-	- All melee attacks are critical hits.
+	- All melee attacks against this creature are critical hits.
