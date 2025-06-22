@@ -10,6 +10,8 @@ tags:
 	- {{Damage dice & constants}} {{Type of damage}}
 - [[Rate of Fire]]:
 	- {{#rateOfFire}}
+- [[Armor Penetration]]:
+	- {{#AP}}
 - **Properties**:
 	- {{Properties}}
 	- |(Every property should have its own bullet point)

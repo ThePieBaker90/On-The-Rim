@@ -7,8 +7,10 @@ tags:
 ---
 - __Type of Armor__:
 	* Medium Armor
-- __Armor Class__:
-	* 15 + DEX (Max 2)
+* __Armor Class__:
+	* +9
+* __Evade Class:__
+	* Max 8 or -2, whichever is lower
 - __Strength Needed To Wear__:
 	* 13
 - __Properties__:

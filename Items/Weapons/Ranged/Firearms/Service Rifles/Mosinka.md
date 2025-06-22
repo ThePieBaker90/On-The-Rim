@@ -1,0 +1,46 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Firearm
+  - Melee
+  - Martial
+  - Ammunition
+  - Reload
+  - Two-Handed
+  - Special
+  - Unmoddable
+  - Unique
+  - Service-Rifle
+---
+- [[Range]]:
+	- Melee: 5ft
+	- Ranged: 15-60-120ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- Melee: 1d6 + DEX Piercing
+	- Ranged: 2d6 + DEX Piercing
+- [[Rate of Fire]]:
+	- Melee: 1
+	- Ranged: 0.5
+- [[Armor Penetration]]:
+	- Melee: 1
+	- Ranged: 2
+- **Properties**:
+	- Martial
+	- [[Ammunition]](5)
+	- [[Reload]](Bonus Action, 1; Action, Full; Bonus Action, Full (Only if Empty))
+	- Two-Handed
+	- Special
+	- [[Unmoddable]]
+- **Value**:
+	- 240 credits
+- **Looks**:
+	- A dirty, corroded, Mosin M1891/30 rifle with an attached bayonet.
+- **Lore:**
+	- An ancient relic of Pre-Calamity old Earth, this rifle still miraculously cycles and fires with little issue. Etched into its long-petrified wooden stock is a mysterious inscription in one of Old Earth's many forgotten pre-common languages: "Пуля глупа, штык умен". Affixed to the rifle is a fractured bayonet, the two fused inseparably together after millennia of neglect.
+- **Special**:
+	- Once per short rest, as an action, you may move up to your normal movement speed in a straight line towards a target.
+	- If you end within melee distance from the target, you may make a melee attack dealing 2d6 + STR piercing damage.
+	- On a hit, the target must make a DC 10 + proficiency + STR strength saving throw or be knocked prone.
