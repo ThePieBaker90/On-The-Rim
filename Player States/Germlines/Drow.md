@@ -6,30 +6,30 @@ tags:
 - **Size:**
 	- Medium, around 6-7ft tall generally
 - **Speed:**
-	- 35ft
+	- 30ft
 - **Languages:**
 	- Common
 	- Elvish
 - **Cosmetic Genes:**
 	- [[Skin Color]]
-		- Copperish with varying amounts of green
+		- .
 	- [[Hair Color]]
-		- Tends towards browns and blacks
+		- .
 	- [[Body Type]]
-		- Average, Thin
+		- .
 	- [[Eye Color]]
-		- Green, Brown, Hazel
+		- .
 	- [[Pointy Ears]]
 - **Life Genes:**
 	- [[Average Lifespan]]
 - **Ability Genes:**
-	- [[Mask of the Wild]]
+	- TODO (Drow Magic)
 - **Passive Genes:**
-	- [[Darkvision (60ft)]]
+	- [[Darkvision (120ft)]]
 	- [[Charm Resistant]]
+	- [[Minor UV Sensitivity]]
 - **Skill Genes:**
 	- [[Dexterous]]
-	- [[Sharp]]
+	- [[Charming]]
 	- [[Keen Senses]]
-	- [[Elf Weapon Training]]
 
