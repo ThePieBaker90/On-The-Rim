@@ -1,25 +1,23 @@
 ---
 tags:
-  - Spell
-  - Abomination
-  - Cantrip
-  - Transmutation
-  - Artificer
-  - Bard
-  - Cleric
-  - Druid
-  - Paladin
+  - Abominator
+  - Psycast
+  - 1st-Level
 ---
 - **Spell Type**:
-	- Transmutation Cantrip
+	- 1st level [[Abominator Spells|Abominator Spell]]
 - **Casting Time**:
 	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 20
 - [[Range]]:
 	- 30 ft
 - **Target**:
 	- A point within range.
 - **Components**:
-	- S, M (Up to 1kg of [[Abomination Matter]])
+	- Somatic, Material (Up to 1kg of [[Abomination Matter]])
 - **Duration**:
 	- 1 hour
 - **Classes**:
@@ -31,3 +29,5 @@ tags:
 		- You cause [[Abomination Matter]] to harden into a shape. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the spell ends.
 	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn. 
 	- If you cast this spell multiple times, you can have no more than two of its effects active at a time. You can dismiss effects at any time.
+- **Upcasting:**
+	- You may upcast this spell

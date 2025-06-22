@@ -1,17 +1,17 @@
 ---
 tags:
-  - Spell
   - Abominator
   - 2nd-Level
+  - Psycast
 ---
 - **Spell Type**:
 	- 2nd level [[Abominator Spells|Abominator Spell]]
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
 - **[[Psyfocus]] Cost:**
-	- 15
+	- 12
 - **[[Neural Heat]] Generation:**
-	- 20
+	- 25
 - [[Range]]:
 	- 150ft
 - **Target**:
