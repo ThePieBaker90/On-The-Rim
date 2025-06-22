@@ -1,19 +1,17 @@
 ---
 tags:
   - Spell
-  - Abomination
-  - Artificer
-  - Bard
-  - Cleric
-  - Druid
-  - Paladin
   - 1st-Level
-  - Abjuration
+  - Abominator
 ---
 - **Spell Type**:
-	- 1st level Abjuration
+	- 1st level Abominator Spell
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
+- **[[Psyfocus]] Cost:**
+	- 15
+- **[[Neural Heat]] Generation:**
+	- 20
 - [[Range]]:
 	- 150ft
 - **Target**:
@@ -22,8 +20,6 @@ tags:
 	- S, M (1kg of [[Abomination Matter]])
 - **Duration**:
 	- Instant
-- **Classes**:
-	- Artificer, Bard, Cleric, Druid, Paladin
 - **Spell**:
 	- As a reaction to a target getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target from incoming damage. The shield absorbs incoming damage, up to 24 damage, and dissipates after 1 round. If the shield is dealt more damage that it can absorb, the remaining damage is lost.
 - **At Higher Levels**:

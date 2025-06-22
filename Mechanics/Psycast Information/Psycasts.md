@@ -16,7 +16,7 @@ All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Terralord - Bludgeoning Damage and Earth shaping
 - Creation Paths
 	- Abominator - Summoning Abominations and Manipulation Abomination Goo
-	- Techonator - Item Creation and Repairing
+	- Technonator - Item Creation and Repairing
 	- Harmonator - Transformation of Items and Stats
 	- Kinetor - Energy Creation and Infusion
 	- Luzator - Light Creation and Information Revealing
