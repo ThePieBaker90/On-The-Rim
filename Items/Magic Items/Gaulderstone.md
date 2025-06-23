@@ -6,7 +6,7 @@ tags:
   - Heavy
   - Unique
 ---
-- While held with both hands you have +2 to your spell save DC, +2 to your spell casting modifier, and you do not need to fulfill the somatic or material (except those with a gold value) component of any spells you cast.
+- While held with both hands you have +2 to your spell save DC, +2 to your spell casting modifier, and you do not need to fulfill the Kinetic or material (except those with a gold value) component of any spells you cast.
 - The Gaulderstone can be used to cast each of the following every 24 hours without consuming a spell slot:
 	- 2 level 1 spells, you do not need to know the spells, the spells do not need to have your class as a caster.
 	- 1 level 2 spell, you either need to know the spell or the spell must be one that your class can cast.

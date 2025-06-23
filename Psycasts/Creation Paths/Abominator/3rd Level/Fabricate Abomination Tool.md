@@ -1,0 +1,26 @@
+---
+tags:
+  - Abominator
+  - Psycast
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Abominator Psycasts|Abominator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 55
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- Up to 10kg of [[Abomination Matter]] and a point within range.
+- **Components**:
+	- Kinetic, Material (Up to 10kg of [[Abomination Matter]])
+- **Duration**:
+	- 24 hours
+- **Effects**:
+	- You fabricate a tool, armor, weapon, or complex shape out of [[Abomination Matter]] at a point you can see within range. This item has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The item lasts for the duration of the psycast. This psycast may be cast multiple times to create multiple items.
+- **Upcasting:**
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the item lasts for an additional 24 hours.

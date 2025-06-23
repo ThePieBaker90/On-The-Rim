@@ -1,1 +1,0 @@
-Makes all abomination spells do acid damage in addition to other damage types

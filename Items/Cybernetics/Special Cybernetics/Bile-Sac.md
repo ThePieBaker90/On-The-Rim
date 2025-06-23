@@ -16,6 +16,6 @@ tags:
 - **[[Cybercost]]:**
 	- 4
 - **Abilities:**
-	- Gives the user 3 additional level 1 spell slots and 1 spell slot of the highest level that the user already has (maximum of level 5)
+	- Gives the user an additional 75% [[Psyfocus]] capacity.
 - **Looks:**
 	- A sac made of various animal skins which creates and holds [[Psychofluid]].

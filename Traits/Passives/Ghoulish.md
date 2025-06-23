@@ -7,7 +7,7 @@ tags:
 	- Can have [[Ghoul]] specific [[Cybernetics]] installed.
 	- 50% Intelligence, Wisdom, and Charisma [[Efficiency]].
 	- 135% Strength, Dexterity, and Constitution [[Efficiency]].
-	- Unable to cast spells.
+	- Unable to cast psycasts.
 	- Only able to consume raw meat.
 	- Immune to [[Mind-Shattering Pain]], [[Radiation Buildup]], and [[Bleeding]].
 	- +5 ft speed.

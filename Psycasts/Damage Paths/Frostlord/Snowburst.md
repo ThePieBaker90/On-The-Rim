@@ -1,25 +1,25 @@
 ---
 tags:
-  - Spell
-  - Wizard
-  - Sorcerer
-  - Evocation
-  - 3rd-Level
+  - Frostlord
+  - Psycast
+  - 4th-Level
 ---
 - **Spell Type**:
-	- 3rd level evocation.
+	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]]
 - **Casting Time:**
-	- 1 action.
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 50
 - [[Range]]:
 	- Self.
 - **Target**:
 	- Self.
 - **Components**:
-	- V, S, M (an ice cube and a bit of quartz).
+	- Kinetic
 - **Duration**:
 	- Instant.
-- **Classes**:
-	- Wizard, Sorcerer.
 - **Spell**:
 	- A wave of ice erupts from the user in a spherical shape. This sphere is centered on the user and has a radius of 20 feet. Every creature within this sphere must make a Dexterity saving throw. A creature takes 8d6 cold damage on a failed save, or half as much damage on a successful one. 
 	- The user and their allies take no damage from the snowburst.

@@ -104,8 +104,8 @@ Male High-Elf Artificer 13 (Armorer) - Chaotic Neutral
 - Spell Storing Item
 ### Spells
 - **[[Shape Abomination Matter]] - Transmutation Cantrip - OtR**
-- **[[Alador's Apparate]] - 3rd Level Conjuration - OtR**
-- **[[Amity's Abomination Arms]] - 4th Level Transmutation - OtR**
+- **[[Darius' Dislocate]] - 3rd Level Conjuration - OtR**
+- **[[Alador's Abomination Arms]] - 4th Level Transmutation - OtR**
 - **[[Fabricate Abomination Tool]] - 2nd Level Transmutation - OtR**
 - **[[Sludge Shield]] - 1st Level Abjuration - OtR**
 - **[[Summon Abomination]] - 2nd Level Conjuration - OtR**
