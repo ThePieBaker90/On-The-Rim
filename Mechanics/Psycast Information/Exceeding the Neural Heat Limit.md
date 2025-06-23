@@ -15,8 +15,7 @@ Anytime you cast a psycast that would put you over your neural heat limit, you m
 | 51 - 95  | No Effect                                                                                          | 45%      |
 | 96 - 100 | [[Psycasts\|Psycast]] gets upcast to the first degree for free (if possible, otherwise no effect). | 5%       |
 
-
-Additional effects apply to the roll depending on how much you exceed your limit by. For example, with a neural heat limit of 30, having 30 generated would be 100%, but having 60 generated would be 200%
+Additional effects apply to the roll depending on how much you exceed your limit by. For example, with a neural heat limit of 30, having 30 generated would be 100% of the limit, but having 60 generated would be 200% of the limit.
 
 | Percent of Neural Heat Limit  | Effects                                                 |
 | ----------------------------- | ------------------------------------------------------- |
