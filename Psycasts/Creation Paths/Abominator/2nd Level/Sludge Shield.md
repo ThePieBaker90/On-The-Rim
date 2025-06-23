@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Surface, Creature, or Self
 - **Components**:
-	- Somatic, Material (3kg of [[Abomination Matter]])
+	- Kinetic, Material (3kg of [[Abomination Matter]])
 - **Duration**:
 	- 1 turn
 - **Effects**:

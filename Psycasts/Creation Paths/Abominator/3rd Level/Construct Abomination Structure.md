@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Up to 250kg of [[Abomination Matter]] and a point within range.
 - **Components**:
-	- Somatic, Material (Up to 250kg of [[Abomination Matter]])
+	- Kinetic, Material (Up to 250kg of [[Abomination Matter]])
 - **Duration**:
 	- 24 hours
 - **Effects**:

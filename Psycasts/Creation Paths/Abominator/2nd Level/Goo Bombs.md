@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Up to two creatures
 - **Components**:
-	- Somatic, Material (3kg of [[Abomination Matter]])
+	- Kinetic, Material (3kg of [[Abomination Matter]])
 - **Duration**:
 	- Instant
 - **Effects**:

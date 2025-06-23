@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Surface
 - **Components**:
-	- Somatic, Material (18kg of [[Abomination Matter]])
+	- Kinetic, Material (18kg of [[Abomination Matter]])
 - **Duration**:
 	- Up to 1 day
 - **Effects**:

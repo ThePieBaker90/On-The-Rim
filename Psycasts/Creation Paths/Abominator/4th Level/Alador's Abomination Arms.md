@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Friendly Creature or Self
 - **Components**:
-	- Somatic, Material (4kg of [[Abomination Matter]])
+	- Kinetic, Material (4kg of [[Abomination Matter]])
 - **Duration**:
 	- Concentration, up to 1 minute
 - **Effects**:

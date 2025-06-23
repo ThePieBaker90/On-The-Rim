@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Somatic
+	- Kinetic
 - **Duration**:
 	- 1 turn
 - **Effects**:

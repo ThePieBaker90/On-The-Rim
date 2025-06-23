@@ -43,9 +43,9 @@ aliases:
 - Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- This cost may be psyfocus, neural heat, or some other cost.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast, and so on.
-- All psycasts require components listed in that psycast's description, the components are as follows: Verbal, Somatic, and Material
+- All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Verbal, and Material
+	- Kinetic components require the psycaster have one free hand.
 	- Verbal components require the psycaster to be able to speak.
-	- Somatic components require the psycaster have one free hand.
 	- Material components require the psycaster have the materials within their inventory, these materials are not consumed unless explicitly stated. 
 - Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
 	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.

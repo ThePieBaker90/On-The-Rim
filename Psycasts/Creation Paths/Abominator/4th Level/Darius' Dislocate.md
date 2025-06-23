@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Two surface points within line of sight; one initial point and one ending point.
 - **Components**:
-	- Somatic, Material (3kg of [[Abomination Matter]])
+	- Kinetic, Material (3kg of [[Abomination Matter]])
 - **Duration**:
 	- Instant
 - **Effects**:
