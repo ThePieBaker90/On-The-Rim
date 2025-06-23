@@ -11,34 +11,34 @@ aliases:
 	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This may be referenced as the DC for saving throws among other things.
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
-		- Blazelord - Fire Damage and Temperature
-		- Neurolord - Psychic Damage and Neural Manipulation
-		- Frostlord - Cold Damage and Water
-		- Staticlord- Electrical Damage and Weather
-		- Necrolord - Necrotic Damage and Undead Command
 		- Acrilord - Acid Damage and Armor Debuffs
-		- Toxilord - Poison Damage and Damage Over Time
+		- Blazelord - Fire Damage and Temperature
+		- Frostlord - Cold Damage and Water
+		- Necrolord - Necrotic Damage and Undead Command
+		- Neurolord - Psychic Damage and Neural Manipulation
+		- Staticlord- Electrical Damage and Weather
 		- Terralord - Bludgeoning Damage and Earth shaping
+		- Toxilord - Poison Damage and Damage Over Time
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
-		- Technonator - Item Creation and Repairing
 		- Harmonator - Transformation of Items and Stats
 		- Kinetor - Energy Creation and Infusion
 		- Luzator - Light Creation and Information Revealing
+		- Technonator - Item Creation and Repairing
 		- Vegetator - Plant Creation and Growth
 	- Utility Paths
-		- Skipmancer - Teleportation and Portals
 		- Chronomancer - Time Manipulation and Prediction
-		- Wildemancer - Animal Commands and Tracking
-		- Noctomancer - Darkness Manipulation and Stealth
 		- Illusiomancer - Illusion Creation and Sense Disabling
+		- Noctomancer - Darkness Manipulation and Stealth
 		- Puppetmancer - Creature Commanding and Mind Meddling 
+		- Skipmancer - Teleportation and Portals
+		- Wildemancer - Animal Commands and Tracking
 	- Support Paths
 		- Empath - Mood Buffs and Positive Enchantments
-		- Tegopath - Damage Mitigation and Damage Debuffs
-		- Mendopath - Temporary Health Granting and Healing
-		- Wagepath - Damage Buffs and Accuracy Increases
 		- Hemopath - Wound Manipulation and Bleeding
+		- Mendopath - Temporary Health Granting and Healing
+		- Tegopath - Damage Mitigation and Damage Debuffs
+		- Wagepath - Damage Buffs and Accuracy Increases
 	- Each path contains 10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 - Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- This cost may be psyfocus, neural heat, or some other cost.
