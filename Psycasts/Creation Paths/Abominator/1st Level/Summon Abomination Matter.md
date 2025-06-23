@@ -1,0 +1,27 @@
+---
+tags:
+  - Abominator
+  - Psycast
+  - 1st-Level
+---
+- **Spell Type**:
+	- 1st level [[Abominator Psycasts|Abominator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 24
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 30 ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Somatic
+- **Duration**:
+	- 1 turn
+- **Effects**:
+	- You may summon up to 10kg of [[Abomination Matter]] at the chosen point within range.
+		- This [[Abomination Matter]] may be summoned compressed or uncompressed.
+- **Upcasting:**
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, you may summon an additional 10kg of [[Abomination Matter]].

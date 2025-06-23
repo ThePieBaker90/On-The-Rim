@@ -3,6 +3,8 @@ tags:
   - Material
   - Item
   - Abomination
+aliases:
+  - Abomination Goo
 ---
 - **Rarity**:
 	- Uncommon

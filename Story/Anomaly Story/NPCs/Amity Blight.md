@@ -115,7 +115,7 @@ Female High-Elf Artificer 13 (Alchemist) - Neutral Good
 - Spell Storing Item
 ### Spells
 - **[[Shape Abomination Matter]] - Transmutation Cantrip - OtR**
-- **[[Alador's Apparate]] - 3rd Level Conjuration - OtR**
+- **[[Darius' Dislocate]] - 3rd Level Conjuration - OtR**
 - **[[Amity's Abomination Arms]] - 4th Level Transmutation - OtR**
 - **[[Fabricate Abomination Tool]] - 2nd Level Transmutation - OtR**
 - **[[Sludge Shield]] - 1st Level Abjuration - OtR**

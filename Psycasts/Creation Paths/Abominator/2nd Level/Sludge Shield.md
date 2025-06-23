@@ -9,7 +9,7 @@ tags:
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
 - **[[Psyfocus]] Cost:**
-	- 12
+	- 4
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- Somatic, Material (1kg of [[Abomination Matter]])
 - **Duration**:
-	- 1 Round
-- **Spell**:
-	- As a reaction to a target within range getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target from incoming damage. The shield absorbs incoming damage, up to 20 damage, and dissipates after 1 round. If the shield is dealt more damage that it can absorb, the remaining damage is dealt to the target.
+	- 1 turn
+- **Effects**:
+	- As a reaction to a target within range getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target from incoming damage. The shield absorbs incoming damage, up to 20 damage, and dissipates after 1 turn. If the shield is dealt more damage that it can absorb, the remaining damage is dealt to the target.
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this spell, the shield lasts 1 turn longer and absorbs 20 more damage.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the shield lasts 1 turn longer and absorbs 20 more damage.

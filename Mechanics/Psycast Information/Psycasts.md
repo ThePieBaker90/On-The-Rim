@@ -4,7 +4,9 @@ tags:
 aliases:
   - Psycast
 ---
-- Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. There are two resources that are concerned with psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
+- Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. 
+- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
+- There is one stat that affect psycast strength, 
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
 		- Blazelord - Fire Damage and Temperature
@@ -16,7 +18,7 @@ aliases:
 		- Toxilord - Poison Damage and Damage Over Time
 		- Terralord - Bludgeoning Damage and Earth shaping
 	- Creation Paths
-		- Abominator - Summoning Abominations and Manipulation Abomination Goo
+		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
 		- Technonator - Item Creation and Repairing
 		- Harmonator - Transformation of Items and Stats
 		- Kinetor - Energy Creation and Infusion
@@ -38,7 +40,7 @@ aliases:
 	- Each path contains 8-10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 - Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- This cost may be psyfocus, neural heat, or some other cost.
-	- Upcasting a psycast one time is called a first upcast, upcasting it 
+	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast, and so on.
 - All psycasts require components listed in that psycast's description, the components are as follows: Verbal, Somatic, and Material
 	- Verbal components require the psycaster to be able to speak.
 	- Somatic components require the psycaster have one free hand.
