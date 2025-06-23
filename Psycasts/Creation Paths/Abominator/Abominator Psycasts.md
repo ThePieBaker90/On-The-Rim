@@ -12,7 +12,7 @@ aliases:
 	- [[Shape Abomination Matter]]
 	- [[Summon Abomination Matter]]
 - 2nd Level:
-	- [[Amity's Rocket Fists]]
+	- [[Goo Bombs]]
 	- [[Sludge Shield]]
 	- [[Summon Abomination]]
 - 3rd Level:

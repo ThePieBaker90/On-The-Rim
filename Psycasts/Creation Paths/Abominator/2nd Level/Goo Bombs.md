@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Abominator
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd level Evocation
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- Touch
+- **Target**:
+	- Up to two creatures
+- **Components**:
+	- Somatic, Material (3kg of [[Abomination Matter]])
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You shoot two mini-bombs made out of [[Abomination Matter]] at up to two targets within range. Make a roll to hit with for each mini-bomb, adding your psycasting ability modifier to each result. On a hit, the mini-bomb explodes dealing 1d8 + 2 force damage and 1d8 acid damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 26 psyfocus spent above the normal cost for this psycast, each mini-bomb deals an additional 1d8 force damage and 1d8 acid damage.
