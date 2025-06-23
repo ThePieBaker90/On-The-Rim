@@ -1,0 +1,26 @@
+---
+tags:
+  - Abominator
+  - Psycast
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Abominator Psycasts|Abominator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 75
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 150ft
+- **Target**:
+	- Up to 250kg of [[Abomination Matter]] and a point within range.
+- **Components**:
+	- Somatic, Material (Up to 250kg of [[Abomination Matter]])
+- **Duration**:
+	- 24 hours
+- **Effects**:
+	- You create a structure out of [[Abomination Matter]] centered at a point you can see within range. This structure has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The structure lasts for the duration of the psycast before melting back into inert [[Abomination Matter]]. This psycast may be cast multiple times to create multiple structures.
+- **Upcasting:**
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the structure lasts for an additional 24 hours. 

@@ -27,5 +27,6 @@ tags:
 		- You cause [[Abomination Matter]] to harden into a shape. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the spell ends.
 	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn. 
 	- If you cast this psycast multiple times, you can have no more than two of its effects active at a time. You can dismiss effects at any time.
+	- This shaped abomination matter has 4 health.
 - **Upcasting:**
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] remains under your control for an additional hour and you can control 1kg more.

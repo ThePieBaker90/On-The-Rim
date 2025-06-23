@@ -17,6 +17,7 @@ aliases:
 	- [[Summon Abomination]]
 - 3rd Level:
 	- [[Fabricate Abomination Tool]]
+	- [[Construct Abomination Structure]]
 - 4th Level:
 	- [[Alador's Abomination Arms]]
 	- [[Darius' Dislocate]]
