@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 3rd-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 3rd Level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Action

@@ -4,7 +4,7 @@ tags:
   - 2nd-Level
   - Psycast
 ---
-- **Spell Type**:
+- **Path**:
 	- 2nd level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Surface, Creature, or Self
 - **Components**:
-	- Somatic, Material (1kg of [[Abomination Matter]])
+	- Somatic, Material (3kg of [[Abomination Matter]])
 - **Duration**:
 	- 1 turn
 - **Effects**:

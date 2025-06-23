@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 4th-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 4th Level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Action
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Two surface points within line of sight; one initial point and one ending point.
 - **Components**:
-	- S, M (3kg of [[Abomination Matter]])
+	- Somatic, Material (3kg of [[Abomination Matter]])
 - **Duration**:
 	- Instant
 - **Effects**:

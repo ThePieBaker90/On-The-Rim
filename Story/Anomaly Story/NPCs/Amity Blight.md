@@ -116,7 +116,7 @@ Female High-Elf Artificer 13 (Alchemist) - Neutral Good
 ### Spells
 - **[[Shape Abomination Matter]] - Transmutation Cantrip - OtR**
 - **[[Darius' Dislocate]] - 3rd Level Conjuration - OtR**
-- **[[Amity's Abomination Arms]] - 4th Level Transmutation - OtR**
+- **[[Alador's Abomination Arms]] - 4th Level Transmutation - OtR**
 - **[[Fabricate Abomination Tool]] - 2nd Level Transmutation - OtR**
 - **[[Sludge Shield]] - 1st Level Abjuration - OtR**
 - **[[Summon Abomination]] - 2nd Level Conjuration - OtR**

@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 1st-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 1st level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Action
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Somatic, Material (Up to 1kg of [[Abomination Matter]])
+	- Somatic, Material (Up to 5kg of [[Abomination Matter]])
 - **Duration**:
 	- 1 hour
 - **Effects**:

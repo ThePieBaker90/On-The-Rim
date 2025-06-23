@@ -1,0 +1,25 @@
+---
+tags:
+  - Abominator
+  - Psycast
+---
+- **Path**:
+	- . Level [[Abominator Psycasts|Abominator Psycast]]
+- **Casting Time**:
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting:**
+	- .

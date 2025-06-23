@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 1st-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 1st level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Action
