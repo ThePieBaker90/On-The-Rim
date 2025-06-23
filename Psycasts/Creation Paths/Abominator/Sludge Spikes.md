@@ -2,21 +2,22 @@
 tags:
   - Abominator
   - Psycast
+  - 1st-Level
 ---
 - **Path**:
-	- . Level [[Abominator Psycasts|Abominator Psycast]]
+	- 1st Level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- .
+	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- .
+	- 
 - **[[Neural Heat]] Generation:**
-	- .
+	- 1
 - [[Range]]:
-	- .
+	- 45ft
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Somatic, Material (1kg of [[Abomination Matter]])
 - **Duration**:
 	- .
 - **Effects**:

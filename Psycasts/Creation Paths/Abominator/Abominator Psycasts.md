@@ -6,7 +6,7 @@ aliases:
   - Abominator Psycast
   - Abominator
 ---
-*Overview TODO*
+*Abominators specialize in creating and manipulating [[Abomination Matter]], a purple gooey substance with many uses. *
 
 - 1st Level:
 	- [[Shape Abomination Matter]]
