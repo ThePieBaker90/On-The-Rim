@@ -6,7 +6,9 @@ aliases:
 ---
 - Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. 
 - There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
-- There is one stat that affect psycast strength, 
+- There are two stats that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
+	- A creature's psycasting ability modifier is determined by their class.
+	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This may be referenced as the DC for saving throws among other things.
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
 		- Blazelord - Fire Damage and Temperature
@@ -45,5 +47,6 @@ aliases:
 	- Verbal components require the psycaster to be able to speak.
 	- Somatic components require the psycaster have one free hand.
 	- Material components require the psycaster have the materials within their inventory, these materials are not consumed unless explicitly stated. 
+- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
 
 

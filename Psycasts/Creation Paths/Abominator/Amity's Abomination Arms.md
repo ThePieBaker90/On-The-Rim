@@ -1,14 +1,6 @@
 ---
 tags:
-  - Spell
-  - Abomination
-  - Transmutation
-  - Artificer
-  - Bard
-  - Cleric
-  - Druid
-  - Paladin
-  - 4th-Level
+  - Abominator
 ---
 - **Spell Type**:
 	- 4th level Transmutation

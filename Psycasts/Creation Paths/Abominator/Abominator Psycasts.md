@@ -16,7 +16,7 @@ aliases:
 - 3rd Level:
 	- [[Fabricate Abomination Tool]]
 - 4th Level:
-	- .
+	- [[Darius' Dislocate]]
 - 5th Level:
 	- .
 
