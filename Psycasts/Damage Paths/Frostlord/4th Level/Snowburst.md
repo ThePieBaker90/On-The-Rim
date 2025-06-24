@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- A wave of ice erupts from the user in a spherical shape. This sphere is centered on the user and has a radius of 20 feet. Every creature within this sphere must make a Dexterity saving throw. A creature takes 8d6 cold damage on a failed save, or half as much damage on a successful one. 
+	- A wave of ice erupts from the user in a spherical shape. This sphere is centered on the user and has a radius of 20ft. Every creature within this sphere must make a Dexterity saving throw. A creature takes 8d6 cold damage on a failed save, or half as much damage on a successful one. 
 	- The user and their allies take no damage from the snowburst.
 	- The ice freezes all standing water that within the sphere.
 - **Upcasting**:

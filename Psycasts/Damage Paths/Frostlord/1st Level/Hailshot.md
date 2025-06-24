@@ -1,0 +1,26 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 1st-Level
+---
+- **Spell Type**:
+	- 1st Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 14
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A direction.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- Pellets of ice form and shoot out in a conical shape in a direction of your choosing. The cone originates from you, has a length of 60ft, and a maximum width of 10ft. All creatures within the cone must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning and 1d6 cold damage, or half as much damage on a successful one.
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 bludgeoning and 1d6 cold damage.

@@ -9,8 +9,8 @@ aliases:
 *todo.*
 
 - 1st Level:
+	- [[Hailshot]]
 	- Breathe Ice
-	- Ice Spike
 	- Ice Shield
 - 2nd Level:
 	- Freeze Ray
