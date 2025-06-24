@@ -9,20 +9,20 @@ aliases:
 *Abominators specialize in creating and manipulating [[Abomination Matter]], a purple gooey substance with many uses.*
 
 - 1st Level:
-	- [[Shape Abomination Matter]]
-	- [[Summon Abomination Matter]]
+	- [[Shape Abomination Matter]] (1,10)
+	- [[Summon Abomination Matter]] (18,0)
 - 2nd Level:
-	- [[Goo Bombs]]
-	- [[Sludge Shield]]
-	- [[Summon Abomination]]
+	- [[Goo Bombs]] (3,25)
+	- [[Sludge Shield]] (5,25)
+	- [[Summon Abomination]] (30,18)
 - 3rd Level:
-	- [[Fabricate Abomination Tool]]
-	- [[Construct Abomination Structure]]
+	- [[Fabricate Abomination Tool]] (55,0)
+	- [[Construct Abomination Structure]] (75,0)
 - 4th Level:
-	- [[Alador's Abomination Arms]]
-	- [[Darius' Dislocate]]
+	- [[Alador's Abomination Arms]] (3,35)
+	- [[Darius' Dislocate]] (3,44)
 - 5th Level:
-	- [[Summon Abomination Army]]
+	- [[Summon Abomination Army]] (65,18)
 
 - Level 1 Miscast - Goo Thinning
 	- All active [[Abomination Matter]] has its health and duration cut in half (rounded down).

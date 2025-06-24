@@ -9,9 +9,9 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 3
+	- 1
 - **[[Neural Heat]] Generation:**
-	- 15
+	- 10
 - [[Range]]:
 	- 30ft
 - **Target**:
@@ -29,4 +29,4 @@ tags:
 	- If you cast this psycast multiple times, you can have no more than two of its effects active at a time. You can dismiss effects at any time.
 	- This shaped abomination matter has 4 health.
 - **Upcasting:**
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] remains under your control for an additional hour and you can control 1kg more.
+	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] remains under your control for an additional hour and you can control 1kg more.

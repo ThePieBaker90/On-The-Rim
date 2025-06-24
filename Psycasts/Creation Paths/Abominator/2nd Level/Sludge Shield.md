@@ -9,7 +9,7 @@ tags:
 - **Casting Time**:
 	- 1 Reaction, which you take when a target is hit by an attack.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 5
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:

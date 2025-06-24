@@ -9,15 +9,20 @@ aliases:
 *todo.*
 
 - 1st Level:
-	- .
+	- Breathe Ice
+	- Ice Spike
+	- Ice Shield
 - 2nd Level:
-	- .
+	- Freeze Ray
+	- Heat Sapping Crystal
 - 3rd Level:
-	- .
+	- Cold Zone
+	- Ice Block
+	- Snap Freeze
 - 4th Level:
 	- [[Snowburst]]
 - 5th Level:
-	- .
+	- Blizzard
 
 - Level 1 Miscast - Sudden Ice Rink
 	- Ice spreads around you covering the nearby floors. All surfaces within a sphere of 20ft radius, centered on you become difficult terrain.
