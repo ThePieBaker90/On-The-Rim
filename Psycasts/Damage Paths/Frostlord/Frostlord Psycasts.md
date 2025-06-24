@@ -9,7 +9,7 @@ aliases:
 *todo.*
 
 - 1st Level:
-	- [[Hailshot]]
+	- [[Hailshot]] (2,14)
 	- Breathe Ice
 	- Ice Shield
 - 2nd Level:
@@ -18,12 +18,11 @@ aliases:
 - 3rd Level:
 	- Cold Zone
 	- Ice Block
-	- Snap Freeze
+	- [[Snap Freeze]] (4,37)
 - 4th Level:
-	- [[Snowburst]]
+	- [[Snowburst]] (3,44)
 - 5th Level:
 	- Blizzard
-
 - Level 1 Miscast - Sudden Ice Rink
 	- Ice spreads around you covering the nearby floors. All surfaces within a sphere of 20ft radius, centered on you become difficult terrain.
 - Level 2 Miscast - Self Popsicle
