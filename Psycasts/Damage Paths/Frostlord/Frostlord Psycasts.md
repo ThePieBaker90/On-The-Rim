@@ -13,7 +13,7 @@ aliases:
 	- Breathe Ice
 	- Ice Shield
 - 2nd Level:
-	- Freeze Ray
+	- [[Freeze Ray]]
 	- Heat Sapping Crystal
 - 3rd Level:
 	- Cold Zone
