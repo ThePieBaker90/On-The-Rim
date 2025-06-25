@@ -20,7 +20,7 @@ aliases:
 	- Ice Block
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
-	- [[Snowburst]] (3,44)
+	- [[Arctic Wind]] (3,44)
 - 5th Level:
 	- Blizzard
 
