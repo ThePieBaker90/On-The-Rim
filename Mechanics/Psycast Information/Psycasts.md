@@ -13,7 +13,7 @@ aliases:
 	- Damage Paths
 		- Acrilord - Acid Damage and Armor Debuffs
 		- Blazelord - Fire Damage and Temperature
-		- Frostlord - Cold Damage and Water
+		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Water
 		- Necrolord - Necrotic Damage and Commanding the Undead
 		- Neurolord - Psychic Damage and Neural Manipulation
 		- Staticlord- Electrical Damage and Weather
