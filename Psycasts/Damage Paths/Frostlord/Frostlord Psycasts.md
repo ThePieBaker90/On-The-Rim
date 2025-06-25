@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Hailshot]] (2,14)
 	- [[Water Barrier]] (2,24)
-	- Breathe Ice
+	- [[Create Water]] (15,0)
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
 	- Heat Sapping Crystal
