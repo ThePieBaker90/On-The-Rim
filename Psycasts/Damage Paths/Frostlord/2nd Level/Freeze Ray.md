@@ -9,18 +9,18 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 25
 - [[Range]]:
-	- Self.
+	- 120ft
 - **Target**:
-	- Up to 3 targets.
+	- One Target
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Concentration, up to 3 turns
+	- Instant
 - **Effects**:
-	- You summon 3 freezing motes above up to 3 targets of your choice. They must make a Dexterity saving throw to avoid the freezing motes. Upon a failure, they gain the [[Frozen Solid]] condition, this condition lasts until the psycast ends or the condition is forcibly removed. Upon a success, nothing happens.
+	- You shoot a ray of pure cold energy at a target within range. The target must make a Dexterity saving throw. On a failed save, the creature gains the [[Frozen Solid]] condition for 2 turns and takes 3d6 cold damage. On a successful save, nothing happens.
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the caster may summon 1 additional freezing mote above 1 additional target.
+	- You may upcast this psycast. For every 19 psyfocus spent above the normal cost for this psycast, the ray deals an additional 1d8 cold damage.

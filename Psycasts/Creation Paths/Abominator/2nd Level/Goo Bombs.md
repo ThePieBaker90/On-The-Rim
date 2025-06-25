@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
-	- Touch
+	- 45ft
 - **Target**:
 	- Up to two creatures
 - **Components**:
