@@ -1,6 +1,5 @@
 ---
 tags:
-  - Frostlord
   - Psycast
   - 4th-Level
 ---
