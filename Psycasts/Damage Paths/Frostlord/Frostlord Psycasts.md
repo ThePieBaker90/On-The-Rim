@@ -9,14 +9,14 @@ aliases:
 *todo.*
 
 - 1st Level:
+	- [[Fragment Burst]] (2,26)
+	- [[Create Water]] (15,0)
 	- [[Hailshot]] (2,14)
 	- [[Water Barrier]] (2,24)
-	- [[Create Water]] (15,0)
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
 	- Heat Sapping Crystal
 - 3rd Level:
-	- Cold Zone
 	- Ice Block
 	- [[Snap Freeze]] (4,37)
 - 4th Level:

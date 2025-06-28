@@ -9,6 +9,8 @@ tags:
   - Burst-Fire
   - Assault-Rifle
   - Martial
+aliases:
+  - Assault Rifle
 ---
 * [[Range]]:
 	* Ranged: 15-80-160ft

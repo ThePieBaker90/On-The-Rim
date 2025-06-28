@@ -12,7 +12,7 @@ aliases:
 	- [[Shape Abomination Matter]] (1,10)
 	- [[Summon Abomination Matter]] (18,0)
 - 2nd Level:
-	- [[Goo Bombs]] (3,25)
+	- [[Goo Bombs]] (4,30)
 	- [[Sludge Shield]] (5,25)
 	- [[Summon Abomination]] (30,18)
 - 3rd Level:
