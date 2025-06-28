@@ -11,34 +11,34 @@ aliases:
 	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This may be referenced as the DC for saving throws among other things.
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
-		- Acrilord - Acid Damage and Armor Debuffs
-		- Blazelord - Fire Damage and Temperature
+		- [[Acrilord Psycasts|Acrilord]] - Acid Damage and Armor Debuffs
+		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Water
-		- Necrolord - Necrotic Damage and Commanding the Undead
-		- Neurolord - Psychic Damage and Neural Manipulation
-		- Staticlord- Electrical Damage and Weather
-		- Terralord - Bludgeoning Damage and Earth shaping
-		- Toxilord - Poison Damage and Damage Over Time
+		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead
+		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation
+		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Weather
+		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth shaping
+		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
-		- Harmonator - Transformation of Items and Stats
-		- Kinetor - Energy Creation and Infusion
-		- Luzator - Light Creation and Information Revealing
-		- Technonator - Item Creation and Repairing
-		- Vegetator - Plant Creation and Growth
+		- [[Harmonator Psycasts|Harmonator]] - Transformation of Items and Stats
+		- [[Kinetor Psycasts|Kinetor]] - Energy Creation and Infusion
+		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing
+		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing
+		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth
 	- Utility Paths
-		- Chronomancer - Time Manipulation and Prediction
-		- Illusiomancer - Illusion Creation and Sense Disabling
-		- Noctomancer - Darkness Manipulation and Stealth
-		- Puppetmancer - Creature Commanding and Mind Meddling 
-		- Skipmancer - Teleportation and Portals
-		- Wildemancer - Animal Commands and Tracking
+		- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction
+		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling
+		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth
+		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling 
+		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals
+		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking
 	- Support Paths
-		- Empath - Mood Buffs and Positive Enchantments
-		- Hemopath - Wound Manipulation and Bleeding
-		- Mendopath - Temporary Health Granting and Healing
-		- Tegopath - Damage Mitigation and Damage Debuffs
-		- Wagepath - Damage Buffs and Accuracy Increases
+		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments
+		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding
+		- [[Mendopath Psycasts|Mendopath]] - Temporary Health Granting and Healing
+		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
+		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases
 	- Each path contains 10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 - Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- This cost may be psyfocus, neural heat, or some other cost.
