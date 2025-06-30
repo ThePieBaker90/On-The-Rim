@@ -6,7 +6,7 @@ aliases:
   - Frostlord Psycast
   - Frostlord
 ---
-*Frostlords specialize in bending water and ice to their will.*
+*Frostlords specialize in bending water and ice to their will. Most of their spells center around cold and piercing damage, with many emulating firearms. Many effects also apply [[Frozen Solid]], which can temporarily take a creature out of a fight.*
 
 - 1st Level:
 	- [[Fragment Burst]] (2,26)
