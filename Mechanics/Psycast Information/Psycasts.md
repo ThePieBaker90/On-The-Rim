@@ -16,7 +16,7 @@ aliases:
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Water
 		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
-		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Weather TODO
+		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
 	- Creation Paths
@@ -33,6 +33,7 @@ aliases:
 		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO
 		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals TODO
 		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking TODO
+		- [[Aquamancer Psycasts|Aquamancer]] - Water Manipulation and Weather TODO
 	- Support Paths
 		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments TODO
 		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
