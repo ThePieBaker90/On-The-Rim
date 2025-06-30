@@ -15,7 +15,7 @@ aliases:
 	- [[Water Barrier]] (2,24)
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
-	- Heat Sapping Crystal
+	- [[Cooling Crystal]] (22,0)
 - 3rd Level:
 	- Ice Block
 	- [[Snap Freeze]] (4,37)

@@ -1,0 +1,29 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 2nd-Level
+---
+- **Spell Type**:
+	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 22
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch
+- **Target**:
+	- a point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 days
+- **Effects**:
+	- You conjure a small, light blue, cold crystal at a point within range. 
+		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 113000ft$^3$ in which case it will simply cool a sphere).
+		- The target temperature is chosen when the crystal is created. It may range from 5C to -20C. The crystal cools at a rate of 1C per minute.
+	- The crystal expires at the end of the duration, turning into an inert, colorless crystal.
+- **Upcasting**:
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the target temperature may be -10C lower.
