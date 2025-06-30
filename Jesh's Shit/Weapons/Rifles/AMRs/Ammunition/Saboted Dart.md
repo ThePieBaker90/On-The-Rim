@@ -8,3 +8,5 @@ tags:
 
 **Description**
 * A long Uranium rod encased in a lightweight Plasteel sabot, providing exceptional muzzle velocity and penetration.
+**Cost**
+1 credit for 1
