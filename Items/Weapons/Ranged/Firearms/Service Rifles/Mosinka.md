@@ -24,7 +24,7 @@ tags:
 - [[Rate of Fire]]:
 	- Melee: 1
 	- Ranged: 0.5
-- [[Armor Penetration]]:
+- [[Armor Piercing]]:
 	- Melee: 1
 	- Ranged: 2
 - **Properties**:

@@ -9,7 +9,7 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 22
+	- 26
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 5 days
+	- 1 day
 - **Effects**:
 	- You conjure a small, light blue, cold crystal at a point within range. 
 		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 113000ft$^3$ in which case it will simply cool a sphere).

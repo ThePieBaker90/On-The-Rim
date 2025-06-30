@@ -10,7 +10,7 @@ tags:
 	- {{Damage dice & constants}} {{Type of damage}}
 - [[Rate of Fire]]:
 	- {{#rateOfFire}}
-- [[Armor Penetration]]:
+- [[Armor Piercing]]:
 	- {{#AP}}
 - **Properties**:
 	- {{Properties}}

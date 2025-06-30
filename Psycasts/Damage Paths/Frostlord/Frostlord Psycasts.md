@@ -6,7 +6,7 @@ aliases:
   - Frostlord Psycast
   - Frostlord
 ---
-*todo.*
+*Frostlords specialize in bending water and ice to their will.*
 
 - 1st Level:
 	- [[Fragment Burst]] (2,26)
@@ -15,14 +15,14 @@ aliases:
 	- [[Water Barrier]] (2,24)
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
-	- [[Cooling Crystal]] (22,0)
+	- [[Cooling Crystal]] (26,0)
 - 3rd Level:
 	- Ice Block
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
 	- [[Arctic Wind]] (3,44)
 - 5th Level:
-	- Blizzard
+	- [[Icicle Impale]] (6,52)
 
 - Level 1 Miscast - Sudden Ice Rink
 	- Ice spreads around you covering the nearby floors. All surfaces within a sphere of 20ft radius, centered on you become difficult terrain.
