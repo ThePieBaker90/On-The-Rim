@@ -17,7 +17,7 @@ aliases:
 	- [[Freeze Ray]] (3,25)
 	- [[Cooling Crystal]] (26,0)
 - 3rd Level:
-	- Ice Block
+	- [[Ice Block]] (6,28)
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
 	- [[Arctic Wind]] (3,44)

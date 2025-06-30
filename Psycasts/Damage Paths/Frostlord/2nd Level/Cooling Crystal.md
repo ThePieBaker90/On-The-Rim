@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch
 - **Target**:
-	- a point within range.
+	- A point within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
