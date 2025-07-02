@@ -12,7 +12,6 @@ aliases:
 	- [[Fragment Burst]] (2,26)
 	- [[Ice Blast]] (2,20)
 	- [[Hailshot]] (2,14)
-	- .
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
 	- [[Cooling Crystal]] (26,0)
@@ -21,6 +20,7 @@ aliases:
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
 	- [[Arctic Wind]] (3,44)
+	- [[Blizzard]] (68,0)
 - 5th Level:
 	- [[Icicle Impale]] (6,52)
 

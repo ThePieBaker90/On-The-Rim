@@ -1,0 +1,29 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 4th-Level
+---
+- **Spell Type**:
+	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 68
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 3 days
+- **Effects**:
+	- You call upon a harsh blizzard to sweep a circular area centered on you with a radius of 8 miles.
+		- Traversing in a blizzard requires twice as much movement.
+		- All ranged attacks made in the blizzard are made with disadvantage.
+		- Creatures who are exposed to the blizzard and are unprotected take 1d10 cold damage every minute.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the blizzard lasts an additional day.
