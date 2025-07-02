@@ -1,11 +1,11 @@
 ---
 tags:
-  - Frostlord
   - Psycast
   - 1st-Level
+  - Aquamancer
 ---
 - **Spell Type**:
-	- 1st Level [[Frostlord Psycasts|Frostlord Psycast]]
+	- 1st Level [[Aquamancer Psycasts|Aquamancer Psycast]]
 - **Casting Time:**
 	- 1 Reaction, which you take when you are hit by an attack.
 - **[[Psyfocus]] Cost:**

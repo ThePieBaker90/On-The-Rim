@@ -10,9 +10,9 @@ aliases:
 
 - 1st Level:
 	- [[Fragment Burst]] (2,26)
-	- [[Create Water]] (15,0)
+	- .
 	- [[Hailshot]] (2,14)
-	- [[Water Barrier]] (2,24)
+	- .
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
 	- [[Cooling Crystal]] (26,0)

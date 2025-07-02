@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - 1st-Level
-  - Frostlord
+  - Aquamancer
 ---
 - **Path**:
-	- 1st level [[Frostlord Psycasts|Frostlord Psycast]]
+	- 1st level [[Aquamancer Psycasts|Aquamancer Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
