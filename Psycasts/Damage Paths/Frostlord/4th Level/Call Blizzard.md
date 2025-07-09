@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Kinetic
+	- Kinetic, Verbal
 - **Duration**:
 	- 3 days
 - **Effects**:

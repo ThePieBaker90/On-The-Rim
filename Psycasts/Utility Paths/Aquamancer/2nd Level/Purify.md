@@ -22,6 +22,6 @@ tags:
 	- 1 turn
 - **Effects**:
 	- You purify one volume of liquid (up to 15L) or one piece of food (up to 3kg) from any poisons, contaminants, or diseases. 
-		- Some aggressive contaminants cannot be removed by this psycast.
+		- Certain contaminants cannot be removed by this psycast.
 - **Upcasting:**
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may purify 15L more worth of liquid or 3kg more worth of food.

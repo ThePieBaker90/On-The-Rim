@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Kinetic, Material (300mL of Water)
 - **Duration**:
 	- Instant.
 - **Effects**:
