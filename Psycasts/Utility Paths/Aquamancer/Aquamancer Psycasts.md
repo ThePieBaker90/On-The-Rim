@@ -23,7 +23,7 @@ aliases:
 	- .
 	- .
 
-- Level 1 Miscast - .
-	- .
+- Level 1 Miscast - Blanket of Water
+	- A sheet of water manifests slightly above the caster, it is a circle with radius of 15ft. After about 2 seconds, the sheet falls, soaking everything under it.
 - Level 2 Miscast - .
 	- .
