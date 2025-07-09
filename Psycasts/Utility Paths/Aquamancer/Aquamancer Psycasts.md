@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Create Water]] (15,0)
 - 2nd Level:
-	- .
+	- [[Purify]] (46,0)
 - 3rd Level:
 	- [[Create Water Source]] (48,0)
 	- [[Water Barrier]] (2,24)
