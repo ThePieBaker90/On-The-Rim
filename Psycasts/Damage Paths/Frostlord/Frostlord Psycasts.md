@@ -20,7 +20,7 @@ aliases:
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
 	- [[Arctic Wind]] (3,44)
-	- [[Blizzard]] (68,0)
+	- [[Call Blizzard]] (68,0)
 - 5th Level:
 	- [[Icicle Impale]] (6,52)
 
