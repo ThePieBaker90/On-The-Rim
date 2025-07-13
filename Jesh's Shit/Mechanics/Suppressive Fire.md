@@ -1,0 +1,15 @@
+---
+tags:
+- mechanic
+- idk what tags
+---
+- A weapon with the Suppressive Fire property can be used with an action to lay Suppressive Fire.
+- Laying Suppressive Fire ends the weapon user's turn immediately. They may not move or take any more actions.
+- Suppressive Fire creates a zone of suppressive fire specified by that weapon, lasting until the beginning of the weapon user's next turn. Any creatures in line-of-sight within this zone must make a Dex check.
+	- On a 15+, nothing happens
+	- On a 10-14, gain the Suppressed condition until the end of the weapon user's next turn
+ 		- Lose the Suppressed condition immediately if you leave the zone of Suppressive Fire
+  - On a <10, gain the Suppressed condition and take one hit from the weapon (unless specified otherwise)
+  - On a nat 1, gain the Suppressed condition and take one critical hit from the weapon (unless specified otherwise)
+- Creatures entering or exiting the Suppressive Fire zone must make this check as well.
+- Suppressive fire consumes 3xRoF ammunition. 
