@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Aquamancer
-  - 2nd-Level
+  - 4th-Level
 ---
 - **Path**:
-	- 2nd level [[Aquamancer Psycasts|Aquamancer Psycast]]
+	- 4th level [[Aquamancer Psycasts|Aquamancer Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**

@@ -31,3 +31,8 @@ Genotypes for every race
 Smart Ammunition 3/4 or 1/2 Maybe idk
 Smart Weapons 1/2
 Hypersmart Weapon 1/4
+
+Aquamancer Spell Ideas:
+Water infuse
+Knockback cone
+knockback sphere
