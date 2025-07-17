@@ -25,7 +25,7 @@ traits:
   	- Two Handed
   	- Heavy
   	- Special
-  - **Special**
+- **Special**
   	- The user may take the Charge action to charge the weapon, adding one level of Charge.
    	- Firing the weapon resets the Charge to zero.
     - Damage and Armour Penetration depend on Charge level
