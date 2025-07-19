@@ -13,12 +13,12 @@ aliases:
 - 2nd Level:
 	- [[Tempest Strike]] (2,15)
 - 3rd Level:
-	- 
+	-  
 	- [[Water Barrier]] (2,24)
 - 4th Level:
-	- 
 	- [[Call Rain]] (68,0)
 	- [[Purify]] (46,0)
+	- [[Typhoon's Fury]] (3,44)
 - 5th Level:
 	- [[Create Water Source]] (48,0)
 	- .

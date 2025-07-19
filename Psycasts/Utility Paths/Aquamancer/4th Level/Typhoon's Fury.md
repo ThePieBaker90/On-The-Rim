@@ -2,25 +2,25 @@
 tags:
   - Psycast
   - Aquamancer
-  - 2nd-Level
+  - 4th-Level
 ---
 - **Spell Type**:
-	- 2nd Level [[Aquamancer Psycasts|Aquamancer Psycast]]
+	- 4th Level [[Aquamancer Psycasts|Aquamancer Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 2
+	- 3
 - **[[Neural Heat]] Generation:**
-	- 15
+	- 44
 - [[Range]]:
-	- 5ft
+	- 15ft circle.
 - **Target**:
-	- A creature.
+	- Self.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You strike a nearby creature with water, make a melee attack roll against a creature within range. This attack ignores half of the creature's EC rounded up. On a hit it deals 2d12 bludgeoning damage and knocks the creature 15ft away from you.
+	- You create and push out a wave of water in a circular area around you. All creatures in the wave must make a constitution saving throw to avoid being swept away. On a failure they take 
 - **Upcasting**:
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 bludgeoning damage.
