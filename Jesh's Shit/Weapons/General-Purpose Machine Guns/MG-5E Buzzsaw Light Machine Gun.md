@@ -17,6 +17,8 @@ tags:
 	- 2d4+DEX piercing
 - [[Rate of Fire]]:
 	- 3
+- **Armour Penetration**
+	-  3
 - **Properties**:
 	* Martial
 	* [[Ammunition]](20)
