@@ -5,7 +5,6 @@ tags:
   - Firearm
   - Ammunition
   - Reload
-  - Two-Handed
   - Martial
   - Medium-Machine-Gun
 ---
@@ -22,8 +21,8 @@ tags:
 	* [[Ammunition]](40)
 	* [[Reload]](Action, Full)
 	* [[Suppressive Fire]](TODO)
-  * [[Mounted]]
+ 	* [[Mounted]]
 - **Value**:
 	- 250 credits
 * **Looks**:
-	- Stock M240 with box magazine and tripod or ring mount
+	- Stock M240 with box magazine and tripod or pintle mount
