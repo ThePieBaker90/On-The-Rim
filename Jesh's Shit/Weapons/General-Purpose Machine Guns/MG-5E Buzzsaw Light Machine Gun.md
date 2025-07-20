@@ -1,0 +1,31 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Firearm
+  - Ammunition
+  - Reload
+  - Two-Handed
+  - Martial
+  - Light-Machine-Gun
+---
+- [[Range]]:
+	- Ranged: 10-60-120ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 2d4+DEX piercing
+- [[Rate of Fire]]:
+	- 3
+- **Properties**:
+	* Martial
+	* [[Ammunition]](20)
+	* [[Reload]](Action, Full)
+	* Two-Handed
+	* [[Suppressive Fire]](TODO)
+  * Recoil
+  * Encumbering
+- **Value**:
+	- 150 credits
+* **Looks**:
+	- Stock M249 SAW with belt pouch
