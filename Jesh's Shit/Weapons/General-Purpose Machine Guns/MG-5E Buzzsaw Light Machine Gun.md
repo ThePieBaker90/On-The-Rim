@@ -14,14 +14,14 @@ tags:
 - **Target:**
 	- One Target
 - **Damage**:
-	- 2d4+DEX piercing
+	- 1d4+DEX piercing
 - [[Rate of Fire]]:
-	- 3
+	- 6
 - **Armour Penetration**
 	-  3
 - **Properties**:
 	* Martial
-	* [[Ammunition]](20)
+	* [[Ammunition]](30)
 	* [[Reload]](Action, Full)
 	* Two-Handed
 	* [[Suppressive Fire]](TODO)
