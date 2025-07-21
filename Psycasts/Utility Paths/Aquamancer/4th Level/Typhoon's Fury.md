@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create and push out a wave of water in a circular area around you. All creatures in the wave must make a constitution saving throw to avoid being swept away. On a failure they take 
+	- You create and push out a wave of water in a circular area around you. All creatures in the wave must make a constitution saving throw to avoid being swept away. On a failure they take 4d10 bludgeoning damage and are knocked back to the edge of the circle, away from the caster. On a success they take half as much damage and are not knocked back.
+		- Airborne creatures are swept away if they are within 10 ft of the ground.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 bludgeoning damage.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage increases by 1d10 bludgeoning damage and the circle is 5ft larger. 

@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Aquamancer
+  - 2nd-Level
+---
+- **Spell Type**:
+	- 2nd Level [[Aquamancer Psycasts|Aquamancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 15
+- [[Range]]:
+	- 5ft
+- **Target**:
+	- A creature.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You strike a nearby creature with scalding hot water, make a melee attack roll against a creature within range. This attack ignores all of a creature's EC, however AC is twice as effective at defending against this attack. On a hit, the creature takes 2d12 fire damage and they are knocked back 10ft.
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 fire damage.

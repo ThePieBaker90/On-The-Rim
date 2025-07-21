@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Create Water]] (15,0)
 - 2nd Level:
-	- [[Tempest Strike]] (2,15)
+	- [[Boiling Strike]] (2,15)
 - 3rd Level:
 	-  
 	- [[Water Barrier]] (2,24)
