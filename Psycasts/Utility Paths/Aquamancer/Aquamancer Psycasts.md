@@ -13,8 +13,8 @@ aliases:
 - 2nd Level:
 	- [[Boiling Strike]] (2,15)
 - 3rd Level:
-	-  
 	- [[Water Barrier]] (2,24)
+	- [[Water Cutter]] ()
 - 4th Level:
 	- [[Call Rain]] (68,0)
 	- [[Purify]] (46,0)

@@ -34,5 +34,4 @@ Hypersmart Weapon 1/4
 
 Aquamancer Spell Ideas:
 Water infuse
-Knockback cone
-knockback sphere
+

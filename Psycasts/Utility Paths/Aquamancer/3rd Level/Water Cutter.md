@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Aquamancer
+  - 3rd-Level
+---
+- **Spell Type**:
+	- 3rd Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- One Target.  
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You clap 
+- **Upcasting**:
+	- You may upcast this psycast. For every 19 psyfocus spent above the normal cost for this psycast, .e.
