@@ -13,9 +13,9 @@ tags:
 - **Target:**
 	- One Target
 - **Damage**:
-	- 2d12+DEX piercing
+	- 1d12+DEX piercing
 - [[Rate of Fire]]:
-	- 2
+	- 4
 - **Armour Penetration**
 	-  12
 - **Properties**:
