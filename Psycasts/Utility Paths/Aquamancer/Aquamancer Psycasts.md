@@ -14,7 +14,7 @@ aliases:
 	- [[Boiling Strike]] (2,15)
 - 3rd Level:
 	- [[Water Barrier]] (2,24)
-	- [[Water Cutter]] ()
+	- [[Rejuvenating Drink]] (18,22)
 - 4th Level:
 	- [[Call Rain]] (68,0)
 	- [[Purify]] (46,0)
