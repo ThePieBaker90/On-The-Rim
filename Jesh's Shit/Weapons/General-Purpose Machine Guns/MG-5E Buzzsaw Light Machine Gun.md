@@ -16,7 +16,7 @@ tags:
 - **Damage**:
 	- 1d4+DEX piercing
 - [[Rate of Fire]]:
-	- 6
+	- 5
 - **Armour Penetration**
 	-  3
 - **Properties**:
@@ -25,6 +25,7 @@ tags:
 	* [[Reload]](Action, Full)
 	* Two-Handed
 	* [[Suppressive Fire]](TODO)
+ * Unreliable 1
   * Recoil
   * Encumbering
 - **Value**:
