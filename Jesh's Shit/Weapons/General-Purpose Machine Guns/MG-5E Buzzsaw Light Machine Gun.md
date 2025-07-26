@@ -25,7 +25,7 @@ tags:
 	* [[Reload]](Action, Full)
 	* Two-Handed
 	* [[Suppressive Fire]](TODO)
- * Unreliable 1
+ 	* Unreliable 1
   * Recoil
   * Encumbering
 - **Value**:
