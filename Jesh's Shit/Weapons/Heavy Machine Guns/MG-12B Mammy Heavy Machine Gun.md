@@ -15,7 +15,7 @@ tags:
 - **Damage**:
 	- 1d12+DEX piercing
 - [[Rate of Fire]]:
-	- 4
+	- 3
 - **Armour Penetration**
 	-  12
 - **Properties**:
@@ -23,6 +23,7 @@ tags:
 	* [[Ammunition]](40)
 	* [[Reload]](Action, Full)
 	* [[Suppressive Fire]](TODO)
+ 	* Unreliable 1
   * Mounted
 - **Value**:
 	- 400 credits
