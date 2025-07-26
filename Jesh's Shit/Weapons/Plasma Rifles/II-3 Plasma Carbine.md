@@ -20,6 +20,8 @@ tags:
   	* Martial
   	* Ammunition: 50
   	* Two-handed
+* **Armour Penetration**
+	* 0  
 * **Plasma Rifle**
 	* Instead of conventional ammo, consumes energy from energy cell
  	* On a hit roll of 20+ after modifiers, apply [[Plasma Burned]] to target, as long as hit roll≥target EV
