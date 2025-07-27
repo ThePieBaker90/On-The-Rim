@@ -1,0 +1,34 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Firearm
+  - Ammunition
+  - Reload
+  - Two-Handed
+  - Simple
+  - Service Rifle
+---
+- [[Range]]:
+	- Ranged: 10-50-100ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d4+3+DEX piercing
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+  - Simple 
+	- [[Ammunition]](1)
+	- [[Reload]](Bonus Action, Full)
+	- Two-Handed
+  - Unjammable
+  - Special
+- **Special**
+  - Trainer Optics: +2 to hit
+- **Value**:
+	- 10 credits
+- **Lore**
+  - *All 
+* **Looks**:
+	* A stock Stevens Model 311 side-by-side double barrel shotgun.
