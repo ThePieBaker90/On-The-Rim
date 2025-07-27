@@ -29,6 +29,18 @@ tags:
 - **Value**:
 	- 10 credits
 - **Lore**
-  - *All 
+  - *Learning critical shooting skills has never been easier! The all-new My First Gun™ is the perfect introduction to self-defense for your little sharpshooter! The My First Gun™ has several features that make it ideal for a first-time shooter:
+**Single-shot bolt-action design**
+A reliable mechanism simple enough for even the youngest shooters!
+**Low-recoil cartrige**
+A manageable kick for youngsters, without sacrificing ballistic performance!
+**Compact, lightweight design**
+Junior-sized rifle for junior-sized users!
+**Bullseye Buddy™ training optics**
+Our patented Bullseye Buddy™ system will boost your child's confidence by giving their marksmanship a helping hand!
+Thanks to the My First Gun™, your child is ready to lock and load their future!
+Warning: small parts choking hazard. Not suitable for children under 3 years of age*
+From My First Gun™ promotional material
+
 * **Looks**:
-	* A stock Stevens Model 311 side-by-side double barrel shotgun.
+	* A small single-shot rifle made of molded plastic and plasteel. Painted bright red with gold-coloured lightning bolts and a stripe running down the barrel. 
