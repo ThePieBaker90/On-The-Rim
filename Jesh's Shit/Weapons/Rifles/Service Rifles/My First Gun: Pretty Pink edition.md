@@ -1,0 +1,45 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Firearm
+  - Ammunition
+  - Reload
+  - Two-Handed
+  - Simple
+  - Service Rifle
+---
+- [[Range]]:
+	- Ranged: 10-50-100ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d4+3+DEX piercing
+- [[Rate of Fire]]:
+	- 1
+- **Properties**:
+  	- Simple 
+	- [[Ammunition]](1)
+	- [[Reload]](Bonus Action, Full)
+	- Two-Handed
+  	- Unjammable
+  	- Special
+- **Special**
+  	- Trainer Optics: +2 to hit
+- **Value**:
+	- 10 credits
+- **Lore**
+ 	- "*Learning critical shooting skills has never been easier! The all-new My First Gun™ is the perfect introduction to self-defense for your little sharpshooter! 	- The My First Gun™ has several features that make it ideal for a first-time shooter:*
+	- ***Single-shot bolt-action design***
+		- *A reliable mechanism simple enough for even the youngest shooters!*
+	- ***Low-recoil cartrige***
+		- *A manageable kick for youngsters, without sacrificing ballistic performance!*
+	- ***Compact, lightweight design***
+		- *Junior-sized rifle for junior-sized users!*
+	- ***Bullseye Buddy™ training optics***
+		- *Our patented Bullseye Buddy™ system will boost your child's confidence by giving their marksmanship a helping hand!*
+	- *Thanks to the My First Gun™, your child is ready to lock and load their future!*
+	- *Warning: small parts choking hazard. Not suitable for children under 3 years of age*"
+	- Exerpt from My First Gun™ promotional material
+* **Looks**:
+	* A small single-shot rifle made of molded plastic and plasteel. Painted bright pink with scattered blue and yellow flowers. 
