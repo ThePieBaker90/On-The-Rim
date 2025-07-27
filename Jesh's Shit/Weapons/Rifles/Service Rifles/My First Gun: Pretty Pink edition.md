@@ -27,7 +27,7 @@ tags:
 - **Special**
   	- Trainer Optics: +2 to hit
 - **Value**:
-	- 10 credits
+	- 11 credits
 - **Lore**
  	- "*Learning critical shooting skills has never been easier! The all-new My First Gun™ is the perfect introduction to self-defense for your little sharpshooter! 	- The My First Gun™ has several features that make it ideal for a first-time shooter:*
 	- ***Single-shot bolt-action design***
