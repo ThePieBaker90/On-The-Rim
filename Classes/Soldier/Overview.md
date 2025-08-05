@@ -1,2 +1,1 @@
-Placeholder for now.
-Probably have pages for overview, skill tree, then details into all the skills
+A competent fighter with expertise in their weapons.
