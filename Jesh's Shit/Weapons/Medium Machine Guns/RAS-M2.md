@@ -20,9 +20,12 @@ tags:
 	-  7
 - **Properties**:
 	* Martial
-	* [[Reload]](Action, Full)
+	* Mounted
+ 		* Heat Generation: 1
+   		* Heat Capacity: 1D6
+     		* Heat Decay: 2  
 	* [[Suppressive Fire]](TODO)
- 	* [[Mounted]]
+ 	* Unreliable 2
 - **Value**:
 	- 240 credits
 - **Lore**
