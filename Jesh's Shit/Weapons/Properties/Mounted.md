@@ -22,6 +22,6 @@ Under ordinary circumstances a Mounted weapon cannot be moved from its mount.
 * A Mounted weapon has unlimited ammunition capacity and doesn't need reloaded.
 * A Mounted weapon is prone to Overheating.
 	* Each Mounted weapon has certain specified Heat capacity dice, 1D6 by default.
- 	* After each attack action if at least half the weapon's Rate of Fire is used, the weapon gains a certain specified amount of Heat, 1 by default.
-  	* After gaining Heat, roll the Heat Capacity dice. If the result is lower than the weapon's Heat, the weapon gains the Overheated condition.
-  	* At the end of a round of combat if the weapon was not used that round it loses a certain specified amount of Heat, 2 by default. 
+ 	* After each attack action if at least half the weapon's Rate of Fire is used, the weapon gains a certain specified amount of Heat, 1 by default. Heat Generation.
+  	* After gaining Heat, roll the Heat Capacity dice. If the result is lower than the weapon's Heat, the weapon gains the Overheated condition. Heat Capacity.
+  	* At the end of a round of combat if the weapon was not used that round it loses a certain specified amount of Heat, 2 by default. Heat Decay.
