@@ -30,5 +30,7 @@ tags:
   * Encumbering
 - **Value**:
 	- 150 credits
+- **Lore:**
+	- The Brear Arms MG-5E is a lightweight and portable LMG intended to provide mobile fire support. Nearly 2 billion have been produced, including licensed copies, making it one of the most-produced machine guns of all time.  
 * **Looks**:
 	- Stock M249 SAW with belt pouch
