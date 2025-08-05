@@ -21,6 +21,9 @@ tags:
 - **Properties**:
 	* Martial
 	* Mounted
+ 		* Heat Generation: 2
+   		* Heat Capacity: 2D6
+     		* Heat Decay: 3  
 	* [[Reload]](Action, Full)
 	* [[Suppressive Fire]](TODO)
  	* Unreliable 1
