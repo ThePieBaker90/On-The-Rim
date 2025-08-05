@@ -1,0 +1,25 @@
+---
+tags:
+- Weapon
+- Grenade Launcher
+- Mounted
+---
+- **[Range]:**
+  - 15-45-90
+- **[Rate of Fire]**
+  - 3
+- **Properties**
+  - Martial
+  - Heavy
+  - Target: 1 target
+  - Mounted
+    - Heat Generation: 1
+	- Heat Capacity: 1D4
+  	- Heat Decay: 2
+   - Suppressive Fire: 15ft radius within range
+- **Value**
+  - 240 credits
+- **Lore**
+  - The Bumble Ballistics GL-BM3 "Blitzer" is a belt-fed automatic grenade launcher, typically used for area suppression as its shorter range and higher cost makes it inefficient at direct targetted fire.
+- **Looks**
+  - Stock Mk 19 with tripod or pintle mount.
