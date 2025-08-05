@@ -1,0 +1,1 @@
+Rather than engaging in direct combat themselves, the drone operator remotely controls drones they create. This could be a single large mech, a small number of human-sized drones, or a swarm of microdrones. Or other options.
