@@ -9,11 +9,11 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 15
+	- 12
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 50ft
+	- 20ft
 - **Target**:
 	- A volume.
 - **Components**:
@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- 1 turn
 - **Effects**:
-	- You can change up to 
+	- You can change the temperature of up to 30L of water by up to 20 degrees Celsius (Both colder and hotter). 
+		- The water changes temperature immediately.
+		- This may only be used on substances made of atleast 97% water.
 - **Upcasting:**
-	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water.
+	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, you may change the temperature of an additional 10L of water and by an additional 20 degrees.
