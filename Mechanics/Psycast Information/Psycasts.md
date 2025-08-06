@@ -33,7 +33,7 @@ aliases:
 		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO
 		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals TODO
 		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking TODO
-		- [[Aquamancer Psycasts|Aquamancer]] - Water Manipulation and Weather TODO
+		- [[Aquamancer Psycasts|Aquamancer]] - Water Manipulation and Weather
 	- Support Paths
 		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments TODO
 		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
