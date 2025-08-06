@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 minute.
 - **Effects**:
-	- You create a 5ft x 25ft x 10ft wall of ice centered at a target point within range. The ice wall rises out of the ground and pushes up everything that is above it. If the ice wall  is restricted by a wall or a ceiling, it will stop at the obstruction. The ice block has 45 HP and will be pierced by any attack with an [[Armor Piercing]] above 8.
+	- You create a 5ft x 25ft x 10ft wall of ice centered at a target point within range. The ice wall rises out of the ground and pushes up everything that is above it. If the ice wall  is restricted by a wall or a ceiling, it will stop at the obstruction. The ice wall has 45 HP.
 	- Upon creation the user determines if the wall is clear or opaque ice and the rotation of the wall
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall lasts an additional minute and its HP increases by 20 HP.
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall  lasts an additional minute and its HP increases by 20 HP.

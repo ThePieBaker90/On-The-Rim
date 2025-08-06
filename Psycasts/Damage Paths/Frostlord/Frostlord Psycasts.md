@@ -10,7 +10,7 @@ aliases:
 
 - 1st Level:
 	- [[Fragment Burst]] (2,26)
-	- [[Ice Blast]] (2,20)
+	- [[Unfinished Blast Attack]] (2,20)
 	- [[Hailshot]] (2,14)
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)

@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Aquamancer
+---
+- **Path**:
+	- 1st level [[Aquamancer Psycasts|Aquamancer Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 15
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 50ft
+- **Target**:
+	- A volume.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 1 turn
+- **Effects**:
+	- You can change up to 
+- **Upcasting:**
+	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water.

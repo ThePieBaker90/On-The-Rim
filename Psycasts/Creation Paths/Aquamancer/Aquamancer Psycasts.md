@@ -10,6 +10,7 @@ aliases:
 
 - 1st Level:
 	- [[Create Water]] (15,0)
+	- [[Change Water Temperature]]
 - 2nd Level:
 	- [[Boiling Strike]] (2,15)
 - 3rd Level:
