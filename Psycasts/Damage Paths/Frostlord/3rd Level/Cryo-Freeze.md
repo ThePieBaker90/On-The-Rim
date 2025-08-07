@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
-	- 20 (20)
+	- 26 (26)
 - [[Range]]:
 	- Self.
 - **Target**:
@@ -19,8 +19,12 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 3 turns
+	- Concentration, up to 3 turns
 - **Effects**:
-	- 
+	- You encase yourself in a solid block of ice, gaining the [[Frozen Solid]] condition.
+		- This ice only takes damage from fire damage, it has 30 health.
+			- The ice is not vulnerable to fire damage.
+		- If you end your turn [[Frozen Solid]], you regain 2d10+4 health.
+		- When concentration is lost, you immediately lose the condition. You may stop concentrating on the spell while incased in the ice.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall  lasts an additional minute and its HP increases by 20 HP.
+	- You may upcast this psycast. For every 34 psyfocus spent above the normal cost for this psycast, you heal an additional 2d10 health at the end of each of your turns while [[Frozen Solid]].

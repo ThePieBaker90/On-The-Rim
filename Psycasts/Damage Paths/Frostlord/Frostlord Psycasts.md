@@ -16,7 +16,7 @@ aliases:
 	- [[Cooling Crystal]] (26,0)
 - 3rd Level:
 	- [[Ice Wall]] (6,28)
-	- 
+	- [[Cryo-Freeze]] (12, 26)
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
 	- [[Arctic Wind]] (3,44)
