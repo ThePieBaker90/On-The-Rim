@@ -1,0 +1,26 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 3rd-Level
+---
+- **Spell Type**:
+	- 3rd Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 12
+- **[[Neural Heat]] Generation:**
+	- 20 (20)
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 3 turns
+- **Effects**:
+	- 
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall  lasts an additional minute and its HP increases by 20 HP.

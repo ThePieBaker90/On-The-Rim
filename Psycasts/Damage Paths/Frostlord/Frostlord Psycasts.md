@@ -10,13 +10,13 @@ aliases:
 
 - 1st Level:
 	- [[Fragment Burst]] (2,26)
-	- [[Unfinished Blast Attack]] (2,20)
 	- [[Hailshot]] (2,14)
 - 2nd Level:
 	- [[Freeze Ray]] (3,25)
 	- [[Cooling Crystal]] (26,0)
 - 3rd Level:
 	- [[Ice Wall]] (6,28)
+	- 
 	- [[Snap Freeze]] (4,37)
 - 4th Level:
 	- [[Arctic Wind]] (3,44)

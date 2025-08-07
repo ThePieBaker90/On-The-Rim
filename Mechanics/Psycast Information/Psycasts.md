@@ -13,7 +13,7 @@ aliases:
 	- Damage Paths
 		- [[Acrilord Psycasts|Acrilord]] - Acid Damage and Armor Debuffs TODO
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
-		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Water
+		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
 		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
