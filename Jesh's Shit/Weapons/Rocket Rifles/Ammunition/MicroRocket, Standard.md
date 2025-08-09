@@ -1,0 +1,13 @@
+---
+tags:
+- Item
+- Ammunition
+---
+- For each 20ft of distance between the shooter and the target
+  - +1D4 piercing damage
+  - +1 AP
+  - -3 to hit
+- **Cost**
+  -  5 for 1 credit
+- **Description**
+  - A small rocket projectile with a lead penetrating core 
