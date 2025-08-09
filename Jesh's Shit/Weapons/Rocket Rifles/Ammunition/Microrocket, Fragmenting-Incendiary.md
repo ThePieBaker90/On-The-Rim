@@ -1,0 +1,14 @@
+---
+tags:
+- Item
+- Ammunition
+---
+- +2 AP
+- +1D6 Heat damage
+- For each 20ft of distance between the shooter and the target
+  - +1D4 piercing damage
+  - -2 to hit
+- **Cost**
+  -  3 for 1 credit
+- **Description**
+  - A small rocket projectile with a semi-armour-piercing icnedinary core 
