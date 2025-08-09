@@ -1,0 +1,15 @@
+---
+tags:
+- Item
+- Ammunition
+- Smart
+---
+- Smart
+- For each 20ft of distance between the shooter and the target
+  - +1D4 piercing damage
+  - +1 AP
+  - -3 to hit
+- **Cost**
+  -  1 for 5 credits
+- **Description**
+  - A small rocket projectile with a lead penetrating core and folding aerodynamic fins 
