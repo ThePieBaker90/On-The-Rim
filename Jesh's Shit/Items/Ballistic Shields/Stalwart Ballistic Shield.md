@@ -1,0 +1,14 @@
+---
+tags:
+- Item
+- Ballistic Shield
+---
+- +6 AV if attempting to shoot through
+- +6 EV if attempting to shoot around
+- Requires 10 strength for two-handed use
+- Requires 16 strength for one-handed use
+- -2 to hit when using a projectile weapon with this shield
+- **Cost**:
+  - 20
+- **Description**
+  - A heavyweight ballistic shield comprised of plasteel with a nanoquartz viewport and ambidextrous gun notches
