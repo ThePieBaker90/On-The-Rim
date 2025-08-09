@@ -6,7 +6,7 @@ aliases:
   - Aquator
   - Aquator Psycast
 ---
-*Aquators specialize in the rapid creation and state-changing of water. Most of their spells center around the rapid creation of water and application of forces on it. Although water can't be shaped like other materials, its ease to create at specific points in space make it a favorite for many psycasters.*
+*Aquators specialize in the rapid creation and state-changing of water. Most of their psycasts center around the rapid creation of water and application of forces on it. Although water can't be shaped like other materials, its ease to create at specific points in space make it a favorite for many psycasters.*
 
 - 1st Level:
 	- [[Create Water]] (15,0)

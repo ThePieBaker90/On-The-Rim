@@ -4,7 +4,7 @@ tags:
   - 4th-Level
   - Aquator
 ---
-- **Spell Type**:
+- **Path**:
 	- 4th Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
 	- 1 Action.

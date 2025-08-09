@@ -4,7 +4,7 @@ tags:
   - 3rd-Level
   - Aquator
 ---
-- **Spell Type**:
+- **Path**:
 	- 3rd Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
 	- 1 Reaction, which you take when you are hit by an attack.

@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 12
+- **[[Neural Heat]] Generation:**
+	- 26
+- [[Range]]:
+	- 120ft
+- **Target**:
+	- A creature.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You and a willing creature average each other's current health values. Both of your current health values then become this average. 
+		- If a creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
+		- The health increase and decrease from this psycast cannot be amplified nor mitigated. 
+- **Upcasting:**
+	- You cannot upcast this psycast. 

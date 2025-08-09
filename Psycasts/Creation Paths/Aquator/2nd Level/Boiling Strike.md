@@ -4,7 +4,7 @@ tags:
   - 2nd-Level
   - Aquator
 ---
-- **Spell Type**:
+- **Path**:
 	- 2nd Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
 	- 1 Action.

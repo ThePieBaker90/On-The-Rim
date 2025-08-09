@@ -3,7 +3,7 @@ tags:
   - Info
 ---
 Every creature, vehicle, construct, etc. that can be targeted has an Armor Value (AV) separate from its Armor Class (AC). While the AC describes the difficulty of hitting the target, the AV represents the difficulty of penetrating its protection.
-All weapons, ammunition, spells, or anything else that may cause damage has an Armor Penetration (AP). Some damage sources may ignore armor value completely. 
+All weapons, ammunition, psycasts, or anything else that may cause damage has an Armor Penetration (AP). Some damage sources may ignore armor value completely. 
 AV/AP ranges on a scale of 0 to 9.
 
 | Armor Value/Penetration | Example Armor             | Example Attack |

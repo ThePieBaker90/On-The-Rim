@@ -28,4 +28,4 @@ tags:
 		- They may make a melee attack with the abomination arms.
 			- Attacking with the abomination arms is a melee attack with a reach of 15ft. It deals 2d12 + 4 + STR bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
 - **Upcasting**:
-	- You may upcast this psycast. For every 32 psyfocus spent above the normal cost for this psycast, you may concentrate on the spell for an additional 1 minute, the melee attack increases in damage by 1d12, and the reach of the arms increases by 5ft.
+	- You may upcast this psycast. For every 32 psyfocus spent above the normal cost for this psycast, you may concentrate on the psycast for an additional 1 minute, the melee attack increases in damage by 1d12, and the reach of the arms increases by 5ft.
