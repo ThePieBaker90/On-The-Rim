@@ -1,0 +1,34 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Firearm
+  - Ammunition
+  - Reload
+  - Two-Handed
+  - Martial
+  - Rocket Rifle
+---
+- [[Range]]:
+	- Ranged: 15-80-180ft
+- **Target:**
+	- One Target
+- **Damage**:
+	- 1d4+ Dex piercing
+- [[**Rate of Fire**]]:
+	- 1
+- **Armour Penetration**:
+ 	- 0
+- **Properties**:
+  	- Martial
+	  - [[Ammunition]](12)
+		- [[Reload]](Bonus Action, Full)
+		- Two-Handed
+  	- Special Ammunition
+  	- Unjammable
+- **Value**:
+	- 180 credits
+- **Lore**
+ 	- The RAR Mk I is a unique weapon. Instead of firing conventional bullets, it fires small spin-stabilized rockets. This means that the weapon's muzzle velocity is quite low, but the projectile continues to accelerate for some distance after leaving the barrel. This results in a lightweight and reliable weapon with great power at range, though also a high cost and low accuracy. Its typical usage is with commando and airborne forces.
+* **Looks**:
+	* A Gyrojet Assault Rifle with iron sights and collapsing stock
