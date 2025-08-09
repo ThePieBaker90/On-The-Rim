@@ -21,14 +21,14 @@ aliases:
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
-		- [[Aquamancer Psycasts|Aquamancer]] - Water Manipulation and Weather
-		- [[Harmonator Psycasts|Harmonator]] - Transformation of Items and Stats TODO
+		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
 		- [[Kinetor Psycasts|Kinetor]] - Energy Creation and Infusion TODO
 		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
 		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing TODO
 		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth TODO
 	- Utility Paths
 		- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction TODO
+		- [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability TODO
 		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling TODO
 		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth TODO
 		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO

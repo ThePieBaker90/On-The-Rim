@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Aquamancer
   - 3rd-Level
+  - Aquator
 ---
 - **Spell Type**:
-	- 3rd Level [[Aquamancer Psycasts|Aquamancer Psycast]]
+	- 3rd Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
 	- 1 Reaction, which you take when you are hit by an attack.
 - **[[Psyfocus]] Cost:**

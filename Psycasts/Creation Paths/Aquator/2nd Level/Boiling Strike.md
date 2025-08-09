@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Aquamancer
   - 2nd-Level
+  - Aquator
 ---
 - **Spell Type**:
-	- 2nd Level [[Aquamancer Psycasts|Aquamancer Psycast]]
+	- 2nd Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

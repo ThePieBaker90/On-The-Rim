@@ -1,19 +1,20 @@
 ---
 tags:
   - Info
-  - Harmonator
+  - Harmomancer
 aliases:
-  - Harmonator
-  - Harmonator Psycast
+  - Harmomancer
+  - Harmomancer Psycast
 ---
-*todo.*
+*Harmomancers specialize in manipulating luck and the balance of the universe*. Most of their spells transform something, whether is be fate, items, or skills. Although a lot of their effects have to deal with the law of equivalent exchange, a skilled harmomancer knows how to use this to their advantage.
 
 - 1st Level:
-	- .
+	- [[Blessing of Good Luck]] (22, 0)
+	- [[Curse of Bad Luck]] (22, 0)
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Location Swap]] (3, 24)
 - 4th Level:
 	- .
 - 5th Level:
