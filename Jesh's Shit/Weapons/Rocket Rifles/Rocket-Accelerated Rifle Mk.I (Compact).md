@@ -10,7 +10,7 @@ tags:
   - Rocket Rifle
 ---
 - [[Range]]:
-	- Ranged: 10-60-160ft
+	- Ranged: 10-50-160ft
 - **Target:**
 	- One Target
 - **Damage**:
