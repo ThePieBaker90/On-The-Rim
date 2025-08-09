@@ -13,14 +13,15 @@ aliases:
 	- [[Curse of Bad Luck]] (22, 0)
 - 2nd Level:
 	- [[Entropy Exchange]] (2, 14)
+	- [[Life Link]] (2, 14)
 - 3rd Level:
 	- [[Entropy Balance]] (12, 26)
-	- [[Location Swap]] (3, 24)
+	- [[Location Swap]] (6, 30)
 	- .
 - 4th Level:
 	- .
 - 5th Level:
-	- .
+	- [[Score Roll]] (90, 0)
 
 - Level 1 Miscast - Health Balance
 	- The caster loses 1d20 health, a random nearby hostile creature gains the amount the caster lost.

@@ -22,5 +22,6 @@ tags:
 	- Instant.
 - **Effects**:
 	- You lose 2d4 health, a creature of your choice loses that much health.
+		- The creature always loses the exact amount of health you lost.
 - **Upcasting:**
 	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, You lose 2d4 more health.

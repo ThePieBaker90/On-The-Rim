@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- You and a willing creature average each other's current health values. Both of your current health values then become this average. 
-		- If a creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
+		- If the creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
 		- The health increase and decrease from this psycast cannot be amplified nor mitigated. 
 - **Upcasting:**
 	- You cannot upcast this psycast. 

@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- As a reaction to a creature within range making an ability check, you give them disadvantage on this ability check.
+	- As a reaction to a creature within range making an ability check, you give them disadvantage on the ability check.
 - **Upcasting:**
 	- You cannot upcast this psycast.

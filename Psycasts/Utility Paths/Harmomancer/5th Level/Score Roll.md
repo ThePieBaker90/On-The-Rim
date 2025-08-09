@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 90
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A creature.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- A target you touch rolls 5d6, they then drop the lowest two dice and note the result. They do this a total of six times, once for each ability score. Once they have six results, each ability score becomes one of the results of their choice. This change is permanent.
+- **Upcasting:**
+	- You cannot upcast this psycast.
