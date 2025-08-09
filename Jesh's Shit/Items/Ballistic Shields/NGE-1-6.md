@@ -1,0 +1,14 @@
+---
+tags:
+- Item
+- Ballistic Shield
+---
+- +16 AV if attempting to shoot through
+- +6 EV if attempting to shoot around
+- Requires 20 strength for two-handed use
+- Requires 26 strength for one-handed use
+- -2 to hit when using a projectile weapon with this shield
+- **Cost**:
+  - 105
+- **Description**
+  - The Next Generation Exoscreen Model 1 Version 6 produced by Revelate Engineering Industries is composed of spacecraft-grade composites for ultamite spaced protection for exosuit applications. In short, it's a bigass shield for warcaskets.
