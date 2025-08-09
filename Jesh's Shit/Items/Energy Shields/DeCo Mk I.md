@@ -1,0 +1,20 @@
+---
+tags:
+- Item
+- Energy Shield
+---
+- A deployable energy shield.
+- When placed on the ground, creates a 15ftx10ft wall of energy.
+- This wall has 50 hp and regenerates 5hp per round.
+- Projectiles attempting to pass through the wall will be stopped and any damage they would apply are applied to the wall.
+- If the wall's hp drops to 0, it is disabled.
+  - It will continue to regenerate HP even when disabled, becoming active upon reaching 15hp.
+- Picking up the shield generator will disable it.
+- Consumes 250mL of Chemfuel per deployment
+- Capacity of 1L Chemfuel 
+- **Cost:**
+  - 400 credits
+- **Lore**
+  - The Silver Bell Corp. Deployable Cover Mk I is, as the name implies, a portable deployable energy shield intended to provide cover during a firefight. A compact generator powers a hardlight projection that will stop fast-moving projectiles.
+- **Looks**
+  - A large backpack with FUCK I CAN'T WRITE FOR SHIT TODAY. Upon deployment a golden wall of hardlight is produced from a circular projector on the pack's rear. 
