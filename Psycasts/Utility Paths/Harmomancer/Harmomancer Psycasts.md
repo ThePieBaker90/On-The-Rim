@@ -22,7 +22,7 @@ aliases:
 	- .
 - 5th Level:
 	- [[Score Roll]] (90, 0)
-	- [[Transmute Object]]
+	- [[Transmute Object]] (55, 0)
 
 - Level 1 Miscast - Health Balance
 	- The caster loses 1d20 health, a random nearby hostile creature gains the amount the caster lost.

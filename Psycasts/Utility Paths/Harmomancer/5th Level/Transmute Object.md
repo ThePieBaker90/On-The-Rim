@@ -9,18 +9,20 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 90
+	- 55
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
 	- Touch
 - **Target**:
-	- A creature.
+	- An inanimate object.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- A target you touch rolls 5d6, they then drop the lowest two dice and note the result. They do this a total of six times, once for each ability score. Once they have six results, each ability score becomes one of the results of their choice. This change is permanent.
+	- You roll 1d20 and the object transforms into another object of the DM's choice.
+		- A 10 will result in an object of about equal value, a 1 will result in an object with much less value, a 20 will result in an object with much more value.
+		- This roll cannot be modified by any effects other than effects from this spell.
 - **Upcasting:**
-	- You cannot upcast this psycast.
+	- You may upcast this psycast. For every 35 psyfocus spent above the normal cost for this psycast, your roll gets +1 to the result.
