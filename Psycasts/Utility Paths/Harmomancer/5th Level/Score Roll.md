@@ -9,7 +9,7 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 90
+	- 70
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
@@ -19,8 +19,9 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Instant.
+	- Until rest.
 - **Effects**:
-	- A target you touch rolls 5d6, they then drop the lowest two dice and note the result. They do this a total of six times, once for each ability score. Once they have six results, each ability score becomes one of the results of their choice. This change is permanent.
+	- You give a creature you touch random modifiers on all of their ability scores. For every ability score, they roll 1d6 and flip a coin to generate a modifier. If the coin is heads the modifier is positive, if it is tails, it is negative. The strength of the modifier is the result of the 1d6. This modifier lasts until the creature takes a rest.
+		- You have no choice in which modifier affects which ability score when generating modifiers.
 - **Upcasting:**
 	- You cannot upcast this psycast.
