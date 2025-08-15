@@ -33,6 +33,3 @@ Smart Weapons 1/2
 Hypersmart Weapon 1/4
 
 
-Harmonator Ideas:
-I drain and you drain
-I drain you heal
