@@ -28,7 +28,7 @@ aliases:
 		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth TODO
 	- Utility Paths
 		- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction TODO
-		- [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability TODO
+		- [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability
 		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling TODO
 		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth TODO
 		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO

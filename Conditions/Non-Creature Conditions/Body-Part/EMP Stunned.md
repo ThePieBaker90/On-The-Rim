@@ -1,0 +1,1 @@
+[[Conditions/Special Conditions/EMP Stunned|EMP Stunned Redirect]]
