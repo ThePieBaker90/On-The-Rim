@@ -1,0 +1,35 @@
+---
+tags:
+  - Germline
+---
+*TODO*
+- **Size:**
+	- Medium, around 6-7ft tall generally
+- **Speed:**
+	- 30ft
+- **Languages:**
+	- Common
+	- Elvish
+- **Cosmetic Genes:**
+	- [[Skin Color]]
+		- .
+	- [[Hair Color]]
+		- .
+	- [[Body Type]]
+		- .
+	- [[Eye Color]]
+		- .
+	- [[Pointy Ears]]
+- **Life Genes:**
+	- [[Average Lifespan]]
+- **Ability Genes:**
+	- TODO (Drow Magic)
+- **Passive Genes:**
+	- [[Darkvision (120ft)]]
+	- [[Charm Resistant]]
+	- [[Minor UV Sensitivity]]
+- **Skill Genes:**
+	- [[Dexterous]]
+	- [[Charming]]
+	- [[Keen Senses]]
+

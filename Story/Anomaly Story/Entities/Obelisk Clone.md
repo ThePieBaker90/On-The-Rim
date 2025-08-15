@@ -47,6 +47,6 @@ tags:
 	- Unnarmed Strike - 1 Action
 		- *Melee Weapon Attack*: +Original's Strength to hit, reach 5ft, one target.
 		- *Hit*: 1d4 + Original's Strength bludgeoning damage
-	- All spells of the Original
+	- All psycasts of the Original
 - **Lore**:
 	- *A clone created by a [[Corrupted Obelisk]], these tend to be very flawed clones with [[Organ Decay|Decaying Organs]], [[Duplication Sickness]], [[Crumbling Mind|Crumbling Sanities]], or unyielding hostility.*

@@ -1,0 +1,55 @@
+---
+tags:
+  - Info
+aliases:
+  - Psycast
+---
+- Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. 
+- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
+- There are two stats that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
+	- A creature's psycasting ability modifier is determined by their class.
+	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This may be referenced as the DC for saving throws among other things.
+- All psycasts belong to a path, the following is a comprehensive list of paths:
+	- Damage Paths
+		- [[Acrilord Psycasts|Acrilord]] - Acid Damage and Armor Debuffs TODO
+		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
+		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
+		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
+		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
+		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
+		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
+		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
+	- Creation Paths
+		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
+		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
+		- [[Kinetor Psycasts|Kinetor]] - Energy Creation and Infusion TODO
+		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
+		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing TODO
+		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth TODO
+	- Utility Paths
+		- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction TODO
+		- [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability
+		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling TODO
+		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth TODO
+		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO
+		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals TODO
+		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking TODO
+	- Support Paths
+		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments TODO
+		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
+		- [[Mendopath Psycasts|Mendopath]] - Temporary Health Granting and Healing TODO
+		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs TODO
+		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
+	- Each path contains 10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
+- Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
+	- This cost may be psyfocus, neural heat, or some other cost.
+	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast, and so on.
+- All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, and Material
+	- Kinetic components require the psycaster have one free hand.
+		- Gesture components require the psycaster have two free hands.
+	- Verbal components require the psycaster to be able to speak.
+	- Material components require the psycaster have the materials within their inventory, these materials are not consumed unless explicitly stated. 
+- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
+	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
+	- If you are hit while concentrating on a psycast you must make a saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. Your modifier for this roll is your psycasting modifier.
+

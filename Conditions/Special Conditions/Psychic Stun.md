@@ -1,0 +1,11 @@
+---
+tags:
+  - Condition
+---
+- When a creature has the psychic stun condition they suffer the following effects:
+	- They are [[Psy Sapped]]
+	- They are [[Incapacitated]].
+	- They cannot move or speak.
+	- They automatically fail all non-constitution based checks.
+	- Attack rolls against this creature have advantage.
+	- All melee attacks against this creature are critical hits.

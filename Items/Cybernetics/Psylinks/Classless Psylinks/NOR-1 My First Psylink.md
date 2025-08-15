@@ -3,6 +3,8 @@ tags:
   - Cybernetic
   - Brain
   - Psylink
+aliases:
+  - Psylink
 ---
 * Install Location:
 	* [[Brain]]

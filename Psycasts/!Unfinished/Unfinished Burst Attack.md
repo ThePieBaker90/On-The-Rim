@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+---
+- **Spell Type**:
+	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- A wave of ice erupts from the user in a spherical shape. This sphere is centered on the user and has a radius of 20ft. Every creature within this sphere must make a Dexterity saving throw. A creature takes 8d6 cold damage on a failed save, or half as much damage on a successful one. 
+	- The user and their allies take no damage from the snowburst.
+	- The ice freezes all standing water that within the sphere.
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the damage increases by 2d6 cold damage and the radius of the sphere increases by 5ft.

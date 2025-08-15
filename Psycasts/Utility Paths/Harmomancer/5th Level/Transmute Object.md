@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 55
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch
+- **Target**:
+	- An inanimate object.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You roll 1d20 and the object transforms into another object of the DM's choice.
+		- A 10 will result in an object of about equal value, a 1 will result in an object with much less value, a 20 will result in an object with much more value.
+		- This roll cannot be modified by any effects other than effects from this spell.
+- **Upcasting:**
+	- You may upcast this psycast. For every 35 psyfocus spent above the normal cost for this psycast, your roll gets +1 to the result.

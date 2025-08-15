@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Aquator
+---
+- **Path**:
+	- 1st level [[Aquator Psycasts|Aquator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 15
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 50ft
+- **Target**:
+	- A volume.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 1 turn
+- **Effects**:
+	- You may summon up to 15L of water spread across a chosen volume within range.
+		- This volume doesn't need to be a physical volume (for example, a bucket)
+- **Upcasting:**
+	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water.

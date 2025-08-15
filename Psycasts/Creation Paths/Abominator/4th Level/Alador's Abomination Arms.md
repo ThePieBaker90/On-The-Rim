@@ -1,0 +1,31 @@
+---
+tags:
+  - Abominator
+  - Psycast
+  - 4th-Level
+---
+- **Path**:
+	- 4th level Transmutation
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 35 (20)
+- [[Range]]:
+	- 20ft
+- **Target**:
+	- Friendly Creature or Self
+- **Components**:
+	- Kinetic, Material (4kg of [[Abomination Matter]])
+- **Duration**:
+	- Concentration, up to 1 minute
+- **Effects**:
+	- You create two massive, stretchy arms out of [[Abomination Matter]], these arms cover another creature's arms and enhance their strength. While using the arms, the creature has the following effects:
+		- [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5).
+		- Ability to wield heavy weapons if not already able to.
+		- Increases reach by 10ft.
+		- They may make a melee attack with the abomination arms.
+			- Attacking with the abomination arms is a melee attack with a reach of 15ft. It deals 2d12 + 4 + STR bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
+- **Upcasting**:
+	- You may upcast this psycast. For every 32 psyfocus spent above the normal cost for this psycast, you may concentrate on the psycast for an additional 1 minute, the melee attack increases in damage by 1d12, and the reach of the arms increases by 5ft.

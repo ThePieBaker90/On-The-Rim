@@ -33,4 +33,4 @@ tags:
 * **Looks**:
 	* A retro sci-fi ray gun that launches beams of high powered lightning.
 * **Special**:
-	* Creatures hit by this weapon have 1d4-2 (min 0) turns of [[EMP Stunned]] applied to a random [[Cybernetics|Cybernetic]].
+	* Creatures hit by this weapon have 1d4-2 (min 0) turns of [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] applied to a random [[Cybernetics|Cybernetic]].

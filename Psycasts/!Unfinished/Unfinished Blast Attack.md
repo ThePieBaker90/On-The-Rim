@@ -1,0 +1,26 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 1st-Level
+---
+- **Spell Type**:
+	- 1st Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- 90ft
+- **Target**:
+	- Creature.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You summon a chunk of ice and shoot it at a creature within range. Make a roll to hit with the chunk, adding your psycasting ability modifier to the result. This attack has an [[Armor Piercing]] of 5. On a hit, the chunk deals 1d6 cold and 1d6 piercing damage. If this spell is cast again this turn or next turn, it costs 0 psyfocus and generates 10 neural heat instead of its normal costs.
+- **Upcasting**:
+	- You may upcast this psycast. For every 30 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 piercing and 1d6 cold damage.

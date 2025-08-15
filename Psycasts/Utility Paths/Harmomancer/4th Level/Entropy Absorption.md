@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 15ft sphere
+- **Target**:
+	- Self
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**: 
+	-  You lose 2d8 health, all friendly creatures within a 15ft sphere of you gain that half that much health (rounded up).
+		- The creatures always gain exactly half (rounded up) of the amount of health you lost.
+		- If the creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
+- **Upcasting:**
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, You lose 1d8 more health.

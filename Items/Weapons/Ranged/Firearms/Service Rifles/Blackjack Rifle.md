@@ -18,7 +18,7 @@ tags:
 	* Special, see below.
 * [[Rate of Fire]]:
 	* 1
-* [[Armor Penetration]]:
+* [[Armor Piercing]]:
 	* 2
 * __Properties__:
 	* Martial

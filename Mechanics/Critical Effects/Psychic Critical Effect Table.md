@@ -12,7 +12,7 @@ tags:
 | 8-9   | Target loses concentration                                                                                                                                 |
 | 10-11 | Target gains 3 levels of [[Mind-Shattering Pain]]                                                                                                          |
 | 12-13 | Target gains 4 levels of [[Mind-Shattering Pain]]                                                                                                          |
-| 14-15 | Target takes 1d10 psychic damage for every spell they cast for 2 turns                                                                                     |
+| 14-15 | Target takes 1d10 psychic damage for every psycast they cast for 2 turns                                                                                   |
 | 16    | Target gains 5 levels of [[Mind-Shattering Pain]]                                                                                                          |
 | 17    | Target gains 6 levels of [[Mind-Shattering Pain]]                                                                                                          |
 | 18-19 | Target has all levels of [[Mind-Shattering Pain]] doubled (maximum of 8 levels), if the target has no [[Mind-Shattering Pain]] levels, they gain 6 levels. |

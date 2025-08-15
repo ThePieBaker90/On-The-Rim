@@ -1,0 +1,28 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 4th-Level
+---
+- **Spell Type**:
+	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 10ft sphere.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- An area of harsh arctic wind surrounds you damaging all creatures within range. If a creature starts their turn, enters for the first time this turn, or ends their turn within the area, they must make a Constitution saving throw. On a failure they take 3d8 cold damage, otherwise they take half damage. A creature's movement costs twice as much to move through this area.
+	- The user and their allies ignore the effects of the arctic wind.
+	- The ice freezes all standing water that within the sphere.
+- **Upcasting**:
+	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 cold damage and the radius of the sphere increases by 5ft.

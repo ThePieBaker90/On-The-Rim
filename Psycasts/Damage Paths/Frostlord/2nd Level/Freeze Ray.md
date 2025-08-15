@@ -1,0 +1,26 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 2nd-Level
+---
+- **Spell Type**:
+	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 25
+- [[Range]]:
+	- 120ft
+- **Target**:
+	- One Target
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You shoot a ray of pure cold energy at a target within range. The target must make a Dexterity saving throw. On a failed save, the creature gains the [[Frozen Solid]] condition for 2 turns and takes 3d6 cold damage. On a successful save, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 19 psyfocus spent above the normal cost for this psycast, the ray deals an additional 1d8 cold damage.

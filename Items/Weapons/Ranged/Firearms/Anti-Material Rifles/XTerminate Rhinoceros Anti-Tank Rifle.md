@@ -17,7 +17,7 @@ tags:
 	* 4d8+DEX piercing
 * [[Rate of Fire]]:
 	* 0.5
-* **[[Armor Penetration]]**
+* **[[Armor Piercing]]:**
 	* 5  
 * **Properties**:
 	* Martial

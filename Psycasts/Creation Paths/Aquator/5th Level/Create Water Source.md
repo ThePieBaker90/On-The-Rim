@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 5th-Level
+  - Aquator
+---
+- **Path**:
+	- 5th level [[Aquator Psycasts|Aquator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 48
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 10ft
+- **Target**:
+	- A point.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 1 hour
+- **Effects**:
+	- You choose a point within range, water generates out of that point at a constant rate of 10L per minute (600L per hour) for 1 hour. If the point is occupied, the water will attempt to displace the obstruction, otherwise it will not generate.
+- **Upcasting:**
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the water generates for an additional 10 hours.
+

@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 5th-Level
+  - Aquator
+---
+- **Path**:
+	- 5th level [[Aquator Psycasts|Aquator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 50
+- [[Range]]:
+	- 35ft
+- **Target**:
+	- A room
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- You choose a room within range, water pours out of that point at a constant rate of 20% the volume of the room it occupies per turn for 5 turns. This has a limit of 3000L of water per turn. 
+		- An open door extends what is considered a room for this spell.
+- **Upcasting:**
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 10% water is generated per turn by this spell.

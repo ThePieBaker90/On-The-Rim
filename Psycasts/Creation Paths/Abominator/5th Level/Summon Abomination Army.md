@@ -1,0 +1,26 @@
+---
+tags:
+  - Abominator
+  - Psycast
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Abominator Psycasts|Abominator Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 65
+- **[[Neural Heat]] Generation:**
+	- 18
+- [[Range]]:
+	- 10ft
+- **Target**:
+	- Surface
+- **Components**:
+	- Kinetic, Material (18kg of [[Abomination Matter]])
+- **Duration**:
+	- Up to 1 day
+- **Effects**:
+	- You create three [[Abomination|Abominations]] which will follow single word commands you direct at them. The [[Abomination|Abominations]] have 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning damage with melee attacks.
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the [[Abomination|Abominations]] are created with an additional 13 (2d8+2) health.

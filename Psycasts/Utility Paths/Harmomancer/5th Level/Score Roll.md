@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 70
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A creature.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Until rest.
+- **Effects**:
+	- You give a creature you touch random modifiers on all of their ability scores. For every ability score, they roll 1d6 and flip a coin to generate a modifier. If the coin is heads the modifier is positive, if it is tails, it is negative. The strength of the modifier is the result of the 1d6. This modifier lasts until the creature takes a rest.
+		- You have no choice in which modifier affects which ability score when generating modifiers.
+- **Upcasting:**
+	- You cannot upcast this psycast.

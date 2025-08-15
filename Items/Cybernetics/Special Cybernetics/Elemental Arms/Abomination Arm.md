@@ -17,9 +17,9 @@ tags:
 * [[Cybercost]]:
 	* 2
 * Abilities:
-	* The user may cast [[Shape Abomination Matter]] (OtR) at will without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.
-	* The user may cast level 1 [[Sludge Shield]] (OtR) once per short rest without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component. 
-	* The user may cast level 3 [[Alador's Apparate]] (OtR) once per long rest without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the spell. This does not use a spell slot nor require a verbal component.
+	* The user may cast [[Shape Abomination Matter]] (OtR) at will without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the psycast. This does not require a verbal component.
+	* The user may cast level 1 [[Sludge Shield]] (OtR) once per short rest without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the psycast. This does not generate [[Neural Heat]] or consume [[Psyfocus]].
+	* The user may cast level 3 [[Darius' Dislocate]] (OtR) once per long rest without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the psycast. This does not generate [[Neural Heat]] or consume [[Psyfocus]].
 	* The user may add 1d4 acid damage to any unarmed strikes made with the arm.
 	* (Unarmed strikes deal 1 + STR bludgeoning by default)
 * Looks:
