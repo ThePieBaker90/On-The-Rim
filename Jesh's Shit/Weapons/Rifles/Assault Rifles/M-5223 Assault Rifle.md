@@ -27,6 +27,6 @@ tags:
 * **Value**:
 	* 60 credits
 * **Looks**:
-	* A stock StG 44.
+	* A stock G3A3 with the wooden stock.
 * **Lore**
 	* The Model 5223 is a compact and reliable assault rifle produced by Schwein Corp. It success is only rivalled by the Armstek AR-6. 
