@@ -9,13 +9,15 @@ aliases:
 *todo.*
 
 - 1st Level:
-	- .
+	- [[Acid Lob]] (2, 20)
 - 2nd Level:
-	- .
+	- Acid on Floor 
 - 3rd Level:
-	- .
+	- Break Armor
+	- Acid Armor that Breaks Weapons?
 - 4th Level:
-	- .
+	- [[Acid Bubble Mine Field Spell]] (3, 44)
+	- Giant Acid Bubble 
 - 5th Level:
 	- .
 

@@ -18,8 +18,8 @@ aliases:
 	- [[Entropy Balance]] (12, 26)
 	- [[Location Swap]] (6, 30)
 - 4th Level:
-	- [[Entropy Absorption]] (2, 44)
-	- [[Mass Life Link]] (2, 44)
+	- [[Entropy Absorption]] (3, 44)
+	- [[Mass Life Link]] (3, 44)
 - 5th Level:
 	- [[Score Roll]] (70, 0)
 	- [[Transmute Object]] (55, 0)

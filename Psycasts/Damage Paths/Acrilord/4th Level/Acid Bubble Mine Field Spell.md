@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Acrilord
+---
+- **Spell Type**:
+	- 4th Level [[Acrilord Psycasts|Acrilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- TODO
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- TODO
+- **Effects**:
+	- TODO
+- **Upcasting**:
+	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, TODO
