@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - 4th-Level
-  - Acrilord
+  - Chemlord
 ---
 - **Spell Type**:
-	- 4th Level [[Acrilord Psycasts|Acrilord Psycast]]
+	- 4th Level [[Chemlord Psycasts|Chemlord Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- TODO
+	- 25ft sphere.
 - **Target**:
 	- Self.
 - **Components**:

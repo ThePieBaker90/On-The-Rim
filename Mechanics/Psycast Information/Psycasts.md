@@ -11,8 +11,8 @@ aliases:
 	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This may be referenced as the DC for saving throws among other things.
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
-		- [[Acrilord Psycasts|Acrilord]] - Acid Damage and Armor Debuffs TODO
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
+		- [[Chemlord Psycasts|Chemlord]] - Chemical Damage and Armor Debuffs TODO
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
 		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO

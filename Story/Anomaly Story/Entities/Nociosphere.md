@@ -33,7 +33,7 @@ tags:
 - **Damage Vulnerabilities:**
 	- Electric
 - **Damage Resistances**:
-	- Acid
+	- Chemical
 	- Bludgeoning
 	- Cold
 	- Fire

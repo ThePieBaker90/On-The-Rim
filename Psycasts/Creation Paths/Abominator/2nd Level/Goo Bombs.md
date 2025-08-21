@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You shoot two mini-bombs made out of [[Abomination Matter]] at up to two targets within range. Make a roll to hit with for each mini-bomb, adding your psycasting ability modifier to each result. On a hit, the mini-bomb explodes dealing 1d8 force damage and 1d8 acid damage in a 5ft sphere centered on the creature. On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after 1 turn, dealing 1d8 force damage and 1d8 acid damage in a 5ft sphere centered on the bomb.
+	- You shoot two mini-bombs made out of [[Abomination Matter]] at up to two targets within range. Make a roll to hit with for each mini-bomb, adding your psycasting ability modifier to each result. On a hit, the mini-bomb explodes dealing 1d8 force damage and 1d8 chemical damage in a 5ft sphere centered on the creature. On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after 1 turn, dealing 1d8 force damage and 1d8 chemical damage in a 5ft sphere centered on the bomb.
 - **Upcasting**:
-	- You may upcast this psycast. For every 26 psyfocus spent above the normal cost for this psycast, each mini-bomb deals an additional 1d8 force damage and 1d8 acid damage.
+	- You may upcast this psycast. For every 26 psyfocus spent above the normal cost for this psycast, each mini-bomb deals an additional 1d8 force damage and 1d8 chemical damage.

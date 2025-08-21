@@ -31,7 +31,7 @@ aliases:
 - **Challenge**:
 	- 1
 - **Damage Resistances**:
-	- Acid
+	- Chemical
 - **Damage Immunities**:
 	- Psychic
 	- Poison
@@ -39,7 +39,7 @@ aliases:
 	- Poisoned
 	- [[Bleeding]]
 	- [[Radiation Buildup]]
-	- [[Acid Burned]]
+	- [[Chemical Burned]]
 - **Actions**:
 	- Slam - 1 Action
 		- *Melee Weapon Attack:* +3 to hit, reach 5ft, one target.
