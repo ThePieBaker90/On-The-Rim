@@ -22,6 +22,7 @@ tags:
 	* [[Ammunition]](8)
 	* [[Reload]](Action, Full)
 	* One-Handed
+ 	* Unjammable 
    	* Recoil
 * **Value**:
 	* 40 credits
