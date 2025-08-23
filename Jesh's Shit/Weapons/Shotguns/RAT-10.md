@@ -26,9 +26,9 @@ tags:
    	* Unjammable
    	* Special
 * **Special**
-	* Half damage, rounded up, applied to user of weapon. 
+	* Half damage dealt to target, rounded up, applied to user of weapon. 
 * **Value**:
-	* 40 credits
+	* 70 credits
 * **Lore**:
 	* The Castle Arms Revolver Action Terror Mk 10 is an enlarged version of the RAT-8, a single-handed shotgun with an eight-round cylinder feed. Now notacibly larger and higher-powered, the RAT-10 is somewhat of a hand cannon and prone to cause injuries for the user. 
 * **Looks**:
