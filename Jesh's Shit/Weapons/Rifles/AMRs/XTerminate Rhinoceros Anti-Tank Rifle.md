@@ -31,7 +31,7 @@ tags:
     * After firing, make a DC 15 strength check.
       * On a success, take half of 2D6 bludgening damage, rounded up.
       * On a fail, take 2D6 bludgening damage. Get knocked backwards 5ft. Get knocked prone. Lose an action next turn.
-  * -10ft movement speed when in inventory (minimum 10ft)
+  * Encumbering
   * Piercing critical effects happen whenever the total hit roll is 20+ after modifiers.
 * **Value**:
 	* 120 credits
