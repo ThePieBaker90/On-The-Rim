@@ -1,10 +1,10 @@
 ---
 tags:
   - Info
-  - Necrolord
+  - Mortilord
 aliases:
-  - Necrolord Psycasts
-  - Necrolord
+  - Mortilord Psycasts
+  - Mortilord
 ---
 *todo.*
 

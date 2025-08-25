@@ -16,7 +16,7 @@ tags:
 - **[[Cybercost]]:**
 	- 0.25
 - **Abilities:**
-	- The user can spit stomach acid as a ranged weapon attack dealing 1d6+CON chemical damage to a target.
+	- The user can spit stomach acid as a ranged weapon attack dealing 1d6+CON Corrosion damage to a target.
 	- You are poisoned for twice as long from effects that poison you.
 - **Looks:**
 	- The stomach is covered in strong scarred tissue to protect from the strong stomach acids.

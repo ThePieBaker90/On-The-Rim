@@ -3,7 +3,7 @@ tags:
   - Info
   - Critical-Table
 ---
-Chemical damage specializes in dealing additional damage with attacks along with breaking down parts of the opponent, be it weapons, armor, or limbs.
+Corrosion damage specializes in dealing additional damage with attacks along with breaking down parts of the opponent, be it weapons, armor, or limbs.
 
 | d20   | Effect                                                             |
 | ----- | ------------------------------------------------------------------ |

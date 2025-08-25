@@ -31,7 +31,7 @@ aliases:
 - **Challenge**:
 	- 1
 - **Damage Resistances**:
-	- Chemical
+	- Corrosion
 - **Damage Immunities**:
 	- Psychic
 	- Poison

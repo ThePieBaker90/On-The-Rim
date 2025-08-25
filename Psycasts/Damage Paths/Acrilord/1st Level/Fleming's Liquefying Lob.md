@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Chemlord
+---
+- **Spell Type**:
+	- 1st Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- 35ft
+- **Target**:
+	- A point.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You lob a projectile of organic-liquefication acid at a point within range. All creatures within a 5ft sphere centered on this point must make a Constitution saving throw. On a failed save, a creature takes 1d6+4 Corrosion damage. On a successful save, nothing happens.
+		- A creature wearing heavy armor or a warcasket always succeeds this save.
+		- This attack deals no damage to anything non-organic
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 Corrosion damage and the range increases by 15ft.

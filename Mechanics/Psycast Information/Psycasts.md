@@ -12,9 +12,9 @@ aliases:
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
-		- [[Chemlord Psycasts|Chemlord]] - Chemical Damage and Armor Debuffs TODO
+		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals TODO
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
-		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
+		- [[Mortilord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO

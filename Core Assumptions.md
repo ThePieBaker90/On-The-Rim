@@ -13,7 +13,7 @@ tags:
 * New Proficiencies: Pistols, Revolvers, Anti-Material Rifles, Assault Rifles, Submachine Guns, Sniper Rifles, Shotguns, Launchers, Service Rifles, Jump Packs.
 * Lightning Damage is now Electric Damage.
 * Thunder Damage is now Sonic Damage.
-* Acid Damage is now Chemical Damage.
+* Acid Damage is now Corrosion Damage.
 * Currency is in the form of credits. Credits are a virtual currency and do not take up physical space.
 * The moon of the planet changes phase each day.
 * All playable races are made humanoids if they are not already.
