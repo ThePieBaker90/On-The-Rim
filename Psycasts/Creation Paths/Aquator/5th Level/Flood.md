@@ -22,6 +22,6 @@ tags:
 	- 5 turns.
 - **Effects**:
 	- You choose a room within range, water pours out of that point at a constant rate of 20% the volume of the room it occupies per turn for 5 turns. This has a limit of 3000L of water per turn. 
-		- An open door extends what is considered a room for this spell.
+		- An open door extends what is considered a room for this psycast.
 - **Upcasting:**
-	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 10% water is generated per turn by this spell.
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 10% water is generated per turn.
