@@ -4,7 +4,7 @@ tags:
   - 4th-Level
   - Chemlord
 ---
-- **Spell Type**:
+- **Path**:
 	- 4th Level [[Chemlord Psycasts|Chemlord Psycast]]
 - **Casting Time:**
 	- 1 Action.

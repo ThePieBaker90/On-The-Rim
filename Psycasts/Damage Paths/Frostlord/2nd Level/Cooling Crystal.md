@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 2nd-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
 - **Casting Time:**
 	- 1 Action.

@@ -1,11 +1,10 @@
 ---
 tags:
-  - Frostlord
   - Psycast
   - 1st-Level
 ---
-- **Spell Type**:
-	- 1st Level [[Frostlord Psycasts|Frostlord Psycast]]
+- - **Path**:
+	- 1st Level 
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

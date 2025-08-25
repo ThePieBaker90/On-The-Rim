@@ -4,7 +4,7 @@ tags:
   - 1st-Level
   - Chemlord
 ---
-- **Spell Type**:
+- **Path**:
 	- 1st Level [[Chemlord Psycasts|Chemlord Psycast]]
 - **Casting Time:**
 	- 1 Action.

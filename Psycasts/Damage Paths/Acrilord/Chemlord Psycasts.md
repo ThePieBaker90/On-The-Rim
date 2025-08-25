@@ -6,7 +6,7 @@ aliases:
   - Chemlord Psycast
   - Chemlord
 ---
-*todo.*
+*Chemlords specialize in creating and using various psychic chemicals. Most of their spell*
 
 - 1st Level:
 	- [[Fleming's Liquefying Lob]] (2, 20)

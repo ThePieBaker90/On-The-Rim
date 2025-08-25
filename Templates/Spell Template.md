@@ -2,8 +2,8 @@
 tags:
   - Spell
 ---
-- **Spell Type**:
-	- {{#levelRequired + Ordinal Indicator}} level {{Spell Type}}
+- - **Path**:
+	- {{#levelRequired + Ordinal Indicator}} level {{Path}}
 - **Casting Time**:
 	- {{#actionNeeded}} {{"Action"|!"Bonus Action"|!"Reaction"}}
 - [[Range]]:
