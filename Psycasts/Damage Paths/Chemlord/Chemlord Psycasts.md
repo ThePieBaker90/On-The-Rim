@@ -10,9 +10,9 @@ aliases:
 
 - 1st Level:
 	- [[Fleming's Liquefying Lob]] (2, 20)
-	- [[Spill]] (,)
+	- [[Spill]] (6, 28)
 - 2nd Level:
-	-  
+	- [[Tankburster]] (,)
 - 3rd Level:
 	- [[Corrosive Casing]] (12, 26)
 - 4th Level:

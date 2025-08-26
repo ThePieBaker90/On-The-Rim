@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Several points.
 - **Components**:
-	- Kinetic
+	- Gesture
 - **Duration**:
 	- 10 turns.
 - **Effects**:

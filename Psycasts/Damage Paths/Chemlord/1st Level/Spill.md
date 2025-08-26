@@ -9,18 +9,19 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 6
 - **[[Neural Heat]] Generation:**
-	- .
+	- 28
 - [[Range]]:
 	- 40ft
 - **Target**:
-	- A point
+	- A point.
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- .
+	- 1 minute.
 - **Effects**:
-	- You coat the ground with TODO chemical. All floors within 10ft of this point are 
+	- You soak the ground in a 10ft circular area in TODO chemical. This chemical doubles the movement cost of the terrain and creatures moving through this chemical for the first time on their turn must make a Dexterity saving throw. On a failure they fall prone.
+		- The TODO chemical can be washed away with water, ending the psycast prematurely.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the chemical lasts an additional minute.

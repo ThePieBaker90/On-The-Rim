@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- Up to 2 targets
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- TODO
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, TODO

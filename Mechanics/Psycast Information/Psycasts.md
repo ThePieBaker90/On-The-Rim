@@ -41,9 +41,8 @@ aliases:
 		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs TODO
 		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
 	- Each path contains 10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
-- Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
-	- This cost may be psyfocus, neural heat, or some other cost.
-	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast, and so on.
+- Psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
+	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, and Material
 	- Kinetic components require the psycaster have one free hand.
 		- Gesture components require the psycaster have two free hands.
