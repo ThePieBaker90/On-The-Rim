@@ -25,7 +25,7 @@ tags:
 	* 3
 * **Special**
 	* Charged Shot:
- 		* Consumes 3 RoF (single shot perr attack action)
+ 		* Consumes 3 RoF (single shot per attack action)
   		* Consumes 1 ammunition
   		* Deals 2d6 piercing, 1d6 heat, +Dex heat or piercing
   		* 7 Armour Penetration
