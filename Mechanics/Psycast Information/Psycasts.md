@@ -14,8 +14,8 @@ aliases:
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
 		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals TODO
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
-		- [[Mortilord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
-		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
+		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Commanding the Undead TODO
+		- [[Neurolord Psycasts|Neur0olord]] - Psychic Damage and Neural Manipulation TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
