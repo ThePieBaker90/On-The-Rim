@@ -6,18 +6,16 @@ aliases:
   - Chemlord Psycast
   - Chemlord
 ---
-*Chemlords specialize in creating and using various psychic chemicals. Most of their psycasts*
+*Chemlords specialize in creating and using various psychic chemicals. Most of their psycasts deal corrosion damage and create unique effects which cannot be easily emulated.*
 
 - 1st Level:
 	- [[Fleming's Liquefying Lob]] (2, 20)
 - 2nd Level:
 	-  
 - 3rd Level:
-	- 
 	- Weapon Degrading Armor
 - 4th Level:
 	- [[Acid Minefield]] (3, 44)
-	- 
 - 5th Level:
 	- .
 

@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- Touch
+	- Touch.
 - **Target**:
 	- An inanimate object.
 - **Components**:

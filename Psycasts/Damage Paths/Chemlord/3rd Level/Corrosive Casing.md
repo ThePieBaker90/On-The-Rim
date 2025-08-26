@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- TODO
+- **[[Neural Heat]] Generation:**
+	- TODO
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- Creature within range
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- TODO
+- **Upcasting**:
+	- You may upcast this psycast. For every TODO psyfocus spent above the normal cost for this psycast, TODO.

@@ -13,14 +13,16 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 35ft sphere.
+	- 35ft
 - **Target**:
-	- Self.
+	- Several points.
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- TODO
+	- 10 turns.
 - **Effects**:
-	- TODO
+	- You create 4 orbs made of organic-liquefication acid at 4 different points within range. These orbs are stationary and have 5 health.  You may expend a bonus action to detonate an orb of your choice. When an orb detonates all creatures within 5ft of the orb must make a Dexterity saving throw. On a failed save, a creature takes 2d6 Corrosion damage. On a successful save, they take half as much damage.
+		- If an orb is reduced to 0 health, it detonates.
+		- Orbs are immune to corrosion damage and psychic damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, TODO
+	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, an additional orb is created.
