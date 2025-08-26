@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Chemlord
+---
+- **Path**:
+	- 1st Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- 40ft
+- **Target**:
+	- A point
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- .
+- **Effects**:
+	- You coat the ground with TODO chemical. All floors within 10ft of this point are 
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, .

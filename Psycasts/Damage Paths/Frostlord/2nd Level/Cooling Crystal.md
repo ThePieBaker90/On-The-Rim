@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- Touch
+	- Touch.
 - **Target**:
 	- A point within range.
 - **Components**:
@@ -22,7 +22,7 @@ tags:
 	- 1 day
 - **Effects**:
 	- You conjure a small, light blue, cold crystal at a point within range. 
-		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 113000ft$^3$ in which case it will simply cool a sphere).
+		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 100,000ft$^3$ in which case it will simply cool a sphere).
 		- The target temperature is chosen when the crystal is created. It may range from 5C to -20C. The crystal cools at a rate of 1C per minute.
 	- The crystal expires at the end of the duration, turning into an inert, colorless crystal.
 - **Upcasting**:
