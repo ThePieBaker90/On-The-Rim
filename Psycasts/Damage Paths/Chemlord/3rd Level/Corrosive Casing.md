@@ -9,9 +9,9 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- TODO
+	- 12
 - **[[Neural Heat]] Generation:**
-	- TODO
+	- 26 (26)
 - [[Range]]:
 	- Touch.
 - **Target**:
@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 3 turns.
+	- Concentration, up to 3 turns.
 - **Effects**:
-	- TODO
+	- You conjure a layer of TODO acid on a creature you touch. Melee attacks that hit this creature apply [[Broken Weapon]] to the weapon. 
 - **Upcasting**:
-	- You may upcast this psycast. For every TODO psyfocus spent above the normal cost for this psycast, TODO.
+	- You may upcast this psycast. For every 34 psyfocus spent above the normal cost for this psycast, the duration is increased by 2 turns.
