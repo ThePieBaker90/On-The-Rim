@@ -39,6 +39,8 @@ traits:
 |3|2D4+2D6+2D8+2D10+Dex|8|
 |4| 2D4+2D6+2D8+2D10+2D12+Dex|10|
 |5| 2D4+2D6+2D8+2D10+2D12+2D20+Dex |12|
+- **Lore**:
+	- The Energy Ballistics XRG-007B Lance is a powerful railgun, designed to deliver an unrivalled punch, after a lengthy charge-up period. 
 
 - **Value:**
-	- 320 
+	- 320
