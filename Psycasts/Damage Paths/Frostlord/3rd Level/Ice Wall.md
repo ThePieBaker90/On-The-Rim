@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Kinetic
+	- Gesture
 - **Duration**:
 	- 1 minute.
 - **Effects**:

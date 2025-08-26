@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chemlord
-  - 2nd-Level
+  - 5th-Level
 ---
 - **Path**:
-	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]]
+	- 5th Level [[Chemlord Psycasts|Chemlord Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -15,12 +15,12 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- Up to 2 targets
+	- .
 - **Components**:
-	- Kinetic
+	- .
 - **Duration**:
-	- Instant.
+	- .
 - **Effects**:
-	- TODO
+	- TODO cartoon acid, like melts through everything.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, TODO
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

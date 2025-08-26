@@ -12,13 +12,13 @@ aliases:
 	- [[Fleming's Liquefying Lob]] (2, 20)
 	- [[Spill]] (6, 28)
 - 2nd Level:
-	- [[Tankburster]] (,)
+	- [[Tankbuster]] (7, 34)
 - 3rd Level:
 	- [[Corrosive Casing]] (12, 26)
 - 4th Level:
 	- [[Acid Minefield]] (3, 44)
 - 5th Level:
-	- .
+	- [[Highly Acidic Attack]]
 
 - Level 1 Miscast - Ooze Chemical
 	- A layer of TODO chemical generates on your skin, giving any armor you are wearing the [[Broken Armor]] condition and dealing 2d8 Corrosion damage to you.

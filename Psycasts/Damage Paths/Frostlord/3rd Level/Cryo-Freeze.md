@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Gesture
 - **Duration**:
 	- Concentration, up to 3 turns
 - **Effects**:
