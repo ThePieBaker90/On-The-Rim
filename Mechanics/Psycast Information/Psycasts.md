@@ -11,10 +11,10 @@ aliases:
 	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This may be referenced as the DC for saving throws among other things.
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
-		- [[Acrilord Psycasts|Acrilord]] - Acid Damage and Armor Debuffs TODO
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
+		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals TODO
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
-		- [[Necrolord Psycasts|Necrolord]] - Necrotic Damage and Commanding the Undead TODO
+		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
@@ -41,9 +41,8 @@ aliases:
 		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs TODO
 		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
 	- Each path contains 10 psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
-- Psycasts may be upcast for an additional cost specified in their description. The effects of upcasting are listed in each psycast's description.
-	- This cost may be psyfocus, neural heat, or some other cost.
-	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast, and so on.
+- Psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
+	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, and Material
 	- Kinetic components require the psycaster have one free hand.
 		- Gesture components require the psycaster have two free hands.

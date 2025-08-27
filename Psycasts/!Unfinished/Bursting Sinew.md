@@ -9,7 +9,7 @@ tags:
   - Wizard
   - Sorcerer
 ---
-- **Spell Type**:
+- **Path**:
 	- Necromancy Cantrip
 - **Casting Time**:
 	- 1 Action

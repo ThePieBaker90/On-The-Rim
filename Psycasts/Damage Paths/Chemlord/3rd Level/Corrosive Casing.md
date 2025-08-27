@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 12
+- **[[Neural Heat]] Generation:**
+	- 26 (26)
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- Creature within range
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 3 turns.
+- **Effects**:
+	- You conjure a layer of TODO acid on a creature you touch. Melee attacks that hit this creature apply [[Broken Weapon]] to the weapon. 
+- **Upcasting**:
+	- You may upcast this psycast. For every 34 psyfocus spent above the normal cost for this psycast, the duration is increased by 2 turns.

@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 3rd-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 3rd Level [[Frostlord Psycasts|Frostlord Psycast]]
 - **Casting Time:**
 	- 1 Action.
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Gesture
 - **Duration**:
 	- Concentration, up to 3 turns
 - **Effects**:
@@ -25,6 +25,6 @@ tags:
 		- This ice only takes damage from fire damage, it has 30 health.
 			- The ice is not vulnerable to fire damage.
 		- If you end your turn [[Frozen Solid]], you regain 2d10+4 health.
-		- When concentration is lost, you immediately lose the condition. You may stop concentrating on the spell while incased in the ice.
+		- When concentration is lost, you immediately lose the condition. You may stop concentrating on the psycast while incased in the ice.
 - **Upcasting**:
 	- You may upcast this psycast. For every 34 psyfocus spent above the normal cost for this psycast, you heal an additional 2d10 health at the end of each of your turns while [[Frozen Solid]].

@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 7
+- **[[Neural Heat]] Generation:**
+	- 34
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A creature.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You shoot a bolt of TODO chemical at a target within range. Make a roll to hit against the creature, adding your psycasting ability modifier to the result. On a hit, the creature takes 2d8 corrosion damage and their armor gains the [[Broken Armor]] condition.
+- **Upcasting**:
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, the bolt deals an additional 2d8 corrosion damage.

@@ -37,7 +37,7 @@ tags:
 - **Damage Vulnerabilities:**
 	- Necrotic
 - **Damage Resistances**:
-	- Acid
+	- Corrosion
 	- Cold
 	- Electric
 	- Fire

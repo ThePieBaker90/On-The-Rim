@@ -3,8 +3,8 @@ tags:
   - Psycast
   - 4th-Level
 ---
-- **Spell Type**:
-	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]]
+- - **Path**:
+	- 4th Level 
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

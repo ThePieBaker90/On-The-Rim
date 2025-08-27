@@ -4,7 +4,7 @@ tags:
   - Psycast
   - 3rd-Level
 ---
-- **Spell Type**:
+- **Path**:
 	- 3rd Level [[Frostlord Psycasts|Frostlord Psycast]]
 - **Casting Time:**
 	- 1 Action.
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Kinetic
+	- Gesture
 - **Duration**:
 	- 1 minute.
 - **Effects**:
@@ -25,4 +25,4 @@ tags:
 	- Upon creation the user determines if the wall is clear or opaque ice and the rotation of the wall
 	- When concentration is lost, the wall immediately breaks.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall  lasts an additional minute and its HP increases by 20 HP.
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall lasts an additional minute and its HP increases by 20 HP.
