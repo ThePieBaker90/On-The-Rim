@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 52
+- [[Range]]:
+	- 10ft, 90 degree arc.
+- **Target**:
+	- A direction
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You splash TODO chemical towards a direction. All creatures in a 10ft, 90 degree arc centered on this direction must make a dexterity saving throw. On a failure, creatures take 4d10 corrosion damage, any armor they may be wearing gains 4 levels of [[Broken Armor]], and they gain the [[Chemical Burned]] condition for 3 turns. On a success, creatures take half as much damage.
+		- Objects take 4d10 corrosion damage when hit, this ignores any damage reductions from the object but not any corrosion immunities.
+- **Upcasting**:
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, [[Chemical Burned]] is applied for an additional turn.

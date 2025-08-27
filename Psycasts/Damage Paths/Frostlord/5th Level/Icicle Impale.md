@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You shoot a massive icicle towards a creature within range. Make a roll to hit with the icicle, adding your psycasting ability modifier to the result. This attack has an [[Armor Piercing]] of 16. On a hit, the icicle pierces the creature dealing 4d6 + 6 piercing and 4d6 +6 cold damage. Additionally, any armor the creature is wearing gains the [[Broken Armor]] condition, and the creature gains the [[Frozen Solid]] condition for 3 turns.
+	- You shoot a massive icicle towards a creature within range. Make a roll to hit with the icicle, adding your psycasting ability modifier to the result. This attack has an [[Armor Piercing]] of 16. On a hit, the icicle pierces the creature dealing 4d6+6 piercing and 4d6+6 cold damage. Additionally, any armor the creature is wearing gains the [[Broken Armor]] condition, and the creature gains the [[Frozen Solid]] condition for 3 turns.
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the user gains +4 to hit.
