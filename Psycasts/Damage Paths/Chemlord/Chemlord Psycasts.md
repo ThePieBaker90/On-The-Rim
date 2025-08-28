@@ -14,6 +14,7 @@ aliases:
 - 2nd Level:
 	- [[Armorbane]] (7, 34)
 - 3rd Level:
+	- [[Chemical Coating]] (,)
 	- [[Corrosive Casing]] (12, 26)
 - 4th Level:
 	- [[Acid Minefield]] (3, 44)
