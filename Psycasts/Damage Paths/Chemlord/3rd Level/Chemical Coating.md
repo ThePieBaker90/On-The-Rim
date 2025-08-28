@@ -33,4 +33,4 @@ tags:
 | 10+          | 4 Turns       | 2 Turns        |
 
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, the duration of the weapon applying [[Chemical Burned]] is increased by 2 turns.

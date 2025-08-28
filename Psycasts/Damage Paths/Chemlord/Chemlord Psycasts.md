@@ -18,7 +18,7 @@ aliases:
 	- [[Corrosive Casing]] (12, 26)
 - 4th Level:
 	- [[Acid Minefield]] (3, 44)
-	- [[Goo Net]] 
+	- [[Goo Net]] (6, 24)
 - 5th Level:
 	- [[Problem Solvent]] (6, 52)
 
