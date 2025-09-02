@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 10 turns.
 - **Effects**:
-	- You create 4 orbs made of organic-liquefication acid at 4 different points within range. These orbs are stationary and have 5 health.  You may expend a bonus action to detonate an orb of your choice. When an orb detonates all creatures within 5ft of the orb must make a Dexterity saving throw. On a failed save, a creature takes 2d6 Corrosion damage. On a successful save, they take half as much damage.
+	- You create 4 orbs made of [[Organic-Liquefication Acid]] at 4 different points within range. These orbs are stationary and have 5 health.  You may expend a bonus action to detonate an orb of your choice. When an orb detonates all creatures within 5ft of the orb must make a Dexterity saving throw. On a failed save, a creature takes 2d6 Corrosion damage. On a successful save, they take half as much damage.
 		- If an orb is reduced to 0 health, it detonates.
 		- Orbs are immune to corrosion damage and psychic damage.
 - **Upcasting**:

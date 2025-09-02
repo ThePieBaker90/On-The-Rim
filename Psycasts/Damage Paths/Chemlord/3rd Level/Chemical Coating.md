@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You coat a weapon in TODO chemical causing all of its attacks to give [[Chemical Burned]] to enemies it hits. The duration of [[Chemical Burned]] applied can be seen in the table below, depending on the damage and weapon type.
+	- You coat a weapon in [[Burning Chemical]] causing all of its attacks to give [[Chemical Burned]] to enemies it hits. The duration of [[Chemical Burned]] applied can be seen in the table below, depending on the damage and weapon type.
 		- Applying [[Chemical Burned]] to a creature already suffering from [[Chemical Burned]] adds the new duration to the creature's current [[Chemical Burned]] duration.
 		- Upon losing concentration, attacks with the weapon no longer apply [[Chemical Burned]]
 

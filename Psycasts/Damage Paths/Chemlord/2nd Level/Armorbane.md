@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You shoot a bolt of TODO chemical at a target within range. Make a roll to hit against the creature, adding your psycasting ability modifier to the result. On a hit, the creature takes 2d8 corrosion damage and their armor gains 2 levels of [[Armor Breakage]].
+	- You shoot a bolt of [[Armor Eating Chemical]] at a target within range. Make a roll to hit against the creature, adding your psycasting ability modifier to the result. On a hit, the creature takes 2d8 corrosion damage and their armor gains 2 levels of [[Armor Corrosion]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, the bolt deals an additional 2d8 corrosion damage.
