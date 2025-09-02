@@ -6,7 +6,7 @@ aliases:
   - Blazelord Psycast
   - Blazelord
 ---
-*todo.*
+*Blazelords specialize in creating fire and increasing temperatures. Most of their psycasts center around fire damage and area of effect attacks. Blazelords are exceptional at making sure their enemies are always [[On Fire!]] or [[Burned]].*
 
 - 1st Level:
 	- [[Cinder]] (, )
