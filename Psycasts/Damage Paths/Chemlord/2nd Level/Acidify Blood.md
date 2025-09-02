@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- Self.
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- Damage your attackers by making your blood acidic, does not hurt you.
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
