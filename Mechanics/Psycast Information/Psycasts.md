@@ -12,7 +12,7 @@ aliases:
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature TODO
-		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals TODO
+		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
 		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
@@ -20,7 +20,7 @@ aliases:
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
 	- Creation Paths
-		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
+		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulating Abomination Goo
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
 		- [[Kinetor Psycasts|Kinetor]] - Energy Creation and Infusion TODO
 		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
