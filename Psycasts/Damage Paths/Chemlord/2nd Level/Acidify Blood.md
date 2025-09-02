@@ -9,18 +9,22 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 5
 - **[[Neural Heat]] Generation:**
-	- .
+	- 26
 - [[Range]]:
-	- .
+	- 10ft
 - **Target**:
 	- Self.
 - **Components**:
-	- .
+	- Kinetic
 - **Duration**:
-	- .
+	- 5 turns.
 - **Effects**:
-	- Damage your attackers by making your blood acidic, does not hurt you.
+	- You make your blood highly acidic to damage attackers. Your blood deals 1d4 corrosion damage to creatures within 10ft of you who do any of the following.
+		- Deal piercing, slashing, or force damage to you.
+		- Apply the [[Bleeding]] condition to you.
+		- Cause you to bleed in any way.
+	- You are immune to your own acid blood.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, damage is increased by 1d4 corrosion damage.

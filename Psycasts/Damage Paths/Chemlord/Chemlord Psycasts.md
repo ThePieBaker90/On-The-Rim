@@ -12,7 +12,7 @@ aliases:
 	- [[Fleming's Liquefying Lob]] (2, 20)
 	- [[Spill]] (6, 28)
 - 2nd Level:
-	- [[Acidify Blood]] (, )
+	- [[Acidify Blood]] (5, 26)
 	- [[Armorbane]] (7, 34)
 	- [[Induce Acid Reflux]] (4, 37)
 - 3rd Level:
