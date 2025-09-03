@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 turn
 - **Effects**:
-	- You can change the temperature of up to 30L of water by up to 20 degrees Celsius (Both colder and hotter). 
+	- You can change the temperature of up to 30L of water by up to 20 degrees Celsius (both colder and hotter). 
 		- The water changes temperature immediately.
 		- This may only be used on substances made of atleast 97% water.
 - **Upcasting:**

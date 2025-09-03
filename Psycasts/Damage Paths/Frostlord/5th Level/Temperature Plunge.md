@@ -1,0 +1,29 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 28
+- **[[Neural Heat]] Generation:**
+	- 58
+- [[Range]]:
+	- 30ft sphere.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- 5 turns
+- **Effects**:
+	- You release a burst of pure cold from yourself freezing everything within range. 
+		- All creatures in range (except for the caster) must make a Dexterity saving throw. On a failure they take 1d12 + 4 cold damage and become [[Frozen Solid]] for 2 turns. On a success nothing happens. 
+		- The temperature within range instantly drops to -10C and all liquids that can be frozen at that temperature are immediately frozen.
+		- Ice covers all floors within range making all floors within range difficult terrain
+- **Upcasting**:
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage of the psycast increases by 1d12 cold damage.

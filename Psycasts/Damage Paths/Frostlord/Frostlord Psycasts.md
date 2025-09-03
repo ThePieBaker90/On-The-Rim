@@ -20,9 +20,9 @@ aliases:
 	- [[Snap Freeze]] (4, 37)
 - 4th Level:
 	- [[Arctic Wind]] (3, 44)
-	- 
 - 5th Level:
 	- [[Icicle Impale]] (6, 52)
+	- [[Temperature Plunge]] (28, 58)
 ## Miscasts
 - Level 1 Miscast - Sudden Ice Rink
 	- Ice spreads around you covering the nearby floors. All surfaces within a sphere of 20ft radius, centered on you become difficult terrain.
