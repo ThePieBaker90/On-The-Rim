@@ -1,0 +1,16 @@
+---
+tags:
+  - Item
+  - Grenade
+  - Consumable
+---
+- Requires a source of fire or intense heat to light fuze.
+- When used as an action, the user lights the fuze and throws the dynamite.
+- At the end of the original thrower's turn, they roll 1D6.
+	- On the first turn, the grenade explodes on a 6.
+ 	- At the end of each subsequent turn until the dynamite explodes, the explosion threshold reduces by one (second turn: 5 or higher. Third: 4 or higher, etc.)
+  	- When the dynamite explodes, all creatures who are in line-of-sight of the dynamite and within 25 ft must make a DC 13 dexterity saving throw. On a failed save they take 3d12 force damage, on a successful save they take half as much damage. This consumes the dynamite.
+  - The lit dynamite may be picked up and thrown, or kicked, as an action. This does not change fuze behavior.
+- When used outside of combat (e.g. to blow something up), the user makes a DC5 dex check. On a success, they escape to a safe distance and take no damage. On a fail, they take half 3D12 force damage. 
+- *A typical stick of dynamite, often used for mining, though also often used as an improvised grenade. 
+- 40 credits
