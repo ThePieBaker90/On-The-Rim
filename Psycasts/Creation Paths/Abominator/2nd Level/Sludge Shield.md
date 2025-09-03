@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 150ft
 - **Target**:
-	- Surface, Creature, or Self
+	- A creature within range.
 - **Components**:
 	- Kinetic, Material (3kg of [[Abomination Matter]])
 - **Duration**:

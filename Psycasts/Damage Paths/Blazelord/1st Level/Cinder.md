@@ -11,16 +11,16 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
-	- .
+	- 14
 - [[Range]]:
-	- .
+	- 35ft
 - **Target**:
-	- Creature.
+	- A creature within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- .
+	- You shoot a fire mote at a creature of your choice. Make a roll to hit, adding your psycasting ability modifier. On a hit, the mote deals 1d8 + 1 fire damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.

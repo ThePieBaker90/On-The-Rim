@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 20ft
 - **Target**:
-	- Friendly Creature or Self
+	- A creature within range.
 - **Components**:
 	- Kinetic, Material (4kg of [[Abomination Matter]])
 - **Duration**:

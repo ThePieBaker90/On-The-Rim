@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch
 - **Target**:
-	- Weapon within range
+	- A weapon within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

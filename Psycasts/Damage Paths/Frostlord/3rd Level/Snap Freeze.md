@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 30ft
 - **Target**:
-	- Up to 3 targets.
+	- Up to 3 creatures within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

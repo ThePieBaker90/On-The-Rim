@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A point within range.
+	- A small rock within range.
 - **Components**:
 	- Kinetic, Material (A small rock)
 - **Duration**:

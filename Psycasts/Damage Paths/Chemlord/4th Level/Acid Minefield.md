@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 35ft
 - **Target**:
-	- Several points.
+	- Several points within range.
 - **Components**:
 	- Gesture
 - **Duration**:

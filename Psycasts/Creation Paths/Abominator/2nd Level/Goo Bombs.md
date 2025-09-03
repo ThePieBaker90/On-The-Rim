@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 45ft
 - **Target**:
-	- Up to two targets.
+	- Up to two creatures within range.
 - **Components**:
 	- Kinetic, Material (3kg of [[Abomination Matter]])
 - **Duration**:

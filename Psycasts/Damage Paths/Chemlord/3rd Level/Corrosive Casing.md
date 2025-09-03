@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- Creature within range
+	- A creature within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

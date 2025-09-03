@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 30ft
 - **Target**:
-	- A point within range.
+	- [[Abomination Matter]] within range.
 - **Components**:
 	- Kinetic, Material (Up to 5kg of [[Abomination Matter]])
 - **Duration**:

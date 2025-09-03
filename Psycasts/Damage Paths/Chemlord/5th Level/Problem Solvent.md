@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 10ft, 90 degree arc.
 - **Target**:
-	- A direction
+	- A direction.
 - **Components**:
 	- Kinetic
 - **Duration**:

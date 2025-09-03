@@ -9,7 +9,7 @@ aliases:
 *Blazelords specialize in creating fire and increasing temperatures. Most of their psycasts center around fire damage and area of effect attacks. Blazelords are exceptional at making sure their enemies are always [[On Fire!]] or [[Burned]].*
 ## Core Psycasts
 - 1st Level:
-	- [[Cinder]] (, )
+	- [[Cinder]] (2, 14)
 - 2nd Level:
 	- .
 - 3rd Level:
