@@ -3,9 +3,10 @@ tags:
   - Frostlord
   - Psycast
   - 4th-Level
+  - Aquator
 ---
 - **Path**:
-	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]]
+	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]] & [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

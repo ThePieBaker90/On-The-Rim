@@ -9,7 +9,7 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 22
 - **[[Neural Heat]] Generation:**
 	- 52
 - [[Range]]:
