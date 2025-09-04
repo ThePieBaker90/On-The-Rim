@@ -6,7 +6,7 @@ aliases:
   - Skipmancer
   - Skipmancer Psycast
 ---
-*todo.*
+*Skipmancers specialize in changing the locations*
 ## Core Psycasts
 - 1st Level:
 	- .

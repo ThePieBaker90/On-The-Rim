@@ -34,6 +34,7 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
+	- [[Call Acid Rain]] (68, 0) ([[Chemlord Psycasts|Chemlord]])
 	- [[Call Blizzard]] (68, 0) ([[Frostlord Psycasts|Frostlord]])
 - 5th Level:
 	- .
