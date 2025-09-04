@@ -19,10 +19,10 @@ aliases:
 - 5th Level:
 	- .
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Sudden Combustion
+	- You combust into flames, you catch [[On Fire!]] for 3 turns.
+- Level 2 Miscast - The Simplest Solution
+	- You cast [[Fireball]] centered on yourself. You automatically fail the saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

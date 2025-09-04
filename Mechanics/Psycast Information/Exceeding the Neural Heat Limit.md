@@ -10,8 +10,8 @@ Anytime you cast a psycast that would put you over your neural heat limit, you m
 | 2 - 3    | Caster gains the [[Psychic Stun]] condition for 5 turns                                            | 2%       |
 | 4 - 6    | Caster gains the [[Psychic Stun]] condition for 3 turns                                            | 3%       |
 | 7 - 10   | Caster gains the [[Psychic Stun]] condition for 1 turn                                             | 4%       |
-| 11 - 25  | Level 2 Miscast of the same path as the original psycast.                                          | 15%      |
-| 26 - 50  | Level 1 miscast of the same path as the original psycast.                                          | 25%      |
+| 11 - 25  | Cast Level 2 Miscast of the same path as the original psycast.                                     | 15%      |
+| 26 - 50  | Cast Level 1 Miscast of the same path as the original psycast.                                     | 25%      |
 | 51 - 95  | No Effect                                                                                          | 45%      |
 | 96 - 100 | [[Psycasts\|Psycast]] gets upcast to the first degree for free (if possible, otherwise no effect). | 5%       |
 
@@ -22,4 +22,4 @@ Additional effects apply to the roll depending on how much you exceed your limit
 | 100% - 132% (Overloaded)      | Roll Normally                                           |
 | 133% - 165% (Very Overloaded) | Roll with disadvantage                                  |
 | 166% - 199% (Extreme)         | Roll with disadvantage, result is halved (rounded down) |
-| 200% + (Overwhelming)         | Guaranteed 1                                            |
+| 200% + (Overwhelming)         | Roll is turned into a 1                                 |
