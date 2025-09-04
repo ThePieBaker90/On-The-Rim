@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Blazelord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 30
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Until end of turn
+- **Effects**:
+	- You conjure flames beneath you to cover where you walk. You gain the following effects until the end of turn:
+		- +10ft of movement speed
+		- Floors you move over are set on fire in a 2.5ft circle around you, creatures who move through this fire take 1d6 fire damage and become [[Burned]] for 1 turn.
+			- The floors automatically extinguish after 2 turns.
+			- The fire will not spread unless manually spread by some other effect.
+		- Creatures making a melee attack on you as a reaction take 1d6 fire damage and become [[Burned]] for 1 turn.
+	- You are not affected by your own flames.
+- **Upcasting:**
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you apply [[Burned]] for an additional turn.

@@ -13,9 +13,11 @@ aliases:
 - 2nd Level:
 	- [[Bart's Blazing Cone]] (2, 20)
 - 3rd Level:
-	- .
+	- [[Flame Dash]] (6, 30)
+	- 
 - 4th Level:
 	- [[Fireball]] (3, 44)
+	- [[Immolate]] (4, 29)
 - 5th Level:
 	- .
 ## Miscasts
