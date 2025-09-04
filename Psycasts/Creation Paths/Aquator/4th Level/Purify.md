@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 50ft
 - **Target**:
-	- Food or drink.
+	- Food or drink within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

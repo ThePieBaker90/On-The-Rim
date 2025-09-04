@@ -15,9 +15,9 @@ tags:
 - [[Range]]:
 	- 20ft
 - **Target**:
-	- A volume.
+	- Water within range.
 - **Components**:
-	- Kinetic
+	- Kinetic, Material (Up to 30L of water)
 - **Duration**:
 	- 1 turn
 - **Effects**:

@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 50ft
 - **Target**:
-	- A volume.
+	- A volume within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

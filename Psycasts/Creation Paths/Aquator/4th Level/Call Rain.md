@@ -13,11 +13,11 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- Touch
+	- Self.
 - **Target**:
-	- A point within range.
+	- Self.
 - **Components**:
-	- Kinetic, Verbal
+	- Verbal
 - **Duration**:
 	- 5 days
 - **Effects**:

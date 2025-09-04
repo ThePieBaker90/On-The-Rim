@@ -9,20 +9,20 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
-- **[[Neural Heat]] Generation:**
 	- 18
-- [[Range]]:
+- **[[Neural Heat]] Generation:**
 	- 22
+- [[Range]]:
+	- Touch
 - **Target**:
-	- One Target.  
+	- A container within range.
 - **Components**:
-	- Kinetic
+	- Kinetic, Material (A container that can hold at least 250ml of liquid)
 - **Duration**:
 	- Instant
 - **Effects**:
 	- 250ml of healing water pours out of your pointer finger. If this liquid is drunk, it heals the creature who drank it 2d6 hit points. 
-		- If the water is stored in a container, it takes 1 action to drink.
+		- The water takes 1 action to drink.
 		- The healing water becomes normal water after 12 hours.
 - **Upcasting**:
 	- You may upcast this psycast. For every 33 psyfocus spent above the normal cost for this psycast, the water heals 1d6 more hit points.

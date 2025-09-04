@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 30ft
 - **Target**:
-	- A creature.
+	- A creature within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

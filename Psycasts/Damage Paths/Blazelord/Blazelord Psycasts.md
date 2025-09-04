@@ -15,7 +15,7 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Fireball]] (3, 44)
 - 5th Level:
 	- .
 ## Miscasts

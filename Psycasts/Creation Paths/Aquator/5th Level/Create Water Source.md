@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 10ft
 - **Target**:
-	- A point.
+	- A point within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
