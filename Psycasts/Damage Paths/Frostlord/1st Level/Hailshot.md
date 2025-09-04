@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- A direction.
+	- A cone originating from the caster.
 - **Components**:
 	- Kinetic
 - **Duration**:
