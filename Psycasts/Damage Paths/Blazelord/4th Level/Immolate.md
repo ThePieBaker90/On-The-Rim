@@ -5,7 +5,7 @@ tags:
   - 4th-Level
 ---
 - **Path**:
-	- 3rd level [[Blazelord Psycasts|Blazelord Psycast]]
+	- 4th level [[Blazelord Psycasts|Blazelord Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
