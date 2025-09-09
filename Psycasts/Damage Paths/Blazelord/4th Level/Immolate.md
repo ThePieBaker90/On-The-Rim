@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
-	- 29 (19)
+	- 34
 - [[Range]]:
 	- 70ft
 - **Target**:
@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- Concentration, up to 3 turns
+	- 2 turns.
 - **Effects**:
 	- You summon a fire mote above every creature within range. They must make a dexterity saving throw to avoid the fire motes. Upon a failure, they catch [[On Fire!]], this lasts until the psycast ends or the condition is forcibly removed. Upon a success, nothing happens.
 - **Upcasting:**
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast may be concentrated on for an additional turn..
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

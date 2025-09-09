@@ -10,6 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Cinder]] (2, 14)
+	- [[Melt]] (18, 22)
 - 2nd Level:
 	- [[Bart's Blazing Cone]] (2, 20)
 - 3rd Level:
@@ -17,7 +18,7 @@ aliases:
 	- 
 - 4th Level:
 	- [[Fireball]] (3, 44)
-	- [[Immolate]] (4, 29)
+	- [[Immolate]] (4, 34)
 - 5th Level:
 	- .
 ## Miscasts
