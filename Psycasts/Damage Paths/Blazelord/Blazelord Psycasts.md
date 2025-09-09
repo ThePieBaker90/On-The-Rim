@@ -16,7 +16,7 @@ aliases:
 	- [[Bart's Blazing Cone]] (2, 20)
 - 3rd Level:
 	- [[Flame Dash]] (6, 30)
-	- 
+	- [[Wall of Fire]] (, )
 - 4th Level:
 	- [[Fireball]] (3, 44)
 	- [[Immolate]] (4, 34)
