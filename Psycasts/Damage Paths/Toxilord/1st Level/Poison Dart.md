@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Blazelord
+---
+- **Path**:
+	- 1st Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 15
+- [[Range]]:
+	- 45ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You shoot a small poison dart at a creature of your choice. Make a roll to hit, adding your psycasting ability modifier. On a hit, the dart deals 1d4 poison damage and applies 2 levels of [[Poison Buildup]] to the creature.
+- **Upcasting**:
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Poison Buildup]] is applied.
