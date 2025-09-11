@@ -19,14 +19,18 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Until end of turn
+	- **Conjuring Flames**
+		- Until end of turn.
+	- **Flames**
+		- 3 turns.
 - **Effects**:
 	- You conjure flames beneath you to cover where you walk. You gain the following effects until the end of turn:
 		- +10ft of movement speed
-		- Floors you move over are set on fire in a 2.5ft circle around you, creatures who move through this fire take 1d6 fire damage and become [[Burned]] for 1 turn.
-			- The floors automatically extinguish after 2 turns.
+		- Floors you move over are set on fire in a 2.5ft circle around you. Creatures who start their turn on the fire, end their turn on the fire, or move through the fire must make a Constitution saving throw. On a failure, they take 1d8 fire damage and become [[Burned]] for 1 turn. On a success, nothing happens.
+			- The floors automatically extinguished after 3 turns.
 			- The fire will not spread unless manually spread by some other effect.
-		- Creatures making a melee attack on you as a reaction take 1d6 fire damage and become [[Burned]] for 1 turn.
+			- Creatures attempting to jump over the fire make a Dexterity saving throw instead of a Constitution saving throw.
+		- Creatures making a melee attack on you as a reaction take 1d8 fire damage and become [[Burned]] for 1 turn.
 	- You are not affected by your own flames.
 - **Upcasting:**
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you apply [[Burned]] for an additional turn.

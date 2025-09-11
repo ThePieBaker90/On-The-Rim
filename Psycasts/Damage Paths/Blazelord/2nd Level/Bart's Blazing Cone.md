@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- A cone originating from the caster.
+	- A cone originating from the caster with a length of 20ft and maximum width of 10ft.
 - **Components**:
 	- Gesture
 - **Duration**:

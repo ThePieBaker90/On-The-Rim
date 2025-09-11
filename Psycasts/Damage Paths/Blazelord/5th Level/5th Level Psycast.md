@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Blazelord
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
