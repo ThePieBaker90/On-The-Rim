@@ -21,7 +21,7 @@ aliases:
 	- [[Fireball]] (3, 44)
 	- [[Immolate]] (4, 34)
 - 5th Level:
-	- .
+	- [[Flamehart's Aura of Fire]] (, )
 ## Miscasts
 - Level 1 Miscast - Sudden Combustion
 	- You combust into flames, you catch [[On Fire!]] for 3 turns.

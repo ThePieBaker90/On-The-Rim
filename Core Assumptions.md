@@ -17,3 +17,4 @@ tags:
 * Currency is in the form of credits. Credits are a virtual currency and do not take up physical space.
 * The moon of the planet changes phase each day.
 * All playable races are made humanoids if they are not already.
+* Targeting requires line of sight unless otherwise stated.

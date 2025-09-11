@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 44
+	- 44 (34)
 - [[Range]]:
 	- 10ft sphere.
 - **Target**:
@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 3 turns.
+	- Concentration, up to 3 turns.
 - **Effects**:
 	- An area of harsh arctic wind surrounds you damaging all creatures within range. If a creature starts their turn, enters for the first time this turn, or ends their turn within the area, they must make a Constitution saving throw. On a failure they take 3d8 cold damage, otherwise they take half damage. A creature's movement costs twice as much to move through this area.
 	- The user and their allies ignore the effects of the arctic wind.
