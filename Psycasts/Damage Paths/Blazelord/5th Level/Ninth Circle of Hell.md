@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Blazelord
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 48
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- You summon a ring of fire centered on a point within range. The ring has a 25ft radius, 15ft height, and the fire is contained to the ring. Creatures starting their turn in the fire, entering the fire for the first time this turn, or ending their turn in the fire must make a Constitution saving throw. On a failure they take 4d6 fire damage, catch [[On Fire!]] for 2 turns, and have their speed reduced by 10ft until the end of turn. On a success, they take half as much damage.
+	- If the ring is summoned on top of a creature, the creature must make a Dexterity saving throw to dodge the flames. On a failure, they take 4d6 fire damage and catch [[On Fire!]] for 2 turns. On a success, they move away from the ring and take no damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage increases by 2d6 fire damage.
