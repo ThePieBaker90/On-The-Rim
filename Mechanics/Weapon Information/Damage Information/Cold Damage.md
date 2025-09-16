@@ -1,0 +1,1 @@
+*Cold damage is most commonly associated with low temperatures; Anything causing a drastic decrease in temperature will deal cold damage.*

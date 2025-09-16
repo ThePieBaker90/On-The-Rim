@@ -1,0 +1,1 @@
+*Bludgeoning damage is most commonly associated with blunt attacks; clubs, pommel strikes, getting hit by a vehicle, and melee attacks with guns are some of the most common sources.*
