@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 35ft
 - **Target**:
-	- 5ft sphere within range.
+	- 5ft sphere within range, may go over obstacles.
 - **Components**:
 	- Kinetic
 - **Duration**:

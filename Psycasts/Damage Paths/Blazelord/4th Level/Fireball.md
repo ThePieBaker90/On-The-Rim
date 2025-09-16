@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 40ft
 - **Target**:
-	- A point within range.
+	- A point within range, may go over obstacles.
 - **Components**:
 	- Gesture
 - **Duration**:

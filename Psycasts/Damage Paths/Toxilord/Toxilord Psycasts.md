@@ -15,10 +15,10 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Toxic Leap]] (3, 44)
 - 5th Level:
-	- .
-	- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 Psyfocus = 1 Poison Buildup. 9 Upcast psyfocus = 1 poison buildup.
+	- [[Toxin Duplication]] (12, 58)
+	- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 Psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
 ## Miscasts
 - Level 1 Miscast - .
 	- .

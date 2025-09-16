@@ -25,7 +25,8 @@ tags:
 		- 3 turns.
 - **Effects**:
 	- You conjure flames beneath you to cover where you walk. You gain the following effects until the end of turn:
-		- +10ft of movement speed
+		- +10ft of movement speed.
+		- Dash may be used as a bonus action.
 		- Floors you move over are set on fire in a 2.5ft circle around you. Creatures who start their turn on the fire, end their turn on the fire, or move through the fire must make a Constitution saving throw. On a failure, they take 1d8 fire damage and become [[Burned]] for 1 turn. On a success, nothing happens.
 			- The floors automatically extinguished after 3 turns.
 			- The fire will not spread unless manually spread by some other effect.
