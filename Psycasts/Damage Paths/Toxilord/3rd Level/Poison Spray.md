@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Toxilord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 37
+- [[Range]]:
+	- 10ft, 180 degree arc.
+- **Target**:
+	- A direction.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You spray poison towards a direction. All creatures in a 10ft, 180 degree arc centered on this direction must make a Constitution saving throw. On a failure, creatures take 1d8 poison damage and gain 5 levels of [[Poison Buildup]]. On a success, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional level of [[Poison Buildup]] is applied on a failed saving throw.

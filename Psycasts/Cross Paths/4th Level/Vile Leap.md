@@ -3,9 +3,10 @@ tags:
   - Psycast
   - 4th-Level
   - Toxilord
+  - Wildemancer
 ---
 - **Path**:
-	- 4th Level [[Toxilord Psycasts|Toxilord Psycast]]
+	- 4th Level [[Toxilord Psycasts|Toxilord Psycast]] & [[Wildemancer Psycasts|Wildemancer Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

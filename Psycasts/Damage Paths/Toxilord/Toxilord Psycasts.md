@@ -12,13 +12,18 @@ aliases:
 	- [[Poison Dart]] (2, 15)
 - 2nd Level:
 	- [[Toxic Trap]] (22, 0)
+	- Add Poison Spell
+	- Remove Poison From Creature Spell
 - 3rd Level:
-	- .
+	- [[Poison Spray]] (5, 37)
 - 4th Level:
-	- [[Vile Leap]] (3, 44)
+	- Cloud of Poison Spell
+	- AOE Radiation Spell
 - 5th Level:
 	- [[Toxin Duplication]] (12, 58)
-	- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 Psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
+	- Infection Poison Spell
+	- Poison Damage Increase Spell
+- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 Psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
 ## Miscasts
 - Level 1 Miscast - .
 	- .
@@ -30,6 +35,6 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Vile Leap]] (3, 44) ([[Wildemancer Psycasts|Wildemancer]])
 - 5th Level:
 	- .

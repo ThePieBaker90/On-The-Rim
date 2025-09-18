@@ -29,6 +29,6 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Vile Leap]] (3, 44) ([[Toxilord Psycasts|Toxilord]])
 - 5th Level:
 	- .
