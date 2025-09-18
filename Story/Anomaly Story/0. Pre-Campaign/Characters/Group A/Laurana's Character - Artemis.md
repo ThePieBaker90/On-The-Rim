@@ -59,7 +59,7 @@ Female Human Ranger 4 (Hunter) - Lawful Neutral
 - [[Industrial-Tech Medicine]]
 - [[Revolver]] ([[Silenced]])
 - 2 [[Frag Grenade]]
-- [[Psytrainer]] ([[Toxic Leap]])
+- [[Psytrainer]] ([[Vile Leap]])
 ********
 ## Appearance:
 - 35 Years Old

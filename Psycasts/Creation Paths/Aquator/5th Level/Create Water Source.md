@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 5th level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 30 seconds.
 - **[[Psyfocus]] Cost:**
 	- 48
 - **[[Neural Heat]] Generation:**

@@ -8,9 +8,9 @@ tags:
 - **Path**:
 	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]] & [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- 68
+	- 58
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:

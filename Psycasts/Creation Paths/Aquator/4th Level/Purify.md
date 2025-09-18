@@ -7,9 +7,9 @@ tags:
 - **Path**:
 	- 4th level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- 46
+	- 36
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:

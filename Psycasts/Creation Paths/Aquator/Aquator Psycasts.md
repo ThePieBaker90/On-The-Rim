@@ -17,8 +17,8 @@ aliases:
 	- [[Water Barrier]] (2,24)
 	- [[Rejuvenating Drink]] (18,22)
 - 4th Level:
-	- [[Call Rain]] (68,0)
-	- [[Purify]] (46,0)
+	- [[Call Rain]] (58,0)
+	- [[Purify]] (36,0)
 	- [[Typhoon's Fury]] (3,44)
 - 5th Level:
 	- [[Create Water Source]] (48,0)
@@ -34,7 +34,7 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- [[Call Acid Rain]] (68, 0) ([[Chemlord Psycasts|Chemlord]])
-	- [[Call Blizzard]] (68, 0) ([[Frostlord Psycasts|Frostlord]])
+	- [[Call Acid Rain]] (58, 0) ([[Chemlord Psycasts|Chemlord]])
+	- [[Call Blizzard]] (58, 0) ([[Frostlord Psycasts|Frostlord]])
 - 5th Level:
 	- .

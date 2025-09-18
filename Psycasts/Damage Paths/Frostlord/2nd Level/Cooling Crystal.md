@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Minute.
 - **[[Psyfocus]] Cost:**
 	- 26
 - **[[Neural Heat]] Generation:**

@@ -2,7 +2,7 @@
 tags:
   - Psycast
   - 1st-Level
-  - Blazelord
+  - Toxilord
 ---
 - **Path**:
 	- 1st Level [[Toxilord Psycasts|Toxilord Psycast]]
