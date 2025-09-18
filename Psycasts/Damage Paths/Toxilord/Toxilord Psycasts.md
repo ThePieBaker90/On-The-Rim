@@ -19,10 +19,10 @@ aliases:
 - 4th Level:
 	- Cloud of Poison Spell
 	- AOE Radiation Spell
+	- Poison Damage Increase Spell
 - 5th Level:
 	- [[Toxin Duplication]] (12, 58)
 	- Infection Poison Spell
-	- Poison Damage Increase Spell
 - DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 Psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
 ## Miscasts
 - Level 1 Miscast - .
