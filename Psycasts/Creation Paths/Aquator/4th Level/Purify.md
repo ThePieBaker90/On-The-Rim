@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 1 turn
+	- Instant.
 - **Effects**:
 	- You purify one volume of liquid (up to 15L) or one piece of food (up to 3kg) from any poisons, contaminants, or diseases. 
 		- Certain contaminants cannot be removed by this psycast.

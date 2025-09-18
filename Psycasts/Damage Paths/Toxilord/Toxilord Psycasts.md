@@ -12,7 +12,7 @@ aliases:
 	- [[Poison Dart]] (2, 15)
 - 2nd Level:
 	- [[Toxic Trap]] (22, 0)
-	- Add Poison Spell
+	- [[Contaminate]] (22, 0)
 	- Remove Poison From Creature Spell
 - 3rd Level:
 	- [[Poison Spray]] (5, 37)
