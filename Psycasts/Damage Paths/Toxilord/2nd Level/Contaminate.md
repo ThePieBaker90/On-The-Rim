@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- 24 Hours.
 - **Effects**:
-	- You poison one volume of liquid (up to 15L) or one piece of food (up to 3kg). Any creature who consumes atleast 10% of the poisoned item gains 10 levels of [[Poison Buildup]].
+	- You poison one volume of liquid (up to 15L) or one piece of food (up to 3kg). Any creature who consumes at least 10% of the poisoned item gains 10 levels of [[Poison Buildup]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast duration is increased by 24 hours.

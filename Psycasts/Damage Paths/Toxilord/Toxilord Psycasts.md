@@ -13,7 +13,7 @@ aliases:
 - 2nd Level:
 	- [[Toxic Trap]] (22, 0)
 	- [[Contaminate]] (22, 0)
-	- Remove Poison From Creature Spell
+	- [[Filter Poisons]] (12, 24)
 - 3rd Level:
 	- [[Poison Spray]] (5, 37)
 - 4th Level:
@@ -23,7 +23,7 @@ aliases:
 - 5th Level:
 	- [[Toxin Duplication]] (12, 58)
 	- Infection Poison Spell
-- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 Psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
+- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
 ## Miscasts
 - Level 1 Miscast - .
 	- .
