@@ -16,7 +16,7 @@ aliases:
 	- [[Filter Poisons]] (12, 24)
 - 3rd Level:
 	- [[Poison Spray]] (5, 37)
-	- [[Radioactivate]] (, )
+	- [[Radioactivate]] (7, 28)
 - 4th Level:
 	- [[Poison Cloud]] (3, 44)
 	- Poison Damage Increase Spell
