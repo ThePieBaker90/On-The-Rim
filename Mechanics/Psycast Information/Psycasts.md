@@ -16,6 +16,7 @@ aliases:
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
 		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Commanding the Undead TODO
 		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
+		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
