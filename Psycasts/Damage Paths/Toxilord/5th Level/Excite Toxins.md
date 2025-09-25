@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 5th-Level
+  - Toxilord
+---
+- **Path**:
+	- 5th Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 14
+- **[[Neural Heat]] Generation:**
+	- 56
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You excite poisons within a creature within range. The target must make a Constitution saving throw. Upon a failure, they gain 2 levels of [[Volatile Poison Buildup]]. Upon a success, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Volatile Poison Buildup]] is applied.

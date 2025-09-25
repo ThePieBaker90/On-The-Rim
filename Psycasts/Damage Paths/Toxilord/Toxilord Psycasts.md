@@ -19,11 +19,10 @@ aliases:
 	- [[Radioactivate]] (7, 28)
 - 4th Level:
 	- [[Poison Cloud]] (3, 44)
-	- Poison Damage Increase Spell
+	- [[Infect]] (4, 27)
 - 5th Level:
+	- [[Excite Toxins]] (14, 56)
 	- [[Toxin Duplication]] (12, 58)
-	- Infection Poison Spell
-- DELETE LATER, 7.3 Neural Heat = 1 Poison Buildup, 0.5 psyfocus = 1 Poison Buildup. 14 Upcast psyfocus = 1 poison buildup.
 ## Miscasts
 - Level 1 Miscast - Toxin Overload
 	- Natural toxins present in your body grow in strength, you gain 5 levels of [[Poison Buildup]].

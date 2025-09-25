@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You empower poisons within a target within range. The target must make a Constitution saving throw. Upon a failure, they double their current level of [[Poison Buildup]]. Upon a success, nothing happens.
+	- You duplicate poisons within a creature within range. The target must make a Constitution saving throw. Upon a failure, they double their current level of [[Poison Buildup]] or [[Volatile Poison Buildup]]. Upon a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.
