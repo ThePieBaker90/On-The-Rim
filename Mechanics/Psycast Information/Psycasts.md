@@ -19,7 +19,7 @@ aliases:
 		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
-		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time TODO
+		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
