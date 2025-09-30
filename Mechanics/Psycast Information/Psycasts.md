@@ -33,7 +33,7 @@ aliases:
 		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling TODO
 		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth TODO
 		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO
-		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals TODO
+		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals
 		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking TODO
 	- Support Paths
 		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments TODO
