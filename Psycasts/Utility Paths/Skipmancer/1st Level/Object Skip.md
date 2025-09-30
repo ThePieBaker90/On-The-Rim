@@ -13,9 +13,9 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
-	- 30ft
+	- 50ft
 - **Target**:
-	- An object within range and a point within range of the object
+	- An object within range and a point within range of the object.
 - **Components**:
 	- Kinetic
 - **Duration**:

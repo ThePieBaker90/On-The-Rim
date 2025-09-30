@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 21
 - [[Range]]:
-	- 30ft
+	- 50ft
 - **Target**:
 	- A grounded point within range.
 - **Components**:
