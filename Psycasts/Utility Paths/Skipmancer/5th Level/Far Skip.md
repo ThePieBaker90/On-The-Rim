@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Skipmancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Skipmancer Psycasts|Skipmancer Psycast]]
+- **Casting Time:**
+	- 15 Seconds.
+- **[[Psyfocus]] Cost:**
+	- 70
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 15ft
+- **Target**:
+	- A willing creature, line of sight is not needed.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You teleport all willing creatures within range of you to a willing creature. This target creature can be anywhere on the same planet and does not require line of sight.
+		- Creatures cannot be bigger than 12ft$^3$. 
+		- Everything every creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.
+		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -22,6 +22,6 @@ tags:
 	- Instant.
 - **Effects**:
 	- You and everything you have equipped or stored on you teleports to a grounded point within range. 
-		- Things that are too large cannot be teleported.
+		- Things bigger than 15ft$^3$ cannot be teleported.
 - **Upcasting**:
 	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.

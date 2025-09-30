@@ -53,4 +53,5 @@ aliases:
 - Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
 	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
 	- If you are hit while concentrating on a psycast you must make a saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. Your modifier for this roll is your psycasting modifier.
+	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
 

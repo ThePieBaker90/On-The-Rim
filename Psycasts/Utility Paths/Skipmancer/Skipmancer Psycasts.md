@@ -15,14 +15,14 @@ aliases:
 	- [[Chaos Skip]] (3, 24)
 	- [[Skip]] (3, 31)
 - 3rd Level:
-	- Skip Continuously 
+	- [[Chain Skip]] (24, 48)
 	- [[Quick Skip]] (12, 31)
 - 4th Level:
-	- Mass Chaos Skip
+	- [[Mass Chaos Skip]] (3 ,44)
 	- [[Mass Skip]] (3, 44)
 - 5th Level:
-	- Far Skip
-	- Portal
+	- [[Far Skip]] (70, 0)
+	- [[Skip Portal]] (25, 40)
 ## Miscasts
 - Level 1 Miscast - .
 	- .

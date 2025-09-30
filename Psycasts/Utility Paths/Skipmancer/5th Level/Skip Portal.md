@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Skipmancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Skipmancer Psycasts|Skipmancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 25
+- **[[Neural Heat]] Generation:**
+	- 40 (10)
+- [[Range]]:
+	- 200ft
+- **Target**:
+	- Two 5ft circles within range
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Concentration, up to 1 hour.
+- **Effects**:
+	- You create two portals, each taking up a 5ft circle within range and facing a direction of your choosing. These portals last for the psycast's duration. Upon entering a portal, you exit through the other portal.
+		- Anything can travel through the portals, attacks, objects, creatures, temperature, light, etc.
+		- The portals cannot be moved.
+	- You may concentrate on multiple instances of this psycast.
+- **Upcasting**:
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 100ft.
