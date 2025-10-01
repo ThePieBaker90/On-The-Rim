@@ -41,7 +41,8 @@ aliases:
 		- [[Mendopath Psycasts|Mendopath]] - Temporary Health Granting and Healing TODO
 		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs TODO
 		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
-	- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a lower level psycast from the same path. Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
+	- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a psycast from the same path that is 1 level lower (for example, learning a level 3 psycast requires knowledge of a level 2 psycast). 
+		- Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 	- Some psycasts may be part of multiple paths, a prerequisite psycast from all paths must be known to learn these psycasts.
 - Psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
