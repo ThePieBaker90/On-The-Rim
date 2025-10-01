@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action
+- **[[Psyfocus]] Cost:**
+	- 11
+- **[[Neural Heat]] Generation:**
+	- 26
+- [[Range]]:
+	- 40ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- Instant.
+- **Effects**
+	- You shout a word of healing, a target creature within range immediately heals 1d6+1 health.
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the target heals an additional 1d6 health.

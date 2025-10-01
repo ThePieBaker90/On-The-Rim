@@ -9,12 +9,12 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Healing Rite]] (12, 26)
+	- [[Healing Rite]] (12, 20)
 	- [[Stabilize]] (8, 30)
 - 2nd Level:
 	- [[Temp Health Spell]]
-	- [[Touch Instant Heal Spell]]
-	- [[Range Instant Heal Spell]]
+	- [[Touch of Healing]] (10, 26)
+	- [[Word of Healing]] (11, 26)
 - 3rd Level:
 	- [[Prayer of Healing Spell]]
 	- [[Rescue Beam Spell]]

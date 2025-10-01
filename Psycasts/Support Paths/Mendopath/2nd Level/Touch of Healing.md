@@ -7,20 +7,20 @@ tags:
 - **Path**:
 	- 2nd Level [[Mendopath Psycasts|Mendopath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- .
+	- 10
 - **[[Neural Heat]] Generation:**
-	- .
+	- 26
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**
-	- .
+	- A creature you touch immediately heals 1d10+2 health.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the target heals an additional 1d10 health.
