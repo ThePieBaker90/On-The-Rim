@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
