@@ -15,7 +15,7 @@ aliases:
 	- [[Boiling Strike]] (2,15)
 - 3rd Level:
 	- [[Water Barrier]] (2,24)
-	- [[Rejuvenating Drink]] (19,16)
+	- [[Wave Ride]] (5, 34)
 - 4th Level:
 	- [[Call Rain]] (58,0)
 	- [[Purify]] (36,0)
@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Rejuvenating Drink]] (19,16) ([[Mendopath Psycasts|Mendopath]])
 - 4th Level:
 	- [[Call Acid Rain]] (58, 0) ([[Chemlord Psycasts|Chemlord]])
 	- [[Call Blizzard]] (58, 0) ([[Frostlord Psycasts|Frostlord]])

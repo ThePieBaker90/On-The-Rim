@@ -19,10 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- **Conjuring Flames**
-		- Until end of turn.
-	- **Flames**
-		- 3 turns.
+	- 3 turns.
 - **Effects**:
 	- You conjure flames beneath you to cover where you walk. You gain the following effects until the end of turn:
 		- +10ft of movement speed.

@@ -16,8 +16,8 @@ aliases:
 	- [[Touch of Healing]] (10, 26)
 	- [[Word of Healing]] (11, 26)
 - 3rd Level:
-	- [[Prayer of Healing Spell]]
-	- [[Rescue Beam Spell]]
+	- [[Ritual of Restoration]] (50, 0)
+	- [[Healing Beam]]
 - 4th Level:
 	- [[Healing Nova Spell]]
 	- [[Healing Tempo Spell]]
@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Rejuvenating Drink]] (19,16) ([[Aquator Psycasts|Aquator]])
 - 4th Level:
 	- .
 - 5th Level:

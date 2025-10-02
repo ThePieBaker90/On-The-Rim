@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 3rd Level [[Mendopath Psycasts|Mendopath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
 	- .
 - **Duration**:

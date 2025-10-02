@@ -3,9 +3,10 @@ tags:
   - Psycast
   - 3rd-Level
   - Aquator
+  - Mendopath
 ---
 - **Path**:
-	- 3rd Level [[Aquator Psycasts|Aquator Psycast]]
+	- 3rd Level [[Aquator Psycasts|Aquator Psycast]] & [[Mendopath Psycasts|Mendopath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
