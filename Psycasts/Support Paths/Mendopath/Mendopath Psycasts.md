@@ -12,17 +12,17 @@ aliases:
 	- [[Healing Rite]] (12, 20)
 	- [[Stabilize]] (8, 30)
 - 2nd Level:
-	- [[Temp Health Spell]]
-	- [[Touch of Healing]] (10, 26)
-	- [[Word of Healing]] (11, 26)
+	- [[Touch of Healing]] (4, 21)
+	- [[Word of Healing]] (6, 23)
 - 3rd Level:
+	- [[Healing Beam]] (18, 46)
 	- [[Ritual of Restoration]] (50, 0)
-	- [[Healing Beam]]
 - 4th Level:
-	- [[Healing Nova Spell]]
-	- [[Healing Tempo Spell]]
+	- [[Healing Nova]] (3, 44)
+	- [[Healing Tempo]] (40, 0)
 - 5th Level:
 	- [[Cheat Death Spell]]
+	- [[Restore]] (90, 45)
 ## Miscasts
 - Level 1 Miscast - Wrongful Heal
 	- .

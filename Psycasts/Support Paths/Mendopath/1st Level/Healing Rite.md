@@ -22,5 +22,6 @@ tags:
 	- 3 turns.
 - **Effects**
 	- You grant a creature within range conditional health regeneration. Every turn they heal 1d8+2 health for the duration of the psycast. This effect ends prematurely if the creature being healed takes any damage.
+		- This healing counts as active healing.
 - **Upcasting**:
 	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
