@@ -1,0 +1,9 @@
+- A weapon with the Seeker property is dessinged to lock onto a target and then manuever to impact it. 
+- Seeker weapons have disadvantage at optimal and long ranges.
+    - Result: Short- diasdvantage. Optimal- disadvantage. Long- 2x disadvantage.   
+- The user may take the Lock action to lock a target within line of sight.
+  - This will remove the disadvantage at optimal and long ranges
+  - This will additionally remove the ordinary disadvantage at long range
+    - Result: Short- diasdvantage. Optimal- normal. Long- normal.
+  - Target's EV is halved.
+  - This effect last until ???? (WIP)
