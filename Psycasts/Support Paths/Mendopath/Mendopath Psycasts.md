@@ -21,7 +21,7 @@ aliases:
 	- [[Healing Nova]] (3, 44)
 	- [[Healing Tempo]] (40, 0)
 - 5th Level:
-	- [[Cheat Death Spell]]
+	- [[Death Deny]]
 	- [[Restore]] (90, 45)
 ## Miscasts
 - Level 1 Miscast - Wrongful Heal

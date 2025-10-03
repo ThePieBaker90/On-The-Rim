@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- 10 turns.
 - **Effects**
 	- .
 - **Upcasting**:
