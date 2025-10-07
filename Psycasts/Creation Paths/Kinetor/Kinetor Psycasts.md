@@ -12,7 +12,7 @@ aliases:
 	- [[Kinetic Hand]] (1, 8)
 	- [[Push]] (4, 22)
 - 2nd Level:
-	- [[Minor Explosion Psycast]]
+	- [[Minor Explosion]] (2, 26)
 	- [[Throw Psycast]]
 - 3rd Level:
 	- [[Fly Psycast]]

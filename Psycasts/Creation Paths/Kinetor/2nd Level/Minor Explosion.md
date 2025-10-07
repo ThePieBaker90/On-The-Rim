@@ -7,20 +7,20 @@ tags:
 - **Path**:
 	- 2nd Level [[Kinetor Psycasts|Kinetor Psycast]]
 - **Casting Time**:
-	- .
+	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- .
+	- 2
 - **[[Neural Heat]] Generation:**
-	- .
+	- 26
 - [[Range]]:
-	- .
+	- 20ft
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
-	- .
+	- You create a high amount of compressive force on a point within range, creating a small explosion. All creatures within 5ft of the point must make a Dexterity saving throw. On a failure they take 2d8 force damage. On a success they take half as much damage.
 - **Upcasting:**
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
