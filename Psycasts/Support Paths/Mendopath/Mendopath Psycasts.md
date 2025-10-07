@@ -21,13 +21,13 @@ aliases:
 	- [[Healing Nova]] (3, 44)
 	- [[Healing Tempo]] (40, 0)
 - 5th Level:
-	- [[Death Deny]]
+	- [[Cheat Death]] (25, 40)
 	- [[Restore]] (90, 45)
 ## Miscasts
 - Level 1 Miscast - Wrongful Heal
-	- .
+	- You heal a random hostile creature within 40ft for 2d6+2 health.
 - Level 2 Miscast - Oops, less healing!
-	- .
+	- You gain [[Healbane]] for 3 turns.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
