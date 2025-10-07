@@ -6,7 +6,7 @@ aliases:
   - Mendopath
   - Mendopath Psycast
 ---
-*todo.*
+*Medopaths specialize in healing others and preventing death. Most of their psycasts grant health to others or themselves. Some of their psycasts are used to stabilize critical patients or increase their own healing output.*
 ## Core Psycasts
 - 1st Level:
 	- [[Healing Rite]] (12, 20)

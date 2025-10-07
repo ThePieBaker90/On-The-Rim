@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Kinetic Hand]] (1, 8)
 - 2nd Level:
 	- .
 - 3rd Level:
