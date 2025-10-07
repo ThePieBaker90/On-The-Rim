@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Kinetor
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Kinetor Psycasts|Kinetor Psycast]]
+- **Casting Time**:
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting:**
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

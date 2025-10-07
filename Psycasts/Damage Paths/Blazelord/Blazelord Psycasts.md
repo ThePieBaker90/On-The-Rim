@@ -30,10 +30,10 @@ aliases:
 	- You cast [[Fireball]] centered on yourself. You automatically fail the saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Firework Psycast]] ([[Kinetor Psycasts|Kinetor]])
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Thermite Spray]] ([[Chemlord Psycasts|Chemlord]])
 - 5th Level:
 	- .

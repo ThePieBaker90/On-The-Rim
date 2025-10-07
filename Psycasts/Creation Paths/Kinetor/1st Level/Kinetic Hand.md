@@ -5,7 +5,7 @@ tags:
   - Kinetor
 ---
 - **Path**:
-	- 1st level [[Kinetor Psycasts|Kinetor Psycast]]
+	- 1st Level [[Kinetor Psycasts|Kinetor Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
@@ -21,9 +21,10 @@ tags:
 - **Duration**:
 	- 10 turns.
 - **Effects**:
-	- A hand made of pure kinetic energy manifests at a point within range. You can control the hand as an action as if it was your own hand, it may interact with objects but may not stray beyond range from you. 
+	- A hand made of energy manifests at a point within range. You can control the hand as an action as if it was your own hand, it may interact with objects but may not stray beyond range from you. 
 		- The hand can lift a maximum 5 kg.
-		- The hand dissipates if hit.
-		- The hand has your movement speed.
+		- The hand has 1 health and dissipates upon death.
+		- They hand has the movement speed of the caster.
+		- The hand can throw objects up to 25ft.
 - **Upcasting:**
 	- You cannot upcast this psycast.

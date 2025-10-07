@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Kinetor
+---
+- **Path**:
+	- 1st Level [[Kinetor Psycasts|Kinetor Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 22
+- [[Range]]:
+	- 25ft (length) x 15ft (width) x 15ft (height) cuboid with the caster on the edge.
+- **Target**:
+	- A direction
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You create a large force within a cuboid with 25ft (length) x 15ft (width) x 15ft (height) originating from you in a direction of your choosing, the length is always in the direction of your choosing and you are always on the edge of the cuboid. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
+- **Upcasting:**
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the cuboid's length increases by 5ft.
