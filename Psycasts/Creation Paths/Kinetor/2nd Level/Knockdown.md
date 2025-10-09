@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Kinetor
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Kinetor Psycasts|Kinetor Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 100ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You create a strong downward force to knock a creature within range down. The creature must make a Dexterity saving throw. On a failure, they become [[Prone]] and [[Stunned]] for 1 turn. On a success nothing happens.
+		- Airborne creatures automatically fail the Dexterity saving throw and are [[Prone]] and [[Stunned]] for an additional turn.
+- **Upcasting:**
+	- You cannot upcast this psycast.

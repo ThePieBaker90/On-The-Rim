@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Material (4kg of [[Abomination Matter]])
 - **Duration**:
-	- Concentration, up to 1 minute
+	- Concentration, up to 10 turns.
 - **Effects**:
 	- You create two massive, stretchy arms out of [[Abomination Matter]], these arms cover another creature's arms and enhance their strength. While using the arms, the creature has the following effects:
 		- [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5).

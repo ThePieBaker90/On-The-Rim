@@ -13,10 +13,10 @@ aliases:
 	- [[Push]] (4, 22)
 - 2nd Level:
 	- [[Minor Explosion]] (2, 26)
-	- [[Throw Psycast]]
+	- [[Knockdown]] (4, 28)
 - 3rd Level:
-	- [[Fly Psycast]]
-	- [[Shockwave Psycast]]
+	- [[Soar]] (9, 19)
+	- [[Shockwave]] (, )
 	- [[Telekinesis Psycast]]
 - 4th Level:
 	- [[Big Explosion Psycast]]

@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Kinetor
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Kinetor Psycasts|Kinetor Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 9
+- **[[Neural Heat]] Generation:**
+	- 19
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 10 turns.
+- **Effects**:
+	- For the duration of the psycast you are able to fly. Your flying speed is your movement speed + 10ft.
+	- If you are already able to fly, you double your flying speed for the duration of the psycast.
+- **Upcasting:**
+	- You cannot upcast this psycast. 
