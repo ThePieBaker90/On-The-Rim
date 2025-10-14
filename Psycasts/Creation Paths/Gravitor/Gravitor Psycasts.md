@@ -1,10 +1,10 @@
 ---
 tags:
   - Info
-  - Kinetor
+  - Gravitor
 aliases:
-  - Kinetor
-  - Kinetor Psycast
+  - Gravitor
+  - Gravitor Psycast
 ---
 *todo.*
 ## Core Psycasts

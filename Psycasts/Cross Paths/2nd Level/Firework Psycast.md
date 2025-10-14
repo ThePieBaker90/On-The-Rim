@@ -6,7 +6,7 @@ tags:
   - Kinetor
 ---
 - **Path**:
-	- 2nd Level [[Blazelord Psycasts|Blazelord Psycast]] & [[Kinetor Psycasts|Kinetor Psycast]]
+	- 2nd Level [[Blazelord Psycasts|Blazelord Psycast]] & [[Gravitor Psycasts|Kinetor Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**

@@ -6,7 +6,7 @@ tags:
   - 3rd-Level
 ---
 - **Path**:
-	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]] & [[Kinetor Psycasts|Kinetor Psycast]]
+	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]] & [[Gravitor Psycasts|Kinetor Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**

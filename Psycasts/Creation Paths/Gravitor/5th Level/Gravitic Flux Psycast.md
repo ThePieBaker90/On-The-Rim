@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Kinetor
-  - 3rd-Level
+  - 5th-Level
 ---
 - **Path**:
-	- 3rd Level [[Kinetor Psycasts|Kinetor Psycast]]
+	- 5th Level [[Gravitor Psycasts|Kinetor Psycast]]
 - **Casting Time**:
 	- .
 - **[[Psyfocus]] Cost:**

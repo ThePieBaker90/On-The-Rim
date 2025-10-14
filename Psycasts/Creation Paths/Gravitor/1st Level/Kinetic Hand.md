@@ -5,7 +5,7 @@ tags:
   - Kinetor
 ---
 - **Path**:
-	- 1st Level [[Kinetor Psycasts|Kinetor Psycast]]
+	- 1st Level [[Gravitor Psycasts|Kinetor Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
@@ -28,3 +28,4 @@ tags:
 		- The hand can throw objects up to 25ft.
 - **Upcasting:**
 	- You cannot upcast this psycast.
+0

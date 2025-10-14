@@ -23,7 +23,7 @@ aliases:
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
-		- [[Kinetor Psycasts|Kinetor]] - Force Creation and Energy Manipulation TODO
+		- [[Gravitor Psycasts|Gravitor]] - Force Creation and Energy Manipulation TODO
 		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
 		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing TODO
 		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth TODO

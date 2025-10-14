@@ -30,7 +30,7 @@ aliases:
 	- You cast [[Fireball]] centered on yourself. You automatically fail the saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
-	- [[Firework Psycast]] ([[Kinetor Psycasts|Kinetor]])
+	- [[Firework Psycast]] ([[Gravitor Psycasts|Kinetor]])
 - 3rd Level:
 	- .
 - 4th Level:
