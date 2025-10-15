@@ -12,14 +12,14 @@ aliases:
 	- [[Newton's Cradle]] (1, 8)
 	- [[Gravity Shove]] (4, 22)
 - 2nd Level:
-	- [[Minor Explosion]] (2, 26)
+	- [[Walk on Walls Spell]] 
 	- [[Knockdown]] (4, 28)
 - 3rd Level:
-	- [[Soar]] (9, 19)
+	- [[Levitate]] (9, 21)
 	- [[Shockwave]] (, )
 	- [[Telekinesis Psycast]]
 - 4th Level:
-	- [[Implosion]]
+	- [[Implosion]] (3, 44)
 	- [[Magic Missile Psycast]]
 - 5th Level:
 	- [[Gravitic Flux Psycast]]

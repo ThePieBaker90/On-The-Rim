@@ -7,20 +7,20 @@ tags:
 - **Path**:
 	- 4th Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
-	- .
+	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- .
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 44
 - [[Range]]:
-	- .
+	- 25ft
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Kinetic
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
-	- .
+	- You create a strong gravitational force on a point within range, creating a moderate implosion. All creatures within a 15ft sphere centered on the point must make a Constitution saving throw. On a failure they take 4d10 force damage and are moved to the center of the sphere. On a success, they take half as much damage.
 - **Upcasting:**
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you deal an additional 1d10 force damage.
