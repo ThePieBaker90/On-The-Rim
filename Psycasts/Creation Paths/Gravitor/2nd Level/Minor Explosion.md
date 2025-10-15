@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Kinetor
   - 2nd-Level
+  - Gravitor
 ---
 - **Path**:
-	- 2nd Level [[Gravitor Psycasts|Kinetor Psycast]]
+	- 2nd Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**

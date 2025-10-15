@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - 1st-Level
-  - Kinetor
+  - Gravitor
 ---
 - **Path**:
-	- 1st Level [[Gravitor Psycasts|Kinetor Psycast]]
+	- 1st Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You create a large force within a cuboid with 25ft (length) x 15ft (width) x 15ft (height) originating from you in a direction of your choosing, the length is always in the direction of your choosing and you are always on the edge of the cuboid. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
+	- You create a large, horizontal, gravitational force within a cuboid. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
+		- The cuboid has dimensions 25ft (length) x 15ft (width) x 15ft (height).
+		- The length of the cuboid is always along the direction of your choice.
 - **Upcasting:**
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the cuboid's length increases by 5ft.

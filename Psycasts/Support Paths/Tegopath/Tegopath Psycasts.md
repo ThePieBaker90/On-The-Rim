@@ -27,7 +27,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Force Barrier Psycast]] ([[Gravitor Psycasts|Gravitor]])
 - 4th Level:
 	- .
 - 5th Level:

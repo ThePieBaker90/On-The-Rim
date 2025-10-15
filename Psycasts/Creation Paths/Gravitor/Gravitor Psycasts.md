@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Kinetic Hand]] (1, 8)
+	- [[Newton's Gravity Cradle]] (1, 8)
 	- [[Push]] (4, 22)
 - 2nd Level:
 	- [[Minor Explosion]] (2, 26)
@@ -30,7 +30,7 @@ aliases:
 	- . 
 ## Crosspath Psycasts
 - 2nd Level:
-	- [[Firework Psycast]] ([[Blazelord Psycasts|Blazelord]])
+	- [[Unknown Fire Gravity Psycast]] ([[Blazelord Psycasts|Blazelord]])
 - 3rd Level:
 	- [[Force Barrier Psycast]] ([[Tegopath Psycasts|Tegopath]])
 - 4th Level:

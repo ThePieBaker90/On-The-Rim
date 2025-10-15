@@ -3,10 +3,10 @@ tags:
   - Psycast
   - 2nd-Level
   - Blazelord
-  - Kinetor
+  - Gravitor
 ---
 - **Path**:
-	- 2nd Level [[Blazelord Psycasts|Blazelord Psycast]] & [[Gravitor Psycasts|Kinetor Psycast]]
+	- 2nd Level [[Blazelord Psycasts|Blazelord Psycast]] & [[Gravitor Psycasts|Gravitor]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
