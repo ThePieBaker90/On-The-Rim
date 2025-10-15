@@ -9,8 +9,8 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Newton's Gravity Cradle]] (1, 8)
-	- [[Push]] (4, 22)
+	- [[Newton's Cradle]] (1, 8)
+	- [[Gravity Shove]] (4, 22)
 - 2nd Level:
 	- [[Minor Explosion]] (2, 26)
 	- [[Knockdown]] (4, 28)
@@ -19,7 +19,7 @@ aliases:
 	- [[Shockwave]] (, )
 	- [[Telekinesis Psycast]]
 - 4th Level:
-	- [[Big Explosion Psycast]]
+	- [[Implosion]]
 	- [[Magic Missile Psycast]]
 - 5th Level:
 	- [[Gravitic Flux Psycast]]

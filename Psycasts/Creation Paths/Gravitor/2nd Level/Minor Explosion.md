@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a high amount of compressive force on a point within range, creating a small explosion. All creatures within 5ft of the point must make a Dexterity saving throw. On a failure they take 2d8 force damage. On a success they take half as much damage.
+	- You create a high amount of compressive force on a point within range, creating a small explosion. All creatures within 5ft of the point must make a Constitution saving throw. On a failure they take 2d8 force damage. On a success they take half as much damage.
 - **Upcasting:**
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you deal an additional 1d8 force damage.

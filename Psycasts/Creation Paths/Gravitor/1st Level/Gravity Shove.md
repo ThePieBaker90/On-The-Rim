@@ -21,8 +21,8 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You create a large, horizontal, gravitational force within a cuboid. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
+	- You create a large, horizontal, gravitational force within a cuboid in front of you. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
 		- The cuboid has dimensions 25ft (length) x 15ft (width) x 15ft (height).
-		- The length of the cuboid is always along the direction of your choice.
+		- The length of the cuboid is always parallel to the direction you are facing.
 - **Upcasting:**
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the cuboid's length increases by 5ft.
