@@ -15,11 +15,11 @@ tags:
 - [[Range]]:
 	- 25ft (length) x 15ft (width) x 15ft (height) cuboid with the caster on the edge.
 - **Target**:
-	- A direction
+	- A direction.
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
 	- You create a large, horizontal, gravitational force within a cuboid in front of you. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
 		- The cuboid has dimensions 25ft (length) x 15ft (width) x 15ft (height).

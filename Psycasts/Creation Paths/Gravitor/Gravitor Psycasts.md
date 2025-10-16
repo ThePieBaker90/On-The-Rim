@@ -12,7 +12,7 @@ aliases:
 	- [[Newton's Cradle]] (1, 8)
 	- [[Gravity Shove]] (4, 22)
 - 2nd Level:
-	- [[Walk on Walls Spell]] 
+	- [[Gravity Shift]] (20, 0)
 	- [[Knockdown]] (4, 28)
 - 3rd Level:
 	- [[Levitate]] (9, 21)

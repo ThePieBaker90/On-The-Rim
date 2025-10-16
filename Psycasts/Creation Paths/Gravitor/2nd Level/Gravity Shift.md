@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Gravitor
+---
+- **Path**:
+	- 2nd Level [[Gravitor Psycasts|Gravitor Psycast]]
+- **Casting Time**:
+	- 10 seconds.
+- **[[Psyfocus]] Cost:**
+	- 20
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 minutes.
+- **Effects**:
+	- You create a 10ft cube of changed gravity centered on a point within range. You may choose the strength (up to a maximum of 3gs) and direction of gravity within the cube. The cube lasts for the duration of the psycast.
+- **Upcasting:**
+	- You may upcast this psycast. For every 5 psyfocus spent above the normal cost for this psycast, you can extend one face of the cube by 10ft.
+		- This may be done to multiple faces with multiple upcasts.
+		- Only the initial center of the cube needs to be within range, Extending a face of the cube may cause the new center of the cube to be out of range.
