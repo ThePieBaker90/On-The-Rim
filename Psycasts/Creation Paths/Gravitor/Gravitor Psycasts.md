@@ -16,7 +16,7 @@ aliases:
 	- [[Knockdown]] (4, 28)
 - 3rd Level:
 	- [[Levitate]] (9, 21)
-	- [[Shockwave]] (, )
+	- [[Gravwave]] (6, 24)
 	- [[Telekinesis Psycast]]
 - 4th Level:
 	- [[Implosion]] (3, 44)
