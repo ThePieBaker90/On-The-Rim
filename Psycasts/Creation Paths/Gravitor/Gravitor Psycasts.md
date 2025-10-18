@@ -15,14 +15,14 @@ aliases:
 	- [[Gravity Shift]] (20, 0)
 	- [[Knockdown]] (4, 28)
 - 3rd Level:
-	- [[Levitate]] (9, 21)
+	- [[Levitation]] (9, 21)
 	- [[Gravwave]] (6, 24)
 	- [[Telekinesis Psycast]]
 - 4th Level:
 	- [[Implosion]] (3, 44)
-	- [[Magic Missile Psycast]]
 - 5th Level:
 	- [[Gravitic Flux Psycast]]
+	- [[Gravity Well]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

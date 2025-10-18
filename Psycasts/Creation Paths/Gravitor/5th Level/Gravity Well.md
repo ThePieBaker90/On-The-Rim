@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - 4th-Level
   - Gravitor
+  - 5th-Level
 ---
 - **Path**:
-	- 4th Level [[Gravitor Psycasts|Gravitor Psycast]]
+	- 5th Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
 	- .
 - **[[Psyfocus]] Cost:**

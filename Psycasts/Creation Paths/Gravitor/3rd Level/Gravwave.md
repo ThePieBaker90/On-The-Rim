@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a strong field of outwards facing gravity around a point within range. All creatures within a 10ft sphere centered on the point may make a Constitution saving throw. On a failure, they are knocked 15ft away from the point if they were within 5ft of the point, or 5ft away if they were further than 5ft away from the point. On a success nothing happens.
+	- You create a strong force of outwards facing gravity around a point within range. All creatures within a 10ft sphere centered on the point may make a Constitution saving throw. On a failure, they are knocked 15ft away from the point if they were within 5ft of the point, or 5ft away if they were further than 5ft away from the point. On a success nothing happens.
 		- Creatures may choose to fail the saving throw.
 		- Creatures knocked into a wall from this psycast take 1d6 bludgeoning damage.
 - **Upcasting:**
