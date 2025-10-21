@@ -22,6 +22,7 @@ tags:
 	- 5 minutes.
 - **Effects**:
 	- You create a 10ft cube of changed gravity centered on a point within range. You may choose the strength (up to a maximum of 3gs) and direction of gravity within the cube. The cube lasts for the duration of the psycast.
+		- External sources of gravity are ignored within the cube.
 - **Upcasting:**
 	- You may upcast this psycast. For every 5 psyfocus spent above the normal cost for this psycast, you can extend one face of the cube by 10ft.
 		- This may be done to multiple faces with multiple upcasts.

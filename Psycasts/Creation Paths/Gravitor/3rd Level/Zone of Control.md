@@ -7,20 +7,25 @@ tags:
 - **Path**:
 	- 3rd Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 8
 - **[[Neural Heat]] Generation:**
-	- .
+	- 38
 - [[Range]]:
-	- 80ft
+	- 40ft
 - **Target**:
-	- Cylinder with 20ft radius and 30ft height.
+	- A point within range.
 - **Components**:
-	- Kinetic
+	- Gesture
 - **Duration**:
-	- 5 turns.
+	- 3 turns.
 - **Effects**:
-	- You create a cylinder of strong downward gravitational force. All creatures in this area are forced into [[Prone]] while in the area.
+	- You create a cylinder of strong downward gravitational force centered on a point within range. The cylinder has a 15ft radius and 30ft height. Within the cylinder, the following effects occur:
+		- Creatures starting their turn in the zone, entering the zone for the first time this turn, ending their turn in the zone, or are in the zone when this psycast is cast must make a Constitution saving throw. On a failure they are forced [[Prone]] until they leave the zone. On a success nothing happens.
+			- Creatures supported by an object automatically succeed the saving throw.
+		- External sources of gravity are ignored.
+		- Projectiles travelling through the cylinder have disadvantage to hit.
+		- Upside down creatures lose 1d4 health at the beginning of their turn.
 - **Upcasting:**
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

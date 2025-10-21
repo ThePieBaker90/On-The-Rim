@@ -12,10 +12,10 @@ aliases:
 	- [[Healing Rite]] (12, 20)
 	- [[Stabilize]] (8, 30)
 - 2nd Level:
-	- [[Touch of Healing]] (4, 21)
-	- [[Word of Healing]] (6, 23)
+	- [[Touch of Mending]] (4, 21)
+	- [[Word of Mending]] (6, 23)
 - 3rd Level:
-	- [[Healing Beam]] (18, 46)
+	- [[Health Beam]] (18, 46)
 	- [[Ritual of Restoration]] (50, 0)
 - 4th Level:
 	- [[Healing Nova]] (3, 44)
