@@ -13,14 +13,14 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 80ft
 - **Target**:
-	- .
+	- Cylinder with 20ft radius and 30ft height.
 - **Components**:
-	- .
+	- Kinetic
 - **Duration**:
-	- .
+	- 5 turns.
 - **Effects**:
-	- You create a zone of strong downward gravitational force. All creatures in this area may only crawl to move. All airborne creatures in the zone are knocked [[Prone]] for 1 turn.
+	- You create a cylinder of strong downward gravitational force. All creatures in this area are forced into [[Prone]] while in the area.
 - **Upcasting:**
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
