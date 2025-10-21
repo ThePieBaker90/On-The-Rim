@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Levitation]] (9, 21)
 	- [[Gravwave]] (6, 24)
-	- [[Telekinesis Psycast]]
+	- [[Zone of Control]]
 - 4th Level:
 	- [[Implosion]] (3, 44)
 - 5th Level:

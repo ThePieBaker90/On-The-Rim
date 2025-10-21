@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- .
 - **Effects**:
-	- .
+	- You create a zone of strong downward gravitational force. All creatures in this area may only crawl to move. All airborne creatures in the zone are knocked [[Prone]] for 1 turn.
 - **Upcasting:**
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
