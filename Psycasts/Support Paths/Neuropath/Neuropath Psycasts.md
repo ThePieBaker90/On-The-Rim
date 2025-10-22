@@ -1,15 +1,15 @@
 ---
 tags:
   - Info
-  - Neurolord
+  - Neuropath
 aliases:
-  - Neurolord
-  - Neurolord Psycast
+  - Neuropath
+  - Neuropath Psycast
 ---
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Neural Heat Transfer]]
 - 2nd Level:
 	- .
 - 3rd Level:

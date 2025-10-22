@@ -15,7 +15,6 @@ aliases:
 		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
 		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Commanding the Undead TODO
-		- [[Neurolord Psycasts|Neurolord]] - Psychic Damage and Neural Manipulation TODO
 		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
@@ -23,7 +22,7 @@ aliases:
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
-		- [[Gravitor Psycasts|Gravitor]] - Force Creation and Energy Manipulation TODO
+		- [[Gravitor Psycasts|Gravitor]] - Force Creation and Energy Manipulation
 		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
 		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing TODO
 		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth TODO
@@ -39,6 +38,7 @@ aliases:
 		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments TODO
 		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
 		- [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
+		- [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation TODO
 		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs TODO
 		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
 	- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a psycast from the same path that is 1 level lower (for example, learning a level 3 psycast requires knowledge of a level 2 psycast). 

@@ -6,7 +6,7 @@ aliases:
   - Gravitor
   - Gravitor Psycast
 ---
-*todo.*
+*Gravitors specialize in manipulating and creating gravitational forces. Most of their psycasts center around crowd control and lifting things. Gravitors excel at keeping their enemies close together or far apart.*
 ## Core Psycasts
 - 1st Level:
 	- [[Newton's Cradle]] (1, 8)
