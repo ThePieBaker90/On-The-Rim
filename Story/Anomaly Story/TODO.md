@@ -38,6 +38,7 @@ Skip Grav - Volatile Space from weirdwood wand
 Tech Skip - Turn nnormal door into portalllll!
 Fire Chrono - make fire burn faster
 Wild Tech - Arrow rain
+Mind Empath - Link all self effect spells to nearby allies
 
 270 Core Spells
 54 Miscasts
