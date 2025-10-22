@@ -38,3 +38,7 @@ Skip Grav - Volatile Space from weirdwood wand
 Tech Skip - Turn nnormal door into portalllll!
 Fire Chrono - make fire burn faster
 Wild Tech - Arrow rain
+
+270 Core Spells
+54 Miscasts
+702 Potential Cross Path Spells
