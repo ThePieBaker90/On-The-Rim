@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 20
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
 	- An ally within range.
 - **Components**:
@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You dump your neural heat into a willing creature within range. The creature gains $x$ neural heat and you lose $x$ neural heat where $x$ 
+	- You dump your neural heat into a willing creature within range. The creature gains all of your neural heat and you lose all neural heat.
+	- This psycast cannot be used while concentrating on another psycast.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

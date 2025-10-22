@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Neural Heat Transfer]]
+	- [[Neural Heat Transfer]] (20, 0)
 - 2nd Level:
 	- .
 - 3rd Level:
