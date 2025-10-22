@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
-	- 56
+	- 44
 - [[Range]]:
 	- 15ft
 - **Target**:
