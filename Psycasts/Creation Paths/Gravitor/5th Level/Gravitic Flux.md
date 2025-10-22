@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 5th-Level
+  - Gravitor
+---
+- **Path**:
+	- 5th Level [[Gravitor Psycasts|Gravitor Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- 50ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 1 turn.
+- **Effects**:
+	- You create a cylinder of upwards gravity centered on a point within range. The cylinder has a 15ft radius and 35ft height. All creatures within the cylinder must make a Constitution saving throw. On a failure they are lifted into the air. On a success nothing happens. At the beginning of the casters next turn all creatures held in the air are slammed into the ground, taking 1d12 bludgeoning damage per 10ft of height.
+		- While in the air, creatures without a flying speed cannot move. Creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
+		- If the psycast ends prematurely, all creatures in the air fall, taking 1d6 bludgeoning damage per 10ft of height.
+- **Upcasting:**
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
