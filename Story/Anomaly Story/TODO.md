@@ -36,4 +36,5 @@ Mind Illusion Spell - Implant Fake Memories
 Chrono Spell - Bring someone to the brink of death and bring back to paralyze temp
 Skip Grav - Volatile Space from weirdwood wand
 Tech Skip - Turn nnormal door into portalllll!
-
+Fire Chrono - make fire burn faster
+Wild Tech - Arrow rain
