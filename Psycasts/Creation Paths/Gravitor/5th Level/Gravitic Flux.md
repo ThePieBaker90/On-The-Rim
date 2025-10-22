@@ -25,4 +25,4 @@ tags:
 		- While in the air, creatures without a flying speed cannot move. Creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
 		- If the psycast ends prematurely, all creatures in the air fall, taking 1d6 bludgeoning damage per 10ft of height.
 - **Upcasting:**
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the cylinder's height increases by 10ft.

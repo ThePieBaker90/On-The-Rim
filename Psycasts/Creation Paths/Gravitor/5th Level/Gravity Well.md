@@ -7,20 +7,22 @@ tags:
 - **Path**:
 	- 5th Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 10
 - **[[Neural Heat]] Generation:**
-	- .
+	- 44
 - [[Range]]:
-	- .
+	- 30ft
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Gesture
 - **Duration**:
-	- .
+	- 3 turns.
 - **Effects**:
-	- .
+	- You create a temporary gravity well at a point within range. All creatures starting their turn within 20ft of the point must make a Constitution saving throw. On a failure they are moved to the point and lose all movement. On a success, nothing happens.
+		- If the point is obstructed, the creature moves as close to the point as possible.
+		- The gravity well dissipates when the psycast ends.
 - **Upcasting:**
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

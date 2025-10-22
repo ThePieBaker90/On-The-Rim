@@ -22,7 +22,7 @@ aliases:
 	- [[Implosion]] (3, 44)
 - 5th Level:
 	- [[Gravitic Flux]] (10, 50)
-	- [[Gravity Well]]
+	- [[Gravity Well]] (10, 44)
 ## Miscasts
 - Level 1 Miscast - .
 	- .
