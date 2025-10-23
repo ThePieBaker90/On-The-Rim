@@ -12,7 +12,7 @@ aliases:
 	- [[Guide]] (4, 0)
 	- [[Neural Heat Transfer]] (20, 0)
 - 2nd Level:
-	- [[Countercast]] (, )
+	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
 - 3rd Level:
 	- Madness Psycast
