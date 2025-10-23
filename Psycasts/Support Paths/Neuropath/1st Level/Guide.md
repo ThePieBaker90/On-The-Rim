@@ -9,7 +9,7 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 20
+	- 4
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
@@ -19,10 +19,8 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Instant.
+	- 1 turn.
 - **Effects**:
-	- You dump your neural heat into a willing creature within range. The creature gains all of your neural heat and you lose all neural heat. The target creature also gains [[Psy Sapped]] for 1 turn.
-	- This psycast cannot be used while concentrating on another psycast.
-	- You cannot target yourself with this psycast
+	- You grant an ally within range the ability to add 1d4 to one ability check of its choice made during the psycast.
 - **Upcasting**:
 	- You cannot upcast this psycast.

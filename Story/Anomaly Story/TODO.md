@@ -34,9 +34,10 @@ Hypersmart Weapon 1/4
 
 Mind Illusion Spell - Implant Fake Memories
 Chrono Spell - Bring someone to the brink of death and bring back to paralyze temp
-Skip Grav - Volatile Space from weirdwood wand
-Tech Skip - Turn nnormal door into portalllll!
+Skip Gravity - Volatile Space from weird wood wand
+Tech Skip - Turn normal door into portal!
 Fire Chrono - make fire burn faster
+Poison Chrono - all poison stacks occur at once
 Wild Tech - Arrow rain
 Mind Empath - Link all self effect spells to nearby allies
 

@@ -10,10 +10,10 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Neural Heat Transfer]] (20, 0)
-	- Guidance Psycast
+	- [[Guide]] (4, 0)
 - 2nd Level:
-	- Ward Psycast
-	- Psychic Shock Psycast
+	- [[Psychic Ward]] (5, 22)
+	- Counterspell Psycast
 - 3rd Level:
 	- Madness Psycast
 	- Siphon Psyfocus Psycast

@@ -6,7 +6,7 @@ tags:
 - A creature who has gone cyberpsycho has the following changes:
 	- Loses concentration on all psycasts.
 	- Must make a melee/ranged attack on the nearest creature on each of its turns.
-	- Immune to [[Mind-Shattering Pain]] and Charmed
+	- Immune to [[Mind-Shattering Pain]] and [[Charmed]].
 - A creature who is cyberpsycho can lose the condition 1 of 3 ways:
 	- Falling unconscious.
 	- 1 minute passing since the start of going cyberpsycho.
