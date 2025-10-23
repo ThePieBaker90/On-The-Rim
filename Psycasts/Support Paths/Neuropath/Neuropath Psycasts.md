@@ -9,11 +9,11 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Neural Heat Transfer]] (20, 0)
 	- [[Guide]] (4, 0)
+	- [[Neural Heat Transfer]] (20, 0)
 - 2nd Level:
+	- [[Countercast]] (, )
 	- [[Psychic Ward]] (5, 22)
-	- Counterspell Psycast
 - 3rd Level:
 	- Madness Psycast
 	- Siphon Psyfocus Psycast
