@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 25 (25)
+- [[Range]]:
+	- 55ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Concentration, up to 3 turns.
+- **Effects**:
+	- You siphon psyfocus from a creature within range. The creature must make a Wisdom saving throw when this psycast is cast and at the beginning of each of your subsequent turns during the duration of this psycast. On a failure, the creature loses 20 psyfocus and you gain 20 psyfocus. On a success, the psycast ends.
+		-  A creature who has 20 psyfocus or less automatically succeeds the saving throw.
+- **Upcasting**:
+	- You cannot upcast this psycast.

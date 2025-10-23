@@ -2,28 +2,25 @@
 tags:
   - Psycast
   - Neuropath
-  - 2nd-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
+	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take in response to a psycast being cast.
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
-	- 28
+	- 37 (22)
 - [[Range]]:
-	- 150ft
+	- 100ft
 - **Target**:
-	- A creature within range currently casting a psycast.
+	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Instant.
+	- Concentration, up to 10 turns.
 - **Effects**:
-	- As a reaction to a psycast being cast, you attempt to interrupt the caster. The caster must make a Wisdom saving throw. On a failure, their psycast is cancelled. On a success, nothing happens.
-		- The caster must still pay relevant costs if interrupted.
-			- They do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if their psycast was interrupted.
-		- You may only interrupt psycasts of 1st level and 2nd level.
+	- You attempt to psionically drive a creature within range into a violent rage. They must make a Wisdom saving throw. On a failure, they gain [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of their turns. On a success, the psycast ends.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, you may interrupt a psycast of 1 level higher.
+	- You cannot upcast this psycast.

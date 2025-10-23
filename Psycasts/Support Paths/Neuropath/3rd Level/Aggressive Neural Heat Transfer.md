@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- .
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You dump your neural heat into a creature within range. The creature gains all of your neural heat and you lose all neural heat. The target creature also gains [[Psy Sapped]] for 1 turn.
+	- This psycast cannot be used while concentrating on another psycast.
+	- You cannot target yourself with this psycast
+- **Upcasting**:
+	- You cannot upcast this psycast.

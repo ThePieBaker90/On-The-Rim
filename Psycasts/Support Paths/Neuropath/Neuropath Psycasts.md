@@ -15,8 +15,8 @@ aliases:
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
 - 3rd Level:
-	- Madness Psycast
-	- Siphon Psyfocus Psycast
+	- [[Berserk]] (4, 37)
+	- [[Siphon Psyfocus]] (5, 25)
 	- Forceful Neural Heat Transfer
 - 4th Level:
 	- Neural Heat Explosion Psycast

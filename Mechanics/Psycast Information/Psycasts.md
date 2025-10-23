@@ -20,7 +20,7 @@ aliases:
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time
 	- Creation Paths
-		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Manipulation Abomination Goo
+		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Abomination Goo Manipulation
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
 		- [[Gravitor Psycasts|Gravitor]] - Force Creation and Energy Manipulation
 		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
@@ -50,7 +50,8 @@ aliases:
 	- Kinetic components require the psycaster have one free hand.
 		- Gesture components require the psycaster have two free hands.
 	- Verbal components require the psycaster to be able to speak.
-	- Material components require the psycaster have the materials within their inventory, these materials are not consumed unless explicitly stated. 
+	- Material components require that the psycaster has the listed items within their inventory, these items are not consumed unless explicitly stated.
+	- Focus components require that the psycaster has the listed items equipped, these items are not consumed unless explicitly stated.
 - Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
 	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
 	- If you are hit while concentrating on a psycast you must make a saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. Your modifier for this roll is your psycasting modifier.
