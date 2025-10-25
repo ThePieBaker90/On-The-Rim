@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Berserk]] (4, 37)
 	- [[Siphon Psyfocus]] (5, 25)
-	- Forceful Neural Heat Transfer
+	- [[Aggressive Neural Heat Transfer]] (30, 0)
 - 4th Level:
 	- Neural Heat Explosion Psycast
 	- Single Target High Damage Psycast (3, 44)

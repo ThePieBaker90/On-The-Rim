@@ -7,21 +7,21 @@ tags:
 - **Path**:
 	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 30
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- 25ft
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You dump your neural heat into a creature within range. The creature gains all of your neural heat and you lose all neural heat. The target creature also gains [[Psy Sapped]] for 1 turn.
+	- You dump your neural heat into a creature within range. The creature must make a Wisdom saving throw. On a failure they gain all of your neural heat and you lose all neural heat. On a success, nothing happens.
 	- This psycast cannot be used while concentrating on another psycast.
 	- You cannot target yourself with this psycast
 - **Upcasting**:
