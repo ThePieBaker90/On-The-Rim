@@ -1,11 +1,16 @@
-* Marksman
-  * +level to hit on first hit roll per turn (if doing levels)
-* Designated target
-  * Use an action to mark a target. Gets advantage on all attacks against said target. Allies get +level to hit against that target as well (higher level ability? Limited duration effect?)
-* Steady shot
-	* While Braced, ignore disadvantage from extreme ranges
- * Optimal Range
- 	* Advantage on targets within upper 10ft of optimal range bracket (that is, 0-10 closer than second range value)
+## Sharpshooter
+* **Stat Changes:**
+* Large increase to dex. Medium point buy.
+* **Passives:**
+	* Marksman
+  		* +level to hit on first hit roll per turn (if doing levels)
+   	* Steady shot
+		* While Braced, ignore disadvantage from extreme ranges
+ 	* Optimal Range
+ 		* Advantage on targets within upper 10ft of optimal range bracket (that is, 0-10 closer than second range value)
+* **Abilities:**
+	* Designated target
+  		* Use an action to mark a target. Gets advantage on all attacks against said target. Allies get +level to hit against that target as well (higher level ability? Limited duration effect?)
+	
 
 Prolly could use a couple more abilities and stuff 
-Medium bonus to dex, medium point buy
