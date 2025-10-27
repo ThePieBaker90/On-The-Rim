@@ -16,7 +16,7 @@ tags:
 - **Damage**:
 	- 1d4+ Dex piercing
 - [[**Rate of Fire**]]:
-	- 1
+	- 2
 - **Armour Penetration**:
  	- 0
 - **Properties**:
