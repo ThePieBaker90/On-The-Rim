@@ -1,5 +1,6 @@
  ## **Commander**
-
+**Stat changes**
+* Large increase to int. Small increase to wis or cha. small point buy. 
 **Passives**
 - Combat preparedness. Add Int to initiative rolls
 - Commanding Presence. Allies within 10ftare granted one of the following bonuses, which can be changed as a free action once on your turn.
@@ -36,6 +37,3 @@ D12- 5CP
 * For Tactical Reassesment- if the new roll is 5+ more than the first one.
 * For Rally- if the temporary hitpoints are lost before your next turn (from damage absorbed).
 * Decisive Moment- if the combat ends before your next turn.
-
-
-Medium increase to int. Small increase to wis or cha. small point buy.
