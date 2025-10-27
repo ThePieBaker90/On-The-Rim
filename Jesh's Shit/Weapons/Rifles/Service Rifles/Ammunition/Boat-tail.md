@@ -3,8 +3,8 @@ tags:
 - Ammunition
 ---
 -  **Properties:**
-  - +10ft to ideal maximum range
-  - +20ft to absolute maximum range
+    - +10ft to ideal maximum range
+    - +20ft to absolute maximum range
 - **Cost:**
   - 5 for 1 credit
 -  **Description:**
