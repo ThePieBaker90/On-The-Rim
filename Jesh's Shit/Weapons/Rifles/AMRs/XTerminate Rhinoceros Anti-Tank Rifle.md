@@ -17,7 +17,7 @@ tags:
 * [[Rate of Fire]]:
 	* 0.5
 * **Armour Penetration**
-  * AP 5  
+  * AP 16  
 * **Properties**:
 	* Martial
 	* [[Ammunition:]] 3
