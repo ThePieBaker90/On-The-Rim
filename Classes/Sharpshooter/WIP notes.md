@@ -1,6 +1,6 @@
 ## Sharpshooter
 * **Stat Changes:**
-* Large increase to dex. Medium point buy.
+	* Large increase to dex. Medium point buy.
 * **Passives:**
 	* Marksman
   		* +level to hit on first hit roll per turn (if doing levels)
