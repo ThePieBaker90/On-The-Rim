@@ -1,7 +1,6 @@
 ## **Assaulter**
 **Stat changes**
 * Med. increase to con, str, hp, small point buy
-* 
 **Abilities**
 * Adrenaline boost
   * Consumable
