@@ -36,6 +36,6 @@ tags:
 * **Value**:
 	* 120 credits
 * **Lore:**
-  * A monstrous rifle, nearly twice the size of a standard sniper rifle. While advertized as an "anti-tank rifle" users will be hard-pressed to find a tank it can penetrate. Experts categorize the Rhinoceros as an anti-materiel rifle.
+  * A monstrous rifle, nearly twice the size of a standard sniper rifle. While advertized as an "anti-tank rifle" users will be hard-pressed to find a tank it can penetrate without specialized ammunition. Experts categorize the Rhinoceros as an anti-materiel rifle.
 * **Looks**:
 	* A stock Snipex Alligator with magnifying scope.
