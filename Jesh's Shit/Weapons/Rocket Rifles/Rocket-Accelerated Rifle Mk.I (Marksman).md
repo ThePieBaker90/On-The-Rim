@@ -29,8 +29,7 @@ tags:
   	- Special
 - **Special**:
     -  Ballistic Optics
-      - While Braced, you may take the Aim action.
-      - This will halve to-hit detriments for your next shot with this weapon so long as you do not lose Braced.
+      - While Braced, halve to-hit detriments with this weapon.
 - **Value**:
 	- 240 credits
 - **Lore**
