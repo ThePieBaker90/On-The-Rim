@@ -16,13 +16,13 @@ tags:
 - **Damage**:
 	- 1d4+ Dex piercing
 - [[**Rate of Fire**]]:
-	- 2
+	- 3
 - **Armour Penetration**:
- 	- 0
+ 	- 1
 - **Properties**:
   	- Martial
 	  - [[Ammunition]](12)
-		- [[Reload]](Bonus Action, Full)
+		- [[Reload]](Action, Full)
 		- Two-Handed
   	- Special Ammunition
   	- Unjammable
