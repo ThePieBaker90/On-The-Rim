@@ -8,3 +8,4 @@
  	* Advantage on targets within upper 10ft of optimal range bracket (that is, 0-10 closer than second range value)
 
 Prolly could use a couple more abilities and stuff 
+Medium bonus to dex, medium point buy
