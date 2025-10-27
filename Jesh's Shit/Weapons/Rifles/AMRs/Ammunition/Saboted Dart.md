@@ -3,7 +3,7 @@ tags:
 - Ammunition 
 - sorry I'm trying to get this out fast can you please add tags
 ---
-* +2 AP
+* +5 AP
 * -1D8 damage 
 
 **Description**
