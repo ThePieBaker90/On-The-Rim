@@ -15,5 +15,5 @@ tags:
     - When doing so, roll a DC 8 dex check with disadvantage. On a fail, fall prone. 
 - **Value:**
 	- 150 credits
-- **Lore:
+- **Lore:**
 	- A pair of heavy, sturdy boots, each equipped with a small heel-mounted compartment for a single shotgun shell, which can be detonated with a sharp kick. Intended as a replacement for conventional breaching shotguns for law enforcement or special forces. More often worn as a fashion statement by thugs and gangsters.
