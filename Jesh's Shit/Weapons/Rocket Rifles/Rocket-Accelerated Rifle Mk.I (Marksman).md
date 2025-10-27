@@ -22,7 +22,7 @@ tags:
 - **Properties**:
   	- Martial
 	  - [[Ammunition]](12)
-		- [[Reload]](Bonus Action, Full)
+		- [[Reload]](Action, Full)
 		- Two-Handed
   	- Special Ammunition
   	- Unjammable
