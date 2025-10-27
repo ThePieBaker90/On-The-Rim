@@ -8,4 +8,4 @@ tags:
 - **Cost:**
   - 5 for 1 credit
 -  **Description:**
-  - Special round with a boat-tailed rear for improved aerodynamics, increasing maximum range 
+    - Special round with a boat-tailed rear for improved aerodynamics, increasing maximum range 
