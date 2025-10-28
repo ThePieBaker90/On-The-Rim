@@ -6,7 +6,7 @@ tags:
 ---
 - __Type of Armor__:
 	* Medium Armor
-- * __Armor Class__:
+- __Armor Class__:
 	* +7
 * __Evade Class:__
 	* Max 8 or -2, whichever is lower

@@ -12,11 +12,11 @@ tags:
 * [[Efficiency]] Effects:
 	* N/A
 * Cost:
-	* 500 credits
+	* 750 credits
 * [[Cybercost]]:
 	* 2
 * Abilities:
-	* The user gets +1 to all psycast attack rolls and saving throw DCs of their sorcerer spells.
-	* Anytime the user rolls any hit dice to recover hit points, they may regain 5 sorcery points. This property may only be used once per long rest.
+	* The user gets +1 to their psycasting ability modifier and psycast save DC.
+	* The user has an additional 1 [[Neural Heat]] loss per turn.
 * Looks:
 	* A pinkish spine made out of artificial bone with red-colored [[Materials/Eltex|Eltex]] shards imbedded within.
