@@ -19,10 +19,10 @@ aliases:
 	- [[Siphon Psyfocus]] (5, 25)
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
 - 4th Level:
-	- Neural Heat Explosion Psycast
-	- Single Target High Damage Psycast (3, 44)
+	- [[Neural Overload]] (3, 44)
+	- Single Target High Damage Psycast 
 - 5th Level:
-	- 
+	- Psy Stun
 ## Miscasts
 - Level 1 Miscast - .
 	- .
