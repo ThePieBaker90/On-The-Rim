@@ -13,11 +13,11 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Berserk]] (4, 37)
 - 4th Level:
 	- .
 - 5th Level:
-	- .
+	- Neuroquake
 ## Miscasts
 - Level 1 Miscast - .
 	- .
