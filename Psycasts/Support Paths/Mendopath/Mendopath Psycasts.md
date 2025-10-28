@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- [[Rejuvenating Drink]] (19,16) ([[Aquator Psycasts|Aquator]])
+	- [[Rejuvenating Drink]] (19, 16) ([[Aquator Psycasts|Aquator]])
 - 4th Level:
 	- .
 - 5th Level:

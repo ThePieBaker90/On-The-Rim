@@ -13,6 +13,7 @@ aliases:
 	- [[Guide]] (4, 0)
 	- [[Neural Heat Transfer]] (20, 0)
 - 2nd Level:
+	- [[Berserk]] (4, 37)
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
 - 3rd Level:
@@ -20,14 +21,13 @@ aliases:
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
 - 4th Level:
 	- [[Neural Overload]] (3, 44)
-	- Single Target High Damage Psycast 
 - 5th Level:
-	- Psy Stun
+	- [[Ritual of Wrath]] (90, 0)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Neural Overheat
+	- You gain [[Neural Overheat]] for 3 turns.
+- Level 2 Miscast - Psyfocus Drain
+	- Your lose psyfocus equal to 10% of your maximum psyfocus (rounded down).
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

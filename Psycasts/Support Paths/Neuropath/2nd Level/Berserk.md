@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - 3rd-Level
-  - Empath
+  - 2nd-Level
+  - Neuropath
 ---
 - **Path**:
-	- 3rd Level [[Empath Psycasts|Empath Psycast]]
+	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

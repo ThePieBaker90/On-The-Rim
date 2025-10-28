@@ -6,10 +6,10 @@ Anytime you cast a psycast that would put you over your neural heat limit, you m
 
 | 1d100    | Effect                                                                                             | % Chance |
 | -------- | -------------------------------------------------------------------------------------------------- | -------- |
-| 1        | Caster gains the [[Psychic Stun]] condition for 1 hour                                             | 1%       |
-| 2 - 3    | Caster gains the [[Psychic Stun]] condition for 5 turns                                            | 2%       |
-| 4 - 6    | Caster gains the [[Psychic Stun]] condition for 3 turns                                            | 3%       |
-| 7 - 10   | Caster gains the [[Psychic Stun]] condition for 1 turn                                             | 4%       |
+| 1        | Caster gains the [[Conditions/Special Conditions/Psychic Stun\|Psychic Stun]] condition for 1 hour | 1%       |
+| 2 - 3    | Caster gains the [[Conditions/Special Conditions/Psychic Stun\|Psychic Stun]] condition for 5 turns              | 2%       |
+| 4 - 6    | Caster gains the [[Conditions/Special Conditions/Psychic Stun\|Psychic Stun]] condition for 3 turns              | 3%       |
+| 7 - 10   | Caster gains the [[Conditions/Special Conditions/Psychic Stun\|Psychic Stun]] condition for 1 turn               | 4%       |
 | 11 - 25  | Cast Level 2 Miscast of the same path as the original psycast.                                     | 15%      |
 | 26 - 50  | Cast Level 1 Miscast of the same path as the original psycast.                                     | 25%      |
 | 51 - 95  | No Effect                                                                                          | 45%      |

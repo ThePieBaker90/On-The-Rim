@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- [[Rejuvenating Drink]] (19,16) ([[Mendopath Psycasts|Mendopath]])
+	- [[Rejuvenating Drink]] (19, 16) ([[Mendopath Psycasts|Mendopath]])
 - 4th Level:
 	- [[Call Acid Rain]] (58, 0) ([[Chemlord Psycasts|Chemlord]])
 	- [[Call Blizzard]] (58, 0) ([[Frostlord Psycasts|Frostlord]])
