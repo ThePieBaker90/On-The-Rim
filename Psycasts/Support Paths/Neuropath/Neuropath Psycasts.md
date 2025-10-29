@@ -20,7 +20,7 @@ aliases:
 - 4th Level:
 	- [[Neural Overload]] (3, 44)
 - 5th Level:
-	- 
+	- [[Neurocast]] (15, 0)
 ## Miscasts
 - Level 1 Miscast - Neural Overheat
 	- You gain [[Neural Overheat]] for 3 turns.

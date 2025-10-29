@@ -3,13 +3,13 @@ tags:
   - Info
   - Mortilord
 aliases:
-  - Mortilord Psycasts
+  - Mortilord Psycast
   - Mortilord
 ---
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Bursting Sinew]]
 - 2nd Level:
 	- .
 - 3rd Level:

@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Mortilord
+---
+- **Path**:
+	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- 60ft
+- **Target**:
+	- A corpse with a skeletal system within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You explode a corpse's skeletal system, all creatures within 10ft of the corpse must make a dexterity saving throw. On a failure, they take 1d12 piercing damage. On a success, nothing happens.
+	- Corpses targeted by this psycast have their skeletal system destroyed.
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage increases by . piercing damage.
