@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Neuropath
   - 5th-Level
+  - Empath
 ---
 - **Path**:
-	- 5th Level [[Neuropath Psycasts|Neuropath Psycast]]
+	- 5th Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
 	- 1 Minute.
 - **[[Psyfocus]] Cost:**

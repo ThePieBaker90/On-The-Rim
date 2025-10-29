@@ -9,15 +9,15 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Guide]] (4, 0)
 - 2nd Level:
-	- .
-- 3rd Level:
 	- [[Berserk]] (4, 37)
+- 3rd Level:
+	- 
 - 4th Level:
 	- .
 - 5th Level:
-	- Neuroquake
+	- [[Ritual of Wrath]] (90, 0)
 ## Miscasts
 - Level 1 Miscast - .
 	- .

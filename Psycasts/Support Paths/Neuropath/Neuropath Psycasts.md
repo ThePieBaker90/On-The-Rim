@@ -10,10 +10,8 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Brain Spike]] (3, 32)
-	- [[Guide]] (4, 0)
 	- [[Neural Heat Transfer]] (20, 0)
 - 2nd Level:
-	- [[Berserk]] (4, 37)
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
 - 3rd Level:
@@ -22,7 +20,7 @@ aliases:
 - 4th Level:
 	- [[Neural Overload]] (3, 44)
 - 5th Level:
-	- [[Ritual of Wrath]] (90, 0)
+	- 
 ## Miscasts
 - Level 1 Miscast - Neural Overheat
 	- You gain [[Neural Overheat]] for 3 turns.
