@@ -9,9 +9,9 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Bursting Sinew]]
+	- [[Bursting Sinew]] (1, 10)
 - 2nd Level:
-	- .
+	- [[Touch of Wounding]] (4, 21)
 - 3rd Level:
 	- .
 - 4th Level:

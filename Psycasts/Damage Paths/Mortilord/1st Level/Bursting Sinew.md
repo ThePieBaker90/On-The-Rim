@@ -9,9 +9,9 @@ tags:
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 1
 - **[[Neural Heat]] Generation:**
-	- .
+	- 10
 - [[Range]]:
 	- 60ft
 - **Target**:
@@ -24,4 +24,4 @@ tags:
 	- You explode a corpse's skeletal system, all creatures within 10ft of the corpse must make a dexterity saving throw. On a failure, they take 1d12 piercing damage. On a success, nothing happens.
 	- Corpses targeted by this psycast have their skeletal system destroyed.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage increases by . piercing damage.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 piercing damage.
