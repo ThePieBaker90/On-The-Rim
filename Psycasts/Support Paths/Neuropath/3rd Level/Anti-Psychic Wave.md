@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 13
+- **[[Neural Heat]] Generation:**
+	- 36
+- [[Range]]:
+	- 100ft
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You create an anti-psychic wave to interrupt all psycasts currently in progress. For every psycast within range, its caster must make a Wisdom saving throw. On a failure, their psycast is interrupted and ends prematurely. On a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast. 

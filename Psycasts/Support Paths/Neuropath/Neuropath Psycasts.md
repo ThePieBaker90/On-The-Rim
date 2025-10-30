@@ -12,11 +12,13 @@ aliases:
 	- [[Brain Spike]] (3, 32)
 	- [[Neural Heat Transfer]] (20, 0)
 - 2nd Level:
+	- [[Carter's Neural Cooling]] (10, 0)
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
 - 3rd Level:
-	- [[Siphon Psyfocus]] (5, 25)
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
+	- [[Anti-Psychic Wave]] (13, 36)
+	- [[Siphon Psyfocus]] (5, 25)
 - 4th Level:
 	- [[Neural Overload]] (3, 44)
 - 5th Level:
