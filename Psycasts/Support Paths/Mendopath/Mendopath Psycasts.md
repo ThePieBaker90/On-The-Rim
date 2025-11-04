@@ -21,7 +21,7 @@ aliases:
 	- [[Healing Nova]] (3, 44)
 	- [[Healing Tempo]] (40, 0)
 - 5th Level:
-	- [[Reactive Heal]] (25, 40)
+	- [[Death Defy]] (25, 40)
 	- [[Restore]] (90, 45)
 ## Miscasts
 - Level 1 Miscast - Wrongful Heal

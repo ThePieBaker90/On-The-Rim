@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Minute.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A corpse within range.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You cannot upcast this psycast.

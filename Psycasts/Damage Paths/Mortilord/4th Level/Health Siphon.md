@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You siphon the health from all creatures within a cone in front of you. All creatures in the cone must make a Constitution saving throw. On a failure, they take 3d12 necrotic damage. On a success, they take half damage. You then heal 25% of the total damage done with this psycast.
+	- You siphon the health from all creatures within a cone in front of you. All creatures in the cone must make a Constitution saving throw. On a failure, they take 3d12 necrotic damage. On a success, they take half damage. You then heal 25% of the total damage done with this psycast (rounded up).
 - **Upcasting**:
 	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the psycast deals an additional 1d12 necrotic damage on a failed save.

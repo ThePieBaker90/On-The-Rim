@@ -7,10 +7,6 @@ aliases:
   - Mortilord
 ---
 *todo.*
-[[Healbane]]
-[[Wither]]
-[[Weakness]]
-[[Antiheal]]
 ## Core Psycasts
 - 1st Level:
 	- [[Bursting Bile]] (1, 14)
@@ -19,14 +15,14 @@ aliases:
 	- [[Touch of Wounding]] (4, 21)
 	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
-	- Drain Vitality
+	- [[Biotic Drain]] (5, 28)
 	- [[Enthrall]] (10, 22)
-	- [[Health Drain]] (5, 28)
+	- [[Weakening Ray]] (3, 28)
 - 4th Level:
-	- [[Mass Health Siphon]] (3, 44)
-	- Withering Ray
+	- [[Decay]] (4, 37)
+	- [[Health Siphon]] (3, 44)
 - 5th Level:
-	- Revivify equivalent
+	- [[Reanimate]] 
 ## Miscasts
 - Level 1 Miscast - .
 	- .

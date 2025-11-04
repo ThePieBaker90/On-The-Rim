@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 120ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You shoot a weakening ray at a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature gains [[Weakness]] and [[Healbane]] for 2 turns and takes 2d8 + 2 necrotic damage
+- **Upcasting**:
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the ray deals an additional 1d8 necrotic damage

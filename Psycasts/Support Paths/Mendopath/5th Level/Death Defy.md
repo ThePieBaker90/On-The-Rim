@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 2 turns.
 - **Effects**
-	- You give a creature within reactive healing. During the psycast duration, if the target creature's hit points drops to 0, the following effects occur:
+	- You give a creature within range the ability to defy death once. During the psycast duration, if the target creature's hit points drops to 0, the following effects occur:
 		- They heal 2d12 health, this ignores healing reductions and negations.
 		- They ignore the effects of dropping to 0 hit points.
 		- The caster loses concentration on the psycast.

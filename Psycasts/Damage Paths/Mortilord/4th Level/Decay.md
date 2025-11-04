@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 37
+- [[Range]]:
+	- 20ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- You rot a creature from the inside. The creature must make a Constitution saving throw. On a failure they gain [[Weakness]], [[Antiheal]], [[Healbane]], and [[Wither]] for the duration of the psycast. On a success, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
