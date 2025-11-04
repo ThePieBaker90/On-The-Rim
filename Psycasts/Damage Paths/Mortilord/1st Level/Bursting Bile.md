@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Mortilord
+---
+- **Path**:
+	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 14
+- [[Range]]:
+	- 60ft
+- **Target**:
+	- A corpse within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You explode a corpses bile, all creatures within 10ft of the corpse must make a dexterity saving throw. On a failure, they take 1d12 necrotic damage and gain [[Wither]] for 1 turn. On a success, nothing happens.
+	- Corpses targeted by this psycast cannot be targeted by this psycast again.
+	- This psycast can be cast on a [[Medium Shambler|Shambler]] you created with no [[Neural Heat]] cost.
+		- This kills the [[Medium Shambler|Shambler]] instantly.
+- **Upcasting**:
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 necrotic damage.

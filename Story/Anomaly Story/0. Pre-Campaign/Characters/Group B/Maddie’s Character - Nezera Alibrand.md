@@ -95,7 +95,7 @@ While in emotional distress, Nezera is prone to imbuing all attacks with fire an
 - Fire Bolt - Evocation Cantrip - PH 242
 - Acid Splash - Conjuration Cantrip - PH 211
 - Prestigitation - Transmutation Cantrip - PH 267
-- [[Bursting Sinew]] - Necromancy Cantrip OtR
+- [[Bursting Bile]] - Necromancy Cantrip OtR
 - Minor Illusion - Illusion Cantrip - PH 260
 - Burning Hands - 1st Level Evocation - PH 220
 - Fog Cloud - 1st Level Conjuration - PH 243

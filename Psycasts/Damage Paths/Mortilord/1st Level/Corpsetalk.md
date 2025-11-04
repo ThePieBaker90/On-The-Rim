@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Mortilord
+---
+- **Path**:
+	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- A corpse within range.
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You cannot upcast this psycast.

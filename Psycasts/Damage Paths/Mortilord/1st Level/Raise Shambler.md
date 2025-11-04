@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A humanoid corpse within range.
 - **Components**:
-	- Kinetic, Material (A humanoid corpse)
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
