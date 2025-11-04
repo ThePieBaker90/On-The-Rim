@@ -25,10 +25,10 @@ tags:
 		- +10ft of movement speed.
 		- Dash may be used as a bonus action.
 		- Floors you move over are set on fire in a 2.5ft circle around you. Creatures who start their turn on the fire, end their turn on the fire, or move through the fire must make a Constitution saving throw. On a failure, they take 1d8 fire damage and become [[Burned]] for 1 turn. On a success, nothing happens.
-			- The floors automatically extinguished after 3 turns.
+			- The floors automatically extinguish when the psycast ends.
 			- The fire will not spread unless manually spread by some other effect.
 			- Creatures attempting to jump over the fire make a Dexterity saving throw instead of a Constitution saving throw.
 		- Creatures making a melee attack on you as a reaction take 1d8 fire damage and become [[Burned]] for 1 turn.
-	- You are not affected by your own flames.
+	- You are not affected by your own flames from this psycast.
 - **Upcasting:**
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you apply [[Burned]] for an additional turn.

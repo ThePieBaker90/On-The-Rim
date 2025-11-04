@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Concentration, up to 10 turns.
 - **Effects**:
-	- You attempt to psionically drive a creature within range into a violent rage. They must make a Wisdom saving throw. On a failure, they gain [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of their turns. On a success, the psycast ends.
+	- You attempt to psionically drive a creature within range into a violent rage. They must make a Wisdom saving throw. On a failure, they gain [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of your turns. On a success, the psycast ends.
 - **Upcasting**:
 	- You cannot upcast this psycast.

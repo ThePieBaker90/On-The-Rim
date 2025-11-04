@@ -20,10 +20,10 @@ aliases:
 	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
 	- Drain Vitality
-	- Drain Health
 	- [[Enthrall]] (10, 22)
+	- [[Health Drain]] (5, 28)
 - 4th Level:
-	- Drain Health in an Area
+	- [[Mass Health Siphon]] (3, 44)
 	- Withering Ray
 - 5th Level:
 	- Revivify equivalent

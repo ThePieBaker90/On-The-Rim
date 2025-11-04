@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Mortilord
+---
+- **Path**:
+	- 4th Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A cone originating from the caster with a length of 35ft and a maximum width of 40ft.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You siphon the health from all creatures within a cone in front of you. All creatures in the cone must make a Constitution saving throw. On a failure, they take 3d12 necrotic damage. On a success, they take half damage. You then heal 25% of the total damage done with this psycast.
+- **Upcasting**:
+	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the psycast deals an additional 1d12 necrotic damage on a failed save.
