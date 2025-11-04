@@ -12,6 +12,7 @@ aliases:
 	- [[Bursting Sinew]] (1, 10)
 - 2nd Level:
 	- [[Touch of Wounding]] (4, 21)
+	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
 	- .
 - 4th Level:

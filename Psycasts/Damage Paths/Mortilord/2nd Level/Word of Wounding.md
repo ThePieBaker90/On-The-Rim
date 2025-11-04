@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 23
+- [[Range]]:
+	- 40ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- Instant.
+- **Effects**
+	- You shout a word of harming, target creature within range must make a Constitution saving throw. On a failure, they take 1d10 necrotic damage. On a success, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, this psycast deals an additional 1d10 necrotic damage.
