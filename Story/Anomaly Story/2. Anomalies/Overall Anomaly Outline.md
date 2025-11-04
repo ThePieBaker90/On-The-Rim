@@ -36,7 +36,7 @@ he number of bullets loaded is equal to 1d6+1. 	1. ([[Twisted Obelisk]], [[Warpe
 	1. ([[Blood Rain]], [[Blood Orb]], [[Blood Abomination]], [[Drippler]])
 	2. (Level 8)
 9. [[Deadlife Storm]] 
-	1. ([[Shambler|Shamblers]] & [[Revenant|Revenant]]) 
+	1. ([[Medium Shambler|Shamblers]] & [[Revenant|Revenant]]) 
 	2. (Level 9)
 10. Group Dependent Saving Civilians Incident  ([[Save the Children TODO]],[[Devourer Ambush TODO]])
 	1. ([[Amity Blight]]/[[Edric Blight]]Companion)

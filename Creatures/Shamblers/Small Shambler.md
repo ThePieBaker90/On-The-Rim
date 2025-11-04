@@ -3,47 +3,45 @@ tags:
   - Entity
   - Creature
   - Basic-Entity
+aliases:
 ---
 - **Size**:
-	- Medium
+	- Small
 - **Type**:
 	- Undead
 - **Alignment**:
 	- Neutral Evil
 - **Armor Class**:
-	- 9
+	- 11
 - **Health**:
-	- 105 (14d8+42)
+	-  17 ((8d6+5)/2)
 - **Speed**:
-	- 20ft
+	- 30ft
 - **Ability Scores**:
-	- **STR -** 14(+2)
-	- **DEX -** 6(-2)
-	- **CON -** 16(+3)
-	- **INT -** 3(-4)
-	- **WIS -** 6(-2)
+	- **STR -** 12(+1)
+	- **DEX -** 12(+1)
+	- **CON -** 12(+1)
+	- **INT -** 5(-3)
+	- **WIS -** 5(-3)
 	- **CHA -** 5(-3)
 - **Senses:**
-	- Passive Perception: 8
-	- Darkvision: 10ft
+	- Passive Perception: 5
 - **Languages**:
 	- None
 - **Challenge**:
-	- 1
+	- 1/4
 - **Damage Immunities:**
 	- Poison
 	- Necrotic
 - **Condition Immunities:**
-	- Poisoned
-	- [[Radiation Buildup]]
 	- [[Bleeding]]
 - **Traits**:
 	- [[Reanimated Shambler]]
 - **Actions**:
-	- Slam - 1 Action
-		- _Melee Weapon Attack:_ +2 to hit, reach 5ft, one target. 
-		- _Hit:_ 1d6 + 2 bludgeoning damage
+	- Melee Attack - 1 Action
+		- _Melee Weapon Attack:_ +1 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d6 + 1 bludgeoning damage
 - **Lore**:
 	- *Corpses reanimated by microscopic [[Archites|archites]]. Shamblers are slow, mindless, and will attack relentlessly. Unless captured, shamblers die from metabolic exhaustion after several hours.*
 - **Anomaly**:
-	- Shamblers are created whenever a corpse is touched by [[Deadlife Dust]]. Shamblers always have these stats with the exception of size which is dependent on the corpse's size, and health which is dependent on the size of the new shambler.
+	- Shamblers are created whenever a corpse is touched by [[Deadlife Dust]]. 

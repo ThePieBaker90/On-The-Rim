@@ -33,7 +33,7 @@ Smart Weapons 1/2
 Hypersmart Weapon 1/4
 
 Mind Illusion Spell - Implant Fake Memories
-Chrono Spell - Bring someone to the brink of death and bring back to paralyze temp
+Chrono Mortilord - Bring someone to the brink of death and bring back to paralyze temp
 Skip Gravity - Volatile Space from weird wood wand
 Tech Skip - Turn normal door into portal!
 Fire Chrono - make fire burn faster

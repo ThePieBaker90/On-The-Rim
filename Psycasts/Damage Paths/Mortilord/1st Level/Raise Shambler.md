@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 22
+- [[Range]]:
+	- 10ft
+- **Target**:
+	- A humanoid corpse within range.
+- **Components**:
+	- Kinetic, Material (A humanoid corpse)
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You create a [[Medium Shambler|Shambler]] from a humanoid corpse within range. The corpse reanimates and becomes a [[Medium Shambler|Shambler of matching size]] that automatically chases and attacks enemies.
+	- The [[Medium Shambler|Shambler]] dies from metabolic exhaustion after 1 hour unless restrained.
+- **Upcasting**:
+	- You cannot upcast this psycast.

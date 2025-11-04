@@ -24,7 +24,7 @@ All entities fall into 3 categories; Basic, Advanced, and Ultimate.
 - [[Sightstealer]] (1/4)
 - [[Toughspike]] (1)
 - [[Trispike]] (1/4)
-- [[Shambler]] (1)
+- [[Medium Shambler]] (1)
 - [[Duplicant]] (1)
 **Basic Phenomena:
 - [[Death Pall|Death Pall]] (1)

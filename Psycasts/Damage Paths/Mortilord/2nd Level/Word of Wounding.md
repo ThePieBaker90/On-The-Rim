@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You shout a word of harming, target creature within range must make a Constitution saving throw. On a failure, they take 1d10 necrotic damage. On a success, nothing happens.
+	- You shout a word of harming, target creature within range must make a Constitution saving throw. On a failure, they take 2d6 necrotic damage and gain [[Antiheal]] for 1 turn. On a success, nothing happens.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, this psycast deals an additional 1d10 necrotic damage.

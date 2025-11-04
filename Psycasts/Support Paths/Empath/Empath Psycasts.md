@@ -10,12 +10,13 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Guide]] (4, 0)
+	- Fright
 - 2nd Level:
 	- [[Berserk]] (4, 37)
 - 3rd Level:
-	- 
+	- Pain
 - 4th Level:
-	- .
+	- Group Pain
 - 5th Level:
 	- [[Ritual of Wrath]] (90, 0)
 ## Miscasts
