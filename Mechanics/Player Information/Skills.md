@@ -1,0 +1,30 @@
+---
+tags:
+  - Info
+  - Skill
+---
+All creatures have the following skills
+- Strength
+	- Athletics (STR)
+- Dexterity
+	- Acrobatics (DEX)
+	- Stealth (DEX)
+	- Vehicle (DEX)
+- Intelligence
+	- Crafting (INT)
+	- History (INT)
+	- Ideology (INT)
+	- Investigating (INT)
+	- Nature (INT)
+	- Technical (INT)
+- Wisdom
+	- Animal Handling (WIS)
+	- Insight (WIS)
+	- Medical (WIS)
+	- Perception (WIS)
+	- Survival (WIS)
+- Charisma
+	- Deception (CHA)
+	- Intimidation (CHA)
+	- Performance (CHA)
+	- Persuasion (CHA)
