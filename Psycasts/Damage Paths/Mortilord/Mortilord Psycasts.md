@@ -13,18 +13,18 @@ aliases:
 [[Antiheal]]
 ## Core Psycasts
 - 1st Level:
-	- [[Bursting Bile]] (2, 14)
-	- [[Corpsetalk]] (, )
-	- [[Raise Shambler]] (10, 22)
+	- [[Bursting Bile]] (1, 14)
+	- [[Learn From the Dead]] (25, 0)
 - 2nd Level:
 	- [[Touch of Wounding]] (4, 21)
 	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
 	- Drain Vitality
 	- Drain Health
+	- [[Enthrall]] (10, 22)
 - 4th Level:
 	- Drain Health in an Area
-	- Mass Raise
+	- Withering Ray
 - 5th Level:
 	- Revivify equivalent
 ## Miscasts

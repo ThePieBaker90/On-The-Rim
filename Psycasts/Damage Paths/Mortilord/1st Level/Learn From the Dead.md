@@ -7,20 +7,21 @@ tags:
 - **Path**:
 	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
 - **Casting Time**:
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 25
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
 	- A corpse within range.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- .
+	- 1 Minute.
 - **Effects**:
-	- .
+	- You may psychically ask the target corpse up to 3 questions. The corpse responds telepathically to you with a truthful answer for each question.
+		- A creature must have known information while alive for it to be used in its answer.
 - **Upcasting**:
 	- You cannot upcast this psycast.

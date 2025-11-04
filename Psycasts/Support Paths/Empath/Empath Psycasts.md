@@ -15,6 +15,7 @@ aliases:
 	- [[Berserk]] (4, 37)
 - 3rd Level:
 	- Pain
+	- Detect Thoughts
 - 4th Level:
 	- Group Pain
 - 5th Level:

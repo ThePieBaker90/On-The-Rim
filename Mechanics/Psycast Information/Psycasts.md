@@ -11,14 +11,14 @@ aliases:
 	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This is used for saving throws in psycasts along with checks involving psycasts.
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
-		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Temperature
-		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Chemicals
-		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing
-		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Commanding the Undead TODO
+		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Area Denial
+		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Varied Chemicals
+		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
+		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs TODO
 		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
-		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Damage Over Time
+		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Abomination Goo Manipulation
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather

@@ -2,16 +2,16 @@
 tags:
   - Psycast
   - Mortilord
-  - 1st-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
+	- 3rd Level [[Mortilord Psycasts|Mortilord Psycast]]
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 10
+	- 4
 - **[[Neural Heat]] Generation:**
-	- 22
+	- 17
 - [[Range]]:
 	- 10ft
 - **Target**:
