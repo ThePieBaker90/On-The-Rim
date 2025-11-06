@@ -14,7 +14,7 @@ aliases:
 		- [[Blazelord Psycasts|Blazelord]] - Fire Damage and Area Denial
 		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Varied Chemicals
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
-		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs TODO
+		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs
 		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO

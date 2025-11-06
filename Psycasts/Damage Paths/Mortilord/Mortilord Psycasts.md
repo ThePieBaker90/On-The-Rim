@@ -6,7 +6,7 @@ aliases:
   - Mortilord Psycast
   - Mortilord
 ---
-*todo.*
+*Mortilords specialize in manipulating life force. Most of their psycasts deal necrotic damage and weaken their opponent with debuffs. They can raise the dead, either making them into a [[Medium Shambler|Shambler]] or bringing them back from an untimely death.*
 ## Core Psycasts
 - 1st Level:
 	- [[Bursting Bile]] (1, 14)

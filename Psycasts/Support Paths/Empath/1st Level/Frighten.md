@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Empath
+---
+- **Path**:
+	- 1st Level [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 2 turns.
+- **Effects**:
+	- You attempt to psychically drive a creature within range into a fearful panic. They must make a Wisdom saving throw. On a failure, they gain [[Frightened]] for the psycast duration. On a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast.
