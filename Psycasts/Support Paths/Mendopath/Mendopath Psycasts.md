@@ -36,4 +36,4 @@ aliases:
 - 4th Level:
 	- .
 - 5th Level:
-	- .
+	- [[Resurrect]] (85, 0) ([[Mortilord Psycasts|Mortilord]])

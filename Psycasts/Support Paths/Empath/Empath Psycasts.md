@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Guide]] (4, 0)
-	- Fright
+	- [[Frighten]] (3, 24)
 - 2nd Level:
 	- [[Berserk]] (4, 37)
 - 3rd Level:

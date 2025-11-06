@@ -1,0 +1,34 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 5th-Level
+  - Mendopath
+---
+- **Path**:
+	- 5th Level [[Mortilord Psycasts|Mortilord Psycast]] & [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 85
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 15ft
+- **Target**:
+	- A dead creature within range.
+- **Components**:
+	- Gesture, Material (One of the caster's [[Natural]] [[Hands|Fingers]] which is consumed)
+		- The finger must be attached to the caster.
+		- The caster must have been born with the finger.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You target a dead creature within range that fulfills the following conditions:
+		- They are not suffering any effects preventing resurrection.
+		- They are willing to resurrect.
+	- That creature then suffers the following effects:
+		- They return to life at full health.
+		- All missing body parts are replaced by natural versions.
+- **Upcasting**:
+	- You cannot upcast this psycast.

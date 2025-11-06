@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 24
 - [[Range]]:
-	- .
+	- 60ft
 - **Target**:
 	- A creature within range.
 - **Components**:
