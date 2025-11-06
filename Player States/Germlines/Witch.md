@@ -28,7 +28,7 @@ tags:
 	- [[Darkvision (60ft)]]
 	- [[Charm Resistant]]
 - **Skill Genes:**
-	- [[Dexterous]]
+	- [[Wise]]
 	- [[Knowledgeable]]
 	- [[Keen Senses]]
 

@@ -23,7 +23,7 @@ tags:
 - **Life Genes:**
 	- [[Average Lifespan]]
 - **Ability Genes:**
-	- [[Mask of the Wild]]
+	- [[Nature's Mask]]
 - **Passive Genes:**
 	- [[Darkvision (60ft)]]
 	- [[Charm Resistant]]
@@ -31,5 +31,4 @@ tags:
 	- [[Dexterous]]
 	- [[Sharp]]
 	- [[Keen Senses]]
-	- [[Elf Weapon Training]]
 

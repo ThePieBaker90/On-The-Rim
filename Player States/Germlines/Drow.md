@@ -2,9 +2,9 @@
 tags:
   - Germline
 ---
-*TODO*
+*The Drow are a combination of [[Witch|Witches]] and [[Elf|Elves]]. They possess a natural ability for psycasting and also have a high dexterity. Originally created for underground work, they have a superior darkvision but a sensitivity to sunlight.*
 - **Size:**
-	- Medium, around 6-7ft tall generally
+	- Medium, around 5-6ft tall generally
 - **Speed:**
 	- 30ft
 - **Languages:**
@@ -12,24 +12,24 @@ tags:
 	- Elvish
 - **Cosmetic Genes:**
 	- [[Skin Color]]
-		- .
+		- Varying shades of black
 	- [[Hair Color]]
-		- .
+		- White
 	- [[Body Type]]
-		- .
+		- Average, Muscled, Thin
 	- [[Eye Color]]
-		- .
+		- Lilac, Silver, Pink, Red, Blue
 	- [[Pointy Ears]]
 - **Life Genes:**
 	- [[Average Lifespan]]
 - **Ability Genes:**
-	- TODO (Drow Magic)
+	- [[Natural Psycaster]]
 - **Passive Genes:**
 	- [[Darkvision (120ft)]]
 	- [[Charm Resistant]]
 	- [[Minor UV Sensitivity]]
 - **Skill Genes:**
 	- [[Dexterous]]
-	- [[Charming]]
+	- [[Charismatic]]
 	- [[Keen Senses]]
 
