@@ -7,9 +7,9 @@ tags:
 - **Path**:
 	- 1st Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 5
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
@@ -17,10 +17,10 @@ tags:
 - **Target**:
 	- An ally within range.
 - **Components**:
-	- Kinetic
+	- Verbal
 - **Duration**:
 	- 1 turn.
 - **Effects**:
-	- You grant an ally within range the ability to add 1d4 to one ability check of its choice made during the psycast.
+	- You say a word of guidance to grant an ally within range the ability to add 1d4 to one ability check of its choice for the duration of this psycast.
 - **Upcasting**:
 	- You cannot upcast this psycast.

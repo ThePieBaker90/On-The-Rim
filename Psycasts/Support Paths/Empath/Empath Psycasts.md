@@ -9,15 +9,18 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Guide]] (4, 0)
-	- [[Frighten]] (3, 24)
+	- [[Word of Anger]] (2, 14)
+	- [[Word of Fright]] (6, 24)
+	- [[Word of Guidance]] (5, 0)
 - 2nd Level:
-	- [[Berserk]] (4, 37)
+	- [[Word of Calming]] (5, 20)
+	- [[Word of Friendship]] (14, 0)
+	- [[Word of Madness]] (12, 37)
 - 3rd Level:
 	- Pain
-	- Detect Thoughts
 - 4th Level:
 	- Group Pain
+	- Mind Quick Sand
 - 5th Level:
 	- [[Ritual of Wrath]] (90, 0)
 ## Miscasts

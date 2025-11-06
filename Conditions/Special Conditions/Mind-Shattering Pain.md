@@ -4,7 +4,7 @@ tags:
 ---
 - Mind-Shattering Pain is measured in 8 levels.
 	- An effect can give a creature one or more levels of mind-shattering pain, as specified in the effect’s description. 
-	- Creatures who are immune to psychic damage are not affected by this condition.
+	- Creatures who do not feel pain or are immune to psychic damage are not affected by this condition.
 	- If a creature already suffers from mind-shattering pain and suffers another effect that causes mind-shattering pain, its current level of mind-shattering pain increases by the amount specified in the effect’s description.
 - Mind-Shattering Pain dissipates on its own, 1 level every 1 turn (6 seconds).
 - Mind-Shattering Pain is not capped.

@@ -7,9 +7,9 @@ tags:
 - **Path**:
 	- 2nd Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 12
 - **[[Neural Heat]] Generation:**
 	- 37 (22)
 - [[Range]]:
@@ -17,10 +17,10 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic.
+	- Verbal.
 - **Duration**:
 	- Concentration, up to 10 turns.
 - **Effects**:
-	- You attempt to psychically drive a creature within range into a violent rage. They must make a Wisdom saving throw. On a failure, they gain [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of your turns. On a success, the psycast ends.
+	- You say a word of madness to psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. On a failure, they are sent into a [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of your turns. On a success, the psycast ends.
 - **Upcasting**:
 	- You cannot upcast this psycast.

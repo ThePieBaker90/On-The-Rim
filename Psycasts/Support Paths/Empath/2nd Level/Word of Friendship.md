@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Empath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 14
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 20ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- 1 minute.
+- **Effects**:
+	- You say a friendly word to a non-hostile creature within range. For the duration of the psycast, the creature will act as if you are good friends and you have advantage on Charisma saving throws against this creature. When the psycast ends, the creature will know that you used this psycast on them and may retaliate.
+		- A creature who cannot feel emotions is immune to this effect.
+- **Upcasting**:
+	- You cannot upcast this psycast.

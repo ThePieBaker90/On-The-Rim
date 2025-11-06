@@ -7,9 +7,9 @@ tags:
 - **Path**:
 	- 1st Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- 3
+	- 6
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
@@ -17,10 +17,10 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Verbal
 - **Duration**:
 	- 2 turns.
 - **Effects**:
-	- You attempt to psychically drive a creature within range into a fearful panic. They must make a Wisdom saving throw. On a failure, they gain [[Frightened]] for the psycast duration. On a success, nothing happens.
+	- You say a word of fear to psychically drive a creature within range into a fearful panic, the creature must make a Wisdom saving throw. On a failure, they gain [[Frightened]] for the psycast duration. On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.

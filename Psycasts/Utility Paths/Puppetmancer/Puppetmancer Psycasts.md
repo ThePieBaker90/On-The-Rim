@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- .
 - 2nd Level:
-	- .
+	- Detect Thoughts
 - 3rd Level:
 	- .
 - 4th Level:

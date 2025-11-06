@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You shout a word of healing, a target creature within range immediately heals 1d6+1 health.
+	- You say a word of healing, a target creature within range immediately heals 1d6+1 health.
 - **Upcasting**:
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the target heals an additional 1d6 health.
