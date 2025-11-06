@@ -27,7 +27,7 @@ aliases:
 - Level 1 Miscast - Toxin Overload
 	- Natural toxins present in your body grow in strength, you gain 5 levels of [[Poison Buildup]].
 - Level 2 Miscast - Poison Dissipate
-	- All levels of [[Poison Buildup]] you have applied to creatures in the last 3 rounds are lost. Creatures take 1 poison damage per level removed.
+	- All levels of [[Poison Buildup]] you have applied to creatures in the last 3 turns are lost. Creatures take 1 poison damage per level removed.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

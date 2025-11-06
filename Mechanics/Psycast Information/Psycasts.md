@@ -5,7 +5,6 @@ aliases:
   - Psycast
 ---
 - Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be cast by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters), be it installed, natural, or some other form. 
-- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
 - There are two stats that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
 	- A creature's psycasting ability modifier is determined by their class.
 	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This is used for saving throws in psycasts along with checks involving psycasts.
@@ -44,16 +43,33 @@ aliases:
 	- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a psycast from the same path that is 1 level lower (for example, learning a level 3 psycast requires knowledge of a level 2 psycast). 
 		- Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 	- Some psycasts may be part of multiple paths, a prerequisite psycast from all paths must be known to learn these psycasts.
-- Psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
-	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
+- All psycasts have a casting time, there are two types of casting time; action based and time based. Each type of casting time details how the psycast is cast.
+	- Action based psycasts require the caster to expend the listed action type to cast the psycast (Action, Bonus Action, Reaction). The only way to interrupt these psycasts are with reactions.
+	- Time based psycasts require the caster to be busy with the psycast for the casting time. When the specified time passes, the psycast casts. These can be interrupted with any action.
+- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. 
+	- [[Neural Heat]] rapidly dissipates and limits how many psycasts you can cast in a short time.
+	- [[Psyfocus]] is only regenerated on rest and limits how many psycasts you can cast before having to rest.
+- All psycasts have a range, this is referred to with other properties such as targeting and has no inherent effects on the psycast.
+	- Self range means the psycast has no need for a range or targets the caster.
+- All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated.
+	- "Self" refers to the caster.
+	- "A creature" refers to a creature of the caster's choice.
+	- "A point" refers to a point in space, this doesn't need to be grounded unless explicitly stated.
+	- "Within range" means the target's distance to the caster must be under the psycast's range.
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, and Material
 	- Kinetic components require the psycaster have one free hand.
 		- Gesture components require the psycaster have two free hands.
 	- Verbal components require the psycaster to be able to speak.
 	- Material components require that the psycaster has the listed items within their inventory, these items are not consumed unless explicitly stated.
 	- Focus components require that the psycaster has the listed items equipped, these items are not consumed unless explicitly stated.
-- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
-	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
-	- If you are hit while concentrating on a psycast you must make a saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. Your modifier for this roll is your psycasting modifier.
-	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
-
+- All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. All effects of the psycast end when the specified duration has passed. Effects that explicitly state their duration are not affected by the psycast ending.
+	- Instant psycasts have their effects occur immediately, they have no duration.
+	- $n$ turn psycasts last until the end of the caster's $n$th turn from when the psycast was cast. The turn a psycast is cast is counted as the 1st turn.
+	- time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
+	- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
+		- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
+		- If you are hit while concentrating on a psycast you must make a saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. Your modifier for this roll is your psycasting modifier.
+		- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
+- 
+- Psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
+	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.

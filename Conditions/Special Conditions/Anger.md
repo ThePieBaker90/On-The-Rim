@@ -6,9 +6,9 @@ tags:
 	- An effect can give a creature one or more levels of anger, as specified in the effect’s description. 
 	- Constructs and creatures who do not feel emotion are immune to this condition.
 	- If a creature already suffers from anger and suffers another effect that causes anger, its current level of anger increases by the amount specified in the effect’s description.
-- A creature with anger must make a DC 15 Wisdom saving throw at the beginning of each of their turns. On a success they lose 1 level of anger.
-	- They automatically fail this saving throw if they gained a level of anger this turn.
-	- This saving throw does not trigger effects that would grant one or more levels of anger
+- A creature with anger must make a DC 15 Wisdom saving throw at the beginning of their turn. On a success they lose 1 level of anger.
+	- They automatically fail this saving throw if they gained a level of anger after the start of their last turn.
+	- This saving throw does not trigger effects that would grant one or more levels of anger.
 - Anger is not capped.
 - The additional damage has the type of the highest damage amount of the base attack.
 

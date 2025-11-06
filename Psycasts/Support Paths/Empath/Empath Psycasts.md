@@ -13,11 +13,11 @@ aliases:
 	- [[Word of Fright]] (6, 24)
 	- [[Word of Guidance]] (5, 0)
 - 2nd Level:
-	- [[Word of Calming]] (5, 20)
+	- [[Word of Numbing]] (5, 20)
 	- [[Word of Friendship]] (14, 0)
 	- [[Word of Madness]] (12, 37)
 - 3rd Level:
-	- Pain
+	- [[Word of Pain]]
 - 4th Level:
 	- Group Pain
 	- Mind Quick Sand
