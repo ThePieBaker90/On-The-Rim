@@ -4,7 +4,7 @@ tags:
   - Adventurer
   - Doomed-NPC
 ---
-Female [[Phytokin TODO]] Druid 5 (Circle of the Land) Fighter 5 (Samurai) - Neutral Good 
+Female [[Phytokin]] Druid 5 (Circle of the Land) Fighter 5 (Samurai) - Neutral Good 
 ****
 ## Looks
 - 23 Years Old (1542 Chronologically)

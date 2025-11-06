@@ -22,12 +22,12 @@ aliases:
 	- [[Decay]] (4, 37)
 	- [[Health Siphon]] (3, 44)
 - 5th Level:
-	- [[Reanimate]] 
+	- [[Reanimate]] (85, 0)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Leaking Life
+	- Your life force begins leaking, you take 1d6 + 2 necrotic damage at the beginning of your turn for 3 turns.
+- Level 2 Miscast - Rot
+	- You cast [[Decay]] on yourself. You automatically fail the saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

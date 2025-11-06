@@ -22,7 +22,7 @@ aliases:
 	- [[Healing Tempo]] (40, 0)
 - 5th Level:
 	- [[Death Defy]] (25, 40)
-	- [[Restore]] (90, 45)
+	- [[Restore]] (75, 45)
 ## Miscasts
 - Level 1 Miscast - Wrongful Heal
 	- You heal a random hostile creature within 40ft for 2d6+2 health.

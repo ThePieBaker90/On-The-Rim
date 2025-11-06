@@ -9,18 +9,27 @@ tags:
 - **Casting Time**:
 	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 85
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A corpse within range.
+	- A dead creature within range.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- .
+	- You target a dead creature within range that fulfills the following conditions:
+		- They were alive within the last 5 minutes.
+		- They have no missing body parts that are necessary to live.
+		- They did not die of old age.
+		- They are not suffering any effects preventing resurrection.
+		- They are willing to resurrect.
+	- That creature then suffers the following effects:
+		- They return to life with 1 health.
+		- They have 3 random internal parts gain [[Organ Decay]].
+		- They fall [[Unconscious]] for 1 day.
 - **Upcasting**:
 	- You cannot upcast this psycast.

@@ -1,0 +1,34 @@
+---
+tags:
+  - Germline
+---
+*.*
+- **Size:**
+	- Medium, around 5-6ft tall generally
+- **Speed:**
+	- 30ft
+- **Languages:**
+	- Common
+	- One of choice
+- **Cosmetic Genes:**
+	- [[Skin Color]]
+		- .
+	- [[Hair Color]]
+		- .
+	- [[Body Type]]
+		- .
+	- [[Eye Color]]
+		- .
+- **Life Genes:**
+	- [[Average Lifespan]]
+- **Ability Genes:**
+	- [[Nature's Gift]]
+	- Phytokin Magic
+- **Passive Genes:**
+	- [[Darkvision (60ft)]]
+	- [[Photosynthesis]]
+- **Skill Genes:**
+	- [[Agile]]
+	- [[Sharp]]
+	- [[Green Thumb]]
+

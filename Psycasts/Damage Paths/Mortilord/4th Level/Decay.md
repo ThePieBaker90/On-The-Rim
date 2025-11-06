@@ -21,6 +21,11 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You rot a creature from the inside. The creature must make a Constitution saving throw. On a failure they gain [[Weakness]], [[Antiheal]], [[Healbane]], and [[Wither]] for the duration of the psycast. On a success, nothing happens.
+	- You rot a creature from the inside. The creature must make a Constitution saving throw. On a failure, the creature suffers the following effects for the duration of the psycast:
+		- They take 1d6 + 2 necrotic damage at the beginning of their turn.
+		- They gain [[Weakness]].
+		- They gain [[Antiheal]].
+		- They gain [[Healbane]]. 
+	- On a success, nothing happens.
 - **Upcasting**:
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
