@@ -29,7 +29,7 @@ tags:
 		- They are willing to resurrect.
 	- That creature then suffers the following effects:
 		- They return to life with 1 health.
-		- They have 3 random internal parts gain [[Organ Decay]].
+		- They have 1d4 random internal parts gain [[Organ Decay]].
 		- They fall [[Unconscious]] for 1 day.
 - **Upcasting**:
 	- You cannot upcast this psycast.

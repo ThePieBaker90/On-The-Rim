@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create an anti-psychic wave to interrupt all psycasts currently in progress. For every psycast within range, its caster must make a Wisdom saving throw. On a failure, their psycast is interrupted and ends prematurely. On a success, nothing happens.
+	- You create an anti-psychic wave to interrupt all psycasts currently in progress. For every active psycast within range, its caster must make a Wisdom saving throw. On a failure, their psycast is interrupted and ends prematurely. On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast. 
