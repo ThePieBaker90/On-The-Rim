@@ -15,14 +15,14 @@ aliases:
 - 2nd Level:
 	- [[Word of Numbing]] (5, 20)
 	- [[Word of Friendship]] (14, 0)
-	- [[Word of Madness]] (12, 37)
 - 3rd Level:
 	- [[Word of Pain]]
+	- Word of Joy
 - 4th Level:
 	- Group Pain
-	- Mind Quick Sand
 - 5th Level:
-	- [[Ritual of Wrath]] (90, 0)
+	- Mind Quick Sand
+	- First Feeling
 ## Miscasts
 - Level 1 Miscast - .
 	- .
