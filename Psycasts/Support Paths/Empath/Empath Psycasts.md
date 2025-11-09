@@ -10,14 +10,14 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Word of Anger]] (2, 14)
-	- [[Word of Fright]] (6, 24)
+	- Word of Joy
 	- [[Word of Guidance]] (5, 0)
 - 2nd Level:
 	- [[Word of Numbing]] (5, 20)
-	- [[Word of Friendship]] (14, 0)
+	- 
 - 3rd Level:
 	- [[Word of Pain]]
-	- Word of Joy
+	- 
 - 4th Level:
 	- Group Pain
 - 5th Level:

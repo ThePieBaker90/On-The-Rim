@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Empath
   - 2nd-Level
+  - Puppetmancer
 ---
 - **Path**:
-	- 2nd Level [[Empath Psycasts|Empath Psycast]]
+	- 2nd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**

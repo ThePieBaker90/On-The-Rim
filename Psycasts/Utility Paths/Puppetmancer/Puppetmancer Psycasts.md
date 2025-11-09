@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Friends]] (14, 0)
 - 2nd Level:
 	- Detect Thoughts
 	- [[Berserk]] (8, 37)

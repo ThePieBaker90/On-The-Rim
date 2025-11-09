@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - 1st-Level
-  - Empath
+  - Noctomancer
 ---
 - **Path**:
-	- 1st Level [[Empath Psycasts|Empath Psycast]]
+	- 1st Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**

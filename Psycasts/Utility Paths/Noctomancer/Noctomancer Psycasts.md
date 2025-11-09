@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Fear]] (6, 24)
 - 2nd Level:
 	- .
 - 3rd Level:
