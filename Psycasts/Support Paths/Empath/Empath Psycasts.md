@@ -14,15 +14,15 @@ aliases:
 	- [[Word of Guidance]] (5, 0)
 - 2nd Level:
 	- [[Word of Numbing]] (5, 20)
-	- 
+	- Word of Inspiration
 - 3rd Level:
 	- [[Word of Pain]]
-	- 
+	- Word of Energy
 - 4th Level:
 	- Group Pain
 - 5th Level:
 	- Mind Quick Sand
-	- First Feeling
+	- Word of Memories (First Feeling)
 ## Miscasts
 - Level 1 Miscast - .
 	- .
