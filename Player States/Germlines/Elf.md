@@ -21,7 +21,7 @@ tags:
 		- Green, Brown, Hazel
 	- [[Pointy Ears]]
 - **Life Genes:**
-	- [[Average Lifespan]]
+	- [[Long Lifespan]]
 - **Ability Genes:**
 	- [[Nature's Mask]]
 - **Passive Genes:**

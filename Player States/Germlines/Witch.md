@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-*Witches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability, although nowhere near a full psylink.*
+*Witches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability and have an easier time learning [[Psycasts]].*
 - **Size:**
 	- Medium, around 5-7ft tall generally
 - **Speed:**
@@ -25,8 +25,8 @@ tags:
 - **Ability Genes:**
 	- [[Natural Psycaster]]
 - **Passive Genes:**
-	- [[Darkvision (60ft)]]
-	- [[Charm Resistant]]
+	- [[Darkvision (30ft)]]
+	- [[Increased Neural Heat Capacity]]
 - **Skill Genes:**
 	- [[Wise]]
 	- [[Knowledgeable]]

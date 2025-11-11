@@ -6,4 +6,4 @@ tags:
 - **[[Complexity]]:**
 	- 2
 - **Effects:**
-	- Carriers of this gene can learn an additional 1st level psycast from any path.
+	- Carriers of this gene gain +10ft of movement speed when they dash.

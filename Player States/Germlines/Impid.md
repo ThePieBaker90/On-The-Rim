@@ -2,29 +2,32 @@
 tags:
   - Germline
 ---
-*.*
+Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield.*
 - **Size:**
-	- Medium, around 5-6ft tall generally
+	- Medium, around 5-7ft tall generally
 - **Speed:**
-	- 30ft
+	- 35ft
 - **Languages:**
 	- Common
 	- Impish
 - **Cosmetic Genes:**
 	- [[Skin Color]]
-		- .
+		- Blues, Violets, Purples
 	- [[Hair Color]]
-		- .
+		- Blacks, Greys, Blues, Violets, Silvers, Purples
 	- [[Body Type]]
-		- .
+		- Muscled, Thin
 	- [[Eye Color]]
-		- .
+		- Black, Blue, White, Gold, Silver
+	- [[Thin Tail]]
+	- [[Mini Horns]]
 - **Life Genes:**
 	- [[Average Lifespan]]
 - **Ability Genes:**
-	- .
+	- [[Run 'n' Gun]]
+	- [[Fast Runner]]
 - **Passive Genes:**
-	- .
+	- [[Fire Resistant]]
 - **Skill Genes:**
-	- .
+	- [[Dexterous]]
 
