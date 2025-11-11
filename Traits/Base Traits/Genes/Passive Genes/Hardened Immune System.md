@@ -6,4 +6,4 @@ tags:
 - **[[Complexity]]:**
 	- 1
 - **Effects:**
-	- Carriers of this gene have a immunity to poison damage.
+	- Carriers of this gene have a immunity to diseases.

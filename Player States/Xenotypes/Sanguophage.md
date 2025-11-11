@@ -32,20 +32,21 @@ Their numbers are unknown. Some think they are legends or rare irrelevancies. So
 		-  **Cosmetic Genes:**
 			- .
 		- **Life Genes:**
-			- .
+			- None.
 		- **Ability Genes:**
-			- .
+			- [[Bloodfeeder]]
+			- [[Longjump Legs]]
+			- [[Uncanny Coagulation]]
 		- **Passive Genes:**
-			- .
+			- [[Hemogenic]]
+			- [[Mild UV Sensitivity]]
+			- [[Tinderskin]]
 		- **Skill Genes:**
 			- .
-		* [[Hemogenic]]
-		* [[Mild UV Sensitivity]]
-		* [[Tinderskin]]
 		* [[Superfast Wound Healing]]
-		* [[Bloodfeeder]]
-		* [[Longjump Legs]]
-		* [[Uncanny Coagulation]]
+		* 
+		* 
+		* 
 	* Gain the following appearance changes
 		* Elongated canine teeth.
 		* Lack of wrinkles or other age related features.
