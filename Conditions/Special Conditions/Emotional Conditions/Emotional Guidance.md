@@ -2,5 +2,6 @@
 tags:
   - Condition
 ---
-- When a creature has the E condition, they may teleport up to 20ft to a point within line of sight as an action or bonus action.
-	- Everything you have equipped or stored on you teleports with you. Things bigger than 15ft$^3$ cannot be teleported.
+- When a creature has the Emotional Guidance condition, they may add 1d4 to one ability check of its choice. 
+	- Using this ability ends the condition.
+- Constructs and creatures who do not feel emotion are immune to this condition.

@@ -9,18 +9,18 @@ tags:
 - **Casting Time:**
 	- 1 Bonus Action
 - **[[Psyfocus]] Cost:**
-	- .
+	- 6
 - **[[Neural Heat]] Generation:**
-	- .
+	- 24
 - [[Range]]:
-	- .
+	- 30ft
 - **Target**:
 	- A creature within range.
 - **Components**:
 	- Verbal
 - **Duration**:
-	- .
+	- Instant
 - **Effects**:
-	- You say a painful word to a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain 1 level of [[Mind-Shattering Pain]]. On a success, nothing happens.
+	- You say a painful word to a creature within range, the creature must make a Wisdom saving throw. On a failure, they take 1d8 psychic damage and gain 1 level of [[Mind-Shattering Pain]]. On a success, nothing happens.
 - **Upcasting**:
-	- You cannot upcast this psycast.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, an additional level of [[Mind-Shattering Pain]] is applied on a failed save.

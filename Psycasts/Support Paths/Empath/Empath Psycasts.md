@@ -10,18 +10,18 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Word of Anger]] (2, 14)
-	- Word of Joy
 	- [[Word of Guidance]] (5, 0)
+	- [[Word of Joy]] (5, 26)
 - 2nd Level:
-	- [[Word of Numbing]] (5, 20)
-	- Word of Inspiration
+	- [[Word of Suppression]] (5, 23)
+	- [[Word of Inspiration]] (10, 0)
 - 3rd Level:
-	- [[Word of Pain]]
-	- Word of Energy
+	- [[Word of Pain]] (6, 24)
+	- [[Word of Energy]] (6, 40)
 - 4th Level:
-	- Group Pain
+	- [[Empowering Shout]] (3, 44)
 - 5th Level:
-	- Mind Quick Sand
+	- [[Word of Panic]]
 	- Word of Memories (First Feeling)
 ## Miscasts
 - Level 1 Miscast - .

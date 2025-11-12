@@ -1,15 +1,15 @@
 ---
 tags:
   - Psycast
-  - 1st-Level
   - Empath
+  - 2nd-Level
 ---
 - **Path**:
-	- 1st Level [[Empath Psycasts|Empath Psycast]]
+	- 2nd Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- 5
+	- 10
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- Verbal
 - **Duration**:
-	- 1 turn.
+	- 3 turns.
 - **Effects**:
-	- You say a word of guidance to grant an ally within range the [[Emotional Guidance]] condition for the psycast duration.
+	- You say a word of inspiration to grant an ally within range the [[Inspired]] condition for the psycast duration.
 - **Upcasting**:
 	- You cannot upcast this psycast.

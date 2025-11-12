@@ -11,16 +11,17 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
-	- 0
+	- 26 (21)
 - [[Range]]:
 	- 60ft
 - **Target**:
-	- An ally within range.
+	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- 1 turn.
+	- Concentration, up to 10 turns.
 - **Effects**:
-	- You say a word of guidance to grant an ally within range the [[Emotional Guidance]] condition for the psycast duration.
+	- You say a word of joy to delight a creature within range, the creature gains [[Joy]] for the psycast duration.
+		- If [[Joy]] is removed, concentration is lost on this psycast.
 - **Upcasting**:
-	- You cannot upcast this psycast.
+	- You cant upcast this psycast.

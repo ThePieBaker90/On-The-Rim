@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
-	- 20
+	- 23
 - [[Range]]:
 	- 60ft
 - **Target**:
@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 minute.
 - **Effects**:
-	- You say a suppressing word to a creature within range, the creature must make a Wisdom saving throw. On a failure, they cannot feel emotions or pain for the duration of the psycast. On a success, nothing happens.
+	- You say a suppressing word to a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain [[Emotionally Numb]] and [[Painblock]] for the duration of the psycast. On a success, nothing happens.
 		- A creature may willingly fail the saving throw if they are in a normal state of mind.
 - **Upcasting**:
 	- You cannot upcast this psycast.

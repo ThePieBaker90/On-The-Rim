@@ -1,26 +1,26 @@
 ---
 tags:
   - Psycast
-  - 1st-Level
   - Empath
+  - 5th-Level
 ---
 - **Path**:
-	- 1st Level [[Empath Psycasts|Empath Psycast]]
+	- 5th Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action.
+	- 1 Bonus Action
 - **[[Psyfocus]] Cost:**
-	- 5
+	- .
 - **[[Neural Heat]] Generation:**
-	- 0
+	- .
 - [[Range]]:
-	- 60ft
+	- .
 - **Target**:
-	- An ally within range.
+	- A creature within range.
 - **Components**:
 	- Verbal
 - **Duration**:
-	- 1 turn.
+	- Instant
 - **Effects**:
-	- You say a word of guidance to grant an ally within range the [[Emotional Guidance]] condition for the psycast duration.
+	- .TODO
 - **Upcasting**:
 	- You cannot upcast this psycast.
