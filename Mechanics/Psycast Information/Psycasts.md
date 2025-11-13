@@ -50,7 +50,7 @@ aliases:
 		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals
 		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking TODO
 	- Support Paths
-		- [[Empath Psycasts|Empath]] - Mood Buffs and Positive Enchantments TODO
+		- [[Empath Psycasts|Empath]] - Emotions and Feelings
 		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
 		- [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
 		- [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation

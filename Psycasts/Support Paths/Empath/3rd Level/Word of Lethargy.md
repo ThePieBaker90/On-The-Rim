@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
-	- 40 (40)
+	- 36 (31)
 - [[Range]]:
 	- 40ft
 - **Target**:
@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- Verbal
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 2 turns.
 - **Effects**:
-	- You say an energetic word to grant an ally within range the [[Energized]] condition for the psycast duration.
+	- You say a lethargic word to drain the energy from a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain the [[Lethargic]] condition for the psycast duration. On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.
