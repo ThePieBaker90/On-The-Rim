@@ -1,13 +1,13 @@
 ---
 tags:
   - Psycast
-  - 2nd-Level
   - Puppetmancer
+  - 1st-Level
 ---
 - **Path**:
-	- 2nd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+	- 1st Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action.
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 14
 - **[[Neural Heat]] Generation:**
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Kinetic.
 - **Duration**:
 	- 1 minute.
 - **Effects**:
