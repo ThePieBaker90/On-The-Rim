@@ -22,6 +22,9 @@ All creatures have the following skills
 	- Insight (WIS)
 	- Medical (WIS)
 	- Perception (WIS)
+		- [[Sight-Based Perception]] (WIS)
+		- [[Scent-Based Perception]] (WIS)
+		- [[Sound-Based Perception]] (WIS)
 	- Survival (WIS)
 - Charisma
 	- Deception (CHA)

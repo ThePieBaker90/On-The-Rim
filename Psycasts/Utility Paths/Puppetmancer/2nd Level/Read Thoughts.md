@@ -9,18 +9,19 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 8
+	- .
 - **[[Neural Heat]] Generation:**
-	- 32 (22)
+	- .
 - [[Range]]:
-	- 100ft
+	- 30ft
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Concentration, up to 10 turns.
+	- Instant.
 - **Effects**:
-	- You psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. On a failure, they are sent into a [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of your turns. On a success, the psycast ends.
+	- You learn what a target creature is thinking about. The creature must make a Wisdom saving throw. On a failure, you learn what the creature is thinking. On a success, nothing happens.
+		- A creature who is unaware of you using this psycast automatically fails this saving throw.
 - **Upcasting**:
 	- You cannot upcast this psycast.

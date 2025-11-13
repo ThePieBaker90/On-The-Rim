@@ -9,7 +9,7 @@ aliases:
 *Empaths specialize in emotions and feelings. All of their psycasts are in the form of words which shape the emotions of others. These feelings range from [[Anger]] to [[Joy]] to pure [[Mind-Shattering Pain|Pain]].*
 ## Core Psycasts
 - 1st Level:
-	- [[Word of Anger]] (2, 14)
+	- [[Word of Anger]] (4, 14)
 	- [[Word of Guidance]] (5, 0)
 	- [[Word of Joy]] (5, 26)
 - 2nd Level:
@@ -33,7 +33,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Ritual of Wrath]] (90, 0) ([[Puppetmancer Psycasts|Puppetmancer]])
 - 4th Level:
 	- .
 - 5th Level:

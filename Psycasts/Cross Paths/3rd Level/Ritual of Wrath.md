@@ -1,11 +1,12 @@
 ---
 tags:
   - Psycast
-  - 5th-Level
   - Puppetmancer
+  - Empath
+  - 3rd-Level
 ---
 - **Path**:
-	- 5th Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+	- 3rd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]] & [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
 	- 1 Minute.
 - **[[Psyfocus]] Cost:**

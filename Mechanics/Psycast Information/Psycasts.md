@@ -60,9 +60,10 @@ aliases:
 		- Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 	- Some psycasts may be part of multiple paths, a prerequisite psycast from all paths must be known to learn these psycasts.
 ## Casting Time
-- All psycasts have a casting time, there are two types of casting time; action based and time based. Each type of casting time details how the psycast is cast when used.
+- All psycasts have a casting time, there are two types of casting time; action based and time based. Each type of casting time details how the psycast is cast when used. 
 	- Action based psycasts require the caster to expend the listed action type to cast the psycast (Action, Bonus Action, Reaction). The only way to interrupt these psycasts are with reactions.
-	- Time based psycasts require the caster to be busy with the psycast for the casting time. When the specified time passes, the psycast casts. These can be interrupted with any action.
+	- Time based psycasts require the caster to be busy with the psycast for the casting time. When the specified time passes, the psycast casts. These psycasts can be interrupted with actions.
+- If the caster is damaged during the casting time, they make a Wisdom saving throw. The DC is equal to 10 or half the damage received, whichever is higher. On a failure, the psycast is interrupted. On a success, nothing happens.
 ## Psycast Costs
 - There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast .
 	- [[Neural Heat]] rapidly dissipates and limits how many psycasts you can cast in a short time.
@@ -107,3 +108,11 @@ aliases:
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 ## Interrupting
 - Psycasts can be interrupted by many different effects. When a psycast is interrupted, the psycast immediately passes to the end phase. All costs already paid are not refunded.
+## Psycasts and Stealth
+- Psycasts may be used stealthily, the way a psycast is used in stealth depends on its components.
+	- Psycasts containing a kinetic component require a dexterity (stealth) check against any relevant creature's [[Sight-Based Perception]]. 
+		- Psycasts containing a gesture component require a dexterity (stealth) check at disadvantage against any relevant creature's [[Sight-Based Perception]]. 
+	- Psycasts containing a verbal component require a charisma (stealth) check against any relevant creature's [[Sound-Based Perception]]. The psycasts range is halved when used in stealth.
+	- Psycasts containing a material component require a dexterity (stealth) check against any relevant creature's [[Sight-Based Perception]]. 
+	- Psycasts containing a focus component require a dexterity (stealth) check against any relevant creature's [[Sight-Based Perception]]. 
+		- Psycasts that have a focus component which is an instrument have their range halved.

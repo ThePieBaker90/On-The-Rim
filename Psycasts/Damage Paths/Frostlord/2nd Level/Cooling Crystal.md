@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A small rock within range.
 - **Components**:
-	- Kinetic, Material (A small rock)
+	- Kinetic, Focus (A small rock)
 - **Duration**:
 	- 1 day
 - **Effects**:
