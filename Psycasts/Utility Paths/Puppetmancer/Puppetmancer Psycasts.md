@@ -18,9 +18,9 @@ aliases:
 - 3rd Level:
 	- Subjugate
 - 4th Level:
-	- Take Puppet's Turn
-	- Move Puppet
-	- Puppet Action
+	- Take Turn
+	- 
+	- Take Action
 - 5th Level:
 	- Mind Swap
 ## Miscasts
