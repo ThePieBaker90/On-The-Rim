@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Staticlord
+---
+- **Path**:
+	- 1st Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 9
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- Electricity jumps from your fingertips to a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 2d6+2 electric damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 electric damage.

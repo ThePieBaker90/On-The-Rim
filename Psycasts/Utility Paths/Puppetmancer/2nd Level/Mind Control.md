@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Puppetmancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

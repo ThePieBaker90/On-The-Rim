@@ -14,7 +14,7 @@ aliases:
 - 2nd Level:
 	- [[Berserk]] (8, 32)
 	- [[Read Thoughts]] (12, 15)
-	- Mind Control
+	- [[Mind Control]]
 - 3rd Level:
 	- Subjugate
 - 4th Level:

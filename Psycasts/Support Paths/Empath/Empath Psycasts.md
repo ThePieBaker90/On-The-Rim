@@ -28,7 +28,7 @@ aliases:
 	- You cast a second copy of the psycast you just used, except the target is you. You automatically fail any relevant saving throw.
 		- If [[Empathetic Shout]] was the psycast, you cast a copy of the empowered psycast centered on you.
 - Level 2 Miscast - Tired of Empathy
-	- You burst into a sudden rage, you gain [[Lethargic]] for 2 turns.
+	- You exhaust yourself, you gain [[Lethargic]] for 2 turns.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
