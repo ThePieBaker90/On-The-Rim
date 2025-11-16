@@ -12,6 +12,11 @@ tags:
 - Intelligence
 - Wisdom
 - Charisma
+## Determining Ability Scores
+- Your base ability scores are determined when you create your character, these base values rarely change. To determine your ability score beyond the base value, you do the following in order:
+	1. Apply all effects that set your ability score to a constant number, most recent occurs last.
+	2. Apply effects that add or subtract to your ability score.
+	3. Apply [[Efficiency]] effects
 ## Ability Modifiers
 - To find the ability modifier from an ability score, subtract 10 from the score and divide the difference by 2 (rounded down). The resulting quotient is the modifier. The following is a table which can be used to easily find the modifier for some common ability scores.
 
@@ -29,11 +34,16 @@ tags:
 	- Saving throws are used to determine the outcome of an uncertain situation that the roller is in.
 - There are some core differences ability checks can be failed at will, can be backed out of before rolling, and may have an associated skill. Saving throws cannot be failed at will, cannot be backed out of, and are limited to abilities. 
 - To perform an ability check or saving throw of these you do the following steps in order:
-	- Roll 1d20.
+	1. Roll 1d20.
 		- If you have advantage, roll an additional 1d20 and take the higher result.
-	- Add the relevant ability modifier.
-	- Add any relevant skill proficiency or expertise.
-		- cyberntics stuff TODO
-	- Add any modifiers from conditions.
-	- Add any modifiers from psycast effects.
-	- 
+	2. Add or subtract the relevant ability modifier.
+		-  If you have a cybernetic that grants efficiency in the relevant skill, apply the efficiency to the relevant ability score, determine the modifier based off of that new score instead.
+	3. Add any relevant skill proficiency or expertise.
+	4. Add or subtract any modifiers from conditions.
+	5. Add or subtract any modifiers from psycast effects.
+	6. Apply any multiplying effects.
+	7. Apply any dividing effects.
+	8. Apply any percent effects.
+- Most ability checks and saving throws will not have any modifiers beyond your ability modifier and skill proficiency bonus. 
+## Cybernetics and Ability Scores
+- See [[Efficiency]].
