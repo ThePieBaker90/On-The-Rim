@@ -23,4 +23,4 @@ tags:
 - **Effects**:
 	- You shoot a fire mote at a creature of your choice. Make a roll to hit, adding your psycasting ability modifier. On a hit, the mote deals 1d8+1 fire damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.

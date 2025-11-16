@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 9
 - [[Range]]:
-	- Touch.
+	15ft
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- Electricity jumps from your fingertips to a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 2d6+2 electric damage.
+	- You attempt to shock a creature within range with a high amount of electricity. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 2d6 electric damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 electric damage.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 electric damage.

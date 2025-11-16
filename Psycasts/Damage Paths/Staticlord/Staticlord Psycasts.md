@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Shock]]
+	- [[Zap]]
 	- Jolt
 - 2nd Level:
 	- Recharge
