@@ -9,9 +9,9 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 12
 - **[[Neural Heat]] Generation:**
-	- .
+	- 15
 - [[Range]]:
 	- 30ft
 - **Target**:
@@ -21,7 +21,13 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You learn what a target creature is thinking about. The creature must make a Wisdom saving throw. On a failure, you learn what the creature is thinking. On a success, nothing happens.
+	- You learn what a target creature is thinking about. The creature must make a Wisdom saving throw. On a failure, you learn what the creature is thinking. On a success, the creature becomes aware you are trying to read its mind.
 		- A creature who is unaware of you using this psycast automatically fails this saving throw.
+	- If used in combat, you learn the following in addition to other thoughts the creature may be thinking. This is only if the creature fails the wisdom saving throw.
+		- Their actions next turn.
+			- If the creature plans to attack, you gain +2 [[Evade Class]] to avoid this attack.
+		- Where they plan to move.
+			- If the creature moving would trigger an opportunity attack, you have advantage to hit them.
+		- Overall strategy of the creature.
 - **Upcasting**:
 	- You cannot upcast this psycast.

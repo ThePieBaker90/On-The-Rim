@@ -13,16 +13,16 @@ aliases:
 	- [[Word of Command]] (3, 18)
 - 2nd Level:
 	- [[Berserk]] (8, 32)
-	- [[Read Thoughts]]
+	- [[Read Thoughts]] (12, 15)
 	- Mind Control
 - 3rd Level:
 	- Subjugate
 - 4th Level:
 	- Take Turn
-	- 
 	- Take Action
 - 5th Level:
 	- Mind Swap
+	- Do (complex command)
 ## Miscasts
 - Level 1 Miscast - .
 	- .

@@ -109,7 +109,7 @@ aliases:
 ## Interrupting
 - Psycasts can be interrupted by many different effects. When a psycast is interrupted, the psycast immediately passes to the end phase. All costs already paid are not refunded.
 ## Psycasts and Stealth
-- Psycasts may be used stealthily, the way a psycast is used in stealth depends on its components.
+- Psycasts may be used stealthily, the way a psycast is used in stealth depends on its components. When using a psycast from stealth, all other rules of stealth must be obeyed.
 	- Psycasts containing a kinetic component require a dexterity (stealth) check against any relevant creature's [[Sight-Based Perception]]. 
 		- Psycasts containing a gesture component require a dexterity (stealth) check at disadvantage against any relevant creature's [[Sight-Based Perception]]. 
 	- Psycasts containing a verbal component require a charisma (stealth) check against any relevant creature's [[Sound-Based Perception]]. The psycasts range is halved when used in stealth.
