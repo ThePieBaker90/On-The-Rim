@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 2
 - **[[Neural Heat]] Generation:**
-	- .
+	- 12
 - [[Range]]:
-	- .
+	- 60ft
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- .
+	- You shoot a bolt of electricity at a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 1d4 electric damage for every 15ft of distance between them and you.
+		- The creature takes 1d4 electric damage if you are closer than 15ft to them.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage increases by . electric damage.

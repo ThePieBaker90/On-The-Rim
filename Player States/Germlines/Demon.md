@@ -14,7 +14,7 @@ tags:
 	- [[Skin Color]]
 		- Yellows, Oranges, Reds
 	- [[Hair Color]]
-		- Blacks, Browns, Greys, Reds, Oranges, Blondes, Purples
+		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
 	- [[Body Type]]
 		- Average, Muscled, Plus-Sized
 	- [[Eye Color]]

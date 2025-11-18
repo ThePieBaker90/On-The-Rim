@@ -9,8 +9,8 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Zap]]
-	- [[Bolt]]
+	- [[Zap]] (2, 9)
+	- [[Bolt]] (2, 12)
 - 2nd Level:
 	- Recharge
 	- Overcharge

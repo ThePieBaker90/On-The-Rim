@@ -14,7 +14,7 @@ Impids evolved from humans in environments with intense heat. Their dexterity an
 	- [[Skin Color]]
 		- Blues, Violets, Purples
 	- [[Hair Color]]
-		- Blacks, Greys, Blues, Violets, Silvers, Purples
+		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
 	- [[Body Type]]
 		- Muscled, Thin
 	- [[Eye Color]]

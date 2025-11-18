@@ -35,7 +35,7 @@ tags:
 - There are some core differences ability checks can be failed at will, can be backed out of before rolling, and may have an associated skill. Saving throws cannot be failed at will, cannot be backed out of, and are limited to abilities. 
 - To perform an ability check or saving throw of these you do the following steps in order:
 	1. Roll 1d20.
-		- If you have advantage, roll an additional 1d20 and take the higher result.
+		- If you have advantage or disadvantage, roll the  relevant number of additional 20-sided-dice and take the highest or lowest result based off of if you had advantage or disadvantage.
 	2. Add or subtract the relevant ability modifier.
 		-  If you have a cybernetic that grants efficiency in the relevant skill, apply the efficiency to the relevant ability score, determine the modifier based off of that new score instead.
 	3. Add any relevant skill proficiency or expertise.
