@@ -12,7 +12,7 @@ aliases:
 	- [[Zap]] (2, 9)
 	- [[Bolt]] (2, 12)
 - 2nd Level:
-	- Recharge
+	- [[Recharge]] (0, 20)
 	- Overcharge
 	- Deadlock seven power surge
 - 3rd Level:

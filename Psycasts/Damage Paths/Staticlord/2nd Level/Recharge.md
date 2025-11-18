@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Staticlord
+---
+- **Path**:
+	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 20
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A battery within range.
+- **Components**:
+	- Kinetic, Focus (A battery)
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You recharge a battery you are holding with 10kW/h worth of energy.
+- **Upcasting**:
+	- You cannot upcast this psycast.
