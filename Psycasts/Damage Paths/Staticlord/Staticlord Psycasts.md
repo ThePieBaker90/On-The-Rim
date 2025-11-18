@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Zap]]
-	- Jolt
+	- [[Bolt]]
 - 2nd Level:
 	- Recharge
 	- Overcharge

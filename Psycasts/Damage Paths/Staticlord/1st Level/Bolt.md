@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 2
+	- .
 - **[[Neural Heat]] Generation:**
-	- 9
+	- .
 - [[Range]]:
-	- 15ft
+	- .
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You attempt to shock a creature within range with a high amount of electricity. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 2d6 electric damage.
+	- .
 - **Upcasting**:
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 electric damage.
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage increases by . electric damage.
