@@ -3,14 +3,14 @@ tags:
   - Germline
 ---
 *A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. They are also known as a Baseliner in some reaches of the galaxy*
-- **Size:**
+- **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
-- **Speed:**
+- **[[Germlines#Speed|Speed:]]**
 	- 30ft
-- **Languages:**
+- **[[Germlines#Languages|Languages:]]**
 	- Common
 	- One of choice
-- **Cosmetic Genes:**
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors
 	- [[Hair Color]]
@@ -19,13 +19,13 @@ tags:
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Eye Color]]
 		- All natural colors
-- **Life Genes:**
+- **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
-- **Ability Genes:**
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- None.
-- **Passive Genes:**
+- **[[Genes#Passive Genes|Passive Endogenes]]**
 	- None.
-- **Skill Genes:**
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Athletic]]
 	- [[Resilient]]
 	- [[Hearty]]

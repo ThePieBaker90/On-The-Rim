@@ -3,14 +3,14 @@ tags:
   - Germline
 ---
 *Dwarves evolved from humans on planets with intense gravity. Their smaller, more robust stature allow them to live with these harsh g-forces.*
-- **Size:**
+- **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 4-5ft tall generally
-- **Speed:**
+- **[[Germlines#Speed|Speed:]]**
 	- 25ft
-- **Languages:**
+- **[[Germlines#Languages|Languages:]]**
 	- Common
 	- Dwarvish
-- **Cosmetic Genes:**
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors
 	- [[Hair Color]]
@@ -20,15 +20,15 @@ tags:
 	- [[Eye Color]]
 		- All natural colors
 	- [[Bearded]]
-- **Life Genes:**
+- **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
-- **Ability Genes:**
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- None.
-- **Passive Genes:**
+- **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Darkvision (60ft)]]
 	- [[Poison Resistant]]
 	- [[Robust]]
-- **Skill Genes:**
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Sharp]]
 	- [[Resilient]]
 	- [[Strong]]

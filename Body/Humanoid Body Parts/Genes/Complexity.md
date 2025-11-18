@@ -1,6 +1,5 @@
 ---
 tags:
-  - Endogene
-  - Xenogene
+  - Info
 ---
 - TODO

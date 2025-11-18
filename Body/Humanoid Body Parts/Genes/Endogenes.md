@@ -1,8 +1,9 @@
 ---
 tags:
+  - Info
+aliases:
   - Endogene
 ---
-- Endogenes are genes which are given by a creature's [[Body/Germlines|Germline]]. 
-- Endogenes are passed to a creature's offspring. They are a random combination of all parent's genes.
-- Endogenes may be changed through certain processes. (TODO)
-- Endogenes
+## Endogene Overview
+- Endogenes are a form of [[Genes|Gene]] and the building blocks for [[Germlines]]. They list the unique effects of a [[Germlines|Germline]] and act like traits.
+- [[Endogenes]] have a chance to be passed down to offspring as detailed in [[Germlines#Half Germlines|Half Germlines]].
