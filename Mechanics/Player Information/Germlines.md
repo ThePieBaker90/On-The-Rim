@@ -26,7 +26,7 @@ aliases:
 ## Languages
 - The languages parameter determines what languages the person with the germline naturally knows.
 ## [[Endogenes]]
-- The endogenes parameter is split into 5 different types. The [[Endogenes]] held within each type determine what [[Endogenes]] the person with the germline has.
+- The [[Endogenes]] parameter is split into 5 different categories. The [[Endogenes]] held within each category determine what [[Endogenes]] the person with the germline has.
 - See [[Genes]] and [[Endogenes]] for more info.
 ## Half Germlines
 - A person whose parents are of different germlines will have parts of both germlines, this person's germline is called a half germline. The [[Endogenes]] and other parameters of half germlines are determined at birth based off of the [[Endogenes]] of both of their parents rather than a preset germline.

@@ -44,9 +44,6 @@ Their numbers are unknown. Some think they are legends or rare irrelevancies. So
 		- **Skill Genes:**
 			- .
 		* [[Superfast Wound Healing]]
-		* 
-		* 
-		* 
 	* Gain the following appearance changes
 		* Elongated canine teeth.
 		* Lack of wrinkles or other age related features.

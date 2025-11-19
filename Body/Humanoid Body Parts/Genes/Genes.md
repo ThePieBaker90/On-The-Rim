@@ -6,9 +6,9 @@ aliases:
   - Gene
 ---
 ## Gene Overview
-- Genes are the building blocks of [[Xenogerm|Xenogerms]] and [[Mechanics/Player Information/Germlines|Germlines]]. The supply the person they are within with various effects. Genes have a form, a type, and a [[Complexity]].
+- Genes are the building blocks of [[Xenotypes]] and [[Mechanics/Player Information/Germlines|Germlines]]. The supply the person they are within with various effects. Genes have a form, a type, and a [[Complexity]].
 - Genes come in two forms; [[Xenogenes]] and [[Endogenes]].
-- Genes come in five types; [[#Cosmetic Genes]], [[#Life Genes]], [[#Ability Genes]], [[#Passive Genes]], and [[#Skill Genes]].
+- Genes come in five categories; [[#Cosmetic Genes]], [[#Life Genes]], [[#Ability Genes]], [[#Passive Genes]], and [[#Skill Genes]].
 - Some genes may have specifications, these are listed under the gene and affect the gene in the way listed in its ingo.
 ## Xenogenes
 - See [[Xenogenes]].
