@@ -6,3 +6,4 @@ tags:
 - Creatures under this condition cannot use any actions other than melee attacks and dashing.
 - If the creature was concentrating on a psycast, they dispel their concentration.
 - Constructs and creatures who do not feel emotion are immune to this condition.
+- A creature with this condition is immune to [[Charmed]], [[Emotional Guidance]], [[Joy]], and [[Panic]].

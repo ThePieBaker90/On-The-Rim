@@ -20,6 +20,7 @@ tags:
 	- [[Eye Color]]
 		- Green, Yellow, Orange, Brown
 	- [[Foliage Hair]]
+	- [[Barkskin]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
@@ -27,7 +28,6 @@ tags:
 - **[[Genes#Passive Genes|Passive Genes]]**
 	- [[Photosynthesis]]
 	- [[Sap Blood]]
-	- [[Barkskin]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Charismatic]]
 	- [[Green Thumb]]

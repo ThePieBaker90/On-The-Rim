@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield.*
+*Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield.*
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**

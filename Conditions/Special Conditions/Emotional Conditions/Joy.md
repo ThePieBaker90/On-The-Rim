@@ -8,4 +8,3 @@ tags:
 	- Attack Rolls.
 - When this creature is damaged, they must make a Wisdom saving throw. The DC of this check is equal to 10 or half of the damage of the attack, whichever is higher. On a failure, they lose this condition. On a success, nothing happens.
 - Constructs and creatures who do not feel emotion are immune to this condition.
-- A creature with this condition is immune to [[Anger]], [[Berserk Rage]].

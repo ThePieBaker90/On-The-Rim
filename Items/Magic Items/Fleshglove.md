@@ -13,7 +13,7 @@ tags:
 
 - Unnatural Healing - 1 Action
 - Touch a target creature, that creature instantly heals 2d12 health and does one of the following:
-	- Removes all levels of one random negative condition (Cannot be exhaustion)
+	- Removes all levels of one random negative condition (Cannot remove [[Exhaustion]])
 	- Restores one missing body part (If applicable, also restores dependent body parts)
 	- The user rolls 1d4
 		- On a 1 or lower the target rolls on the [[Twisted Obelisk|Mutation Table]] and gains that mutation.

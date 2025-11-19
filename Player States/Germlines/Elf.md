@@ -29,6 +29,5 @@ tags:
 	- [[Charm Resistant]]
 - **[[Genes#Skill Genes|Skill Genes:]]**
 	- [[Dexterous]]
-	- [[Sharp]]
 	- [[Keen Senses]]
 

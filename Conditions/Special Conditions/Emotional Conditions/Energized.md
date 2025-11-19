@@ -10,3 +10,4 @@ tags:
 	- They have advantage on all Dexterity checks.
 - When this condition is removed, they are [[Stunned]] for 1 turn.
 - Constructs and creatures who do not feel emotion are immune to this condition.
+- A creature with this condition is immune to [[Lethargic]].

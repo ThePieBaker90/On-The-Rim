@@ -11,7 +11,7 @@ tags:
 	- This saving throw does not trigger effects that would grant one or more levels of anger.
 - Anger is not capped.
 - The additional damage has the type of the highest damage amount of the base attack.
-- A creature with this condition is immune to [[Joy]], [[Emotional Guidance]], [[Inspired]].
+- A creature with this condition is immune to [[Charmed]], [[Emotional Guidance]], [[Joy]], and [[Panic]].
 
 | Anger Level | Damage Modifiers                                              | Hit Modifiers                          | Charisma Effects                                                          | Other Effects                                                       |
 | ----------- | ------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |

@@ -1,7 +1,6 @@
 ---
 tags:
   - Info
-  - Skill
 ---
 ## Skill Overview
 - Creatures know skills, a creature can either know, have proficiency, or have expertise in a skill. Skills range from the ability to mend a wound (medical) to persuading a shop owner to lower the price of a product (persuasion). Skills are used in [[#Skill Checks]], an alternate form of [[Ability Scores#Ability Checks|Ability Checks]].

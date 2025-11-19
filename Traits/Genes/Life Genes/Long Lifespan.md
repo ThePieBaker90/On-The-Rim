@@ -1,0 +1,9 @@
+---
+tags:
+  - Life-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -1
+- **Effects:**
+	- Carriers of this gene live to be 100 years old on average.

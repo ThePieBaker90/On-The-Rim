@@ -1,7 +1,6 @@
 ---
 tags:
   - Info
-  - Skill
 ---
 ## Ability Score Overview
 - Ability scores are a creature's core stats; They measure a creature's physical power, agility, resilience, logic and reasoning, perceptiveness, and ability to engage in diplomacy. Each ability has an ability score associated with it, usually ranging from 5 to 20 but most of the time around 10 and 11. The higher your ability score for an ability, the higher your [[#Ability Modifiers|Ability Modifier]] for that ability.

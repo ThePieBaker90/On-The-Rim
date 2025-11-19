@@ -20,7 +20,7 @@ tags:
 	- [[Eye Color]]
 		- Black, Red, White, Gold, Silver
 	- [[Demonic Tail]]
-	- [[Horns]]
+	- [[Traits/Genes/Cosmetic Genes/Horns/Horns|Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**

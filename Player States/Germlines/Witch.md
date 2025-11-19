@@ -30,5 +30,3 @@ tags:
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Wise]]
 	- [[Knowledgeable]]
-	- [[Keen Senses]]
-

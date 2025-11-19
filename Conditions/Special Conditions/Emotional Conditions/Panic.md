@@ -8,6 +8,7 @@ tags:
 	- If a creature already suffers from panic and suffers another effect that causes panic, the creature does not suffer from any additional levels of panic, with the exception of effects within panic itself.
 - A creature with panic must make a DC 14 Wisdom saving throw at the beginning of their turn. On a success, they lose 1 level of panic. On a failure, they gain 1 level of panic.
 	- A creature may forfeit all actions on their turn to automatically succeed this saving throw.
+- A creature with this condition is immune to [[Anger]], [[Berserk Rage]], [[Charmed]], [[Emotional Guidance]], [[Energized]], [[Inspired]], and [[Joy]]
 
 | Panic Level | Ability Check Modifiers                          | Saving Throw Modifiers                          | Hit Modifiers                          | Other Effects                                                            |
 | ----------- | ------------------------------------------------ | ----------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------ |

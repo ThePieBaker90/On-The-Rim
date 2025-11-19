@@ -8,3 +8,4 @@ tags:
 	- They lose -2 from their [[Evade Class]].
 	- They have disadvantage on all Dexterity checks.
 - Constructs and creatures who do not feel emotion are immune to this condition.
+- - A creature with this condition is immune to [[Energized]].
