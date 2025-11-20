@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 2
+	- 
 - **Effects:**
 	- Carriers of this gene gain the fire spew action. They may do this action once every rest.
 		- Fire Spew - 1 Action

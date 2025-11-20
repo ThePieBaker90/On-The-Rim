@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-*A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. They are also known as a Baseliner in some reaches of the galaxy*
+*.*
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**

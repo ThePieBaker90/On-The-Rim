@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- 
 - **Effects:**
 	- Carriers of this gene gain the uncanny coagulate action. 
 		- Uncanny Coagulate - Bonus Action

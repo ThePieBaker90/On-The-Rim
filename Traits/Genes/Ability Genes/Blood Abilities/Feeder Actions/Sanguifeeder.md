@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- 
 - **Effects:**
 	- Carriers of this gene gain the Sanguifeed action. This action may only be taken on [[Hemogenic]] humanoids.
 		- Sanguifeed - 1 Action

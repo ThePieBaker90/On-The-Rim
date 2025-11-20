@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- 
 - **Effects:**
 	- Carriers of this gene gain the Corpsefeed action. This action may only be taken on non-[[Hemogenic]] humanoid corpses. This does not inherently give the carrier blood storage
 		- Corpsefeed - 1 Action

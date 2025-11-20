@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- 
 - **Effects:**
 	- Carriers of this gene gain the Animalfeed action. This action may only be taken on animals. This does not inherently give the carrier blood storage
 		- Animalfeed - 1 Action

@@ -4,6 +4,6 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- -2
 - **Effects:**
 	- Carriers of this gene have proficiency in the perception skill.

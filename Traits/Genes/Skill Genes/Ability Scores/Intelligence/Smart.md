@@ -4,6 +4,6 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- -4
 - **Effects:**
 	- Carriers of this gene have their intelligence score increased by 2.
