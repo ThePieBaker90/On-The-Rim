@@ -18,7 +18,7 @@ tags:
 		- Greens, Yellows, Oranges, and Browns
 	- [[Body Type]]
 		- Average
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- Green, Yellow, Orange, Brown
 	- [[Foliage Hair]]
 	- [[Barkskin]]

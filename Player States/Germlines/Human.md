@@ -18,7 +18,7 @@ tags:
 		- All natural colors
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- All natural colors
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]

@@ -18,7 +18,7 @@ tags:
 		- Tends towards browns and blacks
 	- [[Body Type]]
 		- Average, Thin
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- Green, Brown, Hazel
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

@@ -1,10 +1,6 @@
 ---
 tags:
-  - Player-State
   - Xenotype
-  - Harpya
-  - Lightweight-Flying
-  - Mild-Flash-Sensitivity
 ---
 *Harpyas were made by Dr. Clawthorne, an ambitious scientist seeking to create a new, highly mobile race. She combined the DNA of humans, various species of birds, and [[Archites]]. Harpyas have the appearance of both a bird and a human, with giant wings, feathers, and talons. They were built as highly efficient scouts, meant to survive long amounts of time in the wilderness.*
 

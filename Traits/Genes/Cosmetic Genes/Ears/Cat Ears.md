@@ -6,4 +6,4 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 0
 - **Effects:**
-	- Carriers of this gene have [[Beast Ear|Beast Ears]] instead of natural [[Ears]].
+	- Carriers of this gene have [[Beast Ear|Beast Ears]] which resemble cat ears instead of natural [[Ears]].

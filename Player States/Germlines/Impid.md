@@ -18,7 +18,7 @@ tags:
 		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
 	- [[Body Type]]
 		- Muscled, Thin
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- Black, Blue, White, Gold, Silver
 	- [[Thin Tail]]
 	- [[Mini Horns]]

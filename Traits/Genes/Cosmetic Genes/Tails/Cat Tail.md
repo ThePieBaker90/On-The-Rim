@@ -6,4 +6,4 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 0
 - **Effects:**
-	- Carriers of this gene have a feline [[Tail]], this [[Tail]] is about 2ft long and is covered in short fur that matches the carrier's hair color.
+	- Carriers of this gene have a feline [[Tail]], this [[Tail]] is about as long as half the carrier's height and is covered in short fur that matches the carrier's hair color.

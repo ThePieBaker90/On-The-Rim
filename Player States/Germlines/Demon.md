@@ -18,7 +18,7 @@ tags:
 		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
 	- [[Body Type]]
 		- Average, Muscled, Plus-Sized
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- Black, Red, White, Gold, Silver
 	- [[Demonic Tail]]
 	- [[Traits/Genes/Cosmetic Genes/Horns/Horns|Horns]]

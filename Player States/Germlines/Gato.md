@@ -18,7 +18,7 @@ tags:
 		- All natural colors, blue, pure white, purple
 	- [[Body Type]]
 		- Average, Thin
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- All natural colors
 	- [[Cat Ears]]
 	- [[Cat Tail]]

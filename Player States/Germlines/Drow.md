@@ -18,7 +18,7 @@ tags:
 		- White
 	- [[Body Type]]
 		- Average, Muscled, Thin
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- Lilac, Silver, Pink, Red, Blue
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

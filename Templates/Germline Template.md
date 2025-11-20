@@ -16,7 +16,7 @@ tags:
 		- List of possible hairs
 	- [[Body Type]]
 		- List of possible body types
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- List of possible eye colors
 - **Life Genes:**
 	- Itemized life genes

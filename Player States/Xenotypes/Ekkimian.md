@@ -1,16 +1,7 @@
 ---
 tags:
-  - Player-State
   - Ekkimian
   - Xenotype
-  - Hemogenic
-  - Mild-UV-Sensitivity
-  - Bloodfeeder
-  - Corpsefeeder
-  - Tinderskin
-  - Toxbite
-  - Superfast-Wound-Healing
-  - Blood-Fortitude
 ---
 *In the darkest reaches of the universe, the Ekkimian was birthed from the twisted ambitions of a rogue scientist names Dr. Mortis. Obsessed with the concept of death and resurrection, Dr Mortis sought to create a new breed of immortals by fusing [[Archites]] with the DNA of humans and a mysterious, long extinct species that thrived on consuming the dead. The Ekkimians, as they came to be known, are grotesque and horrifying in appearance. Resembling desiccated corpses more than living beings, their monstrous visages instill terror in all who lay eyes upon them. Despite their hideous appearance, the Ekkimians possess incredible regenerative abilities, healing any injury and remaining immune to disease and poison*
 

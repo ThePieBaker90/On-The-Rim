@@ -18,7 +18,7 @@ tags:
 		- All colors
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- All colors
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

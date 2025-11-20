@@ -1,9 +1,7 @@
 ---
 tags:
-  - Player-State
   - Xenotype
   - Lycan
-  - Minor-Flash-Sensitivity
 ---
 - *Lore*
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -4

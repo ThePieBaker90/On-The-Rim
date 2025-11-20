@@ -1,8 +1,5 @@
 ---
 tags:
-  - Player-State
-  - Bloodfeeder
-  - Mild-UV-Sensitivity
   - Xenotype
   - Strigoi
 ---

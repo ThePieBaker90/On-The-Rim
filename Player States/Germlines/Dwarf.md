@@ -18,7 +18,7 @@ tags:
 		- All natural colors
 	- [[Body Type]]
 		- Muscled, Plus-Sized
-	- [[Eye Color]]
+	- [[Iris Color]]
 		- All natural colors
 	- [[Bearded]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

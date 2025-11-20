@@ -1,0 +1,12 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -2
+- **Effects:**
+	- Carriers of this gene gain the bite implant action. They may do this action once every rest.
+		- Bite Implant - 1 Action
+			- You bite a creature of choice within 5ft of you. This will always succeed if the target is willing or asleep, otherwise make a melee roll to hit. The target will be transformed into the specified [[Xenotypes|Xenotype]] immediately.
+				- A target who is asleep will not be woken up.
