@@ -24,7 +24,7 @@ aliases:
 	- Size determines a general size of the person with the germline; Tiny, Small, Medium, Large, Huge, and Colossal. Most people have a medium size.
 	- Height determines how tall the person with the germline is.
 ## Speed
-- The speed parameter determines the base movement speed of a person with the germline.
+- The speed parameter determines the base movement speed of a person with the germline. The number listed reflects any increments and decrements to speed due to [[Endogenes]].
 ## Languages
 - The languages parameter determines what languages the person with the germline naturally knows.
 ## [[Endogenes]]

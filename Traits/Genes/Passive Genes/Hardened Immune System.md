@@ -4,6 +4,6 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 1
+	- -1
 - **Effects:**
-	- Carriers of this gene have a immunity to diseases.
+	- Carriers of this gene have advantage on saving throws relating to diseases.

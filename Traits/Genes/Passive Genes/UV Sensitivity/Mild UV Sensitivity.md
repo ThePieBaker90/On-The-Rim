@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 2
+	- 4
 - **Effects:**
 	- Carriers of this gene suffer from the following while in direct UV light:
 		- -4 to all ability checks

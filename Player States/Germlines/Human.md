@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-*A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. They are also known as a Baseliner in some reaches of the galaxy*
-[[Metabolic Efficiency]] - 100% (-12)
+- *A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. They are also known as a Baseliner in some reaches of the galaxy*
+- **[[Metabolic Efficiency|Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**

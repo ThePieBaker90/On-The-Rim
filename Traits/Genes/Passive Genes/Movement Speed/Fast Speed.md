@@ -1,9 +1,9 @@
 ---
 tags:
-  - Passive-Gene
+  - Ability-Gene
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
 	- -2
 - **Effects:**
-	- Carriers of this gene have resistance to poison damage.
+	- Carriers of this gene gain +5ft of movement speed.

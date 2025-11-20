@@ -28,6 +28,7 @@ tags:
 	- [[Fast Runner]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Fire Resistant]]
+	- [[Fast Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Dexterous]]
 

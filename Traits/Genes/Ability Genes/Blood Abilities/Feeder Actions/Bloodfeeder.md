@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 
+	- -1
 - **Effects:**
 	- Carriers of this gene gain the bloodfeed action. This action may only be taken on non-[[Hemogenic]] humanoids. This does not inherently give the carrier blood storage
 		- Bloodfeed - 1 Action

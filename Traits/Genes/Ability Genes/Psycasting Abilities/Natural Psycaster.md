@@ -4,6 +4,6 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 2
+	- -3
 - **Effects:**
 	- Carriers of this gene can learn an additional 1st level psycast from any path, they may learn an additional psycast when leveling up to an odd level.

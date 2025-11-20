@@ -2,7 +2,8 @@
 tags:
   - Germline
 ---
-*Demons evolved from humans in environments with intense cold. Their affinity with [[Blazelord Psycasts]] and stronger build allow them to be fearsome foes in combat.
+- *Demons evolved from humans in environments with intense cold. Their affinity with [[Blazelord Psycasts]] and stronger build allow them to be fearsome foes in combat.
+- **[[Metabolic Efficiency|Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -30,7 +31,6 @@ tags:
 	- [[Darkvision (30ft)]]
 	- [[Cold Resistant]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Knowledgeable]]
 	- [[Hearty]]
 	- [[Athletic]]
 

@@ -10,6 +10,7 @@ tags:
 	- A creature cannot have less than -24 total metabolic efficiency (Creature must eat an additional 120% food per day)
 - For each metabolic efficiency a creature has above 0, they can eat 10% less per day to stay healthy.
 	- This can reduce the amount a creature must eat by a maximum of 50%.
+- 100% [[Hunger]] requires a creature to eat 1 pound of food a day as specified in [[Hunger]].
 
 | Metabolic Efficiency | Hunger | Metabolic Efficiency | Hunger |
 | -------------------- | ------ | -------------------- | ------ |

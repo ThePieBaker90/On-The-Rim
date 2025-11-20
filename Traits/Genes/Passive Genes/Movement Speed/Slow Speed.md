@@ -4,6 +4,6 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- -2
+	- 2
 - **Effects:**
-	- Carriers of this gene have 300% jump distance.
+	- Carriers of this gene lose 5ft of movement speed.

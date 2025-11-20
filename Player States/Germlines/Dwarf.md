@@ -2,7 +2,8 @@
 tags:
   - Germline
 ---
-*Dwarves evolved from humans on planets with intense gravity. Their smaller, more robust stature allow them to live with these harsh g-forces.*
+- *Dwarves evolved from humans on planets with intense gravity. Their smaller, more robust stature allow them to live with these harsh g-forces.*
+- **[[Metabolic Efficiency|Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 4-5ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -28,6 +29,7 @@ tags:
 	- [[Darkvision (60ft)]]
 	- [[Poison Resistant]]
 	- [[Robust]]
+	- [[Slow Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Sharp]]
 	- [[Resilient]]
