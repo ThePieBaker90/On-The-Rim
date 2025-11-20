@@ -2,7 +2,8 @@
 tags:
   - Germline
 ---
-*Created in an experiment to mix cat and human DNA, Gatos possess enhanced dexterity and charisma. Their perception abilities are enhanced by their cat ears, tail, and eyes. 
+- *Created in an experiment to mix cat and human DNA, Gatos possess enhanced dexterity and charisma. Their perception abilities are enhanced by their cat ears, tail, and eyes. 
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 4-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**

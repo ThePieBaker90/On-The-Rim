@@ -13,30 +13,27 @@ tags:
   - Sonic-Screech
 ---
 *The Strigoi were born out of a catastrophic experiment gone awry. A brilliant scientist named Dr. Morbius sought to create the ultimate soldier by merging the DNA of humans and a now-extinct bat-like creature known as the Desmodus. In pursuit of immortality and power, Dr. Morbius infused these hybrid beings with [[Archites]]. The Strigoi possess a terrifying visage, with features reminiscent of both humans and bats. Their bodies are covered in a layer of viscous fluid that enhances their ability to resist damage and rendering them immune to disease and poison. In battle, the Strigoi are formidable opponents, using their massive talons to their then enemies apart with ruthless efficiency.*
-
-- Strigoi have the following changes:
-	- Gain the following genes
-		-  **Cosmetic Genes:**
-			- .
-		- **Life Genes:**
-			- .
-		- **Ability Genes:**
-			- [[Bloodfeeder]]
-			- [[Animalfeeder]]
-			- [[Fluid Resistance]]
-			- [[Sonic-Screech]]
-		- **Passive Genes:**
-			- [[Darkvision (60ft)]]
-			- [[Tinderskin]]
-			- [[Dangerous UV Sensitivity]]
-			- [[Hemogenic]]
-			- [[Radiance Vulnerability]]
-			- [[Hardened Immune System]]
-		- **Skill Genes:**
-			- [[Strong]]
-			- [[Dexterous]]
-			- [[Slow Learner]]
-			- [[Awkward]]
+-  **Cosmetic Genes:**
+	- .
+- **Life Genes:**
+	- .
+- **Ability Genes:**
+	- [[Bloodfeeder]]
+	- [[Animalfeeder]]
+	- [[Fluid Resistance]]
+	- [[Sonic-Screech]]
+- **Passive Genes:**
+	- [[Darkvision (60ft)]]
+	- [[Tinderskin]]
+	- [[Dangerous UV Sensitivity]]
+	- [[Hemogenic]]
+	- [[Radiance Vulnerability]]
+	- [[Hardened Immune System]]
+- **Skill Genes:**
+	- [[Strong]]
+	- [[Dexterous]]
+	- [[Slow Learner]]
+	- [[Awkward]]
 	* Gain the following appearance changes
 		* Extremely elongated canine teeth.
 		* Hair-growth slowed.

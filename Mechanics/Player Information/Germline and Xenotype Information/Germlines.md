@@ -39,5 +39,6 @@ aliases:
 	- The [[Endogenes]] of the child are determined on an [[Endogenes]] by [[Endogenes]] basis. For each [[Endogenes]] a parent has, flip a coin. On a heads, the child gains the [[Endogenes|Endogene]]. On a tails, the child does not gain the [[Endogenes|Endogene]].
 		- If the child were to obtain two instances of the same [[Endogenes|Endogene]], the second instance is removed.
 		- If the child were to obtain two conflicting [[Endogenes]], flip a coin to determine which one is removed.
+		- If the child were to obtain a gene which puts them under -24 [[Metabolic Efficiency]], they remove the gene.
 	- The name of their germline follows the syntax "half-{name of parent 1 germline}-half-{name of parent 2 germline}".
 - A player character can be a half germline, to determine their [[Endogenes]] and other parameters, determine the parent's germlines. Then use their germlines to determine the player character's half germline.

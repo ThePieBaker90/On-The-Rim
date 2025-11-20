@@ -7,3 +7,5 @@ tags:
 	- -2
 - **Effects:**
 	- Carriers of this gene gain +5ft of movement speed.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Slow Speed]]

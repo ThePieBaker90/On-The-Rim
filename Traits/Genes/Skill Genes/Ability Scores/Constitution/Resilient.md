@@ -7,3 +7,8 @@ tags:
 	- -4
 - **Effects:**
 	- Carriers of this gene have their constitution score increased by 2.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Delicate]]
+	- [[Fragile]]
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Hearty]]

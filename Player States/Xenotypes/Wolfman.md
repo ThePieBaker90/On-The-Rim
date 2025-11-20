@@ -5,19 +5,17 @@ tags:
   - Lycan
   - Minor-Flash-Sensitivity
 ---
-*Lore*
-
-- Wolfmen have the following changes:
-	*  Gain the following genes
-		-  **Cosmetic Genes:**
-			- [[Increased Hair-Growth]]
-		- **Life Genes:**
-			- None.
-		- **Ability Genes:**
-			- None.
-		- **Passive Genes:**
-			- [[Minor Light Sensitivity]]
-			- [[Darkvision (30ft)]]
-		- **Skill Genes:**
-			- [[Resilient]]
-	* Morph into a [[Lycan]] at 6pm every night. They will morph back to a wolfman at 6am the following day.
+- *Lore*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -4
+-  **Cosmetic Genes:**
+	- [[Increased Hair-Growth]]
+- **Life Genes:**
+	- None.
+- **Ability Genes:**
+	- [[Nocturnal Morph]]
+		- [[Lycan]]
+- **Passive Genes:**
+	- [[Minor Light Sensitivity]]
+	- [[Darkvision (30ft)]]
+- **Skill Genes:**
+	- [[Resilient]]

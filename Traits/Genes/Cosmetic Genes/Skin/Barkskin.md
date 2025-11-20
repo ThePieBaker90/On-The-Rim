@@ -4,6 +4,6 @@ tags:
   - Passive-Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- -3
+	- -2
 - **Effects:**
 	- Carriers of this gene have tree bark skin and resistance to bludgeoning damage.

@@ -6,7 +6,7 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -2
 - **Effects:**
-	- Carriers of this gene have their constitution score increased by 1.
+	- Carriers of this gene have their constitution score decreased by 1.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
-	- [[Delicate]]
-	- [[Fragile]]
+	- [[Hearty]]
+	- [[Resilient]]

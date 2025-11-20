@@ -7,3 +7,6 @@ tags:
 	- 2
 - **Effects:**
 	- Carriers of this gene have their intelligence score decreased by 1.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Knowledgeable]]
+	- [[Traits/Genes/Skill Genes/Ability Scores/Intelligence/Smart|Smart]]

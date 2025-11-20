@@ -4,10 +4,11 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- -4
+	- 4
 - **Effects:**
-	- Carriers of this gene have their intelligence score increased by 2.
+	- Carriers of this gene have their charisma score decreased by 2.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
-	- [[Slow Learner]]
+	- [[Charismatic]]
+	- [[Charming]]
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Knowledgeable]]
+	- [[Awkward]]

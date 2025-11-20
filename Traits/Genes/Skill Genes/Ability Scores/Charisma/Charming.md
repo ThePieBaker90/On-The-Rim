@@ -7,3 +7,6 @@ tags:
 	- -2
 - **Effects:**
 	- Carriers of this gene have their charisma score increased by 1.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Awkward]]
+	- [[Repulsive]]

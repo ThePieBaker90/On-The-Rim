@@ -7,3 +7,5 @@ tags:
 	- -4
 - **Effects:**
 	- Carriers of this gene have their strength score increase by 2.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Athletic]]

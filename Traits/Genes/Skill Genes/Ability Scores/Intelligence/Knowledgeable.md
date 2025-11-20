@@ -7,3 +7,5 @@ tags:
 	- -2
 - **Effects:**
 	- Carriers of this gene have their intelligence score increased by 1.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Slow Learner]]

@@ -10,6 +10,7 @@ aliases:
 - Genes come in two forms; [[Xenogenes]] and [[Endogenes]].
 - Genes come in five categories; [[#Cosmetic Genes]], [[#Life Genes]], [[#Ability Genes]], [[#Passive Genes]], and [[#Skill Genes]].
 - Some genes may have specifications, these are listed under the gene and affect the gene in the way listed in its ingo.
+- A person cannot have multiple instances of the same gene. Duplicate instances are removed.
 ## Xenogenes
 - See [[Xenogenes]].
 ## Endogenes
@@ -27,3 +28,8 @@ aliases:
 - Skill genes affect a person's ability scores and proficiencies.
 ## Metabolic Efficiency
 - See [[Metabolic Efficiency]].
+## Gene Incompatibility
+- Some genes are incompatible with other genes, whichever gene is in the person's [[Xenotypes|Xenotype]] takes priority.
+## Obsolete Genes
+- Some genes may render other genes obsolete. If a creature has a gene that makes another gene they have obsolete, the obsolete gene is removed. 
+	- [[Endogenes]] can make [[Xenogenes]] obsolete.

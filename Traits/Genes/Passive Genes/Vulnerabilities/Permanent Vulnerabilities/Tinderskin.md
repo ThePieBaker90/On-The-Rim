@@ -7,3 +7,5 @@ tags:
 	- 3
 - **Effects:**
 	- Carriers of this gene have a permanent vulnerability to fire damage.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Fire Resistant]]

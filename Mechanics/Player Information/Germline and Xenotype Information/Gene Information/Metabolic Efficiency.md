@@ -8,7 +8,7 @@ tags:
 - To determine the overall metabolic efficiency of a creature (and therefore how much they need to eat everyday), you simply add the metabolic efficiency of all [[Genes]] they have. 
 - For each metabolic efficiency a creature has below -12, they must eat 10% more per day to stay healthy.
 	- A creature cannot have less than -24 total metabolic efficiency (Creature must eat an additional 120% food per day)
-- For each metabolic efficiency a creature has above 0, they can eat 10% less per day to stay healthy.
+- For each metabolic efficiency a creature has above -12, they can eat 10% less per day to stay healthy.
 	- This can reduce the amount a creature must eat by a maximum of 50%.
 - 100% [[Hunger]] requires a creature to eat 1 pound of food a day as specified in [[Hunger]].
 
@@ -17,12 +17,12 @@ tags:
 | -24                  | 220%   | -15                  | 130%   |
 | -23                  | 210%   | -14                  | 120%   |
 | -22                  | 200%   | -13                  | 110%   |
-| -21                  | 190%   | -12 through 0        | 100%   |
-| -20                  | 180%   | 1                    | 90%    |
-| -19                  | 170%   | 2                    | 80%    |
-| -18                  | 160%   | 3                    | 70%    |
-| -17                  | 150%   | 4                    | 60%    |
-| -16                  | 140%   | 5 or more            | 50%    |
+| -21                  | 190%   | -12                  | 100%   |
+| -20                  | 180%   | -11                  | 90%    |
+| -19                  | 170%   | -10                  | 80%    |
+| -18                  | 160%   | -9                   | 70%    |
+| -17                  | 150%   | -8                   | 60%    |
+| -16                  | 140%   | -7 or more           | 50%    |
 
 
 

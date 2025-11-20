@@ -7,3 +7,6 @@ tags:
 	- -4
 - **Effects:**
 	- Carriers of this gene can see in dim light within 120ft of them as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray. 
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Darkvision (30ft)]]
+	- [[Darkvision (60ft)]]

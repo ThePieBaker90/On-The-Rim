@@ -2,7 +2,8 @@
 tags:
   - Germline
 ---
-*Witches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability and have an easier time learning [[Psycasts]].*
+- *Witches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability and have an easier time learning [[Psycasts]].*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -30,3 +31,4 @@ tags:
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Wise]]
 	- [[Knowledgeable]]
+	- [[Charming]] 

@@ -11,3 +11,6 @@ tags:
 		- Disadvantage on all ability checks
 		- 1 radiant damage every turn
 		- Speed Halved
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Mild UV Sensitivity]]
+	- [[Minor UV Sensitivity]]

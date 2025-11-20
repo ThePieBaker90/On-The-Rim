@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *Drows are a combination of [[Witch|Witches]] and [[Elf|Elves]], they possess a natural ability for psycasting and also have a high dexterity. Originally created for planets with low sunlight, they have a superior darkvision but a slight sensitivity to sunlight.*
-- **[[Metabolic Efficiency|Metabolic Efficiency:]]** -12 (100% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**

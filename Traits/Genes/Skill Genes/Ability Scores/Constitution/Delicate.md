@@ -6,8 +6,9 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -4
 - **Effects:**
-	- Carriers of this gene have their intelligence score increased by 2.
+	- Carriers of this gene have their constitution score decreased by 2.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
-	- [[Slow Learner]]
+	- [[Hearty]]
+	- [[Resilient]]
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Knowledgeable]]
+	- [[Fragile]]
