@@ -15,7 +15,7 @@ tags:
 - Cybernetics only take up one part slot (unless otherwise stated), for example; installing an archotech arm does not replace both arms, only one arm.
 	- Cybernetics which do not replace a part may take up a slot on that part (such as enhancers or modules), indicated in parenthesis next to the part.
 	- Only one cybernetic may be installed onto a part that takes up that specific slot.
-	- Some cybernetics may take up multiple slots or a choice of two slots.
+	- Some cybernetics may take up multiple slots or a choice of multiple slots.
 ## Cybernetic Types
 - Cybernetics come in 6 types; [[Prosthetic]], [[Natural]], [[Bionic]], [[Advanced Bionic]], [[Archotech]], and special.
 	* [[Prosthetic]]

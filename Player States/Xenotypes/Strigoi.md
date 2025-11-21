@@ -3,7 +3,7 @@ tags:
   - Xenotype
   - Strigoi
 ---
-- *The Strigoi were born out of a catastrophic experiment gone awry. A brilliant scientist named Dr. Morbius sought to create the ultimate soldier by merging the DNA of humans and a now-extinct bat-like creature known as the Desmodus. In pursuit of immortality and power, Dr. Morbius infused these hybrid beings with [[Archites]]. The Strigoi possess a terrifying visage, with features reminiscent of both humans and bats. Their bodies are covered in a layer of viscous fluid that enhances their ability to resist damage and rendering them immune to disease and poison. In battle, the Strigoi are formidable opponents, using their massive talons to their then enemies apart with ruthless efficiency.*
+- *The Strigoi were born out of a catastrophic experiment gone awry. A brilliant scientist named Dr. Morbius sought to create the ultimate soldier by merging the DNA of humans and a now-extinct bat-like creature known as the Desmodus. In pursuit of immortality and power, Dr. Morbius infused these hybrid beings with [[Archites]]. The Strigoi possess a terrifying visage, with features reminiscent of both humans and bats. Their bodies are covered in a layer of viscous fluid that enhances their ability to resist damage and rendering them resistant to disease and poison. In battle, the Strigoi are formidable opponents, using their massive talons to their then enemies apart with ruthless efficiency.*
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +2
 -  **Cosmetic Genes:**
 	- [[Primal Canines]]
@@ -13,6 +13,7 @@ tags:
 		- Red
 	- [[Sclera Color]]
 		- Black
+	- [[Talons]]
 - **Life Genes:**
 	- None.
 - **Ability Genes:**
