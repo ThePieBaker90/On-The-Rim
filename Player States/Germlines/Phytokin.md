@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *Phytokin were an experiment in mixing plant and human DNA in an attempt to solve food shortages. They are capable of photosynthesis among other plant-like abilities.*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -26,7 +26,7 @@ tags:
 	- [[Average Lifespan]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Nature's Gift]]
-- **[[Genes#Passive Genes|Passive Genes]]**
+- **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Photosynthesis]]
 	- [[Sap Blood]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**

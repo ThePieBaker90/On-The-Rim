@@ -4,7 +4,7 @@ tags:
 ---
 - *Harpyas were made by Dr. Clawthorne, an ambitious scientist seeking to create a new, highly mobile race. She combined the DNA of humans, various species of birds, and [[Archites]]. Harpyas have the appearance of both a bird and a human, with giant wings, feathers, and talons. They were built as highly efficient scouts, meant to survive long amounts of time in the wilderness.*
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -6
--  **Cosmetic Genes:**
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Iris Color]]
 		- Yellow
 	- [[Sclera Color]]
@@ -14,7 +14,7 @@ tags:
 	- [[Increased Hair-Growth]]
 	- [[Talons]]
 	- [[Angel-Like Wings]]
-- **Life Genes:**
+- **[[Genes#Life Genes|Life Xenogenes:]]**
 	- None.
 - **Ability Genes:**
 	- [[Lightweight Flying]]
@@ -24,5 +24,5 @@ tags:
 - **Skill Genes:**
 	- [[Athletic]]
 	- [[Dexterous]]
-	- [[Sharp]]
+	- [[Keen Senses]]
 	- [[Unintelligent]]

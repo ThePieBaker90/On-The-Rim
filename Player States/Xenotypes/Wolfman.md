@@ -5,15 +5,15 @@ tags:
 ---
 - *Lore*
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -4
--  **Cosmetic Genes:**
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Increased Hair-Growth]]
-- **Life Genes:**
+- **[[Genes#Life Genes|Life Xenogenes:]]**
 	- None.
-- **Ability Genes:**
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
 	- [[Nocturnal Morph]]
 		- [[Lycan]]
-- **Passive Genes:**
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
 	- [[Minor Light Sensitivity]]
 	- [[Darkvision (30ft)]]
-- **Skill Genes:**
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
 	- [[Resilient]]

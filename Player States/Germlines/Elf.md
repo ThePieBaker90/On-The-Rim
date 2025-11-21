@@ -29,7 +29,7 @@ tags:
 	- [[Darkvision (60ft)]]
 	- [[Charm Resistant]]
 	- [[Fast Speed]]
-- **[[Genes#Skill Genes|Skill Genes:]]**
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Dexterous]]
 	- [[Keen Senses]]
 

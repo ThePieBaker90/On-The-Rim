@@ -23,7 +23,7 @@ tags:
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
-- **[[Genes#Ability Genes|Ability Genes:]]**
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Natural Psycaster]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Darkvision (120ft)]]

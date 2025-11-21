@@ -3,23 +3,17 @@ tags:
   - Xenotype
   - Bruxa
 ---
-- Bruxa Fledglings have the following changes:
-	* Gain Damage Vulnerabilities
-		* Fire
-	*  Gain the following genes
-		-  **Cosmetic Genes:**
-			- .
-		- **Life Genes:**
-			- .
-		- **Ability Genes:**
-			- .
-		- **Passive Genes:**
-			- .
-		- **Skill Genes:**
-			- .
-		* [[Mild UV Sensitivity]]
-		* [[Bloodfeeder]]
-	* Gain the following appearance changes
-		* Elongated canine teeth.
-	- Bruxa Fledglings can be cured with a [[Garlic Injection]]. 
-	- If a Bruxa Fledgling drinks 500mL of blood they will immediately transform into a [[Bruxa]].
+- *Lore*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +1
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
+	- [[Primal Canines]]
+- **[[Genes#Life Genes|Life Xenogenes:]]**
+	- [[Garlic Cure]]
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
+	- [[Bloodfeeder]]
+	- [[Blood Morph]]
+		- [[Bruxa]]
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- [[Minor UV Sensitivity]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- None.

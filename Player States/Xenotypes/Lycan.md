@@ -5,24 +5,22 @@ tags:
 ---
 - *Lore*
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -6
-- Lycans have the following changes:
-	*  Gain the following genes
-		-  **Cosmetic Genes:**
-			- [[Wolf Ears]]
-			- [[Wolf-Like Fur]]
-			- [[Wolf-Like Head]]
-			- [[Wolf Tail]]
-		- **Life Genes:**
-			- None.
-		- **Ability Genes:**
-			- [[Warhowl]]
-			- [[Diurnal Morph]]
-				- [[Wolfman]]
-			- [[Lunar Implant]]
-				- [[Lycan]]
-		- **Passive Genes:**
-			- [[Minor Light Sensitivity]]
-			- [[Aggressive]]
-		- **Skill Genes:**
-			- [[Resilient]]
-			- [[Darkvision (60ft)]]
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
+	- [[Wolf Ears]]
+	- [[Wolf-Like Fur]]
+	- [[Wolf-Like Head]]
+	- [[Wolf Tail]]
+- **[[Genes#Life Genes|Life Xenogenes:]]**
+	- None.
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
+	- [[Warhowl]]
+	- [[Diurnal Morph]]
+		- [[Wolfman]]
+	- [[Lunar Implant]]
+		- [[Lycan]]
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- [[Minor Light Sensitivity]]
+	- [[Aggressive]]
+	- [[Darkvision (60ft)]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- [[Resilient]]

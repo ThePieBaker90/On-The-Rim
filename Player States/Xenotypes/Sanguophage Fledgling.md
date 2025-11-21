@@ -5,15 +5,15 @@ tags:
 ---
 - *Lore*
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +1
--  **Cosmetic Genes:**
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Primal Canines]]
-- **Life Genes:**
+- **[[Genes#Life Genes|Life Xenogenes:]]**
 	- [[Garlic Cure]]
-- **Ability Genes:**
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
 	- [[Bloodfeeder]]
 	- [[Blood Morph]]
 		- [[Sanguophage]]
-- **Passive Genes:**
-	- [[Mild UV Sensitivity]]
-- **Skill Genes:**
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- [[Minor UV Sensitivity]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
 	- None.

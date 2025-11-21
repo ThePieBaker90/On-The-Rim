@@ -9,3 +9,4 @@ tags:
 	- Carriers of this gene gain the fire spew action. They may do this action once every rest.
 		- Fire Spew - 1 Action
 			- You spew highly flammable bile from a special sac within your throat. All creatures in a cone originating from you in a direction of your choice, with a length of 35ft, and a maximum width of 15ft, must make a Dexterity saving throw. On a failed save, a creature takes 2d8 fire damage and catch [[On Fire!]] for 2 turns. On a successful save, they take half as much damage.
+			- The DC of the dexterity saving throw is equal to 8 + your proficiency modifier + your dexterity modifier.

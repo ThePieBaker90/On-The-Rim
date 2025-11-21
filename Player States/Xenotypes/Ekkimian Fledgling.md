@@ -3,23 +3,17 @@ tags:
   - Xenotype
   - Ekkimian
 ---
-- Ekkimian Fledglings have the following changes:
-	* Gain Damage Vulnerabilities
-		* Fire
-	*  Gain the following genes
-		-  **Cosmetic Genes:**
-			- .
-		- **Life Genes:**
-			- .
-		- **Ability Genes:**
-			- .
-		- **Passive Genes:**
-			- .
-		- **Skill Genes:**
-			- .
-		* [[Mild UV Sensitivity]]
-		* [[Bloodfeeder]]
-	* Gain the following appearance changes
-		* Elongated canine teeth.
-	* Ekkimian Fledglings can be cured with a [[Garlic Injection]]. 
-	* If an Ekkimian Fledgling drinks 500mL of blood they will immediately transform into an [[Ekkimian]].
+- *Lore*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +1
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
+	- [[Primal Canines]]
+- **[[Genes#Life Genes|Life Xenogenes:]]**
+	- [[Garlic Cure]]
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
+	- [[Bloodfeeder]]
+	- [[Blood Morph]]
+		- [[Ekkimian]]
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- [[Minor UV Sensitivity]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- None.
