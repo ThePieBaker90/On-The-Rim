@@ -12,17 +12,18 @@ aliases:
 	- [[Zap]] (2, 9)
 	- [[Bolt]] (2, 12)
 - 2nd Level:
-	- [[Recharge]] (0, 20)
-	- Overcharge
-	- Deadlock seven power surge
+	- [[EMP Blast]]
+	- [[Power Surge]] (5, 32)
+	- [[Recharge]] (20, 0)
 - 3rd Level:
 	- Arcing Lightning
-	- EMP Blast
+	- 
+	- Royal Capacitor
 - 4th Level:
 	- Lightning Bolt
 	- Ball Lightning
 - 5th Level:
-	- Vortex of Lightning
+	- Seven Ult
 ## Miscasts
 - Level 1 Miscast - .
 	- .

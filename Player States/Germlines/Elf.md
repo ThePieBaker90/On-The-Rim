@@ -30,6 +30,6 @@ tags:
 	- [[Charm Resistant]]
 	- [[Fast Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Dexterous]]
+	- [[Medium Dexterity Increase]]
 	- [[Keen Senses]]
 

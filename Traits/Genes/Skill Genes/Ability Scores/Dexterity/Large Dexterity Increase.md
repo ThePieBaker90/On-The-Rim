@@ -1,0 +1,12 @@
+---
+tags:
+  - Skill-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -8
+- **Effects:**
+	- Carriers of this gene have their dexterity score increased by 4.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Medium Dexterity Increase]]
+	- [[Small Dexterity Increase]]

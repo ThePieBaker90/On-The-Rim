@@ -23,4 +23,4 @@ tags:
 	- [[Aggressive]]
 	- [[Darkvision (60ft)]]
 - **[[Genes#Skill Genes|Skill Xenogenes:]]**
-	- [[Resilient]]
+	- [[Medium Constitution Increase]]

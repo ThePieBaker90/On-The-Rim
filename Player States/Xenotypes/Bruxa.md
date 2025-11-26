@@ -3,45 +3,30 @@ tags:
   - Bruxa
   - Xenotype
 ---
-*In the complex tapestry of the universe, the Bruxas emerged as a unique and alluring companion to the [[Sanguophage]]. Created by an enigmatic archotech entity seeking to weave together beauty and power, the Bruxas were gifted with unparalleled grace and charm. Designed as the ultimate companions to other [[Sanguophage|Sanguophages]], the Bruxas were engineered with the unique ability to share blood and feed on [[Hemogenic Blood]], bestowing mutual benefits upon both parties.*
-
-- Bruxas have the following changes:
-	- Ability Score Increase
-		- -1 to STR score (Min 1)
-		- +1 to INT score (Max 20)
-		- +2 to WIS score (Max 20)
-		- +2 to CHA score (Max 20)
-	- Gain Damage Vulnerabilities
-		- Fire
-		- Radiant
-	- Gain Damage Immunities
-		- Poison
-	- Gain the following genes
-		-  **Cosmetic Genes:**
-			- .
-		- **Life Genes:**
-			- .
-		- **Ability Genes:**
-			- .
-		- **Passive Genes:**
-			- .
-		- **Skill Genes:**
-			- .
-		- [[Hemogenic]]
-		- [[Mild UV Sensitivity]]
-		- [[Tinderskin]]
+- *In the complex tapestry of the universe, the Bruxas emerged as a unique and alluring companion to the [[Sanguophage]]. Created by an enigmatic archotech entity seeking to weave together beauty and power, the Bruxas were gifted with unparalleled grace and charm. Designed as the ultimate companions to other [[Sanguophage|Sanguophages]], the Bruxas were engineered with the unique ability to share blood and feed on [[Hemogenic Blood]], bestowing mutual benefits upon both parties.*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** 0
+	-  **Cosmetic Genes:**
+		- [[Iris Color]]
+			- Red
+		- [[Primal Canines]]
+		- [[Smooth Skinned]]
+	- **Life Genes:**
+		- [[Deathless]]
+	- **Ability Genes:**
 		- [[Bloodfeeder]]
 		- [[Sanguifeeder]]
 		- [[Uncanny Coagulation]]
 		- [[Blood Share]]
 		- [[Heart Crush]]
-	- Gain the following appearance changes
-		- Elongated canine teeth.
-		- Lack of wrinkles or other age related features.
-		- Generally more beautiful.
-		- Fingers have tiny pores for blood transfer.
-		- Red iris.
-	- Gain the Bruxa implant action.
-
-- Bruxa Implant:
-	- You bite a creature of choice within 5ft of you. This will always succeed if the target is willing or asleep. Additionally, a target who is asleep will not be woken up. The target will be transformed into a [[Bruxa Fledgling]] immediately.
+		- [[Bite Implant]]
+			- [[Bruxa Fledgling]]
+	- **Passive Genes:**
+		- [[Hemogenic]]
+		- [[Mild UV Sensitivity]]
+		- [[Tinderskin]]
+		- [[Radiance Vulnerability]]
+	- **Skill Genes:**
+		- [[Small Strength Decrease]]
+		- [[Small Intelligence Increase]]
+		- [[Medium Wisdom Increase]]
+		- [[Medium Charisma Increase]]

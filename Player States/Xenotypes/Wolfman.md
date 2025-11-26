@@ -16,4 +16,4 @@ tags:
 	- [[Minor Light Sensitivity]]
 	- [[Darkvision (30ft)]]
 - **[[Genes#Skill Genes|Skill Xenogenes:]]**
-	- [[Resilient]]
+	- [[Medium Constitution Increase]]

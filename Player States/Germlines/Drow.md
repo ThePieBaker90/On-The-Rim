@@ -30,7 +30,7 @@ tags:
 	- [[Charm Resistant]]
 	- [[Minor UV Sensitivity]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Agile]]
-	- [[Sharp]]
+	- [[Small Dexterity Increase]]
+	- [[Small Wisdom Increase]]
 	- [[Keen Senses]]
 

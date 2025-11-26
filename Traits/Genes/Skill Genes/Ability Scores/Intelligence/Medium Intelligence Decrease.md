@@ -7,8 +7,5 @@ tags:
 	- 4
 - **Effects:**
 	- Carriers of this gene have their intelligence score decreased by 2.
-- **[[Genes#Gene Incompatibility|Incompatibilities]]**
-	- [[Knowledgeable]]
-	- [[Traits/Genes/Skill Genes/Ability Scores/Intelligence/Smart|Smart]]
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Slow Learner]]
+	- [[Small Intelligence Decrease]]

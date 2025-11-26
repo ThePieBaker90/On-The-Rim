@@ -16,13 +16,13 @@ tags:
 	- [[Angel-Like Wings]]
 - **[[Genes#Life Genes|Life Xenogenes:]]**
 	- None.
-- **Ability Genes:**
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
 	- [[Lightweight Flying]]
-- **Passive Genes:**
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
 	- [[Mild Light Sensitivity]]
 	- [[Darkvision (60ft)]]
-- **Skill Genes:**
-	- [[Athletic]]
-	- [[Dexterous]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- [[Small Strength Increase]]
+	- [[Medium Dexterity Increase]]
 	- [[Keen Senses]]
-	- [[Unintelligent]]
+	- [[Medium Intelligence Decrease]]

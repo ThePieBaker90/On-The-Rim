@@ -29,6 +29,6 @@ tags:
 	- [[Darkvision (30ft)]]
 	- [[Increased Neural Heat Capacity]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Wise]]
-	- [[Knowledgeable]]
-	- [[Charming]] 
+	- [[Medium Wisdom Increase]]
+	- [[Small Intelligence Increase]]
+	- [[Small Charisma Increase]] 

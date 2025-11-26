@@ -4,11 +4,10 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 12
+	- 14
 - **Effects:**
-	- Carriers of this gene can store blood in a special gland, up to 1000mL of (non-hemogenic) blood at one time. 
-	- Carriers of this gene lose 250mL of blood from storage every day.
-		- If they do not have enough blood to cover the 250mL of blood loss they will suffer from 1 level of [[Exhaustion]]. 
-		- Every day they do not cover this blood cost will incur an additional level of [[Exhaustion]]. 
-		- The [[Exhaustion]] may be remedied by having an extra 250mL of blood in storage (on top of the 250mL needed by default).
-	- Carriers of this gene have [[Hemogenic Blood]]
+	- Carriers of this gene can store [[Materials/Blood|Blood]] in a special gland, up to 1000mL of (non-hemogenic) blood at one time. 
+	- Carriers of this gene need [[Materials/Blood|Blood]] to survive, they consume 250mL of blood from storage when they rest to stay healthy. This can cause your stored blood to go negative.
+		- If the carrier of this gene has negative stored [[Materials/Blood|Blood]] after this occurs, they gain 1 level of [[Exhaustion]]. This [[Exhaustion]] can only be removed by effects from this gene.
+		- If the carrier of this gene has positive stored [[Materials/Blood|Blood]] after this occurs, they lose 1 level of [[Exhaustion]] caused by this gene.
+	- Carriers of this gene have [[Hemogenic Blood]] instead of [[Body/Humanoid Body Parts/Blood|Blood]].

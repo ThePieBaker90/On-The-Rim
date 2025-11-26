@@ -4,8 +4,9 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- -4
+	- 8
 - **Effects:**
-	- Carriers of this gene have their strength score increase by 2.
+	- Carriers of this gene have their dexterity score decreased by 4.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Athletic]]
+	- [[Medium Dexterity Decrease]]
+	- [[Small Dexterity Decrease]]

@@ -6,6 +6,6 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -4
 - **Effects:**
-	- Carriers of this gene have their dexterity score increased by 2.
+	- Carriers of this gene have their constitution score decreased by 2.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Agile]]
+	- [[Small Constitution Decrease]]

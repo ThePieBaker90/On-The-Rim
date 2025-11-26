@@ -15,7 +15,7 @@ tags:
 	- [[Skin Color]]
 		- All natural colors
 	- [[Hair Color]]
-		- All natural colors, blue, pure white, purple
+		- All natural colors, blue, pure white, purple, pink
 	- [[Body Type]]
 		- Average, Thin
 	- [[Iris Color]]
@@ -30,7 +30,7 @@ tags:
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Darkvision (30ft)]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Dexterous]]
-	- [[Charismatic]]
+	- [[Medium Dexterity Increase]]
+	- [[Medium Charisma Increase]]
 	- [[Keen Senses]]
 

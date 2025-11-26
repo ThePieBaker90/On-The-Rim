@@ -8,4 +8,4 @@ tags:
 - **Effects:**
 	- Carriers of this gene gain the Corpsefeed action. This action may only be taken on non-[[Hemogenic]] humanoid corpses. This does not inherently give the carrier blood storage
 		- Corpsefeed - 1 Action
-			- Reach 5ft, Targets a humanoid corpse. The creature drains 500 mL of blood from the corpse. The corpse is drained of all blood and cannot be fed on again.
+			- You bite a nearby corpse, draining it of its [[Materials/Blood|Blood]]. You gain 500 mL of [[Materials/Blood|Blood]], and the corpse is drained of all of its blood.

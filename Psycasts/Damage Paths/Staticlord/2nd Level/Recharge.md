@@ -5,7 +5,7 @@ tags:
   - Staticlord
 ---
 - **Path**:
-	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
+	- 2nd Level [[Staticlord Psycasts|Staticlord Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

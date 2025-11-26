@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Staticlord
+---
+- **Path**:
+	- 2nd Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You create a large electromagnetic pulse within a 15ft sphere centered on a point within range. 
+- **Upcasting**:
+	- .

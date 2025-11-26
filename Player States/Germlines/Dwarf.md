@@ -31,7 +31,7 @@ tags:
 	- [[Increased Health]]
 	- [[Slow Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Sharp]]
-	- [[Resilient]]
-	- [[Strong]]
+	- [[Small Wisdom Increase]]
+	- [[Medium Constitution Increase]]
+	- [[Medium Strength Increase]]
 

@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Staticlord
+---
+- **Path**:
+	- 2nd Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 32 (32)
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**:
+	- Power surges through your ranged weapons, giving your bullets electric properties. For the duration of the psycast, when you hit a creature with a ranged attack with a firearm, an electric spark arcs to an enemy creature within 10ft of the creature. This electric spark deals 1 electric damage.
+- **Upcasting**:
+	- You cannot upcast this psycast.

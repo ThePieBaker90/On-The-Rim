@@ -31,5 +31,5 @@ tags:
 	- [[Fire Resistant]]
 	- [[Fast Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Dexterous]]
+	- [[Medium Dexterity Increase]]
 

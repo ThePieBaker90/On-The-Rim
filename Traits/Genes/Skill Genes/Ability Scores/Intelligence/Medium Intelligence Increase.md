@@ -6,6 +6,6 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -4
 - **Effects:**
-	- Carriers of this gene have their wisdom score increased by 2.
+	- Carriers of this gene have their intelligence score increased by 2.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Sharp]]
+	- [[Small Intelligence Increase]]

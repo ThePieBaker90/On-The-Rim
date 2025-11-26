@@ -29,7 +29,8 @@ aliases:
 ## Metabolic Efficiency
 - See [[Metabolic Efficiency]].
 ## Gene Incompatibility
-- Some genes are incompatible with other genes, whichever gene is in the person's [[Xenotypes|Xenotype]] takes priority.
+- Some genes are incompatible with other genes, whichever gene is in the person's [[Xenotypes|Xenotype]] takes priority. 
+- Genes can not be added to [[Germlines]] or [[Xenotypes]] with an incompatible gene.
 ## Obsolete Genes
 - Some genes may render other genes obsolete. If a creature has a gene that makes another gene they have obsolete, the obsolete gene is removed. 
 	- [[Endogenes]] can make [[Xenogenes]] obsolete.

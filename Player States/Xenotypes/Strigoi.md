@@ -3,8 +3,8 @@ tags:
   - Xenotype
   - Strigoi
 ---
-- *The Strigoi were born out of a catastrophic experiment gone awry. A brilliant scientist named Dr. Morbius sought to create the ultimate soldier by merging the DNA of humans and a now-extinct bat-like creature known as the Desmodus. In pursuit of immortality and power, Dr. Morbius infused these hybrid beings with [[Archites]]. The Strigoi possess a terrifying visage, with features reminiscent of both humans and bats. Their bodies are covered in a layer of viscous fluid that enhances their ability to resist damage and rendering them resistant to disease and poison. In battle, the Strigoi are formidable opponents, using their massive talons to their then enemies apart with ruthless efficiency.*
-- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +2
+- *The Strigoi were born out of a catastrophic experiment gone awry. A brilliant scientist named Dr. Morbius sought to create the ultimate soldier by merging the DNA of humans and a now-extinct bat-like creature known as the Desmodus. In pursuit of immortality and power, Dr. Morbius infused these hybrid beings with [[Archites]]. The Strigoi possess a terrifying visage, with features reminiscent of both humans and bats. Their bodies are covered in a layer of viscous fluid that enhances their ability to resist damage and rendering them resistant to disease and poison. In battle, the Strigoi are formidable opponents, using their talons to their then enemies apart with ruthless efficiency.*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -4
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Primal Canines]]
 	- [[Decreased Hair-Growth]]
@@ -15,7 +15,7 @@ tags:
 		- Black
 	- [[Talons]]
 - **[[Genes#Life Genes|Life Xenogenes:]]**
-	- None.
+	- [[Deathless]]
 - **[[Genes#Ability Genes|Ability Xenogenes:]]**
 	- [[Bloodfeeder]]
 	- [[Animalfeeder]]
@@ -32,7 +32,7 @@ tags:
 	- [[Hardened Immune System]]
 	- [[Poison Resistant]]
 - **[[Genes#Skill Genes|Skill Xenogenes:]]**
-	- [[Strong]]
-	- [[Dexterous]]
-	- [[Resilient]]
-	- [[Awkward]]
+	- [[Large Strength Increase]]
+	- [[Medium Dexterity Increase]]
+	- [[Medium Constitution Increase]]
+	- [[Small Charisma Decrease]]

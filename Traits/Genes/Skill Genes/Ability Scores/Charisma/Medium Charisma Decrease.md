@@ -7,8 +7,5 @@ tags:
 	- 4
 - **Effects:**
 	- Carriers of this gene have their charisma score decreased by 2.
-- **[[Genes#Gene Incompatibility|Incompatibilities]]**
-	- [[Charismatic]]
-	- [[Charming]]
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
-	- [[Awkward]]
+	- [[Small Charisma Decrease]]

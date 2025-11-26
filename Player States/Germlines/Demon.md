@@ -31,6 +31,6 @@ tags:
 	- [[Darkvision (30ft)]]
 	- [[Cold Resistant]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Hearty]]
-	- [[Athletic]]
+	- [[Small Constitution Increase]]
+	- [[Small Strength Increase]]
 

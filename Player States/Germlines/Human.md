@@ -27,10 +27,6 @@ tags:
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- None.
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Athletic]]
-	- [[Hearty]]
-	- [[Agile]]
-	- [[Knowledgeable]]
-	- [[Sharp]]
-	- [[Charming]]
+	- [[Ability Score Increase]]
+	- [[Resilient]]
 
