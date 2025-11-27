@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Staticlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- 120ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- Lightning strikes down on a creature within range. The creature must make a dexterity saving throw to avoid the strike. On a failure, they take . electric damage and all creatures within . of them take . electric damage. On a success, all  
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+

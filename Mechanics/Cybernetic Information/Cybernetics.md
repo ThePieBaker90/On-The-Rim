@@ -2,6 +2,8 @@
 tags:
   - Info
   - Cybernetic
+aliases:
+  - Cybernetic
 ---
 ## Cybernetic Overview
 - Cybernetics replace body parts of living creatures in order to enhance their abilities beyond natural limits. They can also be installed to remedy missing limbs or organs.

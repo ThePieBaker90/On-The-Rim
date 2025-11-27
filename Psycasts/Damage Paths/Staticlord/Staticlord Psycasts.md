@@ -12,13 +12,12 @@ aliases:
 	- [[Zap]] (2, 9)
 	- [[Bolt]] (2, 12)
 - 2nd Level:
-	- [[EMP Blast]]
+	- [[EMP Blast]] (6, 33)
 	- [[Power Surge]] (5, 32)
 	- [[Recharge]] (20, 0)
 - 3rd Level:
 	- Arcing Lightning
-	- 
-	- Royal Capacitor
+	- [[Royal Capacitor Spell]]
 - 4th Level:
 	- Lightning Bolt
 	- Ball Lightning
