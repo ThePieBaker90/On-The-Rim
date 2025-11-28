@@ -17,7 +17,7 @@ aliases:
 	- [[Recharge]] (20, 0)
 - 3rd Level:
 	- Arcing Lightning
-	- [[Royal Capacitor Spell]]
+	- [[Imbue Static]] (4, 24)
 - 4th Level:
 	- Lightning Bolt
 	- Ball Lightning

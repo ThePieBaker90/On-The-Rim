@@ -45,3 +45,5 @@ Empath - Mind Quick sand, you think about things more and you fall deeper into t
 270 Core Spells
 54 Miscasts
 702 Potential Cross Path Spells
+
+Reflection magic

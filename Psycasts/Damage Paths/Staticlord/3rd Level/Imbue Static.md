@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Staticlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+		- 1 Action.q
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 15ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 1 turn.
+- **Effects**:
+	- You imbue a high amount of static electricity in a creature within range. For the psycast duration, the creature takes 1d6 electric damage for every 5ft of movement speed they use.
+- **Upcasting**:
+	- You may upcast this psycast. For every 26 psyfocus spent above the normal cost for this psycast, this psycast last an additional turn.
+
