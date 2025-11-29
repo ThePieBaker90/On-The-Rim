@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- You create a large electromagnetic pulse within a 15ft sphere centered on a point within range. Within the sphere, the following effects occur:
-		- All non-[[Cybernetics|Cybernetic]], non-EMP-shielded electronics in the area are disabled for 3 turns. 
+		- All non-[[Cybernetics|Cybernetic]] or non-EMP-shielded electronics in the area are disabled for 3 turns. 
 		- Each creature with a [[Cybernetics|Cybernetic]] in the sphere must make a constitution saving throw. On a failure, all [[Cybernetics]] the creature has are [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 2 turns. On a success, nothing happens.
 		- Each construct must make a constitution saving throw. On a failure, the creature is [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 2 turns. On a success, nothing happens.
 - **Upcasting**:

@@ -9,17 +9,17 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Zap]] (2, 9)
-	- [[Bolt]] (2, 12)
+	- [[Zap]] (2, 13)
+	- [[Bolt]] (2, 11)
 - 2nd Level:
 	- [[EMP Blast]] (6, 33)
 	- [[Power Surge]] (5, 32)
 	- [[Recharge]] (20, 0)
 - 3rd Level:
-	- Arcing Lightning
-	- [[Imbue Static]] (4, 24)
+	- [[Arcing Lightning]] (3, 23)
+	- [[Increase Static]] (4, 24)
 - 4th Level:
-	- Lightning Bolt
+	- [[Lightning Bolt]] (3, 44)
 	- Ball Lightning
 - 5th Level:
 	- Seven Ult
