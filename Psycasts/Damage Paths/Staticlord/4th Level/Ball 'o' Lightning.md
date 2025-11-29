@@ -11,17 +11,21 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 44
+	- 34
 - [[Range]]:
-	- 30ft
+	- 75ft
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Gesture
+	- Kinetic
 - **Duration**:
-	- Instant.
+	- 5 turns.
 - **Effects**:
-	- You shoot a lightning bolt directly at a point within range. All creatures within 5ft of the bolt's path must make a Dexterity saving throw. On a failure, they take 4d10 electric damage and any [[Cybernetics]] they have installed are [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 1 turn. On a success, they take half as much damage.
-		- All non-cybernetic or non-EMP-shielded electronics in the area are disabled for 3 turns.
+	- You shoot a small, slow moving ball of electrical plasma towards a point within range. The ball originates from you and travels 15ft towards the point at the beginning of your turn and when this psycast is cast. The ball has an area of effect of a 10ft sphere centered on it.
+		- When any creature is in the area of effect, the ball's movement speed slows to 5ft per turn.
+		- If a creature starts their turn in the area of effect, comes within the area of effect for the first time this turn, or ends their turn within the area of effect, they must make a Dexterity saving throw. On a failure, they take 4d6 electric damage and any [[Cybernetics]] they have installed are [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 1 turn. On a success, they take half as much damage.
+		- All non-cybernetic or non-EMP-shielded electronics in the area of effect are disabled for 3 turns.
+	- If the ball collides with a surface, it sticks to the surface.
+
 - **Upcasting**:
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the range increases by 10ft.
+	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the radius of the area of effect increases by 5ft.

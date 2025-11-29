@@ -20,7 +20,7 @@ aliases:
 	- [[Increase Static]] (4, 24)
 - 4th Level:
 	- [[Lightning Bolt]] (3, 44)
-	- Ball Lightning
+	- [[Ball 'o' Lightning]] (3, 34)
 - 5th Level:
 	- Seven Ult
 ## Miscasts

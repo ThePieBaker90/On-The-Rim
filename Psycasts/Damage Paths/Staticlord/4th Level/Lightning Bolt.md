@@ -24,4 +24,4 @@ tags:
 	- You shoot a lightning bolt directly at a point within range. All creatures within 5ft of the bolt's path must make a Dexterity saving throw. On a failure, they take 4d10 electric damage and any [[Cybernetics]] they have installed are [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 1 turn. On a success, they take half as much damage.
 		- All non-cybernetic or non-EMP-shielded electronics in the area are disabled for 3 turns.
 - **Upcasting**:
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the range increases by 10ft.
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the range increases by 10ft.

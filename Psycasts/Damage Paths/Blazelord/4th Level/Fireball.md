@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You lob a fireball at a point within range. All creatures within a 10ft sphere of this point must make a Dexterity saving throw. On a failure, they take 4d10 fire damage and catch [[On Fire!]] for 2 turns. On a success, they take half damage.
+	- You lob a fireball at a point within range. All creatures within a 15ft sphere of this point must make a Dexterity saving throw. On a failure, they take 4d8 fire damage and catch [[On Fire!]] for 2 turns. On a success, they take half damage.
 		- All flammables in the area of the fireball will catch on fire.
 - **Upcasting**:
 	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the radius of the sphere increases by 5ft.
