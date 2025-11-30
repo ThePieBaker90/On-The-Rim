@@ -25,9 +25,9 @@ aliases:
 	- Seven Ult
 ## Miscasts
 - Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+	- 
+- Level 2 Miscast - Static Overload
+	- You cast [[Increase Static]] on yourself upcast one degree.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
