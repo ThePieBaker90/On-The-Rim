@@ -1,0 +1,30 @@
+---
+tags:
+  - Psycast
+  - 5th-Level
+  - Staticlord
+---
+- **Path**:
+	- 5th Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 
+- **[[Neural Heat]] Generation:**
+	- 
+- [[Range]]:
+	- 
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**:
+	- You rapidly increase the temperature in a 100ft sphere centered on you. All creatures within range take 1d4+2 fire damage at the end of their turn and catch [[On Fire!]] for 1 turn.
+		- A creature who is already [[On Fire!]] does not decrease the duration of [[On Fire!]] while in range. Additionally the duration of [[On Fire!]] increases by 1 turn when [[On Fire!]] would normally be applied by this psycast.
+		- The damage from this spell is not increased by [[Burned]].
+		- You are immune to the temperature increase.
+	- TODO: reflavor spell
+- **Upcasting**:
+	- You cannot upcast this psycast.
