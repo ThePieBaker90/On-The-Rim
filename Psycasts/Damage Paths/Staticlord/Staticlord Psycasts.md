@@ -24,8 +24,8 @@ aliases:
 - 5th Level:
 	- Seven Ult
 ## Miscasts
-- Level 1 Miscast - .
-	- 
+- Level 1 Miscast - Electromagnetic Burst
+	- You cast [[EMP Blast]] centered on yourself. You automatically fail the saving throw.
 - Level 2 Miscast - Static Overload
 	- You cast [[Increase Static]] on yourself upcast one degree.
 ## Crosspath Psycasts

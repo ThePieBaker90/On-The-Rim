@@ -1,0 +1,33 @@
+---
+tags:
+  - Germline
+---
+- *Lore*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** .
+- **[[Germlines#Proportions|Proportions:]]**
+	- .
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Hylotl Language TODO
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- .
+	- [[Body Type]]
+		- Average
+	- [[Iris Color]]
+		- Reds, Oranges, Pinks, Purples
+	- [[Sclera Color]]
+		- Matching iris color
+	- [[Hairless]]
+	- [[Third Eye]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- .
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- .
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- 
+

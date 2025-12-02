@@ -14,10 +14,11 @@ tags:
 * [[Cybercost]] Multiplier:
 	* x1
 * Nonexistent Versions:
-	* Prosthetic, Bionic, Advanced Bionic, and Archotech
+	* [[Prosthetic]], [[Bionic]], [[Advanced Bionic]], [[Archotech]]
 * Additional Info:
-	* Medium creatures have 5000ml of blood stored within. For every 500ml of blood lost, the creature will gain 1 level of [[Exhaustion]].
-	* Medium creatures will regenerate 500ml of blood when taking a short rest, and 1500ml of blood when taking a long rest.
+	* Humanoid creatures have 5000ml of blood stored within. For every 500ml of blood lost, the creature will gain 1 level of [[Exhaustion]].
+	* Humanoid creatures will regenerate 500ml of blood when taking a rest.
+	
 
 | Blood Loss Level    | ml of blood lost/left | [[Exhaustion]] Modifier |
 | ------------------- | --------------------- | ----------------------- |

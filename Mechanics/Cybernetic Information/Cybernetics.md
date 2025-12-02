@@ -14,7 +14,7 @@ aliases:
 	- If installed by the user, the patient must make a DC 17 wisdom (medical) check and a DC 17 constitution check. 
 	- If a wisdom (medical) or constitution check fails, the body part is lost, and the patient must deal with the relevant penalties of having a body part removed
 ## Cybernetic Restrictions
-- Cybernetics only take up one part slot (unless otherwise stated), for example; installing an archotech arm does not replace both arms, only one arm.
+- Cybernetics only take up one part slot (unless otherwise stated), for example; installing an [[Archotech]] [[Arms|Arm]] does not replace both arms, only one arm.
 	- Cybernetics which do not replace a part may take up a slot on that part (such as enhancers or modules), indicated in parenthesis next to the part.
 	- Only one cybernetic may be installed onto a part that takes up that specific slot.
 	- Some cybernetics may take up multiple slots or a choice of multiple slots.

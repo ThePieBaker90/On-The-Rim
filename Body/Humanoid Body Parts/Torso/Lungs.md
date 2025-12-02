@@ -14,6 +14,6 @@ tags:
 * [[Cybercost]] Multiplier:
 	* x2
 * Nonexistent Versions:
-	* Archotech
+	* [[Archotech]]
 * Additional Info:
 	* Lung efficiency is calculated based off of the average efficiency between the two lungs.

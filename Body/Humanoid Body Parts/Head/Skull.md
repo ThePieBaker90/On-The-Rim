@@ -14,6 +14,6 @@ tags:
 * [[Cybercost]] Multiplier:
 	* x1
 * Nonexistent Versions:
-	* Prosthetic.
+	* [[Prosthetic]]
 * Additional Info:
 	* Installation requires [[Skull Replacement Nanites]] to systematically replace the original skull with the new skull.
