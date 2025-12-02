@@ -22,7 +22,7 @@ aliases:
 	- [[Lightning Bolt]] (3, 44)
 	- [[Ball 'o' Lightning]] (3, 34)
 - 5th Level:
-	- [[Vortex Psycast]]
+	- [[Unknown Powerful Staticlord Psycast]] TODO
 ## Miscasts
 - Level 1 Miscast - Electromagnetic Burst
 	- You cast [[EMP Blast]] centered on yourself. You automatically fail the saving throw.

@@ -19,10 +19,12 @@ aliases:
 		- This phase happens after the cast phase, during this phase all recurring or passive effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
 	- End (effect end)
 		- This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
+- If an effect forces a psycast into a phase, the phases before are skipped and their effects do not occur.
 ## Psycasting Modifier and Save DC
 - There are two stats that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
-	- A creature's psycasting ability modifier is determined by their class.
-	- A creature's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. This is used for saving throws in psycasts along with checks involving psycasts.
+	- A psycaster's psycasting ability modifier is determined by their class.
+	- A psycaster's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. 
+		- All psycast saving throws without an explicit DC use the psycaster's psycast save DC as the save DC.
 ## Psycast Paths
 - All psycasts belong to a path, the following is a comprehensive list of paths:
 	- Damage Paths
@@ -31,7 +33,7 @@ aliases:
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
 		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs
 		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
-		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Device Interference TODO
+		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electronics TODO
 		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 	- Creation Paths
@@ -65,12 +67,12 @@ aliases:
 	- Time based psycasts require the caster to be busy with the psycast for the casting time. When the specified time passes, the psycast casts. These psycasts can be interrupted with actions.
 - If the caster is damaged during the casting time, they make a Wisdom saving throw. The DC is equal to 10 or half the damage received, whichever is higher. On a failure, the psycast is interrupted. On a success, nothing happens.
 ## Psycast Costs
-- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast .
+- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast.
 	- [[Neural Heat]] rapidly dissipates and limits how many psycasts you can cast in a short time.
 	- [[Psyfocus]] is only regenerated on rest and limits how many psycasts you can cast before having to rest.
 ## Psycast Range
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
-	- "Self" means the psycast has no need for a range or targets the caster.
+	- "Self" means the psycast has no need for a range.
 ## Psycast Targeting
 - All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated and the target is determined when the psycast is cast.
 	- "Self" refers to the caster.
@@ -78,7 +80,7 @@ aliases:
 	- "A point" refers to a point in space, this doesn't need to be grounded unless explicitly stated.
 	- "Within range" means the target's distance to the caster must be under the psycast's range.
 ## Psycast Components
-- All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, and Material. The components must be satisfied during the [[#Casting Time]] of the psycast.
+- All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. The components must be satisfied during the [[#Casting Time]] of the psycast.
 	- Kinetic components require the psycaster have one free hand.
 		- Gesture components require the psycaster have two free hands. This component is incompatible with kinetic.
 	- Verbal components require the psycaster to be able to speak.
@@ -104,7 +106,7 @@ aliases:
 	- Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 		- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.
 ## Upcasting
-- Psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
+- Some psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 ## Interrupting
 - Psycasts can be interrupted by many different effects. When a psycast is interrupted, the psycast immediately passes to the end phase. All costs already paid are not refunded.
