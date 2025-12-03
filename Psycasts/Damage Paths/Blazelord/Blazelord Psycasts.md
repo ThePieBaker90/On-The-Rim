@@ -22,7 +22,7 @@ aliases:
 	- [[Immolate]] (4, 34)
 - 5th Level:
 	- [[Ninth Circle of Hell]] (8, 48)
-	- [[Flamehart's Aura of Fire]] (26, 58)
+	- [[Flamehart's Aura of Fire]] (12, 58)
 ## Miscasts
 - Level 1 Miscast - Sudden Combustion
 	- You combust into flames, you catch [[On Fire!]] for 3 turns.

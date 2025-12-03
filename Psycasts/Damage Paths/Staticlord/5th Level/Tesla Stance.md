@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 5th-Level
+  - Staticlord
+---
+- **Path**:
+	- 5th Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 58 (43)
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Concentration, up to 3 turns.
+- **Effects**:
+	- Lightning arcs from you striking any nearby creature. For the duration of the psycast, all creatures within range of you at the beginning of your turn must make a Dexterity saving throw. On a failure, they take 4d6 electric damage and all creatures within 10ft of them take 1d6 electric damage. On a success, they take half as much initial damage.
+		- Creatures within range of you make the Dexterity saving throw when this psycast is cast.
+- **Upcasting**:
+	- You may upcast this psycast. For every 30 psyfocus spent above the normal cost for this psycast, the initial damage is increased by 2d6.
