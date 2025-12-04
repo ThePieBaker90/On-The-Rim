@@ -10,19 +10,19 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Shape Abomination Matter]] (1,10)
-	- [[Summon Abomination Matter]] (18,0)
+	- [[Summon Abomination Matter]] (12,0)
 - 2nd Level:
-	- [[Goo Bombs]] (4,30)
+	- [[Goo Bombs]] (3,30)
 	- [[Sludge Shield]] (5,25)
-	- [[Summon Abomination]] (30,18)
+	- [[Summon Abomination]] (28,18)
 - 3rd Level:
-	- [[Fabricate Abomination Tool]] (55,0)
-	- [[Construct Abomination Structure]] (75,0)
+	- [[Fabricate Abomination Tool]] (35,0)
+	- [[Construct Abomination Structure]] (55,0)
 - 4th Level:
 	- [[Alador's Abomination Arms]] (3,35)
 	- [[Darius' Dislocate]] (3,44)
 - 5th Level:
-	- [[Summon Abomination Army]] (65,18)
+	- [[Summon Abomination Army]] (56,18)
 ## Miscasts
 - Level 1 Miscast - Goo Thinning
 	- All active [[Abomination Matter]] has its health and duration cut in half (rounded down).
