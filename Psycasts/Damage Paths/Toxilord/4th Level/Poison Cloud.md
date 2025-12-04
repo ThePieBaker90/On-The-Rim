@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
-	- You summon a cloud of poisonous gas in a 15ft sphere centered on on a point within range. Creatures starting their turn within the cloud, entering the cloud for the first time this turn, or ending their turn within the cloud must make a Constitution saving throw. On a failure, they take 1d8 poison damage and gain 3 levels of [[Poison Buildup]]. On a success they gain 1 level of [[Poison Buildup]].
+	- You summon a cloud of poisonous gas in a 15ft sphere centered on on a point within range. Creatures starting their turn within the cloud, entering the cloud for the first time this turn, or ending their turn within the cloud must make a Constitution saving throw. On a failure, they absorb the airborne poisons, taking 1d8 poison damage and gaining 3 levels of [[Poison Buildup]]. On a success they gain 1 level of [[Poison Buildup]].
 		- Strong winds will dissipate the cloud.
 - **Upcasting**:
 	- You may upcast this psycast. For every 23 psyfocus spent above the normal cost for this psycast, the cloud applies an additional level of [[Poison Buildup]] on a failed saving throw.
