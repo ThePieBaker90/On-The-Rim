@@ -2,10 +2,10 @@
 tags:
   - Germline
 ---
-- *todo*
+- *Bunkins were initially made by combining bunny, hare, and human DNA, but over time they evolved due to environmental pressures. Their physical prowess is unmatched for their size.*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
-	- Small, 3-5ft tall generally
+	- Small, 3-4ft tall generally
 - **[[Germlines#Speed|Speed:]]**
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
@@ -23,6 +23,7 @@ tags:
 	- [[Bunny Ears]]
 	- [[Short Fur]]
 		- All natural colors, pastels
+	- [[Bunny Nose]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Herbivore]]
@@ -31,6 +32,7 @@ tags:
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Increased Reaction]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Large Dexterity Increase]]
+	- [[Medium Dexterity Increase]]
+	- [[Medium Strength Increase]]
 	- [[Keen Senses]]
 

@@ -10,6 +10,7 @@ aliases:
 - A person can only have one germline at any given time, germlines also cannot be changed.
 - All germlines are humanoid and therefore have all [[Humanoid Body]] parts. Some may have additional parts specified in their [[Endogenes]].
 ## List of Germlines
+- [[Bunkin]]
 - [[Demon]]
 - [[Drow]]
 - [[Dwarf]]
