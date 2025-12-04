@@ -1,0 +1,11 @@
+---
+tags:
+  - Life-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 2
+- **Effects:**
+	- Carriers of this gene only eat plants as food.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Carnivore]]

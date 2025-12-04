@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Hylotls evolved on worlds with low oxygen and water supply. Their natural affinity for water psycasts and increased breath helped them survive the harsh environments.*
+- *Hylotls evolved on worlds with low oxygen and fresh water supply. Their natural affinity for water psycasts and increased lung capacity helped them survive the harsh environments.*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
@@ -29,6 +29,7 @@ tags:
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Increased Breath]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Medium Dexterity Increase]]
+	- [[Small Dexterity Increase]]
 	- [[Medium Charisma Increase]]
+	- [[Small Intelligence Increase]]
 

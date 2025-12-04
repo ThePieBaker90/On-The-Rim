@@ -2,36 +2,35 @@
 tags:
   - Germline
 ---
-- *Dwarves evolved from humans on planets with intense gravity. Their smaller, more robust stature allow them to live on planets with harsh g-forces.*
+- *todo*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
-	- Medium, around 4-5ft tall generally
+	- Small, 3-5ft tall generally
 - **[[Germlines#Speed|Speed:]]**
-	- 25ft
+	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Dwarvish
+	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors
 	- [[Hair Color]]
-		- All natural colors
+		- All natural colors, pastels
 	- [[Body Type]]
-		- Muscled, Plus-Sized
+		- Average, Muscled, Thin
 	- [[Iris Color]]
 		- All natural colors
-	- [[Bearded]]
+	- [[Bunny Ears]]
+	- [[Short Fur]]
+		- All natural colors, pastels
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
+	- [[Herbivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- None.
+	- [[Longjump Legs]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- [[Darkvision (60ft)]]
-	- [[Poison Resistant]]
-	- [[Increased Health]]
-	- [[Slow Speed]]
+	- [[Increased Reaction]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Small Wisdom Increase]]
-	- [[Medium Constitution Increase]]
-	- [[Medium Strength Increase]]
+	- [[Large Dexterity Increase]]
+	- [[Keen Senses]]
 

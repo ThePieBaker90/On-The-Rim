@@ -5,7 +5,7 @@ aliases:
   - Germline
 ---
 ## Germline Overview
-- Germlines are equivalent to races or species. Germlines are variations on the [[Human]] genome, some are artificial modifications and others are natural mutations brought on by the environment.
+- Germlines are equivalent to races or species. All germlines are variations on the [[Human]] genome, some are artificial modifications and others are natural mutations brought on by the environment.
 - Germlines all have the following parameters: [[#Proportions]], [[#Speed]], [[#Languages]], and [[Endogenes]].
 - A person can only have one germline at any given time, germlines also cannot be changed.
 - All germlines are humanoid and therefore have all [[Humanoid Body]] parts. Some may have additional parts specified in their [[Endogenes]].
@@ -34,8 +34,8 @@ aliases:
 ## Half Germlines
 - A person whose parents are of different germlines will have parts of both germlines, this person's germline is called a half germline. The [[Endogenes]] and other parameters of half germlines are determined at birth based off of the [[Endogenes]] of both of their parents rather than a preset germline.
 - Each parameter of the half germline is determined in the following ways:
-	- The size of the child is determined as an average between both parent's sizes.
-	- The speed of the child is determined with a coin flip between both parent's speed.
+	- The height of the child ais determined as an average between both parent's heights. The size of the child is determined with a coin flip between both parent's sizes.
+	- The speed of the child is 30ft.
 	- The languages of the child are all languages the parents know, up to a maximum of 3.
 	- The [[Endogenes]] of the child are determined on an [[Endogenes]] by [[Endogenes]] basis. For each [[Endogenes]] a parent has, flip a coin. On a heads, the child gains the [[Endogenes|Endogene]]. On a tails, the child does not gain the [[Endogenes|Endogene]].
 		- If the child were to obtain two instances of the same [[Endogenes|Endogene]], the second instance is removed.
