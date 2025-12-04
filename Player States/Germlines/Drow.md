@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Drows are a combination of [[Witch|Witches]] and [[Elf|Elves]], they possess a natural ability for psycasting and also have a high dexterity. Originally created for planets with low sunlight, they have a superior darkvision but a slight sensitivity to sunlight.*
+- *Drows are a combination of [[Witch]] DNA and [[Elf]] DNA, they possess a natural ability for psycasting and also have a high dexterity. Originally created for planets with low sunlight, they have a superior darkvision but a slight sensitivity to sunlight.*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
@@ -13,13 +13,13 @@ tags:
 	- Elvish
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Varying shades of black
+		- Blacks, Greys
 	- [[Hair Color]]
 		- White
 	- [[Body Type]]
 		- Average, Muscled, Thin
 	- [[Iris Color]]
-		- Lilac, Silver, Pink, Red, Blue
+		- Lilacs, Silver, Pinks, Reds, Blues
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]

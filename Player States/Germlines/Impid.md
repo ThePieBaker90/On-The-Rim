@@ -19,7 +19,7 @@ tags:
 	- [[Body Type]]
 		- Muscled, Thin
 	- [[Iris Color]]
-		- Black, Blue, White, Gold, Silver
+		- Blacks, Blues, Whites, Gold, Silver
 	- [[Thin Tail]]
 	- [[Mini Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

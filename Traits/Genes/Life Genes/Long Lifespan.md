@@ -9,4 +9,3 @@ tags:
 	- Carriers of this gene live to be 100 years old on average.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
 	- [[Average Lifespan]]
-	- [[Deathless]]

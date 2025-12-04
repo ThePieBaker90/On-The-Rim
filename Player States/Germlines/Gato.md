@@ -15,7 +15,7 @@ tags:
 	- [[Skin Color]]
 		- All natural colors
 	- [[Hair Color]]
-		- All natural colors, blue, pure white, purple, pink
+		- All natural colors, blues, whites, purples, pinks
 	- [[Body Type]]
 		- Average, Thin
 	- [[Iris Color]]
@@ -23,6 +23,8 @@ tags:
 	- [[Cat Ears]]
 	- [[Cat Tail]]
 	- [[Cat Eyes]]
+	- [[Short Fur]]
+		- All natural colors, blues, whites, purples, pinks
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**

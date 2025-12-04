@@ -13,13 +13,13 @@ tags:
 	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Greens, Yellows, Oranges, and Browns
+		- Greens, Yellows, Oranges, Browns
 	- [[Hair Color]]
-		- Greens, Yellows, Oranges, and Browns
+		- Greens, Yellows, Oranges, Browns
 	- [[Body Type]]
 		- Average
 	- [[Iris Color]]
-		- Green, Yellow, Orange, Brown
+		- Greens, Yellows, Oranges, Browns
 	- [[Foliage Hair]]
 	- [[Barkskin]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

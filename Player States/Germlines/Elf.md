@@ -13,9 +13,9 @@ tags:
 	- Elvish
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Copperish with varying amounts of green
+		- All natural colors
 	- [[Hair Color]]
-		- Tends towards browns and blacks
+		- Browns, Blacks, Blondes
 	- [[Body Type]]
 		- Average, Thin
 	- [[Iris Color]]

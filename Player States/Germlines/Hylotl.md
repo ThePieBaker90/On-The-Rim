@@ -2,18 +2,18 @@
 tags:
   - Germline
 ---
-- *Lore*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** .
+- *Hylotls evolved on worlds with low oxygen and water supply. Their natural affinity for water psycasts and increased breath helped them survive the harsh environments.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
-	- .
+	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Hylotl Language TODO
+	- Abyssal
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- .
+		- Greens, Blues, Pinks, Purples
 	- [[Body Type]]
 		- Average
 	- [[Iris Color]]
@@ -25,9 +25,10 @@ tags:
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- .
+	- [[Aquator Psycast Affinity]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- .
+	- [[Increased Breath]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- 
+	- [[Medium Dexterity Increase]]
+	- [[Medium Charisma Increase]]
 

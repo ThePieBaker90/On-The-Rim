@@ -19,9 +19,10 @@ tags:
 	- [[Body Type]]
 		- Average, Muscled, Plus-Sized
 	- [[Iris Color]]
-		- Black, Red, White, Gold, Silver
+		- Blacks, Reds, Whites, Gold, Silver
 	- [[Demonic Tail]]
 	- [[Traits/Genes/Cosmetic Genes/Horns/Horns|Horns]]
+	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
