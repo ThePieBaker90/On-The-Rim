@@ -6,7 +6,7 @@ aliases:
   - Staticlord
   - Staticlord Psycast
 ---
-*todo.*
+*Staticlords specialize in creating and storing electrical currents. Most of their psycasts center around high voltages and disabling electronics. Staticlords are proficient at taking out many of grouped up enemies.*
 ## Core Psycasts
 - 1st Level:
 	- [[Zap]] (2, 13)
