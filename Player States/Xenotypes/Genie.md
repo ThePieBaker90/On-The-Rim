@@ -3,7 +3,7 @@ tags:
   - Xenotype
 ---
 - *.*
-- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +4
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +2
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Body Type]]
 		- Thin
@@ -17,3 +17,4 @@ tags:
 	- [[Large Intelligence Increase]]
 	- [[Large Constitution Decrease]]
 	- [[Medium Strength Decrease]]
+	- [[Crafty]]
