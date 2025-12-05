@@ -3,14 +3,14 @@ tags:
   - Germline
 ---
 - **
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -6
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -8
 - **[[Germlines#Proportions|Proportions:]]**
 	- Small, 3-4ft generally
 - **[[Germlines#Speed|Speed:]]**
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- 
+	- Dwarvish
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors
@@ -30,4 +30,5 @@ tags:
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Charisma Increase]]
 	- [[Small Strength Increase]]
+	- [[Small Dexterity Increase]]
 

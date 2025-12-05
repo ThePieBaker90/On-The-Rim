@@ -13,7 +13,7 @@ tags:
 	- Abyssal
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Greens, Blues, Pinks, Purples
+		- Greens, Blues, Pinks, Purples, Whites
 	- [[Body Type]]
 		- Average
 	- [[Iris Color]]

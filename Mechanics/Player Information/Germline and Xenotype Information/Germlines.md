@@ -10,17 +10,22 @@ aliases:
 - A person can only have one germline at any given time, germlines also cannot be changed.
 - All germlines are humanoid and therefore have all [[Humanoid Body]] parts. Some may have additional parts specified in their [[Endogenes]].
 ## List of Germlines
-- [[Bunkin]]
-- [[Demon]]
-- [[Drow]]
-- [[Dwarf]]
-- [[Elf]]
-- [[Gato]]
-- [[Human]]
-- [[Hylotl]]
-- [[Impid]]
-- [[Phytokin]]
-- [[Witch]]
+Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
+- Common Germlines
+	- [[Dwarf]]
+	- [[Elf]]
+	- [[Half-Foot]]
+	- [[Human]]
+	- [[Witch]]
+- Uncommon Germlines
+	- [[Demon]]
+	- [[Drow]]
+	- [[Gato]]
+	- [[Impid]]
+- Rare Germlines
+	- [[Bunkin]]
+	- [[Hylotl]]
+	- [[Phytokin]]
 ## Proportions
 - The proportions parameter contains two sub-parameters; size, and height. 
 	- Size determines a general size of the person with the germline; Tiny, Small, Medium, Large, Huge, and Colossal. Most people have a medium size.
