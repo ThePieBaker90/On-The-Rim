@@ -1,0 +1,19 @@
+---
+tags:
+  - Xenotype
+---
+- *.*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +4
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
+	- [[Body Type]]
+		- Thin
+- **[[Genes#Life Genes|Life Xenogenes:]]**
+	- .
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
+	- .
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- .
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- [[Large Intelligence Increase]]
+	- [[Large Constitution Decrease]]
+	- [[Medium Strength Decrease]]

@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- **
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -8
+- *Half-Foots were initially made for stealth and extraction missions with diluted [[Dwarf]] DNA. Although in recent times, they have found comfort living quiet lives on earth-like planets.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Small, 3-4ft generally
 - **[[Germlines#Speed|Speed:]]**
@@ -17,16 +17,17 @@ tags:
 	- [[Hair Color]]
 		- All natural colors
 	- [[Body Type]]
-		- Average, Muscled, Plus-Sized
+		- Average, Muscled, Plus-Sized, Thin
 	- [[Iris Color]]
 		- All natural colors
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- .
+	- [[Personal Cover]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- .
+	- [[Brave]]
+	- [[Nimble]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Charisma Increase]]
 	- [[Small Strength Increase]]
