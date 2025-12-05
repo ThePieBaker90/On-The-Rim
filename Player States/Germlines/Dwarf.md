@@ -23,6 +23,7 @@ tags:
 	- [[Bearded]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
+	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- None.
 - **[[Genes#Passive Genes|Passive Endogenes]]**

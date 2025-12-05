@@ -25,6 +25,7 @@ tags:
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
+	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Fire Spew]]
 	- [[Blazelord Psycast Affinity]]

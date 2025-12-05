@@ -4,9 +4,9 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- 3
+	- 0
 - **Effects:**
-	- Carriers of this gene can eat food of only animal origin.
+	- Carriers of this gene can eat food of both plant and animal origin.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
 	- [[Herbivore]]
-	- [[Omnivore]]
+	- [[Carnivore]]

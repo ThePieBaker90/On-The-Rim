@@ -23,6 +23,7 @@ tags:
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Long Lifespan]]
+	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Nature's Mask]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
@@ -30,6 +31,7 @@ tags:
 	- [[Charm Resistant]]
 	- [[Fast Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Medium Dexterity Increase]]
+	- [[Small Dexterity Increase]]
+	- [[Small Wisdom Increase]]
 	- [[Keen Senses]]
 

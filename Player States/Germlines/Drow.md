@@ -23,6 +23,7 @@ tags:
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
+	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Natural Psycaster]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**

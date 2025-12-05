@@ -5,7 +5,7 @@ tags:
 - *Bunkins were initially made by combining bunny, hare, and human DNA, but over time they evolved due to environmental pressures. Their physical prowess is unmatched for their size.*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
-	- Small, 3-4ft tall generally
+	- Medium or Small, 3-5ft tall generally
 - **[[Germlines#Speed|Speed:]]**
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**

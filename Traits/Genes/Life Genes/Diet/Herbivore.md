@@ -6,6 +6,7 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 2
 - **Effects:**
-	- Carriers of this gene only eat plants as food.
+	- Carriers of this gene can eat food of only plant origin.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
 	- [[Carnivore]]
+	- [[Omnivore]]

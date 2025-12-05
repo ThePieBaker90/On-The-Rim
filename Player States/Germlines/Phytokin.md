@@ -24,6 +24,7 @@ tags:
 	- [[Barkskin]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
+	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Nature's Gift]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**

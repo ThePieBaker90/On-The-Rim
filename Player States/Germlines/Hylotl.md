@@ -24,6 +24,7 @@ tags:
 	- [[Third Eye]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
+	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Aquator Psycast Affinity]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**

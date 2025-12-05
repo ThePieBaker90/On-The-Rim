@@ -4,14 +4,14 @@ tags:
   - Lycan
 ---
 - *Lore*
-- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -6
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -3
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Wolf Ears]]
 	- [[Wolf-Like Fur]]
 	- [[Wolf-Like Head]]
 	- [[Wolf Tail]]
 - **[[Genes#Life Genes|Life Xenogenes:]]**
-	- None.
+	- [[Carnivore]]
 - **[[Genes#Ability Genes|Ability Xenogenes:]]**
 	- [[Warhowl]]
 	- [[Diurnal Morph]]
