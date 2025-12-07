@@ -6,4 +6,4 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 0
 - **Effects:**
-	- Carriers of this gene do not have body hair.
+	- Carriers of this gene do not have facial, body, or scalp hair.

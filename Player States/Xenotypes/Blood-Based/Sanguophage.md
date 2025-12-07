@@ -4,7 +4,7 @@ tags:
   - Xenotype
 ---
 - *Sanguophages are a type of archotech-enhanced xenotype. Powered by [[Archites]], their abilities go far beyond normal genetic enhancements. They are mentally adept and preternaturally beautiful. Sanguophages must regularly consume hemogen derived from human blood, and they're easily destroyed by fire. The first sanguophage appeared thousands of years ago when the lord-explorer Varan-Dur sought to control a hyperintelligent archotech and found himself transformed by it instead. Every sanguophage is descended from him. Since then, sanguophages have often been hunted because of their destabilizing power and their need for blood. Since they can pass for baseliners, many live in hiding among typical humans. Their numbers are unknown. Some think they are legends or rare irrelevancies. Some believe sanguophages secretly direct entire human civilizations. The stories speak of eternal lords ruling billions from slate-black space stations, or directing blood sacrifices at conferences in the underlayers of the deepest urbworlds.*
-- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -5
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -1
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Primal Canines]]
 	- [[Smooth Skinned]]
@@ -21,7 +21,6 @@ tags:
 	- [[Mild UV Sensitivity]]
 	- [[Tinderskin]]
 	- [[Radiance Vulnerability]]
-	- [[Increased Healing]]
 - **[[Genes#Skill Genes|Skill Xenogenes:]]**
 	- [[Small Strength Increase]]
 	- [[Small Constitution Increase]]
