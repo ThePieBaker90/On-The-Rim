@@ -1,15 +1,14 @@
 ---
 tags:
-  - Condition
+  - Status
 ---
-- When a creature has the dying condition they suffer the following effects:
+- When a creature has the dying status they suffer the following effects:
 	- They are [[Incapacitated]].
-	- They are [[Prone]] and cannot remove this condition by getting up.
+	- They are [[Prone]]
 	- They cannot move.
 	- Every turn they make a death saving throw, to do this they roll 1d20.
 		- On a 20 they immediately remove this condition and gain 1 health.
-		- On a 10-19 they gain 1 successful throw, if they have 3 successful throws they immediately gain [[Stabilized]] and remove this condition.
+		- On a 10-19 they gain 1 successful throw, if they have 3 successful throws they immediately gain [[Stabilized]] and remove this status
 		- On a 2-9 they gain 1 failed throw, if they have 3 failed throws they immediately die.
 		- On a 1 they gain 2 failed throws, if they have 3 failed throws they immediately die.
 		- Healing this creature grants 1 successful throw, damaging this creature grants 1 failed throw.
-

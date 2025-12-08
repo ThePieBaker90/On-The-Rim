@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - When a creature has the charmed condition they suffer the following effects:
 	- They cannot willingly attack or use harmful effects on the creature who charmed them.

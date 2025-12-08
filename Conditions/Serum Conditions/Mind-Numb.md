@@ -2,6 +2,7 @@
 tags:
   - Condition
   - Serum
+  - Mixed-Condition
 ---
 - When a creature has the Mind-Numb condition, the following effects happen
 	- (+) x75% incoming psychic damage.

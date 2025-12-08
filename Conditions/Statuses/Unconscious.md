@@ -2,7 +2,7 @@
 tags:
   - Condition
 ---
-- When a creature has the unconscious condition they suffer the following effects:
+- When a creature has the unconscious status, they suffer the following effects:
 	- They are [[Incapacitated]].
 	- They can't move or speak.
 	- Automatically fails all perception, strength, and dexterity based checks. 

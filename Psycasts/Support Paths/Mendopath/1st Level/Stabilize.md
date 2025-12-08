@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You stabilize a creature within range, removing the [[Dying]] condition (and [[Bleeding]] if they have it) and applying [[Stabilized]]. 
+	- You stabilize a creature within range, they lose the [[Dying]] status and [[Bleeding]] condition and gain the [[Stabilized]] status.
 - **Upcasting**:
 	- You cannot upcast this psycast.

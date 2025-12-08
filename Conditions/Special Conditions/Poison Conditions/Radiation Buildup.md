@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Radiation Buildup is measured in 20 levels.
 	- An effect can give a creature one or more levels of Radiation buildup, as specified in the effect’s description. 

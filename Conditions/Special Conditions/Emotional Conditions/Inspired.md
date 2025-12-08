@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Positive-Condition
 ---
 - When a creature has the Inspired condition, they may reroll 1 dice of choice at anytime during the condition. The outcome of this reroll replaces the result of the dice.
 	- Using this ability ends the condition.

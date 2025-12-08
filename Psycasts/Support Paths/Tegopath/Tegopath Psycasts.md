@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Barrier]]
 - 2nd Level:
 	- .
 - 3rd Level:

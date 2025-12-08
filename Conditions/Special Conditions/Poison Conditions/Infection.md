@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Infection is measured in different levels.
 	- An effect can give a creature one or more levels of infection, as specified in the effect’s description. 

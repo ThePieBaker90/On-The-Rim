@@ -2,6 +2,7 @@
 tags:
   - Condition
   - Serum
+  - Mixed-Condition
 ---
 - When a creature has the Juggernaut condition, the following effects happen
 	- (+) Strength increases to 18.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Volatile Poison Buildup is measured in different levels.
 	- An effect can give a creature one or more levels of volatile poison buildup, as specified in the effect’s description. 

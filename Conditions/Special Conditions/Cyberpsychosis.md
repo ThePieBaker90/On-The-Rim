@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Whenever a creature with the Cyberpsychosis condition kills another creature, is slighted, or witnesses the death of a friendly creature they must roll a d20. Upon rolling a 1 the creature goes cyberpsycho. 
 - A creature who has gone cyberpsycho has the following changes:

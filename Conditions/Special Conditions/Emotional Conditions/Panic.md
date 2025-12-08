@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Panic is measured in 5 levels.
 	- An effect can give a creature up to one level of panic.

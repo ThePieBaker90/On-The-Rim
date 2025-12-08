@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Positive-Condition
 ---
 - When a creature has the Energized condition, they have the following effects:
 	- Their speed is doubled.

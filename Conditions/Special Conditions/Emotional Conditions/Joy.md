@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Positive-Condition
 ---
 - When a creature has the Joy condition, they add 2 to the following rolls:
 	- Saving throws.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Mixed-Condition
 ---
 - Anger is measured in 5 levels.
 	- An effect can give a creature one or more levels of anger, as specified in the effect’s description. 

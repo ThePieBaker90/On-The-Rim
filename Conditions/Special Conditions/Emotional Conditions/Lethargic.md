@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - When a creature has the Lethargic condition, they suffer the following effects:
 	- Their speed is halved.

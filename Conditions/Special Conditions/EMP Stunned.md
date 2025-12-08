@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - When a [[Humanoid Body|Body Part]] has the EMP Stunned condition, that part provides 0% efficiency and any special effects it has cannot be used.
 	- One minute of work on the part with 10 credits worth of materials will remove this condition from the cybernetic. 
