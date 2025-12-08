@@ -24,4 +24,4 @@ tags:
 	- A net made out of [[Sticky Chemical]] shoots out towards a creature within range. The creature must make a dexterity saving throw to avoid the net. On a failure they become [[Grappled]] for 1 turn and are knocked away from the caster 10ft. On a success, nothing happens.
 		- If the creature is knocked into a wall, they are [[Grappled]] for an additional turn and take 1d8 bludgeoning damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the [[Grappled]] condition lasts for an additional turn.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the [[Grappled]] status lasts for an additional turn.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Mind-Shattering Pain is measured in 8 levels.
 	- An effect can give a creature one or more levels of mind-shattering pain, as specified in the effect’s description. 
