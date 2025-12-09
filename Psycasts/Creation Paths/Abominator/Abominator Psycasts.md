@@ -13,7 +13,7 @@ aliases:
 	- [[Summon Abomination Matter]] (12,0)
 - 2nd Level:
 	- [[Goo Bombs]] (3,30)
-	- [[Sludge Shield]] (5,25)
+	- [[Sludge Shield]] (5,26)
 	- [[Summon Abomination]] (28,18)
 - 3rd Level:
 	- [[Fabricate Abomination Tool]] (35,0)
