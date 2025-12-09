@@ -1,0 +1,12 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 2
+- **Effects:**
+	- Carriers of this gene lose 5ft of movement speed.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Fast Speed]]
+	- [[Fast Runner]]

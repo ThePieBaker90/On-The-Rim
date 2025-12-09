@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 75
+- **[[Neural Heat]] Generation:**
+	- 45
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant
+- **Effects**
+	- You heal a creature within range to maximum health.
+- **Upcasting**:
+	- You cannot upcast this psycast. 

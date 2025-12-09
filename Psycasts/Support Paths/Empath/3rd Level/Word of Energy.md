@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Empath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 40 (40)
+- [[Range]]:
+	- 40ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- Concentration, up to 3 turns.
+- **Effects**:
+	- You say an energetic word to grant an ally within range the [[Energized]] condition for the psycast duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

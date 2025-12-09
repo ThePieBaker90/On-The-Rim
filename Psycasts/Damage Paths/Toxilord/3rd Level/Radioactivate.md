@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Toxilord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 7
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 10ft sphere, line of sight not necessary.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You release a burst of gamma radiation, all creatures within 10ft of you gain 2 levels of [[Radiation Buildup]].
+		- This burst pierces through everything except lead.
+		- You gain half as many levels that are applied to other creatures, rounded down.
+- **Upcasting**:
+	- You may upcast this psycast. For every 23 psyfocus spent above the normal cost for this psycast, an additional level of [[Radiation Buildup]] is applied

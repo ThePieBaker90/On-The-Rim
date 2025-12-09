@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - 3rd-Level
+  - Aquator
+  - Mendopath
+---
+- **Path**:
+	- 3rd Level [[Aquator Psycasts|Aquator Psycast]] & [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 19
+- **[[Neural Heat]] Generation:**
+	- 16
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A container within range.
+- **Components**:
+	- Kinetic, Material (A container that can hold at least 250ml of liquid)
+- **Duration**:
+	- Instant
+- **Effects**:
+	- 250ml of healing water pours out of your pointer finger. If this liquid is drunk, it heals the creature who drank it 2d6 hit points. 
+		- The water takes 1 action to drink.
+		- The healing water becomes normal water after 12 hours.
+- **Upcasting**:
+	- You may upcast this psycast. For every 33 psyfocus spent above the normal cost for this psycast, the water heals 1d6 more hit points.

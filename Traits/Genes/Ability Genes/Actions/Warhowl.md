@@ -1,0 +1,13 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -3
+- **Effects:**
+	- Carriers of this gene gain the warhowl action. This can be done once every rest.
+		- Warhowl - 1 Action
+			- All allies within 20ft of you for the next 5 turns have the following effects applied at the beginning of their turn.
+				- They gain 1 level of [[Anger]]
+				- They do not suffer from the hit modifiers of [[Anger]]

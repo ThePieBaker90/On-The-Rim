@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Staticlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 29
+- [[Range]]:
+	- 25ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You shock a creature with arcing electricity. The creature must make a dexterity saving throw. On a failure, the creature takes 2d6 electric damage and casts a copy of this psycast for each creature within 10ft of them, each copy targeting a different creature. On a success, nothing happens.
+		- The psycast copy uses the original psycast caster's psycast save DC.
+		- A creature who has failed the saving throw automatically succeeds any saving throws from copies of this psycast until the original psycast ends.
+- **Upcasting**:
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 electric damage and all copies of this psycast are upcast by one degree.

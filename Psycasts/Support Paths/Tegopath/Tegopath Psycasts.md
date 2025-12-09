@@ -7,19 +7,33 @@ aliases:
   - Tegopath Psycast
 ---
 *todo.*
-
+## Core Psycasts
 - 1st Level:
-	- .
+	- [[Barrier]] (4, 22)
 - 2nd Level:
-	- .
+	- [[Reactive Barrier]] (5, 25)
+	- Grant Resistance
 - 3rd Level:
-	- .
+	- Sigma Like Shield
+	- Barrier based off of surrounding enemies
+	- Unstoppable like
 - 4th Level:
-	- .
+	- Spherical Shield
+	- Debuff Remover
 - 5th Level:
-	- .
-
+	- Shield that allows projectiles out
+	- Baptiste Lamp
+## Miscasts
 - Level 1 Miscast - .
 	- .
 - Level 2 Miscast - .
+	- .
+## Crosspath Psycasts
+- 2nd Level:
+	- .
+- 3rd Level:
+	- [[Force Barrier Psycast]] ([[Gravitor Psycasts|Gravitor]])
+- 4th Level:
+	- .
+- 5th Level:
 	- .

@@ -1,0 +1,35 @@
+---
+tags:
+  - Germline
+---
+- *Witches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability and have an easier time learning [[Psycasts]].*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 5-7ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Elvish
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- All natural colors
+	- [[Hair Color]]
+		- All colors
+	- [[Body Type]]
+		- Average, Muscled, Thin, Plus-Sized
+	- [[Iris Color]]
+		- All colors
+	- [[Pointy Ears]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- [[Natural Psycaster]]
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Darkvision (30ft)]]
+	- [[Increased Neural Heat Capacity]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Medium Wisdom Increase]]
+	- [[Small Intelligence Increase]]
+	- [[Small Charisma Increase]] 

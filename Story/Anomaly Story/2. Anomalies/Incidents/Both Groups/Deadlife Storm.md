@@ -15,18 +15,18 @@ The party is located near the monolith and facility. Near these is an old cemete
 Corpse-Grey clouds can be seen on the horizon (a [[Death Pall|Death Pall]]). After 1 hour the incident starts and the [[Death Pall]] arrives.
 ****
 ## Incident
-When the [[Death Pall|Death Pall]] arrives, the air will begin to smell like rotting flesh. Additionally, [[Shambler|Shamblers]] will rise from each of the graves at the graveyard. 
+When the [[Death Pall|Death Pall]] arrives, the air will begin to smell like rotting flesh. Additionally, [[Medium Shambler|Shamblers]] will rise from each of the graves at the graveyard. 
 The encounter will consist of:
-- 18 [[Shambler|Shamblers]]
-While the [[Death Pall|Death Pall]] is going on, the [[Shambler|Shamblers]] will revive one turn after being killed unless they are missing their head. 
+- 18 [[Medium Shambler|Shamblers]]
+While the [[Death Pall|Death Pall]] is going on, the [[Medium Shambler|Shamblers]] will revive one turn after being killed unless they are missing their head. 
 
 The [[Death Pall|Death Pall]] lasts for 10 minutes.
 
 If the party decides to hide in the facility, they will encounter a [[Revenant|Revenant]] who will start out hiding in the dark hallway. This [[Revenant|Revenant]] will drop a [[Revenant Spine]] and a [[Dark Archotech Gem]] when killed.
 ****
 ## Loot
-- [[Gaulderstone]] - Held by a [[Shambler]]
-- [[Spotted Knife]] - Held by a [[Shambler]]
+- [[Gaulderstone]] - Held by a [[Medium Shambler]]
+- [[Spotted Knife]] - Held by a [[Medium Shambler]]
 - [[Paul's Notes on the Death Pall]] - Found on a desk in the [[Facility Anomaly|Facility]] in the central room
 - [[Revenant Spine]] - Dropped from the [[Revenant|Revenant]]
 

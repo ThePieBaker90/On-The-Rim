@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Empath
+---
+- **Path**:
+	- 4th Level [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A point within range and a psycast beginning with "Word of".
+- **Components**:
+	- Gesture, Vocal
+- **Duration**:
+	- Instant
+- **Effects**:
+	- As an additional cost to cast this psycast, you must pay the [[Neural Heat]] and [[Psyfocus]] cost of the chosen psycast.
+		- You do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if you would exceed your neural heat limit because of this cost.
+	- You empower a "Word of" psycast to affect a group of creatures within 10ft of a point. You cast the chosen psycast when this psycast is cast except it targets all creatures within 10ft of the point.
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -1,0 +1,39 @@
+---
+tags:
+  - Germline
+---
+- *Created in an experiment to mix cat and human DNA, Gatos possess enhanced dexterity and charisma. Their perception abilities are enhanced by their cat ears, tail, and eyes. 
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 4-6ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- One of choice
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- All natural colors
+	- [[Hair Color]]
+		- All natural colors, blues, whites, purples, pinks
+	- [[Body Type]]
+		- Average, Thin
+	- [[Iris Color]]
+		- All natural colors
+	- [[Cat Ears]]
+	- [[Cat Tail]]
+	- [[Cat Eyes]]
+	- [[Short Fur]]
+		- All natural colors, blues, whites, purples, pinks
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- None.
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Darkvision (30ft)]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Medium Dexterity Increase]]
+	- [[Medium Charisma Increase]]
+	- [[Keen Senses]]
+

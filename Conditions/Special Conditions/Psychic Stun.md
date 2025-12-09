@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - When a creature has the psychic stun condition they suffer the following effects:
 	- They are [[Psy Sapped]]

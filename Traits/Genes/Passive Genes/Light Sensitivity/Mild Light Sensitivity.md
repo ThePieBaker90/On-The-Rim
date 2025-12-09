@@ -1,0 +1,13 @@
+---
+tags:
+  - Passive-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 4
+- **Effects:**
+	- Carriers of this gene suffer from the following:
+		- The [[Flashed]] condition lasts for twice as long.
+		- -2 modifier to skill checks while in bright light.
+		- They gain the [[Flashed]] condition for 2 turns when they go from darkness to bright light suddenly. 
+			- This is not increased by other parts of this gene.

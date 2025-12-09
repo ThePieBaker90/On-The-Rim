@@ -23,5 +23,3 @@ tags:
 	- *A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered [[Plasteel]]-weave plates paired with a built in energy absorber stop most attacks.*
 
 Disadvantage on stealth checks.
-
-From: Vanilla Expanded Armors

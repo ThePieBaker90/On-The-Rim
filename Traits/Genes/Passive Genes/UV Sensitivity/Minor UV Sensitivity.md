@@ -1,0 +1,10 @@
+---
+tags:
+  - Passive-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 2
+- **Effects:**
+	- Carriers of this gene suffer from the following while in direct UV light:
+		- -2 to all ability checks

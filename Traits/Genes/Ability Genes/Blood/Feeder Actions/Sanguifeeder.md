@@ -1,0 +1,12 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -1
+- **Effects:**
+	- Carriers of this gene gain the Sanguifeed action. This action may only be taken on [[Hemogenic]] humanoids.
+		- Sanguifeed - 1 Action
+			- You attempt to bite a nearby creature to drain them of their blood, make a melee roll to hit against the creature. On a hit you deal 1d6 + STR piercing damage, drain 500 mL of [[Hemogenic Blood]] from the target, and gain 500 mL of [[Hemogenic Blood]]. If the target is asleep, this attack does not wake them.
+	- Carriers of this gene also gain 1000 mL of [[Hemogenic Blood]] storage.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Mixed-Condition
 ---
 - When a creature has the frozen solid condition they suffer the following effects:
 	- They are [[Paralyzed]] in ice, when this ice breaks they lose this condition.

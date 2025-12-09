@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 32
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You target a creature within range with a psychic spike. The creature must make a Wisdom saving throw. On a failed save, the spike psionically impales the creature, applying the [[Psy Sapped]] condition for 1 turn and dealing 3d6 psychic damage. On a successful save, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 damage.

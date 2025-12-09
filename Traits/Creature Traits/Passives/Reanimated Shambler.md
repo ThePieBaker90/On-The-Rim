@@ -1,0 +1,14 @@
+---
+tags:
+  - Trait
+  - Reanimated-Shambler
+---
+- A creature with the Reanimated Shambler trait has the following effects:
+	- They are undead in addition to their other types.
+	- They are immune to Poison and Necrotic Damage.
+	- They are immune to the [[Bleeding]] condition.
+	- Their max health is halved.
+	- They cannot cast or concentrate on psycasts.
+	- Creature has 120% [[Efficiency]] for Strength, Dexterity, and Constitution scores.
+	- Creature has 50% [[Efficiency]] for Intelligence, Wisdom, and Charisma scores.
+	- They may not equip or use weapons and tools.

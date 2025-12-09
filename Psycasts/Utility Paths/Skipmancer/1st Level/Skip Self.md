@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Skipmancer
+---
+- **Path**:
+	- 1st Level [[Skipmancer Psycasts|Skipmancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 21
+- [[Range]]:
+	- 50ft
+- **Target**:
+	- A grounded point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You and everything you have equipped or stored on you teleports to a grounded point within range. 
+		- Things bigger than 15ft$^3$ cannot be teleported.
+- **Upcasting**:
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.

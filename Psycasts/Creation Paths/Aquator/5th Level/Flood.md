@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- 35ft
 - **Target**:
-	- A room
+	- A room within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

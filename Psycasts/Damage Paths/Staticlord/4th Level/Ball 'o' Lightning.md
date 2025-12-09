@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Staticlord
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Staticlord Psycasts|Staticlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 34
+- [[Range]]:
+	- 75ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- You shoot a small, slow moving ball of electrical plasma towards a point within range. The ball originates from you and travels 15ft towards the point at the beginning of your turn and when this psycast is cast. The ball has an area of effect of a 10ft sphere centered on it.
+		- When any creature is in the area of effect, the ball's movement speed slows to 5ft per turn.
+		- If a creature starts their turn in the area of effect, comes within the area of effect for the first time this turn, or ends their turn within the area of effect, they must make a Dexterity saving throw. On a failure, they take 4d6 electric damage and and 1 random [[Cybernetics|Cybernetic]] they have installed is [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 1 turn. On a success, they take half as much damage.
+		- All non-cybernetic or non-EMP-shielded electronics in the area of effect are disabled for 3 turns.
+	- If the ball collides with a surface, it sticks to the surface.
+
+- **Upcasting**:
+	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the radius of the area of effect increases by 5ft.

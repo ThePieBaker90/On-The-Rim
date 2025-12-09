@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Blazelord
+---
+- **Path**:
+	- 1st Level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 1
+- **[[Neural Heat]] Generation:**
+	- 8
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 10 turns.
+- **Effects**:
+	- You conjure a small flame on your pointer finger. The flame lights up 10ft around you in bright light. You may use this flame to light flammable objects [[On Fire!]]
+		- The flame cannot light creatures [[On Fire!]] and does no damage to them.
+- **Upcasting**:
+	- You cannot upcast this psycast.

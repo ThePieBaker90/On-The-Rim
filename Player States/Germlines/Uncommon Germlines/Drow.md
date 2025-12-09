@@ -1,0 +1,37 @@
+---
+tags:
+  - Germline
+---
+- *Drows were created by combining [[Witch]] DNA and [[Elf]] DNA. They possess a natural ability for psycasting and also have a high dexterity. Originally created for planets with low sunlight, they have a superior darkvision but a slight sensitivity to sunlight.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 5-6ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Elvish
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- Blacks, Greys
+	- [[Hair Color]]
+		- White
+	- [[Body Type]]
+		- Average, Muscled, Thin
+	- [[Iris Color]]
+		- Lilacs, Silver, Pinks, Reds, Blues
+	- [[Pointy Ears]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- [[Natural Psycaster]]
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Darkvision (120ft)]]
+	- [[Charm Resistant]]
+	- [[Minor UV Sensitivity]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Small Dexterity Increase]]
+	- [[Small Wisdom Increase]]
+	- [[Keen Senses]]
+

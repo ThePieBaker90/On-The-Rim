@@ -9,13 +9,13 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 65
+	- 56
 - **[[Neural Heat]] Generation:**
 	- 18
 - [[Range]]:
 	- 10ft
 - **Target**:
-	- Surface
+	- 3 points within range.
 - **Components**:
 	- Kinetic, Material (18kg of [[Abomination Matter]])
 - **Duration**:

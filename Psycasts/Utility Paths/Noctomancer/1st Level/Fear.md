@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Noctomancer
+---
+- **Path**:
+	- 1st Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 60ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- 2 turns.
+- **Effects**:
+	- You say a word of fear to psychically drive a creature within range into a fearful panic, the creature must make a Wisdom saving throw. On a failure, they gain [[Frightened]] for the psycast duration. On a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast.

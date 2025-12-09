@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Skipmancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Skipmancer Psycasts|Skipmancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 24
+- **[[Neural Heat]] Generation:**
+	- 48
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 4 turns.
+- **Effects**:
+	- You grant the [[Skipping]] condition to a creature within range for the duration of the psycast. 
+- **Upcasting**:
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the duration of the psycast is increased by 2 turns

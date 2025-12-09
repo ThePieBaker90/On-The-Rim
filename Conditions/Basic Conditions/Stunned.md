@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - When a creature has the stunned condition they suffer the following effects:
 	- They are [[Incapacitated]].

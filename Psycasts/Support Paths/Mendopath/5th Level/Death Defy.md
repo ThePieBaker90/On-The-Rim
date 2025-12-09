@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 25
+- **[[Neural Heat]] Generation:**
+	- 40 (40)
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 2 turns.
+- **Effects**
+	- You give a creature within range the ability to defy death once. During the psycast duration, if the target creature's hit points drops to 0, the following effects occur:
+		- They heal 2d12 health, this ignores healing reductions and negations.
+		- They ignore the effects of dropping to 0 hit points.
+		- The caster loses concentration on the psycast.
+- **Upcasting**:
+	- You cannot upcast this psycast.

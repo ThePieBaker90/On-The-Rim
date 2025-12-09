@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 2nd-Level
+  - Hemopath
+---
+- **Path**:
+	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]] & [[Hemopath Psycasts|Hemopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 26
+- [[Range]]:
+	- 10ft
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- You make your blood highly acidic to damage attackers. Your blood applies [[Chemical Burned]] for 1 turn to creatures within 10ft of you who do any of the following.
+		- Deal piercing, slashing, or force damage to you.
+		- Apply the [[Bleeding]] condition to you.
+		- Cause you to bleed in any way.
+	- You are immune to your own acid blood.
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, [[Chemical Burned]] is applied for an additional turn.

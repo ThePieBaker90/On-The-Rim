@@ -7,19 +7,19 @@ tags:
 - **Path**:
 	- 4th level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- 46
+	- 36
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
 	- 50ft
 - **Target**:
-	- Food or drink.
+	- Food or drink within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 1 turn
+	- Instant.
 - **Effects**:
 	- You purify one volume of liquid (up to 15L) or one piece of food (up to 3kg) from any poisons, contaminants, or diseases. 
 		- Certain contaminants cannot be removed by this psycast.

@@ -1,0 +1,35 @@
+---
+tags:
+  - Germline
+---
+- *Phytokin were an experiment in mixing plant and human DNA in an attempt to solve food shortages. They are capable of photosynthesis among other plant-like abilities.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 5-6ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- One of choice
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- Greens, Yellows, Oranges, Browns
+	- [[Hair Color]]
+		- Greens, Yellows, Oranges, Browns
+	- [[Body Type]]
+		- Average
+	- [[Iris Color]]
+		- Greens, Yellows, Oranges, Browns
+	- [[Foliage Hair]]
+	- [[Barkskin]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- [[Nature's Gift]]
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Photosynthesis]]
+	- [[Sap Blood]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Green Thumb]]
+

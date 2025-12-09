@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 22
+- [[Range]]:
+	- 15ft
+- **Target**:
+	- An ally within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- You grant an ally within range [[Ward]] for the duration of the psycast.
+- **Upcasting**:
+	- You cannot upcast this psycast.

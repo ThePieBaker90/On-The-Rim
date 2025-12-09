@@ -8,7 +8,7 @@ tags:
 	- Milliliters (ml)
 - **Rarity**:
 	- Rare
-	- Found in all creatures with the [[Hemogenic]] trait.
+	- Found in all creatures with the [[Hemogenic]] [[Genes|Gene]].
 - **Common Uses**:
 	- Needed to use powerful abilities for [[Bruxa|Bruxas]]
 - **Looks:**

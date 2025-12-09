@@ -1,0 +1,11 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -3
+- **Effects:**
+	- Carriers of this gene gain the Corpsefeed action. This action may only be taken on non-[[Hemogenic]] humanoid corpses. This does not inherently give the carrier blood storage
+		- Corpsefeed - 1 Action
+			- You bite a nearby corpse, draining it of its [[Materials/Blood|Blood]]. You gain 500 mL of [[Materials/Blood|Blood]], and the corpse is drained of all of its blood.

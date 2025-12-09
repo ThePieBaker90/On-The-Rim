@@ -1,0 +1,12 @@
+---
+tags:
+  - Condition
+  - Negative-Condition
+---
+- When a creature has the bleeding condition, every turn they will lose 200ml of [[Body/Humanoid Body Parts/Blood|Blood]].
+- If the creature receives any healing, the duration of bleeding reduces by 1 turn per 10 health healed. 
+	- All healing reduces the duration of bleeding by a minimum of 1 turn.
+- A creature who is bleeding and [[Dying]] automatically adds 1 failed throw per turn with [[Bleeding]].
+- A creature cannot have multiple stacks of bleeding. If another stack is applied to a creature, the creature only is affected by the stack with the longest amount of time left.
+- If a creature
+- Constructs are immune to bleeding unless otherwise stated.

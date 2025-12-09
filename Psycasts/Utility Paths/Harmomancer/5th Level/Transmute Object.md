@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- An inanimate object.
+	- An inanimate object within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

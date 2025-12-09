@@ -1,0 +1,33 @@
+---
+tags:
+  - Germline
+---
+- *A baseline human, unchanged by environmental pressures and gene modification procedures. They are also known as a Baseliner in some reaches of the galaxy*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 5-6ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- One of choice
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- All natural colors
+	- [[Hair Color]]
+		- All natural colors
+	- [[Body Type]]
+		- Average, Muscled, Thin, Plus-Sized
+	- [[Iris Color]]
+		- All natural colors
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- None.
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- None.
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Ability Score Increase]]
+	- [[Resilient]]
+

@@ -7,17 +7,17 @@ tags:
 - **Path**:
 	- 4th Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- 68
+	- 58
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- Touch
+	- Self.
 - **Target**:
-	- A point within range.
+	- Self.
 - **Components**:
-	- Kinetic, Verbal
+	- Verbal
 - **Duration**:
 	- 5 days
 - **Effects**:

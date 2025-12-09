@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Empath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 36 (31)
+- [[Range]]:
+	- 40ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- Concentration, up to 2 turns.
+- **Effects**:
+	- You say a lethargic word to drain the energy from a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain the [[Lethargic]] condition for the psycast duration. On a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast.

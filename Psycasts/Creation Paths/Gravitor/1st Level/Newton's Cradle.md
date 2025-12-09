@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Gravitor
+---
+- **Path**:
+	- 1st Level [[Gravitor Psycasts|Gravitor Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 1
+- **[[Neural Heat]] Generation:**
+	- 8
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 10 turns.
+- **Effects**:
+	- You create a small gravity field at a point within range. You can manipulate any objects fully encapsulated by the field in space freely for the duration of the psycast. 
+		- The gravity field may not stray beyond range from you.
+		- The gravity field dissipates if an object inside is attacked.
+		- The gravity field has a movement speed of 25ft.
+		- The gravity field's shape may be freely manipulated.
+		- The gravity field has a maximum volume of 5ft$^3$.
+- **Upcasting:**
+	- You cannot upcast this psycast.

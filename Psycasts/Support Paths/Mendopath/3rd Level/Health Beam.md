@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 18
+- **[[Neural Heat]] Generation:**
+	- 46 (31)
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**
+	- You create a healing beam between you and a creature within range. For the duration of the psycast, you may expend a bonus action to heal that creature for 1d6+1 health.
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you heal an additional 1d6 health every turn.

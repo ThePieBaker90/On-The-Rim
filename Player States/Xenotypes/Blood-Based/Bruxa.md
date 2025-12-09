@@ -1,0 +1,32 @@
+---
+tags:
+  - Bruxa
+  - Xenotype
+---
+- *In the complex tapestry of the universe, the Bruxas emerged as a unique and alluring companion to the [[Sanguophage]]. Created by an enigmatic archotech entity seeking to weave together beauty and power, the Bruxas were gifted with unparalleled grace and charm. Designed as the ultimate companions to other [[Sanguophage|Sanguophages]], the Bruxas were engineered with the unique ability to share blood and feed on [[Hemogenic Blood]], bestowing mutual benefits upon both parties.*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** 0
+	-  **Cosmetic Genes:**
+		- [[Iris Color]]
+			- Red
+		- [[Primal Canines]]
+		- [[Smooth Skinned]]
+	- **Life Genes:**
+		- [[Deathless]]
+	- **Ability Genes:**
+		- [[Bloodfeeder]]
+		- [[Sanguifeeder]]
+		- [[Uncanny Coagulation]]
+		- [[Blood Share]]
+		- [[Heart Crush]]
+		- [[Bite Implant]]
+			- [[Bruxa Fledgling]]
+	- **Passive Genes:**
+		- [[Hemogenic]]
+		- [[Mild UV Sensitivity]]
+		- [[Tinderskin]]
+		- [[Radiance Vulnerability]]
+	- **Skill Genes:**
+		- [[Small Strength Decrease]]
+		- [[Small Intelligence Increase]]
+		- [[Medium Wisdom Increase]]
+		- [[Medium Charisma Increase]]

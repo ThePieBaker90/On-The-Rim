@@ -1,0 +1,12 @@
+---
+tags:
+  - Skill-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 8
+- **Effects:**
+	- Carriers of this gene have their strength score decreased by 4.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Medium Strength Decrease]]
+	- [[Small Strength Decrease]]

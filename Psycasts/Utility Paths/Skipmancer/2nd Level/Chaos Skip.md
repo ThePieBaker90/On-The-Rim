@@ -1,0 +1,30 @@
+---
+tags:
+  - Psycast
+  - Skipmancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Skipmancer Psycasts|Skipmancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 50ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You teleport a target creature within range of you to a random point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. Upon a failure, they teleport. Upon a success, nothing happens.
+		- The random point will be within range of the creature, the random point does not require line of sight.
+		- Creatures cannot be bigger than 7ft$^3$. 
+		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.
+		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.

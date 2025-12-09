@@ -15,13 +15,13 @@ tags:
 - [[Range]]:
 	- 35ft
 - **Target**:
-	- A point.
+	- 5ft sphere within range, may go over obstacles.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You lob a projectile of organic-liquefication acid at a point within range. All creatures within a 5ft sphere centered on this point must make a Constitution saving throw. On a failed save, a creature takes 1d6+4 Corrosion damage. On a successful save, nothing happens.
+	- You lob a projectile of [[Organic-Liquefication Acid]] at a point within range. All creatures within a 5ft sphere centered on this point must make a Constitution saving throw. On a failed save, a creature takes 1d6+4 Corrosion damage. On a successful save, nothing happens.
 		- A creature wearing heavy armor or a warcasket always succeeds this save.
 		- This attack deals no damage to anything non-organic
 - **Upcasting**:

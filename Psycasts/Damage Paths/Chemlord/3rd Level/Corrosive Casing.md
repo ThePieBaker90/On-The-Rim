@@ -15,12 +15,13 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- Creature within range
+	- A creature within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You conjure a layer of TODO acid on a creature you touch. Melee attacks that hit this creature apply [[Broken Weapon]] to the weapon. 
+	- You conjure a layer of [[Anti-Weapon Chemical]] on a creature you touch. Melee attacks that hit this creature apply [[Broken Weapon]] to the weapon. 
+		- Upon losing concentration, the layer of TODO acid dissipates. 
 - **Upcasting**:
-	- You may upcast this psycast. For every 34 psyfocus spent above the normal cost for this psycast, the duration is increased by 2 turns.
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, the duration is increased by 2 turns.

@@ -1,0 +1,11 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -1
+- **Effects:**
+	- Carriers of this gene gain the Sonic-Screech action. They may do this action at the cost of 200ml of stored [[Materials/Blood|Blood]].
+		- Sonic-Screech - 1 Action
+			- You screech loudly to stun those nearby. All creatures within 15ft of you must make a DC 13 Constitution saving throw. On a failed save, a creature takes 1d10 sonic damage and become [[Sonic Stunned]] for one turn. On a successful save, they take half as much damage.

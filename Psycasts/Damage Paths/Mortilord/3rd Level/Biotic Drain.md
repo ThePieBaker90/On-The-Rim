@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**:
+	- You link a psychic health drain to a creature within range. At the beginning of each of your turns, the creature must make a Constitution saving throw. On a failure, they take 1d10 necrotic damage and you heal the damage they took. On a success, you lose concentration.
+	- If the creature leaves the range of the psycast, you lose concentration.
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

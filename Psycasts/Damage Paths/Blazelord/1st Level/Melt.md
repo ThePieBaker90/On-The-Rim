@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Blazelord
+---
+- **Path**:
+	- 1st Level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 18
+- **[[Neural Heat]] Generation:**
+	- 22
+- [[Range]]:
+	- 5ft
+- **Target**:
+	- A metallic object within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 1 turn.
+- **Effects**:
+	- You heat up a metallic object of your choice to a temperature of your choice over 1 turn. 
+		- You may heat the object up to 1500C. 
+		- You may only heat up a maximum volume of 5ft$^3$.
+		- If a creature is the target of this spell, they must make a dexterity saving throw. On a failure, they take 2d10 fire damage. On a success, nothing happens.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the target temperature may be 250C higher.

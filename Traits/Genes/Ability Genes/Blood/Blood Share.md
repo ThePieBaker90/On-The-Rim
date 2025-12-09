@@ -1,0 +1,11 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -2
+- **Effects:**
+	- Carriers of this gene gain the Blood Share action. They may do this action at the cost of 250ml of stored [[Hemogenic Blood]].
+		- Blood Share - 1 Action
+			- You touch another person with the [[Hemogenic]] [[Genes|Gene]], they gain 500mL of [[Materials/Blood|Blood]] in their internal [[Materials/Blood|Blood]] storage and you gain 500mL of [[Materials/Blood|Blood]] in your internal storage.

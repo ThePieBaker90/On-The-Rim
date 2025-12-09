@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Skipmancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Skipmancer Psycasts|Skipmancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 90ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You teleport a 15ft sphere centered on a point within range. Any creature within the sphere with enough remaining speed to reach the edge of the sphere may make a dexterity saving throw. A creature is teleported on a failed save, or if they don't/can't attempt a save. The creature is moved to the closest edge and are not teleported on a successful one.
+	- When teleported, a creature teleports to a random point within range.
+		- The random point will be within range of the creature, the random point does not require line of sight.
+	- If a single part of a creature would be teleported, the entire creature is teleported along with it.
+	- Creatures cannot be bigger than 20ft$^3$. 
+	- Everything a creature has equipped or stored on them teleports with them. Things bigger than 30ft$^3$ cannot be teleported.
+- **Upcasting**:
+	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 40ft.

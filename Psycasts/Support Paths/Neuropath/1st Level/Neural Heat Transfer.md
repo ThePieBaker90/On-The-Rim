@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Neuropath
+---
+- **Path**:
+	- 1st Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 20
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- An ally within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You dump your neural heat into a willing creature within range. The creature gains all of your neural heat and you lose all neural heat. The target creature also gains [[Psy Sapped]] for 1 turn.
+	- This psycast cannot be used while concentrating on another psycast.
+	- You cannot target yourself with this psycast
+- **Upcasting**:
+	- You cannot upcast this psycast.

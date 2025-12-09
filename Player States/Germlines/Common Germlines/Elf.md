@@ -1,0 +1,37 @@
+---
+tags:
+  - Germline
+---
+- *Elves evolved from humans on lush, hard to navigate planets. Their skin color and faster speed help them to navigate and live among the foliage.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 6-7ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 35ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Elvish
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- All natural colors
+	- [[Hair Color]]
+		- Browns, Blacks, Blondes
+	- [[Body Type]]
+		- Average, Thin
+	- [[Iris Color]]
+		- Green, Brown, Hazel
+	- [[Pointy Ears]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Long Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- [[Nature's Mask]]
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Darkvision (60ft)]]
+	- [[Charm Resistant]]
+	- [[Fast Speed]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Small Dexterity Increase]]
+	- [[Small Wisdom Increase]]
+	- [[Keen Senses]]
+

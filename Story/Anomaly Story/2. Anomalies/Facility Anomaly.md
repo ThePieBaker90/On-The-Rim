@@ -421,20 +421,20 @@ Level 2 Access
 		- *A mysterious console of label-less buttons*
 		- Upon disturbing, grants the [[Ghoulish]] trait to a random nearby creature.
 ![[GhoulContainment.png]]
-### [[Shambler]] Containment
+### [[Medium Shambler]] Containment
 Level 2 Access
 - Enemies:
-	- 8 [[Shambler]]s
+	- 8 [[Medium Shambler]]s
 - Loot:
 	- [[Kneecapper]]
 	- B
 - Stations:
 	- 2 [[Level 3 Sentry]]s
 ![[ShamblerContainment.png]]
-### [[Shambler]] Operating Room
+### [[Medium Shambler]] Operating Room
 Level 2 Access
 - Enemies:
-	- 3 [[Shambler]]s
+	- 3 [[Medium Shambler]]s
 - Loot:
 	- Bonesaw
 	- 2 [[Industrial-Tech Medicine]]

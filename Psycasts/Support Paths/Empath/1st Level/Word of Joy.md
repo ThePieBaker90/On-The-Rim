@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Empath
+---
+- **Path**:
+	- 1st Level [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 26 (21)
+- [[Range]]:
+	- 60ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal.
+- **Duration**:
+	- Concentration, up to 10 turns.
+- **Effects**:
+	- You say a word of joy to delight a creature within range, the creature gains [[Joy]] for the psycast duration.
+		- If [[Joy]] is removed, concentration is lost on this psycast.
+- **Upcasting**:
+	- You cant upcast this psycast.

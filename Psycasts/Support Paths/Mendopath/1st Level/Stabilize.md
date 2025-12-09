@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Mendopath
+---
+- **Path**:
+	- 1st Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 30
+- [[Range]]:
+	- 25ft
+- **Target**:
+	- A [[Dying]] creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**
+	- You stabilize a creature within range, they lose the [[Dying]] status and [[Bleeding]] condition and gain the [[Stabilized]] status.
+- **Upcasting**:
+	- You cannot upcast this psycast.

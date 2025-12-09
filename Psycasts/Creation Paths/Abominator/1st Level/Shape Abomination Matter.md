@@ -15,18 +15,17 @@ tags:
 - [[Range]]:
 	- 30ft
 - **Target**:
-	- A point within range.
+	- [[Abomination Matter]] within range.
 - **Components**:
 	- Kinetic, Material (Up to 5kg of [[Abomination Matter]])
 - **Duration**:
 	- 1 hour
 - **Effects**:
-	- You may manipulate up to 1kg of [[Abomination Matter]] in any of the following ways:
+	- You may manipulate up to 1kg of [[Abomination Matter]] in one of the following ways:
 		- You cause the [[Abomination Matter]] to form into a simple shape (square, cone, sphere, pyramid, etc.).
 		- You may freely levitate the [[Abomination Matter]] to a point (or points) in space.
-		- You cause [[Abomination Matter]] to harden into a shape. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the psycast ends.
-	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn. 
-	- If you cast this psycast multiple times, you can have no more than two of its effects active at a time. You can dismiss effects at any time.
+		- You cause [[Abomination Matter]] to harden. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the psycast ends.
+	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn at no cost. 
 	- This shaped abomination matter has 4 health.
 - **Upcasting:**
 	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] remains under your control for an additional hour and you can control 1kg more.

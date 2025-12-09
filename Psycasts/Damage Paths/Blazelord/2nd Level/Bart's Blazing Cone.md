@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Blazelord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A cone originating from the caster with a length of 20ft and maximum width of 10ft.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- Flames shoot out of your hands in a conical shape towards a direction of your choosing. The cone originates from you, has a length of 20ft, and a maximum width of 10ft. All creatures within the cone must make a Dexterity saving throw. On a failed save, a creature takes 2d4 fire damage and catch [[On Fire!]] for 1d4-1 turns. On a successful save, they take half damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 2d4 fire damage.

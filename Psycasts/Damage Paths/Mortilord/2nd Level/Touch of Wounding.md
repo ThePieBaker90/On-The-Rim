@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mortilord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Mortilord Psycasts|Mortilord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 21
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You inflict wounds with your hands. Make a roll to hit against a creature within range, adding your psycasting ability modifier. On a hit, they take 2d10 necrotic damage and gain [[Antiheal]] for 1 turn.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d10 necrotic damage.

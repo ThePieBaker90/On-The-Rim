@@ -1,0 +1,11 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -2
+- **Effects:**
+	- Carriers of this gene gain the Heart Crush action. They may do this action at the cost of 250ml of stored [[Hemogenic Blood]].
+		- Heart Crush - 1 Action
+			- You attempt to grab a creature's heart from out of their chest, the creature must make a dexterity saving throw. On a failure, the creature immediately loses 10d12 health. If this kills the creature, this destroys their [[Heart]].

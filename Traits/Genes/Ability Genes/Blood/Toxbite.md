@@ -1,0 +1,11 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -1
+- **Effects:**
+	- Carriers of this gene gain the Toxbite action. They may do this action at the cost of 200ml of stored [[Materials/Blood|Blood]].
+		- Toxbite - 1 Action
+			- You attempt to bite and inject venom into a nearby creature. Make a melee roll to hit against the creature. On a hit, you deal 1d4 + STR piercing damage and 1d6 poison damage, they also gain 3 levels of [[Radiation Buildup]].

@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 22 (22)
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A weapon within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 3 turns.
+- **Effects**:
+	- You coat a melee weapon in [[Burning Chemical]] causing all of its attacks to give 1 turn of [[Chemical Burned]] to enemies it hits for the duration of the psycast. 
+		- Applying [[Chemical Burned]] to a creature already suffering from [[Chemical Burned]] adds the new duration to the creature's current [[Chemical Burned]] duration.
+- **Upcasting**:
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the duration of the weapon applying [[Chemical Burned]] is increased by 1 turn.

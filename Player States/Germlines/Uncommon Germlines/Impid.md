@@ -1,0 +1,36 @@
+---
+tags:
+  - Germline
+---
+- *Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 5-7ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 35ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Impish
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- Blues, Violets, Purples
+	- [[Hair Color]]
+		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
+	- [[Body Type]]
+		- Muscled, Thin
+	- [[Iris Color]]
+		- Blacks, Blues, Whites, Gold, Silver
+	- [[Thin Tail]]
+	- [[Mini Horns]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- [[Run 'n' Gun]]
+	- [[Fast Runner]]
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Fire Resistant]]
+	- [[Fast Speed]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Medium Dexterity Increase]]
+

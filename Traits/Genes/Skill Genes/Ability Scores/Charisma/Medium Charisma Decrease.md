@@ -1,0 +1,11 @@
+---
+tags:
+  - Skill-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 4
+- **Effects:**
+	- Carriers of this gene have their charisma score decreased by 2.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Small Charisma Decrease]]

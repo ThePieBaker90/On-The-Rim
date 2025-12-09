@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Toxilord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 12
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant
+- **Effects**:
+	- You remove up to 5 levels of [[Poison Buildup]] from a creature. The creature takes 1 poison damage per level removed.
+- **Upcasting**:
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may remove an additional 2 levels of [[Poison Buildup]].

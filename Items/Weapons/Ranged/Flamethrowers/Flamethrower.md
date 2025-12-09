@@ -29,4 +29,4 @@ tags:
 * **Looks**:
 	* A modern two handed flame-thrower.
 * **Special**:
-	* Creatures hit by this weapon have 1d4 turns of [[On Fire!]] applied.
+	* Creatures hit by this weapon catch [[On Fire!]] for 1d4 turns.

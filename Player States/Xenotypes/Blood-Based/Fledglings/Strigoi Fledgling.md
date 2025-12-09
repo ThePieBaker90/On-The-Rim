@@ -1,0 +1,19 @@
+---
+tags:
+  - Xenotype
+  - Strigoi
+---
+- *Lore*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** +1
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
+	- [[Primal Canines]]
+- **[[Genes#Life Genes|Life Xenogenes:]]**
+	- [[Garlic Cure]]
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
+	- [[Bloodfeeder]]
+	- [[Blood Morph]]
+		- [[Strigoi]]
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- [[Minor UV Sensitivity]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- None.

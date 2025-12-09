@@ -34,13 +34,13 @@ tags:
 - **Condition Immunities**:
 	- [[Mind-Shattering Pain]]
 	- [[Berserk Rage]]
-	- Frightened
-	- Incapacitated
-	- Paralyzed
+	- [[Frightened]]
+	- [[Incapacitated]]
+	- [[Paralyzed]]
 	- Petrified
-	- Stunned
-	- Unconscious
-	- Exhaustion
+	- [[Stunned]]
+	- [[Unconscious]]
+	- [[Exhaustion]]
 	- [[Radiation Buildup]]
 - **Actions**:
 	- Psychic Incineration - 1 Action

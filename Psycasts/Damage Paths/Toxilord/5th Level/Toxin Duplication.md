@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Toxilord
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 12
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 15ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You duplicate poisons within a creature within range. The target must make a Constitution saving throw. Upon a failure, they double their current level of [[Poison Buildup]] or [[Volatile Poison Buildup]]. Upon a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast.

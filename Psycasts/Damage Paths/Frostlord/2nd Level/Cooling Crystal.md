@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Frostlord Psycasts|Frostlord Psycast]]
 - **Casting Time:**
-	- 1 Action.
+	- 1 Minute.
 - **[[Psyfocus]] Cost:**
 	- 26
 - **[[Neural Heat]] Generation:**
@@ -15,15 +15,15 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A point within range.
+	- A small rock within range.
 - **Components**:
-	- Kinetic
+	- Kinetic, Focus (A small rock)
 - **Duration**:
 	- 1 day
 - **Effects**:
-	- You conjure a small, light blue, cold crystal at a point within range. 
+	- You enchant a rock you are holding into a cooling crystal. 
 		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 100,000ft$^3$ in which case it will simply cool a sphere).
 		- The target temperature is chosen when the crystal is created. It may range from 5C to -20C. The crystal cools at a rate of 1C per minute.
-	- The crystal expires at the end of the duration, turning into an inert, colorless crystal.
+	- The crystal expires at the end of the duration, turning back into a rock.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the target temperature may be -10C lower.

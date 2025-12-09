@@ -13,9 +13,9 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- Touch
+	- Touch.
 - **Target**:
-	- A creature.
+	- A creature within range.
 - **Components**:
 	- Kinetic
 - **Duration**:

@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Tegopath
+---
+- **Path**:
+	- 1st Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 22
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 3 turns.
+- **Effects**
+	- You cast a temporary damage barrier on a creature within range. The creature gains 2d8 temporary health. This health goes away when the psycast ends.
+- **Upcasting**:
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the creature gains an additional 2d8 temporary health.

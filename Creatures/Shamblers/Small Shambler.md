@@ -1,0 +1,47 @@
+---
+tags:
+  - Entity
+  - Creature
+  - Basic-Entity
+aliases:
+---
+- **Size**:
+	- Small
+- **Type**:
+	- Undead
+- **Alignment**:
+	- Neutral Evil
+- **Armor Class**:
+	- 11
+- **Health**:
+	-  17 ((8d6+5)/2)
+- **Speed**:
+	- 30ft
+- **Ability Scores**:
+	- **STR -** 12(+1)
+	- **DEX -** 12(+1)
+	- **CON -** 12(+1)
+	- **INT -** 5(-3)
+	- **WIS -** 5(-3)
+	- **CHA -** 5(-3)
+- **Senses:**
+	- Passive Perception: 5
+- **Languages**:
+	- None
+- **Challenge**:
+	- 1/4
+- **Damage Immunities:**
+	- Poison
+	- Necrotic
+- **Condition Immunities:**
+	- [[Bleeding]]
+- **Traits**:
+	- [[Reanimated Shambler]]
+- **Actions**:
+	- Melee Attack - 1 Action
+		- _Melee Weapon Attack:_ +1 to hit, reach 5ft, one target. 
+		- _Hit:_ 1d6 + 1 bludgeoning damage
+- **Lore**:
+	- *Corpses reanimated by microscopic [[Archites|archites]]. Shamblers are slow, mindless, and will attack relentlessly. Unless captured, shamblers die from metabolic exhaustion after several hours.*
+- **Anomaly**:
+	- Shamblers are created whenever a corpse is touched by [[Deadlife Dust]]. 

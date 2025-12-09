@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Puppetmancer
+  - Empath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]] & [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Minute.
+- **[[Psyfocus]] Cost:**
+	- 90
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 360ft
+- **Target**:
+	- A [[Ritual Circle]].
+- **Components**:
+	- Gesture, Verbal, Material (A [[Ritual Circle]])
+- **Duration**:
+	- 1 Minute.
+- **Effects**:
+	- All creatures within range of the ritual circle must make a Wisdom saving throw. On a failure, a creature goes into a [[Berserk Rage]] for the psycast duration. On a success, nothing happens.
+		- All creatures within 10ft of the ritual circle are immune to this psycast's effects.
+- **Upcasting**:
+	- You cannot upcast this psycast.

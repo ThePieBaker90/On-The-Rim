@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Minute.
+- **[[Psyfocus]] Cost:**
+	- 50
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A [[Ritual Circle]].
+- **Components**:
+	- Gesture, Verbal, Material (A [[Ritual Circle]])
+- **Duration**:
+	- Instant.
+- **Effects**
+	- All creatures surrounding the ritual circle heal half of their maximum health, rounded up.
+- **Upcasting**:
+	- You cannot upcast this psycast. 

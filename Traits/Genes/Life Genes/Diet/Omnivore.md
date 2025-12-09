@@ -1,0 +1,12 @@
+---
+tags:
+  - Life-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 0
+- **Effects:**
+	- Carriers of this gene can eat food of both plant and animal origin.
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Herbivore]]
+	- [[Carnivore]]

@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 10 turns.
+- **Effects**:
+	- You psychically cool your brain, increasing [[Neural Heat]] dissipation but requiring additional [[Psyfocus]] to cast psycasts. For the duration of the psycast you have the following effects:
+		- You dissipate an additional 3 [[Neural Heat]] per turn.
+		- All psycasts [[Psyfocus]] cost is increased by 35% (rounded up).
+- **Upcasting**:
+	- You cannot upcast this psycast.

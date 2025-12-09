@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Blazelord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time**:
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 16
+- [[Range]]:
+	- 35ft
+- **Target**:
+	- A grounded cylinder within range with a 15ft height and a 5ft radius.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- You summon a fire in a grounded cylinder within range. Creatures starting their turn within the area, entering the fire for the first time this turn, or ending their turn within the area must make a Constitution saving throw. On a failure, they take 2d4 fire damage and catch [[On Fire!]] for 1 turn. On a success, they take half as much damage.
+	- If you summon a fire on top of a creature, the creature must make a Dexterity saving throw to dodge the flames. On a failure, they take 2d4 fire damage and catch [[On Fire!]] for 1 turn. On a success, they move out of the cylinder and take no damage.
+- **Upcasting:**
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, [[On Fire!]] is applied for an additional turn.

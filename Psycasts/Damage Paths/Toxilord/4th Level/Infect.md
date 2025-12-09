@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Toxilord
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Toxilord Psycasts|Toxilord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 27
+- [[Range]]:
+	- 20ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You attempt to infect a creature within range. The target must make a Constitution saving throw. Upon a failure, they gain 5 levels of [[Infection]], take 1d12 poison damage. Upon a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast.

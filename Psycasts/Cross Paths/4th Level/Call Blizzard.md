@@ -1,0 +1,31 @@
+---
+tags:
+  - Frostlord
+  - Psycast
+  - 4th-Level
+  - Aquator
+---
+- **Path**:
+	- 4th Level [[Frostlord Psycasts|Frostlord Psycast]] & [[Aquator Psycasts|Aquator Psycast]]
+- **Casting Time:**
+	- 1 Minute.
+- **[[Psyfocus]] Cost:**
+	- 58
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Verbal
+- **Duration**:
+	- 3 days
+- **Effects**:
+	- You call upon a harsh blizzard to sweep a circular area centered on you with a radius of 8 miles.
+		- Traversing in a blizzard requires twice as much movement.
+		- All ranged attacks made in the blizzard are made with disadvantage.
+		- All fires in the blizzard are extinguished unless otherwise stated.
+		- Creatures who are exposed to the blizzard and are unprotected take 1d10 cold damage every minute.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the blizzard lasts an additional day.

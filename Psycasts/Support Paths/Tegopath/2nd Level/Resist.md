@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Reaction, which you take when a target is hit by an attack.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 2 turns.
+- **Effects**
+	- As a reaction to a creature within range getting hit, you grant them resistance to the largest damage type they are being dealt. This lasts for the psycast duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

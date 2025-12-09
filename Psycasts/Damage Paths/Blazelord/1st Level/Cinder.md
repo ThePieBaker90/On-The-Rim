@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Blazelord
+---
+- **Path**:
+	- 1st Level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 9
+- [[Range]]:
+	- 35ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You shoot a fire mote at a creature of your choice. Make a roll to hit, adding your psycasting ability modifier. On a hit, the mote deals 1d8+1 fire damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.

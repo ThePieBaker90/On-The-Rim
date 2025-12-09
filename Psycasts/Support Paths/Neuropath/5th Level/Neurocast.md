@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 15
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- None.
+- **Duration**:
+	- 10 turns.
+- **Effects**:
+	- You use a neural shortcut to channel another psycast. This channeled psycast can be used by you once during the duration of this psycast.
+		- You must know at least one prerequisite psycast for the channeled psycast.
+			- For example, channeling a level 4 crosspath psycast requires you to know a level 3 psycast from either path of the psycast.
+		- You still pay all costs of the channeled psycast ([[Neural Heat]], [[Psyfocus]], Components, Casting Time).
+			- You do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if the channeled psycast would exceed your neural heat limit.
+		- The path and level of the psycast is a 5th Level [[Neuropath Psycasts|Neuropath Psycast]].
+		- This psycast ending does not end the channeled psycast if it was used during the duration of this psycast.
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -1,0 +1,13 @@
+---
+tags:
+  - Passive-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 14
+- **Effects:**
+	- Carriers of this gene can store [[Materials/Blood|Blood]] in a special gland, up to 1000mL of (non-hemogenic) blood at one time. 
+	- Carriers of this gene need [[Materials/Blood|Blood]] to survive, they consume 250mL of blood from storage when they rest to stay healthy. This can cause your stored blood to go negative.
+		- If the carrier of this gene has negative stored [[Materials/Blood|Blood]] after this occurs, they gain 1 level of [[Exhaustion]]. This [[Exhaustion]] can only be removed by effects from this gene.
+		- If the carrier of this gene has positive stored [[Materials/Blood|Blood]] after this occurs, they lose 1 level of [[Exhaustion]] caused by this gene.
+	- Carriers of this gene have [[Hemogenic Blood]] instead of [[Body/Humanoid Body Parts/Blood|Blood]].

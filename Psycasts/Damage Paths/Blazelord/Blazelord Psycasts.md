@@ -6,20 +6,34 @@ aliases:
   - Blazelord Psycast
   - Blazelord
 ---
-*todo.*
-
+*Blazelords specialize in creating fire and increasing temperatures. Most of their psycasts center around fire damage and area of effect attacks. Blazelords are exceptional at making sure their enemies are always [[On Fire!]] or [[Burned]].*
+## Core Psycasts
 - 1st Level:
-	- .
+	- [[Cinder]] (2, 9)
+	- [[Conjure Flame]] (1, 8)
+	- [[Melt]] (18, 22)
 - 2nd Level:
-	- .
+	- [[Bart's Blazing Cone]] (2, 20)
+- 3rd Level:
+	- [[Flame Dash]] (6, 30)
+	- [[Wall of Fire]] (4, 16)
+- 4th Level:
+	- [[Fireball]] (3, 44)
+	- [[Immolate]] (4, 34)
+- 5th Level:
+	- [[Ninth Circle of Hell]] (8, 48)
+	- [[Flamehart's Aura of Fire]] (12, 58)
+## Miscasts
+- Level 1 Miscast - Sudden Combustion
+	- You combust into flames, you catch [[On Fire!]] for 3 turns.
+- Level 2 Miscast - The Simplest Solution
+	- You cast [[Fireball]] centered on yourself. You automatically fail the saving throw.
+## Crosspath Psycasts
+- 2nd Level:
+	- [[Unknown Fire Gravity Psycast]] ([[Gravitor Psycasts|Gravitor]])
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Thermite Spray]] ([[Chemlord Psycasts|Chemlord]])
 - 5th Level:
-	- .
-
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
 	- .

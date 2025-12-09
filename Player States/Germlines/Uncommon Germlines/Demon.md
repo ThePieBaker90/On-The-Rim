@@ -1,0 +1,38 @@
+---
+tags:
+  - Germline
+---
+- *Demons evolved from humans in environments with intense cold. Their affinity with [[Blazelord Psycasts]] and stronger build allow them to hold their own in combat longer than others.
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 5-7ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Demonic
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- Yellows, Oranges, Reds
+	- [[Hair Color]]
+		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
+	- [[Body Type]]
+		- Average, Muscled, Plus-Sized
+	- [[Iris Color]]
+		- Blacks, Reds, Whites, Gold, Silver
+	- [[Demonic Tail]]
+	- [[Traits/Genes/Cosmetic Genes/Horns/Horns|Horns]]
+	- [[Pointy Ears]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Average Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- [[Fire Spew]]
+	- [[Blazelord Psycast Affinity]]
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Darkvision (30ft)]]
+	- [[Cold Resistant]]
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Small Constitution Increase]]
+	- [[Small Strength Increase]]
+

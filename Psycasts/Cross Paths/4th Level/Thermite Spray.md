@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Blazelord
+  - Chemlord
+---
+- **Path**:
+	- 4th Level [[Blazelord Psycasts|Blazelord Psycast]] & [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+TODO

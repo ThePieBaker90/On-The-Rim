@@ -8,7 +8,7 @@ tags:
 * Necessary to live:
 	* No.
 * [[Efficiency]] Effects:
-	* +[[Lower-body Strength and Dexterity]] *
+	* +[[Lower-Body Strength and Dexterity]] *
 * Cost Multiplier:
 	* x1.2
 * [[Cybercost]] Multiplier:
