@@ -12,9 +12,10 @@ aliases:
 	- [[Barrier]] (4, 22)
 - 2nd Level:
 	- [[Reactive Barrier]] (5, 25)
-	- Grant Resistance
-- 3rd Level:
 	- Sigma Like Shield
+	- 
+- 3rd Level:
+	- [[Resist]] (8, 28)
 	- Barrier based off of surrounding enemies
 	- Unstoppable like
 - 4th Level:
