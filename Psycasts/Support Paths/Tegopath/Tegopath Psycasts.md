@@ -16,10 +16,10 @@ aliases:
 - 3rd Level:
 	- [[Adaptive Barrier]] (5, 42)
 	- [[Resist]] (8, 28)
-	- Unstoppable like
+	- [[Expel Conditions]]
 - 4th Level:
 	- Spherical Shield
-	- Debuff Remover
+	- [[Unstoppable]]
 - 5th Level:
 	- Shield that allows projectiles out
 	- Baptiste Lamp

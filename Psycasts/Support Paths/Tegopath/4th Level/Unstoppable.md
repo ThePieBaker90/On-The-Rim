@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**
+	- .
+- **Upcasting**:
+	- You cannot upcast this psycast.

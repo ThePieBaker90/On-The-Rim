@@ -1,0 +1,5 @@
+---
+tags:
+  - Status
+---
+- When a creature has the crumbling mind condition, they permanently lose 1 point in a mental ability score (Intelligence, Wisdom, or Charisma) every day.

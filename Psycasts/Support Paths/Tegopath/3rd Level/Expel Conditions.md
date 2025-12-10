@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- Touch
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**
+	- You remove all negative & mixed [[Conditions]] from the creature you touch.
+		- This cannot remove 
+- **Upcasting**:
+	- You cannot upcast this psycast.
