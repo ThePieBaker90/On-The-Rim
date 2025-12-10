@@ -22,6 +22,5 @@ tags:
 	- Instant.
 - **Effects**
 	- You remove all negative & mixed [[Conditions]] from the creature you touch.
-		- This cannot remove 
 - **Upcasting**:
 	- You cannot upcast this psycast.
