@@ -90,8 +90,8 @@ aliases:
 - All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. When the duration ends, the psycast moves into the end phase.
 	- Instant psycasts have their effects occur immediately, they have no duration.
 	- $n$ turn psycasts last until the end of the caster's $n$th turn from when the psycast was cast. The turn a psycast is cast is counted as the 1st turn.
-	- time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
-	- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free. 
+	- Time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
+	- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free, which moves the psycast to the end phase. 
 		- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
 		- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. On a failure, you lose concentration and the psycast moves to the end phase. On a success, nothing happens.
 		- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.

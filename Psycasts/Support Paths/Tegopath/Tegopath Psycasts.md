@@ -12,8 +12,7 @@ aliases:
 	- [[Barrier]] (4, 22)
 - 2nd Level:
 	- [[Reactive Barrier]] (5, 25)
-	- Sigma Like Shield
-	- 
+	- [[Psychic Shield]] (2, 25)
 - 3rd Level:
 	- [[Resist]] (8, 28)
 	- Barrier based off of surrounding enemies

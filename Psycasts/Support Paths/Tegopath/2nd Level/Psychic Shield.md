@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 25
+- [[Range]]:
+	- 35ft
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 turns.
+- **Effects**
+	- You create a psychic shield centered at a point within range. The shield is a line 15ft in length and can be oriented in a direction of your choice when this psycast is cast. The shield blocks all ranged attacks that would cross the line and can block up to 40 total damage before it dissipates.
+		- Creatures can move through the shield unimpeded.
+		- The shield does not block melee attacks.
+	- You may end this psycast for free during your turn.
+- **Upcasting**:
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the shield can absorb 40 more damage.
