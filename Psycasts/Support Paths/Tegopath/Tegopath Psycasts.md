@@ -11,11 +11,11 @@ aliases:
 - 1st Level:
 	- [[Barrier]] (4, 22)
 - 2nd Level:
-	- [[Reactive Barrier]] (5, 25)
 	- [[Psychic Shield]] (2, 25)
+	- [[Reactive Barrier]] (5, 25)
 - 3rd Level:
+	- [[Adaptive Barrier]] (5, 42)
 	- [[Resist]] (8, 28)
-	- Barrier based off of surrounding enemies
 	- Unstoppable like
 - 4th Level:
 	- Spherical Shield
