@@ -19,7 +19,7 @@ aliases:
 	- [[Clear Conditions]] (10, 35)
 - 4th Level:
 	- Spherical Shield
-	- [[Unstoppable]]
+	- [[Unstoppable]] (8, 32)
 - 5th Level:
 	- Shield that allows projectiles out
 	- Baptiste Lamp
