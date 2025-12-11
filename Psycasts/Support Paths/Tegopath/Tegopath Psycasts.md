@@ -18,7 +18,7 @@ aliases:
 	- [[Resist]] (8, 28)
 	- [[Clear Conditions]] (10, 35)
 - 4th Level:
-	- Spherical Barrier
+	- [[Dome of Defense]]
 	- [[Unstoppable]] (8, 32)
 - 5th Level:
 	- Barrier that allows projectiles out

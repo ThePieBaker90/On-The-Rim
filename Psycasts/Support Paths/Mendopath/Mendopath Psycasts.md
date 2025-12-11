@@ -16,7 +16,7 @@ aliases:
 	- [[Word of Mending]] (6, 23)
 - 3rd Level:
 	- [[Health Beam]] (18, 46)
-	- [[Ritual of Restoration]] (50, 0)
+	- [[Ritual of Restoration]] (40, 0)
 - 4th Level:
 	- [[Healing Nova]] (3, 44)
 	- [[Healing Tempo]] (40, 0)
