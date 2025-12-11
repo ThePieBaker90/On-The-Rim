@@ -8,5 +8,4 @@ tags:
 	- All healing reduces the duration of bleeding by a minimum of 1 turn.
 - A creature who is bleeding and [[Dying]] automatically adds 1 failed throw per turn with [[Bleeding]].
 - A creature cannot have multiple stacks of bleeding. If another stack is applied to a creature, the creature only is affected by the stack with the longest amount of time left.
-- If a creature
 - Constructs are immune to bleeding unless otherwise stated.

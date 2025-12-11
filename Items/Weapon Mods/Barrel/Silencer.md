@@ -9,6 +9,6 @@ tags:
 - **Slot:**
 	- Barrel
 - **Properties:**
-	- [[Silenced]]
+	- [[Items/Weapons/Properties/Mods/Silenced|Silenced]]
 * **Looks:**
 	* Weapons with this modifier have a silencer attached to the barrel

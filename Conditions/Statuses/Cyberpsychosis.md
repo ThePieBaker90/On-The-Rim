@@ -8,6 +8,6 @@ tags:
 	- Must make a melee/ranged attack on the nearest creature on each of its turns.
 	- They do not feel pain and cannot feel emotions other than [[Anger]] or [[Panic]].
 - A creature who is cyberpsycho can return to normal in 1 of 3 ways:
-	- Falling unconscious.
+	- Falling [[Unconscious]].
 	- 1 minute passing since the start of going cyberpsycho.
 	- Succeeding on a DC 19 wisdom saving throw, this throw may be made once every turn.

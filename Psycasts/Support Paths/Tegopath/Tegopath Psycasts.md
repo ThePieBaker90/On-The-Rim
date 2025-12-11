@@ -16,7 +16,7 @@ aliases:
 - 3rd Level:
 	- [[Adaptive Barrier]] (5, 42)
 	- [[Resist]] (8, 28)
-	- [[Expel Conditions]]
+	- [[Clear Conditions]] (10, 35)
 - 4th Level:
 	- Spherical Shield
 	- [[Unstoppable]]

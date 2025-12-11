@@ -13,14 +13,14 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Kenetic.
 - **Duration**:
 	- .
 - **Effects**
-	- .
+	- For the psycast duration, you are immune to [[Prone]], [[Incapacitated]], [[Immobilized]]
 - **Upcasting**:
 	- You cannot upcast this psycast.
