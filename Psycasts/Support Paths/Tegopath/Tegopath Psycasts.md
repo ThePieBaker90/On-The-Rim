@@ -9,19 +9,19 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Barrier]] (4, 22)
+	- [[Psychic Shielding]] (4, 22)
 - 2nd Level:
-	- [[Psychic Shield]] (2, 25)
-	- [[Reactive Barrier]] (5, 25)
+	- [[Barrier]] (2, 25)
+	- [[Reactive Shielding]] (5, 25)
 - 3rd Level:
-	- [[Adaptive Barrier]] (5, 42)
+	- [[Adaptive Shielding]] (5, 42)
 	- [[Resist]] (8, 28)
 	- [[Clear Conditions]] (10, 35)
 - 4th Level:
-	- Spherical Shield
+	- Spherical Barrier
 	- [[Unstoppable]] (8, 32)
 - 5th Level:
-	- Shield that allows projectiles out
+	- Barrier that allows projectiles out
 	- Baptiste Lamp
 ## Miscasts
 - Level 1 Miscast - .
