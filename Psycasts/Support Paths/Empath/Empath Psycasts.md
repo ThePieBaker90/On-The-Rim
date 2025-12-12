@@ -33,6 +33,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
+	- [[Empathetic Shielding]] (5, 42) ([[Tegopath Psycasts|Tegopath]])
 	- [[Ritual of Wrath]] (90, 0) ([[Puppetmancer Psycasts|Puppetmancer]])
 - 4th Level:
 	- .

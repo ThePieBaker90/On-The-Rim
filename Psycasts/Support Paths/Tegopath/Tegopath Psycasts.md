@@ -12,17 +12,17 @@ aliases:
 	- [[Psychic Shielding]] (4, 22)
 - 2nd Level:
 	- [[Barrier]] (2, 25)
+	- [[Psychic Armor]] (7, 25)
 	- [[Reactive Shielding]] (5, 25)
 - 3rd Level:
-	- [[Adaptive Shielding]] (5, 42)
-	- [[Resist]] (8, 28)
 	- [[Clear Conditions]] (10, 35)
+	- [[Resist]] (8, 28)
 - 4th Level:
-	- [[Dome of Defense]]
+	- [[Dome of Defense]] (3, 44)
 	- [[Unstoppable]] (8, 32)
 - 5th Level:
 	- Barrier that allows projectiles out
-	- Baptiste Lamp
+	- [[Immortality]] 
 ## Miscasts
 - Level 1 Miscast - .
 	- .
@@ -32,8 +32,9 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
+	- [[Empathetic Shielding]] (5, 42) ([[Empath Psycasts|Empath]])
 	- [[Force Barrier Psycast]] ([[Gravitor Psycasts|Gravitor]])
 - 4th Level:
 	- .
 - 5th Level:
-	- .
+	- Baptise lamp ([[Luzator Psycasts|Luzator]])

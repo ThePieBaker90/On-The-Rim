@@ -24,7 +24,7 @@ tags:
 	- You create a spherical barrier centered on you. The shield is a sphere 15ft in radius. The barrier blocks all ranged attacks that would cross the surface of the sphere and can block up to 80 total damage before it breaks.
 		- Creatures can move through the barrier unimpeded.
 		- The barrier does not block melee attacks.
-	- When this psycast is cast, all creatures in the sphere gain . temporary health for the duration of the psycast.
+	- When this psycast is cast, all creatures in the sphere gain 1d8 temporary health for the duration of the psycast.
 	- You may end this psycast for free during your turn.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the barrier can absorb 40 more damage.
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the barrier can absorb 40 more damage.

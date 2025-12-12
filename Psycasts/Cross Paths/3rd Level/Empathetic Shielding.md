@@ -3,9 +3,10 @@ tags:
   - Psycast
   - Tegopath
   - 3rd-Level
+  - Empath
 ---
 - **Path**:
-	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]]
+	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]] & [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
