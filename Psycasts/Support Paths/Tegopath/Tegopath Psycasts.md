@@ -6,7 +6,7 @@ aliases:
   - Tegopath
   - Tegopath Psycast
 ---
-*todo.*
+*Tegopaths specialize in applying temporary health and creating barriers. Their job tends to be a thankless one, overshadowed by more flashy paths but a skilled tegopath can control the tide of the battle before the first bullet has been fired.*
 ## Core Psycasts
 - 1st Level:
 	- [[Psychic Shielding]] (4, 22)
@@ -19,15 +19,15 @@ aliases:
 	- [[Resist]] (8, 28)
 - 4th Level:
 	- [[Dome of Defense]] (3, 44)
+	- [[Guardian Barrier]] (3, 44)
 	- [[Unstoppable]] (8, 32)
 - 5th Level:
-	- Barrier that allows projectiles out
-	- [[Immortality]] 
+	- [[Immortality]] (30, 50)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Anti-defense
+	- You have -4 [[Armor Class]] for 3 turns.
+- Level 2 Miscast - Vulnerability
+	- You become vulnerable for 3 turns to the next type of damage you take.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
