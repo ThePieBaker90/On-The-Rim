@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 5th-Level
+---
+- **Path**:
+	- 1st Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	-  .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You cannot upcast this psycast.

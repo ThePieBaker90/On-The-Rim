@@ -56,7 +56,7 @@ aliases:
 		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
 		- [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
 		- [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation
-		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs TODO
+		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
 		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
 	- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a psycast from the same path that is 1 level lower (for example, learning a level 3 psycast requires knowledge of a level 2 psycast). 
 		- Level 1 is the lowest level for a psycast and has no prerequisites to learn. 

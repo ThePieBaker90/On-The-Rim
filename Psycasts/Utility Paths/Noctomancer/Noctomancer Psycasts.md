@@ -9,15 +9,20 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Fear]] (6, 24)
+	- [[Word of Fear]] (6, 24)
+	- Snuff Light Source
+	- Darkvision
 - 2nd Level:
-	- .
+	- Blind
+	- Increase Evade
 - 3rd Level:
-	- .
+	- Dark Stealth
+	- Enhance Darkness (Make Dark Magical)
+	- Dome of Dark
 - 4th Level:
-	- .
+	- Darkness Hurts 3,44
 - 5th Level:
-	- .
+	- [[Drifter Ultimate]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .
