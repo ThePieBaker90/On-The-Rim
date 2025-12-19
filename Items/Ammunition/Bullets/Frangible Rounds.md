@@ -2,6 +2,7 @@
 tags:
   - Item
   - Ammunition
+  - Bullet
   - Assault-Rifle
   - Light-Machine-Gun
   - Minigun
@@ -9,12 +10,11 @@ tags:
   - Revolver
   - Service-Rifle
   - Submachine-Gun
-  - Bullet
 ---
 - **Usable In:**
 	- Assault Rifles, Light Machine Guns, Miniguns, Pistols, Revolvers, Service Rifles, and Submachine Guns
-- **Effect:**
+- **Effects:**
 	- Weapon gains [[Lacerating]](1, on hit)
-	- -2 to hit.
-- **Cost:**
+	- Weapon has -2 to hit.
+- **Value:**
 	- 1 credit for 3
