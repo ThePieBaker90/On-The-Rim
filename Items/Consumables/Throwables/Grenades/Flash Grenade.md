@@ -1,0 +1,16 @@
+---
+tags:
+  - Item
+  - Grenade
+  - Consumable
+---
+- **Consumable Type:**
+	- Throwable
+- **Effects:**
+	- When used as an action, the user throws the Flash Grenade. All creatures who are in line-of-sight of the grenade gain the [[Flashed]] condition for 2 turns.
+- **Charges:**
+	- 1
+- **Value:**
+	- 120 Credits.
+- **Lore:**
+	- *A typical flash grenade.*
