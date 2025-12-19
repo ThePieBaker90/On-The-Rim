@@ -7,8 +7,9 @@ tags:
 ---
 - **Usable In:**
 	- Grenade Launchers
-- **Effect:**
-	- Creates a 15ft cube of thick smoke centered on grenade's impact point. This smoke lasts 1 minute unless dispersed.
-		- Thermal, sound, or magic-based sight is unaffected
-- **Cost:**
+- **Effects:**
+	- The weapon now fires a smoke grenade.
+		- Creates a 15ft cube of thick smoke centered on grenade's impact point. This smoke lasts 1 minute unless dispersed.
+			- Thermal, sound, or magic-based sight is unaffected
+- **Value:**
 	- 70 credits for 1

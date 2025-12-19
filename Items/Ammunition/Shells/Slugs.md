@@ -8,8 +8,8 @@ tags:
 - **Usable In:**
 	- Shotguns
 - **Effect:**
-	- +10ft to all effective ranges
+	- Weapon gains +10ft to all effective ranges.
 		- For example, a shotgun with range 10-40-80ft would become 20-50-90ft
-	- +2 [[Armor Piercing]]
+	- Weapon gains +2 [[Armor Piercing]].
 - **Cost:**
-	- 1 credit for 5
+	- 3 credits for 1
