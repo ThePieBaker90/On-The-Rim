@@ -4,8 +4,15 @@ tags:
   - Injection
   - Consumable
 ---
-- When used as on a corpse with [[Ghoulish]] as an action, the corpse immediately resurrects. This consumes the Ghoul Resurrection Injection.
-- The creature will be unconscious for 5 hours after use. 
--  The creature resurrects with all negative conditions removed, all missing [[Humanoid Body|Body Parts]] regenerated, and at maximum health. 
-- *A one pronged glass injector containing a mixture of [[Deadlife Dust]] and advanced [[Bioferrite|Biochemicals]].*
-- 60 credits
+- **Consumable Type:**
+	- Injection
+- **Effects:**
+	- When used as on a corpse with [[Ghoulish]] as an action, the corpse immediately resurrects.
+		- The creature will be [[Unconscious]] for 5 hours after use. 
+		- The creature resurrects with all negative & mixed [[Conditions]] removed, all missing [[Humanoid Body|Body Parts]] regenerated, and at maximum health. 
+- **Charges:**
+	- 1
+- **Value:**
+	- 60 Credits.
+- **Lore:**
+	- *A one pronged glass injector containing a mixture of [[Deadlife Dust]] and advanced [[Bioferrite|Biochemicals]].*

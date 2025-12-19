@@ -15,13 +15,3 @@ tags:
 	- *A pouch of thick teal blue liquid, it tastes and smells rotten.*
 
 
-- **Consumable Type:**
-	- .
-- **Effects:**
-	- .
-- **Charges:**
-	- .
-- **Value:**
-	- .
-- **Lore:**
-	- .

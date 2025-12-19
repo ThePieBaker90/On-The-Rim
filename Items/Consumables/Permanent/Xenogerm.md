@@ -1,0 +1,18 @@
+---
+tags:
+  - Item
+  - Consumable
+  - Xenotype
+---
+- **Consumable Type:**
+	- Permanent
+- **Effects:**
+	- Has an associated xenotype, this xenotype can never change.
+	- Only stable while held in a gene storage bank. Rapidly deteriorates in 1 hour if stored elsewhere.
+	- When installed in a creature, the creature permanently gains the associated xenotype, overwriting any other xenotype they may have had.
+- **Charges:**
+	- 1
+- **Value:**
+	- 500 Credits.
+- **Lore:**
+	- *A self-contained biological organ containing one or more implantable xenogenes. Once implanted inside a host's body, the xenogerm modifies the host's genes, gene expression, and phenotypic development using viruses, hormones, bio-synthesized drugs, and possibly [[Mechanites]]. Depending on the xenogerm, the host will develop any of a wide variety of exotic traits and abilities, transforming them into a different xenotype.
