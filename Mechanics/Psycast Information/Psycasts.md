@@ -32,32 +32,32 @@ aliases:
 		- [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Varied Chemicals
 		- [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
 		- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs
-		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music TODO
+		- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music
 		- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electronics
-		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping TODO
+		- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping
 		- [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 	- Creation Paths
 		- [[Abominator Psycasts|Abominator]] - Summoning Abominations and Abomination Goo Manipulation
 		- [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
 		- [[Gravitor Psycasts|Gravitor]] - Force Creation and Energy Manipulation
-		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing TODO
-		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing TODO
-		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth TODO
+		- [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing
+		- [[Technonator Psycasts|Technonator]] - Item Creation and Repairing
+		- [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth
 	- Utility Paths
-		- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction TODO
+		- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction
 		- [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability
-		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling TODO
-		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth TODO
-		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling TODO
+		- [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling
+		- [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth
+		- [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling
 		- [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals
-		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking TODO
+		- [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking
 	- Support Paths
 		- [[Empath Psycasts|Empath]] - Emotions and Feelings
-		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding TODO
+		- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding
 		- [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
 		- [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation
 		- [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
-		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases TODO
+		- [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases
 	- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a psycast from the same path that is 1 level lower (for example, learning a level 3 psycast requires knowledge of a level 2 psycast). 
 		- Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
 	- Some psycasts may be part of multiple paths, a prerequisite psycast from all paths must be known to learn these psycasts.
