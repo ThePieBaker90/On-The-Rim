@@ -5,7 +5,7 @@ tags:
   - Consumable
 ---
 - **Consumable Type:**
-	- Throwable
+	- Throwable (Grenade)
 - **Effects:**
 	- When used as an action, the user throws the Flash Grenade. All creatures who are in line-of-sight of the grenade gain the [[Flashed]] condition for 2 turns.
 - **Charges:**

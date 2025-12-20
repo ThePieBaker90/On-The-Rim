@@ -12,5 +12,5 @@ tags:
 - *Two renaissance gauntlets made of brass, the both have a small grape-colored gem in the palm.*
 - Cost: 1400 Credits
 
-- Redirect - Reaction
-- Make an identical attack against a creature within range as the attack that this is a reaction to. 
+- Redirect - Reaction to a missed attack
+	- Make an identical attack against a creature within range as the attack that this is a reaction to. 

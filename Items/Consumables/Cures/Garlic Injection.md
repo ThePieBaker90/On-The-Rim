@@ -1,0 +1,15 @@
+---
+tags:
+  - Item
+  - Consumable
+---
+- **Consumable Type:**
+	- Cure
+- **Effects:**
+	- Can be used to cure [[Xenotypes]] with the [[Garlic Cure]] [[Genes|Gene]].
+- **Charges:**
+	- 1
+- **Value:**
+	- 25 Credits.
+- **Lore:**
+	- *A syringe of an opaque light green fluid, it has the viscosity of water.*

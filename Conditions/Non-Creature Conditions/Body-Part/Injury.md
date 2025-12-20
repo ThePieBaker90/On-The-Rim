@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - Injury is measured in 10 levels.
 	- An effect can give a [[Humanoid Body|Body Part]] one or more levels of injury, as specified in the effects description.

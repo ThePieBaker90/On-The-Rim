@@ -1,6 +1,7 @@
 ---
 tags:
   - Condition
+  - Negative-Condition
 ---
 - When a weapon has the Jammed condition, that weapon may not be fired. 
 - The user may make an attempt to unjam the weapon with either an action or a bonus action.

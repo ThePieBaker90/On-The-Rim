@@ -1,0 +1,15 @@
+---
+tags:
+  - Item
+  - Consumable
+---
+- **Consumable Type:**
+	- Miscellaneous
+- **Effects:**
+	- Replaces a creature's skull with a skull made for the same creature. Expended upon use, leaves behind the creature's original skull. Can only be used in surgery.
+- **Charges:**
+	- 1
+- **Value:**
+	- 300 Credits.
+- **Lore:**
+	- *A small white cube with a yellow warning sticker stating "Skull Replacement Nanites, for medical use only!". Within the white cube is a fine grey dust.*

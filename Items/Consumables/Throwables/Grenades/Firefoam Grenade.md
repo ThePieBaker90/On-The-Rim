@@ -5,7 +5,7 @@ tags:
   - Consumable
 ---
 - **Consumable Type:**
-	- Throwable
+	- Throwable (Grenade)
 - **Effects:**
 	- When used as an action, the user throws the Firefoam Grenade. It extinguishes all fires in a 30ft radius sphere around where it lands. All surfaces within this sphere are covered in [[Firefoam]] and cannot be reignited for 1 hour.
 - **Charges:**
