@@ -1,6 +1,6 @@
 ---
 tags:
-  - Spell
+  - Template
 ---
 - - **Path**:
 	- {{#levelRequired + Ordinal Indicator}} level {{Path}}
