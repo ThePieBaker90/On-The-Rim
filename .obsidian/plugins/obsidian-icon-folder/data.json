@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiTriangles",
-      "TiBook2",
-      "TiTemplate",
       "LiListTodo",
-      "LiInfo"
+      "LiSparkles",
+      "FarSquareCaretDown",
+      "TiTriangles",
+      "TiBook2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1020,7 +1020,6 @@
   "Psycasts/Utility Paths/Illusiomancer/Illusiomancer Psycasts.md": "LiListTodo",
   "Psycasts/Utility Paths/Noctomancer": "LiListTodo",
   "Psycasts/Utility Paths/Noctomancer/1st Level/Word of Fear.md": "LiSparkles",
-  "Psycasts/Utility Paths/Noctomancer/5th Level/Drifter Ultimate.md": "LiListTodo",
   "Psycasts/Utility Paths/Noctomancer/Noctomancer Psycasts.md": "LiListTodo",
   "Psycasts/Utility Paths/Puppetmancer": "LiListTodo",
   "Psycasts/Utility Paths/Puppetmancer/1st Level/Fleeting Friendship.md": "LiSparkles",
@@ -1174,5 +1173,9 @@
   "Templates/Template Template.md": "TiTemplate",
   "Templates/Weapon Template.md": "TiTemplate",
   "Story": "TiBook2",
-  "Story/Anomaly Story": "TiTriangles"
+  "Story/Anomaly Story": "TiTriangles",
+  "Conditions/Special Conditions/Darkness.md": "FarSquareCaretDown",
+  "Psycasts/Utility Paths/Noctomancer/5th Level/Eternal Night.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/1st Level/Snuff Light.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/1st Level/Darkvision.md": "LiSparkles"
 }

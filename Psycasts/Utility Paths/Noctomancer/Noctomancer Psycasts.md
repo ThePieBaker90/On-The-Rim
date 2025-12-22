@@ -9,9 +9,9 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
+	- [[Darkvision]] (12, 0)
+	- [[Snuff Light]] (5, 0)
 	- [[Word of Fear]] (6, 24)
-	- Snuff Light Source
-	- Darkvision
 - 2nd Level:
 	- Blind
 	- Increase Evade
@@ -22,7 +22,7 @@ aliases:
 - 4th Level:
 	- Darkness Hurts 3,44
 - 5th Level:
-	- [[Drifter Ultimate]]
+	- [[Eternal Night]] (8, 45)
 ## Miscasts
 - Level 1 Miscast - .
 	- .
