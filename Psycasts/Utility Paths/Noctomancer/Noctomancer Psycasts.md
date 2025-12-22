@@ -14,7 +14,7 @@ aliases:
 	- [[Word of Fear]] (6, 24)
 - 2nd Level:
 	- Reduce Hit Chance
-	- [[Blind]]
+	- [[Blinding Spray]]
 - 3rd Level:
 	- Dark Stealth
 	- Enhance Darkness (Make Dark Magical)
