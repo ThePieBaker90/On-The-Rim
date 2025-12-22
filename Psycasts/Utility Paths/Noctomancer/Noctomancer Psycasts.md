@@ -13,8 +13,8 @@ aliases:
 	- [[Snuff Light]] (5, 0)
 	- [[Word of Fear]] (6, 24)
 - 2nd Level:
-	- Blind
-	- Increase Evade
+	- Reduce Hit Chance
+	- [[Blind]]
 - 3rd Level:
 	- Dark Stealth
 	- Enhance Darkness (Make Dark Magical)

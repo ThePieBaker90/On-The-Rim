@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHexagonNumber2",
       "LiListTodo",
       "LiSparkles",
       "FarSquareCaretDown",
-      "TiTriangles",
-      "TiBook2"
+      "TiTriangles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1177,5 +1177,8 @@
   "Conditions/Special Conditions/Darkness.md": "FarSquareCaretDown",
   "Psycasts/Utility Paths/Noctomancer/5th Level/Eternal Night.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/1st Level/Snuff Light.md": "LiSparkles",
-  "Psycasts/Utility Paths/Noctomancer/1st Level/Darkvision.md": "LiSparkles"
+  "Psycasts/Utility Paths/Noctomancer/1st Level/Darkvision.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/2nd Level": "TiHexagonNumber2",
+  "Psycasts/Utility Paths/Illusiomancer/2nd Level/Evasion Increase.md": "LiListTodo",
+  "Psycasts/Utility Paths/Illusiomancer/2nd Level": "TiHexagonNumber2"
 }
