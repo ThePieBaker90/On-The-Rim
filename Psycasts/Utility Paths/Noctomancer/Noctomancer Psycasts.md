@@ -13,10 +13,10 @@ aliases:
 	- [[Snuff Light]] (5, 0)
 	- [[Word of Fear]] (6, 24)
 - 2nd Level:
-	- Reduce Hit Chance
-	- [[Blinding Spray]]
+	- [[Psychic Blindness]] (5, 21)
+	- [[Blinding Spray]] (6, 26)
 - 3rd Level:
-	- Dark Stealth
+	- [[Dark Stealth]]
 	- Enhance Darkness (Make Dark Magical)
 	- Dome of Dark
 - 4th Level:

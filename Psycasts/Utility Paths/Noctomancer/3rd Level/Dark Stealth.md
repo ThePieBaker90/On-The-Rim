@@ -1,0 +1,30 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**
+	- You sink into the shadows, waiting for the perfect moment to strike. You have the following effects for the psycast duration:
+		- While in bright light, you may attempt to hide as if you were in dim light.
+		- While in dim light, you may attempt to hide as if you were in darkness.
+		- While in darkness, you may attempt to hide as if you were in void darkness.
+		- When attacking while 
+- **Upcasting**:
+	- .

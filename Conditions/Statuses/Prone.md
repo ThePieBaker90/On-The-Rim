@@ -1,6 +1,6 @@
 ---
 tags:
-  - Condition
+  - Status
 ---
 - When a creature has the prone status, they suffer the following effects:
 	- Their only movement option is to crawl, crawling is half as efficient as normal movement.

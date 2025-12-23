@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
+      "TiHexagonNumber4",
+      "TiHexagonNumber3",
       "TiHexagonNumber2",
-      "LiListTodo",
-      "LiSparkles",
-      "FarSquareCaretDown",
-      "TiTriangles"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,14 +20,14 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
+    "iconsInNotesEnabled": false,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
@@ -345,7 +345,6 @@
   "Items/Weapons/Properties/Returning.md": "TiSettings2",
   "Items/Weapons/Properties/Sap.md": "TiSettings2",
   "Items/Weapons/Properties/Special Ammunition.md": "TiSettings2",
-  "Items/Weapons/Properties/Stealth.md": "TiSettings2",
   "Items/Weapons/Properties/Unmoddable.md": "TiSettings2",
   "Items/Weapons/Properties/Vampiric.md": "TiSettings2",
   "Items/Weapons/Melee": "LiSword",
@@ -1180,5 +1179,15 @@
   "Psycasts/Utility Paths/Noctomancer/1st Level/Darkvision.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/2nd Level": "TiHexagonNumber2",
   "Psycasts/Utility Paths/Illusiomancer/2nd Level/Evasion Increase.md": "LiListTodo",
-  "Psycasts/Utility Paths/Illusiomancer/2nd Level": "TiHexagonNumber2"
+  "Psycasts/Utility Paths/Illusiomancer/2nd Level": "TiHexagonNumber2",
+  "Psycasts/Utility Paths/Noctomancer/2nd Level/Blinding Spray.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/2nd Level/Psychic Blindness.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/4th Level": "TiHexagonNumber4",
+  "Psycasts/Utility Paths/Noctomancer/3rd Level": "TiHexagonNumber3",
+  "Mechanics/Gameplay Information/Lighting.md": "LiListTodo",
+  "Items/Weapons/Properties/Stealthy.md": "TiSettings2",
+  "Conditions/Statuses/Hidden.md": "LiListTodo",
+  "Psycasts/Utility Paths/Noctomancer/3rd Level/Dark Stealth.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Base Actions": "LiInfo",
+  "Mechanics/Gameplay Information/Base Actions/Hiding.md": "LiListTodo"
 }

@@ -2,7 +2,7 @@
 tags:
   - Status
 ---
-- When a creature has the psychic stun condition they suffer the following effects:
+- When a creature has the psychic stun status they suffer the following effects:
 	- They are [[Psy Sapped]]
 	- They are [[Incapacitated]].
 	- They are [[Immobilized]]

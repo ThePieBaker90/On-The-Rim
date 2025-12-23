@@ -23,4 +23,4 @@ tags:
 - **Effects**
 	- You grant a creature in range +2 [[Armor Class]] for the psycast duration.
 - **Upcasting**:
-	- You cannot upcast this psycast.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

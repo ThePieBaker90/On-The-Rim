@@ -24,7 +24,7 @@ tags:
 	* Simple
 	* One-Handed
 	* [[Light]]
-	* [[Stealth]]
+	* [[Stealthy]]
 	* [[Unmoddable]]
 * **Value**:
 	* 2500 credits

@@ -21,7 +21,7 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* [[Light]]
+	* [[Items/Weapons/Properties/Light]]
 	* Thrown
 	* [[Lacerating]](2,Hit on target)
 * **Value**:

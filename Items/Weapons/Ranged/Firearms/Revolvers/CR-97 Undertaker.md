@@ -26,7 +26,7 @@ tags:
 	* [[Ammunition]](6)
 	* [[Reload]](Action, Full)
 	* One-Handed
-	* [[Light]]
+	* [[Items/Weapons/Properties/Light]]
 	* [[Vampiric]](25%)
 - **Value**:
 	- 400 credits

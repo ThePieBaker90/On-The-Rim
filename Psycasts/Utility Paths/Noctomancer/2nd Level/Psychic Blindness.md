@@ -2,25 +2,25 @@
 tags:
   - Psycast
   - 2nd-Level
-  - Illusiomancer
+  - Noctomancer
 ---
 - **Path**:
-	- 2nd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
 	- 1 Bonus Action
 - **[[Psyfocus]] Cost:**
-	- 7
+	- 5
 - **[[Neural Heat]] Generation:**
-	- 25
+	- 21
 - [[Range]]:
 	- 30ft
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic.
+	- Kinetic
 - **Duration**:
-	- 3 turns
-- **Effects**:
-	- You grant a creature in range +2 [[Evade Class]] for the psycast duration.
+	- 3 turns.
+- **Effects**
+	- You attempt to psychically inflict a creature with blindness. They must make a Wisdom saving throw. On a failure, they are [[Blinded]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

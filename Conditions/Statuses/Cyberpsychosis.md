@@ -2,7 +2,7 @@
 tags:
   - Status
 ---
-- Whenever a creature with the Cyberpsychosis condition kills another creature, is slighted, or witnesses the death of a friendly creature they must roll a d20. Upon rolling a 1 the creature goes cyberpsycho. 
+- Whenever a creature with the Cyberpsychosis status kills another creature, is slighted, or witnesses the death of a friendly creature they must roll a d20. Upon rolling a 1 the creature goes cyberpsycho. 
 - A creature who has gone cyberpsycho has the following changes:
 	- Loses concentration on all psycasts.
 	- Must make a melee/ranged attack on the nearest creature on each of its turns.

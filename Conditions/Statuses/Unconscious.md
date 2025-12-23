@@ -1,6 +1,6 @@
 ---
 tags:
-  - Condition
+  - Status
 ---
 - When a creature has the unconscious status, they suffer the following effects:
 	- They are [[Incapacitated]].
