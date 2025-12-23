@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiEyeDotted",
       "LiInfo",
       "TiHexagonNumber4",
       "TiHexagonNumber3",
-      "TiHexagonNumber2",
-      "LiListTodo"
+      "TiHexagonNumber2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1186,8 +1186,7 @@
   "Psycasts/Utility Paths/Noctomancer/3rd Level": "TiHexagonNumber3",
   "Mechanics/Gameplay Information/Lighting.md": "LiListTodo",
   "Items/Weapons/Properties/Stealthy.md": "TiSettings2",
-  "Conditions/Statuses/Hidden.md": "LiListTodo",
   "Psycasts/Utility Paths/Noctomancer/3rd Level/Dark Stealth.md": "LiListTodo",
   "Mechanics/Gameplay Information/Base Actions": "LiInfo",
-  "Mechanics/Gameplay Information/Base Actions/Hiding.md": "LiListTodo"
+  "Mechanics/Gameplay Information/Base Actions/Stealth and Hiding.md": "LiListTodo"
 }
