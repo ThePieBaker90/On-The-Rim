@@ -1173,7 +1173,6 @@
   "Templates/Weapon Template.md": "TiTemplate",
   "Story": "TiBook2",
   "Story/Anomaly Story": "TiTriangles",
-  "Conditions/Special Conditions/Darkness.md": "FarSquareCaretDown",
   "Psycasts/Utility Paths/Noctomancer/5th Level/Eternal Night.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/1st Level/Snuff Light.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/1st Level/Darkvision.md": "LiSparkles",
@@ -1188,5 +1187,6 @@
   "Items/Weapons/Properties/Stealthy.md": "TiSettings2",
   "Psycasts/Utility Paths/Noctomancer/3rd Level/Dark Stealth.md": "LiListTodo",
   "Mechanics/Gameplay Information/Base Actions": "LiInfo",
-  "Mechanics/Gameplay Information/Base Actions/Stealth and Hiding.md": "LiListTodo"
+  "Conditions/Special Conditions/Short-Sighted.md": "FarSquareCaretDown",
+  "Mechanics/Gameplay Information/Stealth and Hiding.md": "LiInfo"
 }

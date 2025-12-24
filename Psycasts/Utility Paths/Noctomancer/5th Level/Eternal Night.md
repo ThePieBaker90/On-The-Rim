@@ -22,12 +22,12 @@ tags:
 	- 3 turns.
 - **Effects**:
 	- You release a wave of darkness, afflicting up to 5 targets of your choice within range with the following effects for the psycast duration:
-		- They gain [[Darkness]].
+		- They gain [[Short-Sighted]].
 		- They hear all sounds you make as if you surround them on all sides.
 		- They lose -10ft of speed.
 	- For the psycast duration, you have the following effects:
 		- You gain +10ft of speed.
-		- You can see the range of vision of creatures affected by [[Darkness]] from this psycast.
-		- You deal an additional 1d4 slashing damage to creatures affected by [[Darkness]] from this psycast.
+		- You can see the range of vision of creatures affected by [[Short-Sighted]] from this psycast.
+		- You deal an additional 1d4 slashing damage to creatures affected by [[Short-Sighted]] from this psycast.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, you may target an additional 5 creatures.
