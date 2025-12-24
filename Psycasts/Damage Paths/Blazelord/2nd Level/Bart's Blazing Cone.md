@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- Flames shoot out of your hands in cone towards a direction of your choosing. All creatures within the cone must make a Dexterity saving throw. On a failed save, a creature takes 2d4 fire damage and catch [[On Fire!]] for 1d4-1 turns. On a successful save, they take half damage.
+	- Flames shoot out of your hands in cone towards a direction of your choosing. All creatures within the cone must make a Dexterity saving throw. 
+		- On a failed save, a creature takes 2d4 fire damage and catch [[On Fire!]] for 1d4-1 turns. 
+		- On a successful save, they take half damage.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 2d4 fire damage.
