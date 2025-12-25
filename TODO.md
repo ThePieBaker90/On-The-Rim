@@ -47,3 +47,5 @@ Empath - Mind Quick sand, you think about things more and you fall deeper into t
 702 Potential Cross Path Spells
 
 Reflection magic
+
+Golden retriever

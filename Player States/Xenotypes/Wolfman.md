@@ -3,8 +3,8 @@ tags:
   - Xenotype
   - Lycan
 ---
-- *Lore*
-- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -4
+- *Nobody knows where wolfmen come from, but what they turn into when the sun sets is known throughout the galaxy. Adept in darkness, wolfmen tend to keep to themselves. Most can be found living in abandoned buildings, caves, although some still live among others.*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -1
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Increased Hair-Growth]]
 - **[[Genes#Life Genes|Life Xenogenes:]]**

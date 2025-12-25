@@ -1,0 +1,17 @@
+---
+tags:
+  - Skill-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 12
+- **Effects:**
+	- Carriers of this gene automatically fail all charisma checks.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Large Charisma Decrease]]
+	- [[Medium Charisma Decrease]]
+	- [[Small Charisma Decrease]]
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Large Charisma Increase]]
+	- [[Medium Charisma Increase]]
+	- [[Small Charisma Increase]]

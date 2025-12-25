@@ -19,7 +19,7 @@ tags:
 	- On a failure, nothing happens.
 ## Obscuration
 - Obscuration is how hard or easy your environment makes you to spot. 
-- There are 5 types of obscurations; Cover, Light, and Effect obscurations.
+- There are 3 types of obscurations; Cover, Light, and Effect obscurations.
 - The obscuration base DC is used to represent how difficult it is to hide in an environment. To find the obscuration base DC, simply add up the obscuration modifiers of all relevant obscurations.
 
 | Cover        | Obscuration Modifier | Light        | Obscuration Modifiers |
@@ -74,11 +74,12 @@ tags:
 - Each state is in relevance to another creature. You may only be in one state at a time in relation to another creature, but may be in different states with different creatures.
 	- For example, you can be hidden from one creature, observed by another, and undetected by a third. You cannot be hidden and undetected from the same creature.
 - You may rapidly swap stealth states with creatures in battle, an action does not need to specify you swap states for your to swap stealth states.
+- When you first enter a space, you start [[#Unnoticed]] to all creatures within the space and all creatures start [[#Unnoticed]] to you. They become [[#Undetected]] if you hear or smell them, they become [[#Observed]] if you see them.
 ### Observed
 - A creature you are observed by knows exactly where you are. This has no effects.
 ### Hidden
 - A creature you are hidden from knows the space you are in but cannot see you. Non-area of affect attacks on you by creatures you are hidden from have disadvantage to hit.
 ### Undetected
-- A creature you are undetected by knows you are in the general vicinity but not you exact whereabouts. Non-area of affect attacks on you by creatures you are undetected by have disadvantage to hit. Attacks against creatures you are undetected by have advantage to hit.
+- A creature you are undetected by knows you are in the general vicinity but not you exact whereabouts. Non-area of affect attacks on you by creatures you are undetected by have disadvantage to hit. Attacks against creatures you are undetected by have advantage to hit. Certain actions (such as attacking or casting psycasts) may make you [[#Observed]] or [[#Hidden]].
 ### Unnoticed
-- A creature you are unnoticed by is completely unaware of you. Creatures you are unnoticed by will not make attacks on you or seek you out. Attacks against creatures you are unnoticed by have advantage to hit.
+- A creature you are unnoticed by is completely unaware of you. Creatures you are unnoticed by will not make attacks on you or seek you out. Attacks against creatures you are unnoticed by have advantage to hit. Certain actions (such as attacking or casting psycasts) may make you [[#Observed]] or [[#Hidden]].

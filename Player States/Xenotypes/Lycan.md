@@ -3,8 +3,8 @@ tags:
   - Xenotype
   - Lycan
 ---
-- *Lore*
-- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -3
+- *Lycans are what becomes of [[Wolfman|Wolfmen]] who roam the night. They gain massively increased physical capabilities but are unable to communicate effectively. An angry lycan is a fearsome sight, able to rip a person in half with their raw power.*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** 0
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Wolf Ears]]
 	- [[Wolf-Like Fur]]
@@ -18,9 +18,13 @@ tags:
 		- [[Wolfman]]
 	- [[Lunar Implant]]
 		- [[Lycan]]
+	- [[Extremely Fast Speed]]
 - **[[Genes#Passive Genes|Passive Xenogenes]]**
-	- [[Minor Light Sensitivity]]
+	- [[Mild Light Sensitivity]]
 	- [[Aggressive]]
 	- [[Darkvision (60ft)]]
 - **[[Genes#Skill Genes|Skill Xenogenes:]]**
 	- [[Medium Constitution Increase]]
+	- [[Medium Dexterity Increase]]
+	- [[Medium Strength Increase]]
+	- [[Charisma Innability]]

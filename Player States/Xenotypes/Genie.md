@@ -2,12 +2,13 @@
 tags:
   - Xenotype
 ---
-- *.*
+- *Genies were made as the perfect engineers. Their increased brain* size and density allow them to deal with any mental problem.
 - **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -1
 - **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
 	- [[Body Type]]
 		- Thin
 	- [[Hairless]]
+	- [[Big Cranium]]
 - **[[Genes#Life Genes|Life Xenogenes:]]**
 	- None.
 - **[[Genes#Ability Genes|Ability Xenogenes:]]**

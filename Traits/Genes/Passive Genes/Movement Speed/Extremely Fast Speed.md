@@ -1,0 +1,13 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -5
+- **Effects:**
+	- Carriers of this gene gain +10ft of movement speed.
+- **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Fast Speed]]
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- [[Slow Speed]]

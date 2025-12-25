@@ -6,6 +6,6 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 3
 - **Effects:**
-	- Carriers of this gene have a permanent vulnerability to fire damage.
+	- Carriers of this gene have a permanent vulnerability to electric damage.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
-	- [[Fire Resistant]]
+	- [[Electric Resistant]]
