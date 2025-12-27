@@ -24,7 +24,9 @@ tags:
 	- You ride a small wave of water. You gain the following effects for the duration of the psycast:
 		- x2 movement speed.
 		- You may not dash.
-		- Creatures you attempt to move through must make a dexterity saving throw. On a failure, they are pushed away 5ft and fall [[Prone]]. On a success, they are pushed away 5ft.
+		- Creatures you attempt to move through must make a dexterity saving throw. 
+			- On a failure, they are pushed away 5ft and fall [[Prone]]. 
+			- On a success, they are pushed away 5ft.
 	- The water cannot move over grates or drains, moving over a grate or a drain ends the psycast prematurely.
 - **Upcasting:**
 	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

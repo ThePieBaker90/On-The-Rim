@@ -19,9 +19,9 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 1 minute.
+	- Concentration, up to 1 minute.
 - **Effects**:
-	- You create a 5ft x 25ft x 10ft wall of ice centered at a target point within range. The ice wall rises out of the ground and pushes up everything that is above it. If the ice wall  is restricted by a wall or a ceiling, it will stop at the obstruction. The ice wall has 45 HP.
+	- You create a 5ft x 25ft x 10ft wall of ice centered at a target point within range. The ice wall rises out of the ground and pushes up everything that is above it. If the ice wall is restricted by a wall or a ceiling, it will stop at the obstruction. The ice wall has 45 HP.
 	- Upon creation the user determines if the wall is clear or opaque ice and the rotation of the wall
 	- When concentration is lost, the wall immediately breaks.
 - **Upcasting**:

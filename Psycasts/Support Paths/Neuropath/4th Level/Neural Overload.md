@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You excite neural heat within a creature in range, the creature must make a Wisdom saving throw to steel themselves against the neural heat. On a failure, the creature takes 1 psychic damage for each neural heat they have, they then lose all generated [[Neural Heat]]. On a success, the creature takes half as much damage and loses half of their generated [[Neural Heat]].
+	- You excite neural heat within a creature in range, the creature must make a Wisdom saving throw to steel themselves against the neural heat. 
+		- On a failure, the creature takes 1 psychic damage for each neural heat they have, they then lose all generated [[Neural Heat]]. 
+		- On a success, the creature takes half as much damage and loses half of their generated [[Neural Heat]].
 - **Upcasting**:
 	- You cannot upcast this psycast.

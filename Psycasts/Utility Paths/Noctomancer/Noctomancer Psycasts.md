@@ -16,11 +16,11 @@ aliases:
 	- [[Psychic Blindness]] (5, 21)
 	- [[Blinding Spray]] (6, 26)
 - 3rd Level:
-	- [[Dark Stealth]]
-	- Enhance Darkness (Make Dark Magical)
-	- Dome of Dark
+	- [[Shadow Stalk]] (6, 35)
+	- [[Void Shroud]] (15, 55)
+	- [[Ball 'o' Black]] (6, 33)
 - 4th Level:
-	- Darkness Hurts 3,44
+	- [[Slashing Shadows]] (3,44)
 - 5th Level:
 	- [[Eternal Night]] (8, 45)
 ## Miscasts

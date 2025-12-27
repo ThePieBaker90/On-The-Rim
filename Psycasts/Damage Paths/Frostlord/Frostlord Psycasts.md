@@ -12,7 +12,7 @@ aliases:
 	- [[Fragment Burst]] (2, 26)
 	- [[Hailshot]] (2, 20)
 - 2nd Level:
-	- [[Freeze Ray]] (3, 28)
+	- [[Freeze Ray]] (4, 22)
 	- [[Cooling Crystal]] (26, 0)
 - 3rd Level:
 	- [[Ice Wall]] (6, 28)

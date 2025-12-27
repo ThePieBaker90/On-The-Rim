@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You say a painful word to a creature within range, the creature must make a Wisdom saving throw. On a failure, they take 1d8 psychic damage and gain 1 level of [[Mind-Shattering Pain]]. On a success, nothing happens.
+	- You say a painful word to a creature within range, the creature must make a Wisdom saving throw. 
+		- On a failure, they take 1d8 psychic damage and gain 1 level of [[Mind-Shattering Pain]]. 
+		- On a success, nothing happens.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, an additional level of [[Mind-Shattering Pain]] is applied on a failed save.

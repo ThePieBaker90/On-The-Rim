@@ -22,7 +22,9 @@ tags:
 	- 3 turns.
 - **Effects**:
 	- You create a cylinder of strong downward gravitational force centered on a point within range. The cylinder has a 15ft radius and 30ft height. Within the cylinder, the following effects occur:
-		- Creatures starting their turn in the zone, entering the zone for the first time this turn, ending their turn in the zone, or are in the zone when this psycast is cast must make a Constitution saving throw. On a failure they are forced [[Prone]] until they leave the zone. On a success nothing happens.
+		- Creatures starting their turn in the zone, entering the zone for the first time this turn, ending their turn in the zone, or are in the zone when this psycast is cast must make a Constitution saving throw. 
+			- On a failure, they are forced [[Prone]] until they leave the zone. 
+			- On a success, nothing happens.
 			- Creatures supported by an object automatically succeed the saving throw.
 		- External sources of gravity are ignored.
 		- Projectiles travelling through the cylinder have disadvantage to hit.

@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You splash [[Matterbane]] in an arc towards a direction. All creatures in the arc must make a Dexterity saving throw. On a failure, creatures take 6d10 corrosion damage, any armor they may be wearing gains 4 levels of [[Armor Corrosion]], and they gain the [[Chemical Burned]] condition for 3 turns. On a success, creatures take half as much damage.
+	- You splash [[Matterbane]] in an arc towards a direction. All creatures in the arc must make a Dexterity saving throw. 
+		- On a failure, creatures take 6d10 corrosion damage, any armor they may be wearing gains 4 levels of [[Armor Corrosion]], and they gain the [[Chemical Burned]] condition for 3 turns. 
+		- On a success, creatures take half as much damage.
 		- Objects take 8d10 corrosion damage when hit, this ignores any damage reductions from the object but not any corrosion immunities.
 - **Upcasting**:
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the attack deals 2d10 more damage.

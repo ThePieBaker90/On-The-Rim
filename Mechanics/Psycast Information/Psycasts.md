@@ -17,7 +17,7 @@ aliases:
 - This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
 ### Cast Phase (Immediate effects occur)
 - This phase happens immediately after the casting phase has passed, during this phase the caster chooses targets, then, all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
-### Active Phase (Recurring, passive, and delayed effects)
+### Active Phase (Recurring, passive, afflicting and delayed effects)
 - This phase happens after the cast phase, during this phase all recurring or passive effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
 ### End Phase (End effects)
 - This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
@@ -121,7 +121,7 @@ aliases:
 	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. On a failure, you lose concentration and the psycast moves to the end phase. On a success, nothing happens.
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
 ## Psycast Effects
-- There are four types of psycast effects; immediate, recurring, passive, and delayed. All effects will not occur if the psycast has ended 
+- There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended 
 ### Immediate Effects
 - Immediate effects occur only once, when the psycast enters the cast phase. 
 	- For example, [[Cinder]] has only immediate effects.
@@ -129,8 +129,11 @@ aliases:
 - Recurring effects are effects that may occur when a certain trigger condition is met, notably they may trigger multiple times. 
 	- For example, [[Poison Cloud]] has a recurring effect for creatures starting their turn in the cloud, entering the cloud for the first time this turn, or ending their turn in the cloud.
 ### Passive Effects
-- Passive effects are always in effect while the psycast is active. 
+- Passive effects are always in effect while the psycast is active.
 	- For example, [[Levitation]] has only passive effects.
+### Affliction Effects
+- Affliction effects are effects that affect only afflicted creatures. Psycasts only afflict creatures if explicitly stated, additionally psycasts mentioning afflicted creatures only refer to creatures afflicted by the same psycast instance.
+	- For example, [[Eternal Night]] afflicts 5 creatures.
 ### Delayed Effects
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.

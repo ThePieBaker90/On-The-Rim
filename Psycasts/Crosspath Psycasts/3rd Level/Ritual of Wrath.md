@@ -22,7 +22,9 @@ tags:
 - **Duration**:
 	- 1 Minute.
 - **Effects**:
-	- All creatures within range of the ritual circle must make a Wisdom saving throw. On a failure, a creature goes into a [[Berserk Rage]] for the psycast duration. On a success, nothing happens.
+	- All creatures within range of the ritual circle must make a Wisdom saving throw. 
+		- On a failure, a creature goes into a [[Berserk Rage]] for the psycast duration. 
+		- On a success, nothing happens.
 		- All creatures within 10ft of the ritual circle are immune to this psycast's effects.
 - **Upcasting**:
 	- You cannot upcast this psycast.

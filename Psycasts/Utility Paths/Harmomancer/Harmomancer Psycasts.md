@@ -25,17 +25,17 @@ aliases:
 	- [[Transmute Object]] (55, 0)
 ## Miscasts
 - Level 1 Miscast - Health Balance
-	- The caster loses 1d20 health, a random nearby hostile creature gains the amount the caster lost.
+	- You lose 1d20 health, a random hostile creature within 120ft gains the amount you lost.
 		- Extra health is added to the creature's temporary health, this temporary health lasts for 24 hours or until removed.
 
 - Level 2 Miscast - Score Swap
-	- The caster rolls 1d6 and reduces the ability score that corresponds to the result by 1. The caster then rolls another 1d6 and increases the ability score that corresponds to the result by 1. This change is permanent
-		- 1 Corresponds to Strength
-		- 2 Corresponds to Dexterity
-		- 3 Corresponds to Constitution
-		- 4 Corresponds to Intelligence
-		- 5 Corresponds to Wisdom
-		- 6 Corresponds to Charisma
+	- You roll 1d6 and reduce the ability score that corresponds to the result by 1. You then roll another 1d6 and increase the ability score that corresponds to the result by 1. This change is permanent.
+		- 1 Corresponds to Strength.
+		- 2 Corresponds to Dexterity.
+		- 3 Corresponds to Constitution.
+		- 4 Corresponds to Intelligence.
+		- 5 Corresponds to Wisdom.
+		- 6 Corresponds to Charisma.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

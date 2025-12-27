@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Concentration, up to 3 turns
 - **Effects**:
-	- You summon 3 freezing motes above up to 3 targets of your choice. They must make a Dexterity saving throw to avoid the freezing motes. Upon a failure, they gain the [[Frozen Solid]] condition, this condition lasts until the psycast ends or the condition is forcibly removed. Upon a success, nothing happens.
+	- You summon 3 freezing motes above up to 3 targets of your choice. They must make a Dexterity saving throw to avoid the freezing motes. 
+		- Upon a failure, they gain the [[Frozen Solid]] condition for the psycast duration.
+		- Upon a success, nothing happens.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the caster may summon 1 additional freezing mote above 1 additional target.

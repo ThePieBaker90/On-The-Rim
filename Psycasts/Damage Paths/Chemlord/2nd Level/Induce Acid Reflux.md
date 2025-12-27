@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
-	- 37 (27)
+	- 32 (22)
 - [[Range]]:
 	- 30ft
 - **Target**:
@@ -21,9 +21,14 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns
 - **Effects**:
-	- You increase the PH of a targets stomach acids, inducing extreme acid reflux. The target must make a Constitution saving throw to steel themselves from the acids. Upon a failure, they cannot concentrate on psycasts and gain disadvantage on all ability checks and rolls to hit. On a success, nothing happens and the psycast ends. 
-	- At the beginning of each of their subsequent turns the target must make another Constitution saving throw. On a failure, they continue to suffer the effects of the psycast. On a success, the psycast ends.
-	- The extreme acid reflux ends if the psycast ends.
-	- Creatures with bionic stomachs are unaffected by this psycast.
+	- You increase the PH of a target's stomach acids, inducing extreme acid reflux. The target must make a Constitution saving throw to steel themselves from the acids. 
+		- Upon a failure, they are afflicted and suffer the following:
+			- They cannot concentrate on psycasts.
+			- They gain disadvantage on all ability checks and rolls to hit.
+			- At the beginning of each of their subsequent turns they must make another Constitution saving throw. 
+				- On a failure, they remain afflicted.
+				- On a success, the psycast ends.
+		- On a success, nothing happens and the psycast ends. 
+	- Creatures with a [[Stomach]] with an efficiency greater than 110% are unaffected by this psycast.
 - **Upcasting**:
 	- You cannot upcast this psycast.

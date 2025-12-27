@@ -23,4 +23,4 @@ tags:
 - **Effects**:
 	- As a reaction to getting hit, you create a barrier of water to soften the blow. You gain resistance to one damage type of your choice, this resistance dissipates when the attack resolves.
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may gain resistance to an additional damage type.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may gain resistance to an additional damage type of your choice.

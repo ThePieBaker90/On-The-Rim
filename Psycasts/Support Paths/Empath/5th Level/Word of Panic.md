@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You say a word of panic to incite anxiety in a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain 1 level of [[Panic]]. On a success, nothing happens.
+	- You say a word of panic to incite anxiety in a creature within range, the creature must make a Wisdom saving throw. 
+		- On a failure, they gain 1 level of [[Panic]]. 
+		- On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.

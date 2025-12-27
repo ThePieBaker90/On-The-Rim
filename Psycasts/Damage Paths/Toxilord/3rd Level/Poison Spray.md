@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You spray poison in an arc towards a direction. All creatures in the arc must make a Constitution saving throw. On a failure, creatures take 1d8 poison damage and gain 5 levels of [[Poison Buildup]]. On a success, nothing happens.
+	- You spray poison in an arc towards a direction. All creatures in the arc must make a Constitution saving throw. 
+		- On a failure, creatures take 1d8 poison damage and gain 5 levels of [[Poison Buildup]]. 
+		- On a success, nothing happens.
 - **Upcasting**:
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional level of [[Poison Buildup]] is applied on a failed saving throw.

@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a target creature within range of you to a random point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. Upon a failure, they teleport. Upon a success, nothing happens.
+	- You teleport a target creature within range of you to a random point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. 
+		- On a failure, they teleport to a random point in range. 
+		- On a success, nothing happens.
 		- The random point will be within range of the creature, the random point does not require line of sight.
 		- Creatures cannot be bigger than 7ft$^3$. 
 		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.

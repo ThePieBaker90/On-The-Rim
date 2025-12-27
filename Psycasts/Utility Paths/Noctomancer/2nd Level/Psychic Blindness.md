@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**
-	- You attempt to psychically inflict a creature with blindness. They must make a Wisdom saving throw. On a failure, they are [[Blinded]].
+	- You attempt to psychically inflict a creature with blindness. They must make a Wisdom saving throw. On a failure, they are [[Blinded]] for the psycast duration.
 - **Upcasting**:
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

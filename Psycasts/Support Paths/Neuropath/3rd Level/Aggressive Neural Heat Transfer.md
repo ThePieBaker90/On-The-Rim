@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You dump your neural heat into a creature within range. The creature must make a Wisdom saving throw. On a failure they gain all of your neural heat and you lose all neural heat. On a success, nothing happens.
+	- You dump your neural heat into a creature within range. The creature must make a Wisdom saving throw. 
+		- On a failure they gain all of your neural heat and you lose all neural heat. 
+		- On a success, nothing happens.
 	- This psycast cannot be used while concentrating on another psycast.
 	- You cannot target yourself with this psycast
 - **Upcasting**:

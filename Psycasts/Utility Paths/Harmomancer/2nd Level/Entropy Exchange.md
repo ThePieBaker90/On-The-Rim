@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You lose 2d4 health, a creature of your choice gains that much health.
+	- You lose 2d4 health, a creature of your choice within range gains that much health.
 		- The creature always gains the exact amount of health you lost.
 		- If the creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
 - **Upcasting:**

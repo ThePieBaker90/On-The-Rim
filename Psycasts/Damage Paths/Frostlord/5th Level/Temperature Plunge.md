@@ -22,7 +22,9 @@ tags:
 	- 5 turns
 - **Effects**:
 	- You release a burst of pure cold from yourself freezing everything within range. 
-		- All creatures in range (except for the caster) must make a Dexterity saving throw. On a failure they take 1d12 + 4 cold damage and become [[Frozen Solid]] for 2 turns. On a success nothing happens. 
+		- All creatures in range (except for you) must make a Dexterity saving throw. 
+			- On a failure, they take 1d12 + 4 cold damage and become [[Frozen Solid]] for 2 turns. 
+			- On a success, nothing happens. 
 		- The temperature within range instantly drops to -10C and all liquids that can be frozen at that temperature are immediately frozen.
 		- Ice covers all floors within range making all floors within range difficult terrain
 - **Upcasting**:

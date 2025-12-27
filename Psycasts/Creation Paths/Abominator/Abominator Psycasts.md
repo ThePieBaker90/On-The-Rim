@@ -25,9 +25,11 @@ aliases:
 	- [[Summon Abomination Army]] (56,18)
 ## Miscasts
 - Level 1 Miscast - Goo Thinning
-	- All active [[Abomination Matter]] has its health and duration cut in half (rounded down).
+	- All active Abominator spells have their duration cut in half and any [[Abomination Matter]] has its health halved (rounded down).
 - Level 2 Miscast - Abominisplosion!
-	- [[Abomination Matter]] explodes outwards from you. All creatures within 15 ft must attempt a DC 15 Dexterity saving throw. On a failure, they take 2d6 bludgeoning damage and are covered in goo. On a success, they take half as much damage. You automatically fail this saving throw.
+	- [[Abomination Matter]] explodes outwards from you. All creatures within 15 ft must attempt a DC 15 Dexterity saving throw. 
+		- On a failure, they take 2d6 bludgeoning damage and are covered in goo. 
+		- On a success, they take half as much damage. You automatically fail this saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

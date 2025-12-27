@@ -22,8 +22,8 @@ tags:
 	- Instant
 - **Effects**:
 	- [[Abomination Matter]] surrounds a 15ft sphere centered on the initial point. Any creature within the sphere with enough remaining speed to reach the edge of the sphere may make a dexterity saving throw. A creature is teleported on a failed save, or if they don't/can't attempt a save. The creature is moved to the closest edge and are not teleported on a successful one.
-	- When teleported, the creature's relation to the point is kept in tact. The ending point's Yaw dimension (normal to the floor) may be rotated.
-	- If a creature would end up in another surface, they instead appear at the nearest point not within that surface and within line of sight. 
-	- If a single part of a creature would be teleported, the entire creature is teleported along with it.
+		- When teleported, the creature's relation to the point is kept in tact. The ending point's Yaw dimension (normal to the floor) may be rotated.
+		- If a creature would end up in another surface, they instead appear at the nearest point not within that surface and within line of sight. 
+		- If a single part of a creature would be teleported, the entire creature is teleported along with it.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the initial sphere's radius increases by 5ft.

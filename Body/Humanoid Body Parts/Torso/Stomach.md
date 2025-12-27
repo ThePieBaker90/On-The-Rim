@@ -16,4 +16,4 @@ tags:
 * Nonexistent Versions:
 	* [[Advanced Bionic]], [[Archotech]]
 * Additional Info:
-	* Kidney efficiency is calculated based off the average efficiency between the two kidneys. Kidney efficiency is capped at 100%
+	* None.

@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Concentration, up to 2 turns.
 - **Effects**:
-	- You say a lethargic word to drain the energy from a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain the [[Lethargic]] condition for the psycast duration. On a success, nothing happens.
+	- You say a lethargic word to drain the energy from a creature within range, the creature must make a Wisdom saving throw. 
+		- On a failure, they gain the [[Lethargic]] condition for the psycast duration. 
+		- On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.

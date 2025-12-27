@@ -24,6 +24,8 @@ tags:
 	- You heat up a metallic object of your choice to a temperature of your choice over 1 turn. 
 		- You may heat the object up to 1500C. 
 		- You may only heat up a maximum volume of 5ft$^3$.
-		- If a creature is the target of this spell, they must make a dexterity saving throw. On a failure, they take 2d10 fire damage. On a success, nothing happens.
+		- If a creature is the target of this psycast, they must make a dexterity saving throw. 
+			- On a failure, they take 2d10 fire damage. 
+			- On a success, nothing happens.
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the target temperature may be 250C higher.

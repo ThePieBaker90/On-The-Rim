@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You explode a corpses bile, all creatures within 10ft of the corpse must make a dexterity saving throw. On a failure, they take 2d8 necrotic damage. On a success, nothing happens.
+	- You explode a corpses bile, all creatures within 10ft of the corpse must make a dexterity saving throw. 
+		- On a failure, they take 2d8 necrotic damage. 
+		- On a success, nothing happens.
 	- Corpses targeted by this psycast cannot be targeted by this psycast again.
 	- This psycast can be cast on a [[Medium Shambler|Shambler]] you created with no [[Neural Heat]] cost.
 		- This kills the [[Medium Shambler|Shambler]] instantly.

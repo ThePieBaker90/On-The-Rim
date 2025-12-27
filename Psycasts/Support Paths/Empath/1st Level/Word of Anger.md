@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You say a word of anger to enrage a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain 1 level of [[Anger]]. On a success, nothing happens.
+	- You say a word of anger to enrage a creature within range, the creature must make a Wisdom saving throw. 
+		- On a failure, they gain 1 level of [[Anger]]. 
+		- On a success, nothing happens.
 		- A creature may willingly fail the saving throw.
 - **Upcasting**:
 	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the creature gains an additional level of [[Anger]] on a failed save.

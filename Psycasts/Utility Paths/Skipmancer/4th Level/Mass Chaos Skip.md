@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a 15ft sphere centered on a point within range. Any creature within the sphere with enough remaining speed to reach the edge of the sphere may make a dexterity saving throw. A creature is teleported on a failed save, or if they don't/can't attempt a save. The creature is moved to the closest edge and are not teleported on a successful one.
+	- You teleport a 15ft sphere centered on a point within range. Any creature within the sphere with enough remaining speed to reach the edge of the sphere may make a dexterity saving throw. A creature is teleported on a failed save, or if they don't/can't attempt a save. The creature is moved to the closest edge and is not teleported on a successful one.
 	- When teleported, a creature teleports to a random point within range.
 		- The random point will be within range of the creature, the random point does not require line of sight.
 	- If a single part of a creature would be teleported, the entire creature is teleported along with it.

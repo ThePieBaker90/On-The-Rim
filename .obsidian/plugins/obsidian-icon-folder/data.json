@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiSparkles",
       "TiUserPentagon",
       "LiList",
-      "LiDna",
-      "TiEyeDotted",
-      "LiInfo"
+      "LiDna"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1183,7 +1183,6 @@
   "Psycasts/Utility Paths/Noctomancer/3rd Level": "TiHexagonNumber3",
   "Mechanics/Gameplay Information/Lighting.md": "LiListTodo",
   "Items/Weapons/Properties/Stealthy.md": "TiSettings2",
-  "Psycasts/Utility Paths/Noctomancer/3rd Level/Dark Stealth.md": "LiListTodo",
   "Mechanics/Gameplay Information/Base Actions": "LiInfo",
   "Conditions/Special Conditions/Short-Sighted.md": "FarSquareCaretDown",
   "Mechanics/Gameplay Information/Stealth and Hiding.md": "LiInfo",
@@ -1199,5 +1198,9 @@
   "Traits/Genes/Cosmetic Genes/Head/Big Cranium.md": "LiDna",
   "Traits/Genes/Skill Genes/Ability Scores/Innabilities": "LiList",
   "Traits/Genes/Skill Genes/Ability Scores/Innabilities/Charisma Innability.md": "LiDna",
-  "Traits/Genes/Passive Genes/Movement Speed/Extremely Fast Speed.md": "LiDna"
+  "Traits/Genes/Passive Genes/Movement Speed/Extremely Fast Speed.md": "LiDna",
+  "Psycasts/Utility Paths/Noctomancer/3rd Level/Shadow Stalk.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/3rd Level/Void Shroud.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/3rd Level/Ball 'o' Black.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/4th Level/Slashing Shadows.md": "LiListTodo"
 }

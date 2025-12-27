@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a target creature within range of you to a point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. Upon a failure, they teleport. Upon a success, nothing happens.
+	- You teleport a target creature within range of you to a point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. 
+		- Upon a failure, they teleport to the point. 
+		- Upon a success, nothing happens.
 		- You do not need line of sight to the point, the creature does need line of sight to the point.
 		- Creatures cannot be bigger than 7ft$^3$. 
 		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.
