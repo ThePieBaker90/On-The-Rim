@@ -13,13 +13,13 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- .
+	- 120ft.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- .
+	- 3 turns
 - **Effects**
 	- For the psycast duration, all creatures who meet both of the following conditions are afflicted:
 		- They are within range of you.
@@ -28,4 +28,4 @@ tags:
 		- Take 2d8 slashing damage.
 		- Their movement is slowed by 10ft.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
