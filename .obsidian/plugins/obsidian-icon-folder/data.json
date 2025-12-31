@@ -699,7 +699,7 @@
   "Player States/Germlines/Uncommon Germlines/Drow.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Gato.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Impid.md": "LiCircleUserRound",
-  "Player States/Xenotypes/Blood-Based": "TiUserPentagon",
+  "Player States/Xenotypes/Blood-Based": "LiList",
   "Player States/Xenotypes/Blood-Based/Fledglings": "LiListTodo",
   "Player States/Xenotypes/Blood-Based/Fledglings/Bruxa Fledgling.md": "LiListTodo",
   "Player States/Xenotypes/Blood-Based/Fledglings/Ekkimian Fledgling.md": "LiListTodo",

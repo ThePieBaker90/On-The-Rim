@@ -6,7 +6,7 @@ aliases:
   - Noctomancer
   - Noctomancer Psycast
 ---
-*todo.*
+*Noctomancers specialize in the creation, manipulation and amplification of darkness. Some of their psycasts inflict [[Blinded]] and [[Frightened]]. Their ability to work within the shadows and expand their domain make their stealth capabilities unmatched.*
 ## Core Psycasts
 - 1st Level:
 	- [[Darkvision]] (12, 0)
@@ -26,8 +26,8 @@ aliases:
 ## Miscasts
 - Level 1 Miscast - .
 	- .
-- Level 2 Miscast - .
-	- .
+- Level 2 Miscast - Un-darkvision
+	- 
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
