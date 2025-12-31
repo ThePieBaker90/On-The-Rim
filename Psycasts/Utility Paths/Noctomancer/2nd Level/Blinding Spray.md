@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- A blinding spray shoots out of your hands in a cone towards the direction of your choosing. All creatures within the cone with [[Eyes]] must make a Dexterity saving throw. On a failure, they are [[Blinded]] for 2 turns. On a success, nothing happens.
+	- A blinding spray shoots out of your hands in a cone towards the direction of your choosing. All creatures within the cone with [[Eyes]] must make a Dexterity saving throw. 
+		- On a failure, they are [[Blinded]] for 2 turns. 
+		- On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.

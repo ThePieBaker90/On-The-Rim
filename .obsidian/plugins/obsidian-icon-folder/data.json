@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
       "LiListTodo",
       "LiSparkles",
       "TiUserPentagon",
-      "LiList",
-      "LiDna"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1015,9 +1015,9 @@
   "Psycasts/Utility Paths/Harmomancer/1st Level/Blessing of Good Luck.md": "LiSparkles",
   "Psycasts/Utility Paths/Illusiomancer": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/Illusiomancer Psycasts.md": "LiListTodo",
-  "Psycasts/Utility Paths/Noctomancer": "LiListTodo",
+  "Psycasts/Utility Paths/Noctomancer": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/1st Level/Word of Fear.md": "LiSparkles",
-  "Psycasts/Utility Paths/Noctomancer/Noctomancer Psycasts.md": "LiListTodo",
+  "Psycasts/Utility Paths/Noctomancer/Noctomancer Psycasts.md": "LiInfo",
   "Psycasts/Utility Paths/Puppetmancer": "LiListTodo",
   "Psycasts/Utility Paths/Puppetmancer/1st Level/Fleeting Friendship.md": "LiSparkles",
   "Psycasts/Utility Paths/Puppetmancer/1st Level/Word of Command.md": "LiSparkles",

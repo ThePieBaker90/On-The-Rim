@@ -31,4 +31,4 @@ tags:
 		- You can see the range of vision of afflicted creatures.
 		- You deal an additional 1d4 slashing damage to afflicted creatures.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, you may target an additional 5 creatures.
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you may target an additional 5 creatures.
