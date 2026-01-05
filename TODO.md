@@ -49,3 +49,5 @@ Empath - Mind Quick sand, you think about things more and you fall deeper into t
 Reflection magic
 
 Golden retriever
+
+Okay so toxilord sounds like a pokemon so maybe it is a monster! It is the corrupt king monster ansd would be a poison type pokemon. It would maybe be a dragon.

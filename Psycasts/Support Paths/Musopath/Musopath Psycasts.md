@@ -1,23 +1,28 @@
 ---
 tags:
   - Info
-  - Staticlord
+  - Musopath
 aliases:
-  - Soundlord
-  - Soundlord Psycast
+  - Musopath
+  - Musopath Psycast
 ---
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Sound Wave Cast]]
 - 2nd Level:
-	- .
+	- Sleepy Serenade
+	- Quick whistle
+	- Very loud sound that deafens and hurts
 - 3rd Level:
-	- .
+	- Healing tempo but damage
+	- Everyone dance
+	- Charming
 - 4th Level:
-	- .
+	- Damage in a circle infront 3,44
+	- Create amplifier
 - 5th Level:
-	- .
+	- Heroic Melody
 ## Miscasts
 - Level 1 Miscast - .
 	- .

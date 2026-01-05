@@ -45,14 +45,14 @@ aliases:
 - [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Varied Chemicals
 - [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
 - [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs
-- [[Soundlord Psycasts|Soundlord]] - Sonic Damage and Music
 - [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electronics
 - [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping
 - [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 ### Support Paths
 - [[Empath Psycasts|Empath]] - Emotions and Feelings
-- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding
+- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding 
 - [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
+- [[Musopath Psycasts|Musopath]] - Sonic Damage and Music
 - [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation
 - [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
 - [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases

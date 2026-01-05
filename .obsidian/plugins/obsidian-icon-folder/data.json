@@ -916,8 +916,6 @@
   "Psycasts/Damage Paths/Mortilord/2nd Level/Touch of Wounding.md": "LiSparkles",
   "Psycasts/Damage Paths/Mortilord/1st Level/Learn From the Dead.md": "LiSparkles",
   "Psycasts/Damage Paths/Mortilord/1st Level/Bursting Bile.md": "LiSparkles",
-  "Psycasts/Damage Paths/Soundlord": "LiListTodo",
-  "Psycasts/Damage Paths/Soundlord/Soundlord Psycasts.md": "LiListTodo",
   "Psycasts/Damage Paths/Staticlord": "LiSparkles",
   "Psycasts/Damage Paths/Staticlord/Staticlord Psycasts.md": "LiInfo",
   "Psycasts/Damage Paths/Staticlord/5th Level/Tesla Stance.md": "LiSparkles",
@@ -1202,5 +1200,7 @@
   "Psycasts/Utility Paths/Noctomancer/3rd Level/Shadow Stalk.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/3rd Level/Void Shroud.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/3rd Level/Ball 'o' Black.md": "LiSparkles",
-  "Psycasts/Utility Paths/Noctomancer/4th Level/Slashing Shadows.md": "LiSparkles"
+  "Psycasts/Utility Paths/Noctomancer/4th Level/Slashing Shadows.md": "LiSparkles",
+  "Psycasts/Support Paths/Musopath": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/Musopath Psycasts.md": "LiListTodo"
 }

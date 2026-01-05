@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Musopath
+---
+- **Path**:
+	- 1st Level [[Musopath Psycasts|Musopath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- .

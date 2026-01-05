@@ -7,6 +7,7 @@ aliases:
   - Hemopath Psycast
 ---
 *todo.*
+==(MAYBE CHANGE TO UTILITY)==
 ## Core Psycasts
 - 1st Level:
 	- .
