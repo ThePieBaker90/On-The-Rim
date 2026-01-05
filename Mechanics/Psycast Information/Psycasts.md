@@ -50,7 +50,6 @@ aliases:
 - [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 ### Support Paths
 - [[Empath Psycasts|Empath]] - Emotions and Feelings
-- [[Hemopath Psycasts|Hemopath]] - Wound Manipulation and Bleeding 
 - [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
 - [[Musopath Psycasts|Musopath]] - Sonic Damage and Music
 - [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation
@@ -59,6 +58,7 @@ aliases:
 ### Utility Paths
 - [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction
 - [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability
+- [[Hemomancer Psycasts|Hemomancer]] - Wound Manipulation and Bleeding 
 - [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling
 - [[Noctomancer Psycasts|Noctomancer]] - Darkness Manipulation and Stealth
 - [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling
@@ -105,6 +105,8 @@ aliases:
 ### Focus Component
 - Focus components require that the psycaster has the listed items equipped during casting, these items are not consumed unless explicitly stated.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]].  If an instrument is the focus, the DC instead depends on the relevant creatures' [[Sound-Based Perception]].
+- Psycasts with a focus component and a kinetic component require the psycaster to use atleast 1 hand on the focus item.
+- Psycasts with a focus component and a gesture component require the psycaster to use atleast 2 hands on the focus item.
 ## Psycast Duration and Concentration
 - All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. 
 - In addition to a duration, some psycasts may require concentration from the user.

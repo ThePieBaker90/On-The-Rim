@@ -9,17 +9,17 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Sound Wave Cast]]
+	- [[Sonic Wave]] (3, 20)
 - 2nd Level:
-	- Sleepy Serenade
-	- Quick whistle
-	- Very loud sound that deafens and hurts
+	- [[Sleepy Serenade]] 
+	- [[Quick Whistle Psycast]]
+	- [[Charming Song]]
+	- [[Deafen and Hurt Psycast]]
 - 3rd Level:
-	- Healing tempo but damage
-	- Everyone dance
-	- Charming
+	- [[Damage Tempo]]
+	- [[Everyone Dance]]
 - 4th Level:
-	- Damage in a circle infront 3,44
+	- [[344 spell]]
 	- Create amplifier
 - 5th Level:
 	- Heroic Melody

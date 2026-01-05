@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Musopath
+---
+- **Path**:
+	- 1st Level [[Musopath Psycasts|Musopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- Touch
+- **Target**:
+	- 10ft sphere with its surface within range.
+- **Components**:
+	- Focus (Instrument)
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- A sonic wave emits from your instrument, all creatures within a sphere with its surface within range must make a Constitution saving throw.
+		- On a failed save, a creature takes 1d8 Sonic damage.
+		- On a successful save, a creature takes half as much damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 Sonic damage.

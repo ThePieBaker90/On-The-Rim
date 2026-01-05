@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Musopath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Musopath Psycasts|Musopath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- Focus (Instrument)
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- .

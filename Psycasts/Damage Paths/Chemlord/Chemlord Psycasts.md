@@ -33,7 +33,7 @@ aliases:
 		- You automatically fail this saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
-	- [[Acidify Blood]] (5, 26) ([[Hemopath Psycasts|Hemopath]])
+	- [[Acidify Blood]] (5, 26) ([[Hemomancer Psycasts|Hemomancer]])
 - 3rd Level:
 	- .
 - 4th Level:

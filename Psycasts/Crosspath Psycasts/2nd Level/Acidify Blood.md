@@ -3,10 +3,10 @@ tags:
   - Psycast
   - Chemlord
   - 2nd-Level
-  - Hemopath
+  - Hemomancer
 ---
 - **Path**:
-	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]] & [[Hemopath Psycasts|Hemopath Psycast]]
+	- 2nd Level [[Chemlord Psycasts|Chemlord Psycast]] & [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

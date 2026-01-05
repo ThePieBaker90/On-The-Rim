@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - 1st-Level
   - Musopath
+  - 3rd-Level
 ---
 - **Path**:
-	- 1st Level [[Musopath Psycasts|Musopath Psycast]]
+	- 3rd Level [[Musopath Psycasts|Musopath Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- .
 - **Components**:
-	- .
+	- Focus (Instrument)
 - **Duration**:
 	- .
 - **Effects**:

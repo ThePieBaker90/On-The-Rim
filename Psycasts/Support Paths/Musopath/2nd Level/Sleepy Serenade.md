@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Musopath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Musopath Psycasts|Musopath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- Focus (Instrument)
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- .

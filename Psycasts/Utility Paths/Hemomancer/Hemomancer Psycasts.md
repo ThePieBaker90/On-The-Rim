@@ -1,13 +1,12 @@
 ---
 tags:
   - Info
-  - Hemopath
+  - Hemomancer
 aliases:
-  - Hemopath
-  - Hemopath Psycast
+  - Hemomancer
+  - Hemomancer Psycast
 ---
 *todo.*
-==(MAYBE CHANGE TO UTILITY)==
 ## Core Psycasts
 - 1st Level:
 	- .
