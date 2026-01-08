@@ -7,20 +7,20 @@ tags:
 - **Path**:
 	- 2nd Level [[Musopath Psycasts|Musopath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 15ft sphere.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
 	- Focus (Instrument)
 - **Duration**:
-	- .
+	- 1 Turn.
 - **Effects**:
 	- .
 - **Upcasting**:
-	- .
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.

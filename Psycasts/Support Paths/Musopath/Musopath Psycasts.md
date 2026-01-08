@@ -11,18 +11,18 @@ aliases:
 - 1st Level:
 	- [[Sonic Wave]] (3, 20)
 - 2nd Level:
-	- [[Sleepy Serenade]] 
-	- [[Quick Whistle Psycast]]
-	- [[Charming Song]]
-	- [[Deafen and Hurt Psycast]]
+	- [[TODO SPELL 2]] 
+	- [[Inspire!]]
+	- [[Charming Chime]]
+	- [[TODO SPELL]]
 - 3rd Level:
-	- [[Damage Tempo]]
+	- [[TODO SPELL 3]]
 	- [[Everyone Dance]]
 - 4th Level:
-	- [[344 spell]]
-	- Create amplifier
+	- [[Encore]]
+	- [[Create amplifier]]
 - 5th Level:
-	- Heroic Melody
+	- [[Heroic Melody]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

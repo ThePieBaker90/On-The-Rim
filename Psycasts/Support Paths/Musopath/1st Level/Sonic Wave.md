@@ -11,18 +11,18 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 20
+	- 24
 - [[Range]]:
-	- Touch
+	- 15ft sphere.
 - **Target**:
-	- 10ft sphere with its surface within range.
+	- Self.
 - **Components**:
 	- Focus (Instrument)
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- A sonic wave emits from your instrument, all creatures within a sphere with its surface within range must make a Constitution saving throw.
-		- On a failed save, a creature takes 1d8 Sonic damage.
+	- A sonic wave emits from your instrument, all creatures within range must make a Constitution saving throw.
+		- On a failed save, a creature takes 2d8 Sonic damage.
 		- On a successful save, a creature takes half as much damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 Sonic damage.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.

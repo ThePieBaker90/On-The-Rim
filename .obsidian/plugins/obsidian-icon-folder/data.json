@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHexagonNumber5",
       "LiListTodo",
       "TiHexagonNumber4",
       "TiHexagonNumber3",
-      "TiHexagonNumber2",
-      "TiHexagonNumber1"
+      "TiHexagonNumber2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1206,13 +1206,16 @@
   "Psycasts/Support Paths/Musopath/1st Level": "TiHexagonNumber1",
   "Psycasts/Support Paths/Musopath/1st Level/Sonic Wave.md": "LiSparkles",
   "Psycasts/Support Paths/Musopath/2nd Level": "TiHexagonNumber2",
-  "Psycasts/Support Paths/Musopath/2nd Level/Sleepy Serenade.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/2nd Level/Quick Whistle Psycast.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/2nd Level/Deafen and Hurt Psycast.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/3rd Level": "TiHexagonNumber3",
-  "Psycasts/Support Paths/Musopath/3rd Level/Damage Tempo.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/3rd Level/Everyone Dance.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/2nd Level/Charming Song.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/4th Level": "TiHexagonNumber4",
-  "Psycasts/Support Paths/Musopath/4th Level/344 spell.md": "LiListTodo"
+  "Psycasts/Support Paths/Musopath/4th Level/Create amplifier.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/5th Level": "TiHexagonNumber5",
+  "Psycasts/Support Paths/Musopath/5th Level/Heroic Melody.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/4th Level/Encore.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/Inspire!.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/Charming Chime.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/TODO SPELL.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/TODO SPELL 2.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/3rd Level/TODO SPELL 3.md": "LiListTodo"
 }

@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Musopath
-  - 3rd-Level
+  - 4th-Level
 ---
 - **Path**:
-	- 3rd Level [[Musopath Psycasts|Musopath Psycast]]
+	- 5th Level [[Musopath Psycasts|Musopath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic, Focus (Instrument)
+	- Gesture, Focus (Instrument)
 - **Duration**:
 	- 1 Turn.
 - **Effects**:
