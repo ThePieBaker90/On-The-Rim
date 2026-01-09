@@ -81,7 +81,9 @@ aliases:
 - See [[Psyfocus]]
 ## Psycast Range
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
-	- "Self" means the psycast has no need for a range.
+	- "Within range of you" in the psycast effects means you can draw a straight line from you to a relevant point within range that is equal to or less than the length specified within range.
+		- For ranges that are shapes, this means a point is encapsulated within the shape if it is centered onto you.
+	- "Self" in the range means the psycast has no need for a range.
 ## Psycast Targeting
 - All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated and the target is determined when the psycast is cast.
 	- "Self" refers to the caster.
@@ -89,7 +91,9 @@ aliases:
 	- "A point" refers to a point in space, this doesn't need to be grounded unless explicitly stated.
 	- "Within range" means the target's distance to the caster must be under the psycast's range.
 ## Psycast Components
-- All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. The components must be satisfied during the [[#Casting Time]] of the psycast.
+- All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. 
+	- The components must be satisfied during the [[#Casting Time]] of the psycast, otherwise the psycast moves to the end phase.
+	- See [[#Continuous Psycasts]].
 ### Kinetic Component
 - Kinetic components require the psycaster have one free hand during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
@@ -103,13 +107,13 @@ aliases:
 - Material components require that the psycaster has the listed items within their inventory during casting, these items are not consumed unless explicitly stated.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
 ### Focus Component
-- Focus components require that the psycaster has the listed items equipped during casting, these items are not consumed unless explicitly stated.
-- When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]].  If an instrument is the focus, the DC instead depends on the relevant creatures' [[Sound-Based Perception]].
+- Focus components require that the psycaster has the listed items held during casting, these items are not consumed unless explicitly stated.
+- When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]].  If an instrument is the focus, [[#Psycasts and Stealth|Stealth Casting]] cannot be done.
 - Psycasts with a focus component and a kinetic component require the psycaster to use atleast 1 hand on the focus item.
 - Psycasts with a focus component and a gesture component require the psycaster to use atleast 2 hands on the focus item.
-## Psycast Duration and Concentration
+## Psycast Duration, Concentration, and Continuous Psycasts
 - All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. 
-- In addition to a duration, some psycasts may require concentration from the user.
+- In addition to a duration, some psycasts may require concentration from the user or the continuous use of the psycast's components..
 - When the duration ends, the psycast moves into the end phase.
 ### Instant Duration
 - Instant psycasts have their effects occur immediately, they have no duration.
@@ -122,6 +126,11 @@ aliases:
 	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
 	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. On a failure, you lose concentration and the psycast moves to the end phase. On a success, nothing happens.
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
+### Continuous Psycasts
+- Some psycasts may be continuous. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase. If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both either phase, the psycast moves to the end phase. 
+	- The caster may decide at any time to stop fulfilling the component costs. This ends the psycast.
+	- Component costs that consume an object only need to be satisfied once; during the casting phase.
+- Each component has its specific interactions listed in the components section.
 ## Psycast Effects
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended 
 ### Immediate Effects

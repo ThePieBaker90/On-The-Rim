@@ -41,6 +41,7 @@ Poison Chrono - all poison stacks occur at once
 Wild Tech - Arrow rain
 Mind Empath - Link all self effect spells to nearby allies
 Empath - Mind Quick sand, you think about things more and you fall deeper into the effects
+Fire Water - Steam cartoon like attack (Thomas gets to name)
 
 270 Core Spells
 54 Miscasts
