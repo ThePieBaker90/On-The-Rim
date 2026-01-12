@@ -6,5 +6,6 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -5
 - **Effects:**
-	- Carriers of this gene passively consume the equivalent of a pound of food by being in the sun for atleast 4 hours.
+	- Carriers of this gene passively consume the equivalent of a pound of food by being in the sun for atleast 4 hours. 
 		- A carrier who experiences increased or decreased [[Hunger]] must remain in the sun for an increased or decreased amount of time proportional with their [[Hunger]].
+	- Carriers of this gene cannot gain nutrition from eating food.

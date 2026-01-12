@@ -9,7 +9,7 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 3
 - **[[Neural Heat]] Generation:**
 	- 12
 - [[Range]]:
@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
-	- You play a charming little chime on your instrument. For the duration of the psycast, all creatures within range of you are [[Charmed]] by you.
+	- You play a charming little chime on your instrument. For the duration of the psycast, all creatures within range of you are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They are [[Charmed]] by you.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
