@@ -2,12 +2,16 @@
 tags:
   - Status
 ---
-- Whenever a creature with the Cyberpsychosis status kills another creature, is slighted, or witnesses the death of a friendly creature they must roll a d20. Upon rolling a 1 the creature goes cyberpsycho. 
+- Whenever a creature with the Cyberpsychosis status does any of the following, they must roll 1d20. Upon rolling a 1 the creature goes cyberpsycho.
+	- They kill another creature.
+	- They are slighted.
+	- They witnesses the death of a friendly creature (roll with disadvantage).
 - A creature who has gone cyberpsycho has the following changes:
-	- Loses concentration on all psycasts.
-	- Must make a melee/ranged attack on the nearest creature on each of its turns.
+	- They lose concentration on all psycasts.
+	- They must make a melee/ranged attack on the nearest creature on each of their turns.
+		- This ignores the creature's affiliation.
 	- They do not feel pain and cannot feel emotions other than [[Anger]] or [[Panic]].
 - A creature who is cyberpsycho can return to normal in 1 of 3 ways:
-	- Falling [[Unconscious]].
-	- 1 minute passing since the start of going cyberpsycho.
-	- Succeeding on a DC 19 wisdom saving throw, this throw may be made once every turn.
+	- They fall [[Unconscious]].
+	- 1 minute passes since the start of them going cyberpsycho.
+	- They succeeding on a DC 19 wisdom saving throw, this throw may be made once every turn at any time.

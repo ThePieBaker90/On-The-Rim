@@ -3,4 +3,4 @@ tags:
   - Condition
   - Positive-Condition
 ---
-- When a creature has the infection immunity condition, they cannot gain [[Infection]] and remove all levels of [[Infection]] on themselves.
+- When a creature has the infection immunity condition, they are immune to [[Infection]].

@@ -2,10 +2,10 @@
 tags:
   - Condition
   - Serum
-  - Mixed-Condition
+  - Positive-Condition
 ---
-- When a creature has the Voidsight condition, the following effects happen
-	- (+) Can cast identify once per short-rest without using a spell slot.
-	- (+) Identify is permanently prepared.
-	- (-) Disadvantage all Wisdom checks.
-	- ( ) Eyes become completely black.
+- Voidsight always has a 1 day duration.
+- When a creature has the Voidsight condition, they have the following effects:
+	- They can see in dim light and darkness as if it was bright light.
+	- They may see in void as if it was dim light.
+	- Their eyes become completely black.

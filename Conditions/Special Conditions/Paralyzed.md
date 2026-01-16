@@ -6,8 +6,8 @@ tags:
 - When a creature has the paralyzed condition they suffer the following effects:
 	- They are [[Incapacitated]].
 	- They are [[Immobilized]].
-	- They are [[Conditions/Basic Conditions/Silenced|Silenced]].
-	- Automatically fails all strength and dexterity based checks.
+	- They are [[Silenced]].
+	- They automatically fail all strength and dexterity based skill checks and saving throws.
 	- Attack rolls against them have advantage.
-	- All melee attacks against them are critical hits.
+	- All successful melee attacks against them are critical hits.
 

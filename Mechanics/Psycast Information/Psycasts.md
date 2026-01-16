@@ -144,7 +144,8 @@ aliases:
 	- For example, [[Levitation]] has only passive effects.
 ### Affliction Effects
 - Affliction effects are effects that affect only afflicted creatures. Psycasts only afflict creatures if explicitly stated, additionally psycasts mentioning afflicted creatures only refer to creatures afflicted by the same psycast instance.
-	- For example, [[Eternal Night]] afflicts 5 creatures.
+	- For example, [[Eternal Night]] afflicts 5 creatures and has them deal with effects.
+	- Affliction is not a condition or status, but it can still be lost and given.
 ### Delayed Effects
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.

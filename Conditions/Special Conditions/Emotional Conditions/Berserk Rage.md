@@ -3,8 +3,12 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- When a creature has the berserk rage condition, they must make a melee attack on the nearest creature on each of their turns. If no creature is within range they must navigate to the nearest creature. They will attack creatures regardless of affiliation. 
-- Creatures under this condition cannot use any actions other than melee attacks and dashing.
-- If the creature was concentrating on a psycast, they dispel their concentration.
+- When a creature has the berserk rage condition, they suffer the following effects:
+	- They must make a melee attack on the nearest creature with all of their actions on their turn. 
+		- If no creature is within range of a melee attack, they must navigate to the nearest creature. 
+		- They will attack creatures regardless of affiliation. 
+	- They cannot use any actions other than melee attacks. They may dash if no creature is within movement range.
+	- If they were concentrating on a psycast, they dispel their concentration.
+	- They are immune to [[Charmed]], [[Emotional Guidance]], [[Joy]], and [[Panic]].
 - Constructs and creatures who do not feel emotion are immune to this condition.
-- A creature with this condition is immune to [[Charmed]], [[Emotional Guidance]], [[Joy]], and [[Panic]].
+

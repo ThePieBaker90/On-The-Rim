@@ -2,11 +2,11 @@
 tags:
   - Status
 ---
-- When a creature has the unconscious status, they suffer the following effects:
+- When a creature is in the unconscious status, they suffer the following effects:
 	- They are [[Incapacitated]].
-	- They are [[Immobilized]]
-	- They are [[Conditions/Basic Conditions/Silenced|Silenced]]
-	- Automatically fails all perception, strength, and dexterity based checks. 
-	- Drops whatever it is holding and falls [[Prone]].
+	- They are [[Immobilized]].
+	- They are [[Silenced]].
+	- They automatically fail all perception, strength, and dexterity based skill checks and saving throws.
+	- They drop whatever they are holding and fall [[Prone]].
 	- Attack rolls against them have advantage.
-	- All melee attacks against them are critical hits.
+	- All successful melee attacks against them are critical hits.

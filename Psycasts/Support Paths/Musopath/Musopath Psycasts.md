@@ -13,7 +13,7 @@ aliases:
 - 2nd Level:
 	- [[TODO SPELL 2]] 
 	- [[Inspire!]]
-	- [[Charming Chime]]
+	- [[Charming Chime]] (3, 12)
 	- [[TODO SPELL]]
 - 3rd Level:
 	- [[TODO SPELL 3]]

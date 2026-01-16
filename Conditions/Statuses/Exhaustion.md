@@ -2,20 +2,20 @@
 tags:
   - Status
 ---
-- Exhaustion is measured in different levels.
-	- An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description. 
-	- If a creature already suffers from exhaustion and suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.
-- Exhaustion dissipates on its own, 1 level every time the creature rests and is in a healthy state.
-- Exhaustion is capped at level 6.
+- Exhaustion always has an indefinite duration.
+- Exhaustion may stack, up to 6 levels.
+- When a creature has one or more levels of exhaustion, they suffer the following effects:
+	- They suffer the effect listed in the following table and effects from all lower levels of exhaustion.
+	- They lose 1 level of exhaustion when they rest in a healthy state.
 
-| Exhaustion Level | Effects                                                      |
-| ---------------- | ------------------------------------------------------------ |
-| 1                | Creature has disadvantage on ability checks.                 |
-| 2                | Creature's speed is halved.                                  |
-| 3                | Creature has disadvantage on attack rolls and saving throws. |
-| 4                | Creature's maximum health is halved.                         |
-| 5                | Creature's speed is set to 0.                                |
-| 6                | Creature instantly dies.                                     |
+| Exhaustion Level | Effects                                                   |
+| ---------------- | --------------------------------------------------------- |
+| 1                | They have disadvantage on ability checks.                 |
+| 2                | Their speed is halved.                                    |
+| 3                | They have disadvantage on attack rolls and saving throws. |
+| 4                | Their maximum health is halved.                           |
+| 5                | Their speed is set to 0.                                  |
+| 6                | They instantly die.                                       |
 
 
 

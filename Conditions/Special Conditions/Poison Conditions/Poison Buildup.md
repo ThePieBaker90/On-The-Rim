@@ -3,12 +3,12 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- Poison Buildup is measured in different levels.
-	- An effect can give a creature one or more levels of poison buildup, as specified in the effect’s description. 
-	- Creatures who are immune to poison damage are not affected by this condition.
-	- If a creature already suffers from poison buildup and suffers another effect that causes poison buildup, its current level of poison buildup increases by the amount specified in the effect’s description.
-- Poison Buildup dissipates on its own, 1 level every time the creature receives the effects of poison buildup.
-- Poison Buildup is not capped.
+- Poison buildup always has an indefinite duration.
+- Poison buildup may stack.
+- When a creature has one or more levels of poison buildup, they suffer the following effects:
+	- They take 1 damage per level of poison buildup they have, per turn.
+	- When they take damage from this condition, they lose 1 level of poison buildup.
+- Creatures who are immune to poison damage are immune to this condition.
 
 | Poison Buildup Level | Effects                         | Overall Damage           |
 | -------------------- | ------------------------------- | ------------------------ |

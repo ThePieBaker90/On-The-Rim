@@ -3,12 +3,11 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- Radiation Buildup is measured in 20 levels.
-	- An effect can give a creature one or more levels of Radiation buildup, as specified in the effect’s description. 
-	- Creatures who are immune to poison damage are not affected by this condition.
-	- If a creature already suffers from Radiation buildup and suffers another effect that causes radiation buildup, its current level of radiation buildup increases by the amount specified in the effect’s description.
-- All reductions in maximum health are rounded down if maximum health is not a whole number.
-- Radiation Buildup dissipates on its own, 5 levels for a rest.
+- Radiation buildup may stack, up to 20 levels.
+- Radiation buildup always has an indefinite duration.
+- When a creature has one or more levels of radiation buildup, they suffer the following effects:
+	- They lose 5% of their maximum health for every level of radiation buildup they have.
+	- They lose 5 levels of radiation buildup when they rest.
 
 | Radiation Buildup Level | Effects             |
 | ----------------------- | ------------------- |

@@ -3,6 +3,7 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- When a creature has the chemical burned condition, they will take an additional 1d4 Corrosion damage from all damage sources. 
-- If the creature is doused in water or another cleansing liquid they will lose this condition.
-- A creature who is immune to Corrosion damage is not affected by this condition.
+- When a creature has the chemical burned condition, they suffer the following effects:
+	- They take an additional 1d4 chemical damage from all damage sources. 
+	- If they are doused in water or another extinguishing agent they lose this condition.
+- A creature who is immune to corrosion damage is immune to this condition.

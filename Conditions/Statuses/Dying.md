@@ -2,7 +2,7 @@
 tags:
   - Status
 ---
-- When a creature has the dying status they suffer the following effects:
+- When a creature is in the dying status they suffer the following effects:
 	- They are [[Incapacitated]].
 	- They are [[Prone]].
 	- They are [[Immobilized]].
@@ -11,4 +11,4 @@ tags:
 		- On a 10-19 they gain 1 successful throw, if they have 3 successful throws they immediately gain [[Stabilized]] and remove this status
 		- On a 2-9 they gain 1 failed throw, if they have 3 failed throws they immediately die.
 		- On a 1 they gain 2 failed throws, if they have 3 failed throws they immediately die.
-		- Healing this creature grants 1 successful throw, damaging this creature grants 1 failed throw.
+	- Healing this creature grants 1 successful throw to them, damaging this creature grants 1 failed throw to them.

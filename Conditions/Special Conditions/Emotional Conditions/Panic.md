@@ -3,18 +3,22 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- Panic is measured in 5 levels.
-	- An effect can give a creature up to one level of panic.
-	- Constructs and creatures who do not feel emotion are immune to this condition.
-	- If a creature already suffers from panic and suffers another effect that causes panic, the creature does not suffer from any additional levels of panic, with the exception of effects within panic itself.
-- A creature with panic must make a DC 14 Wisdom saving throw at the beginning of their turn. On a success, they lose 1 level of panic. On a failure, they gain 1 level of panic.
-	- A creature may forfeit all actions on their turn to automatically succeed this saving throw.
-- A creature with this condition is immune to [[Anger]], [[Berserk Rage]], [[Charmed]], [[Emotional Guidance]], [[Energized]], [[Inspired]], and [[Joy]]
+- Panic always has an indefinite duration.
+- Panic may stack, up to 5 levels.
+- When a creature has one or more levels of panic, they suffer the following effects:
+	- They must make a DC 14 Wisdom saving throw at the beginning of their turn. 
+		- On a success, they lose 1 level of panic. 
+		- On a failure, they gain 1 level of panic.
+		- They may forfeit all actions on their turn to automatically succeed this saving throw.
+			- This may be done in reaction to a failing roll on the saving throw.
+	- They are immune to [[Anger]], [[Berserk Rage]], [[Charmed]], [[Emotional Guidance]], [[Energized]], [[Inspiration]], and [[Joy]].
+	- They suffer the effects listed in the following table:
 
-| Panic Level | Ability Check Modifiers                          | Saving Throw Modifiers                          | Hit Modifiers                          | Other Effects                                                            |
-| ----------- | ------------------------------------------------ | ----------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------ |
-| 1           | Creature has -1 to all ability checks.           | Creature has -1 to all saving throws.           |                                        |                                                                          |
-| 2           | Creature has -2 to all ability checks.           | Creature has -1 to all saving throws.           | Creature has -1 to hit on all attacks  |                                                                          |
-| 3           | Creature has -2 to all ability checks.           | Creature has -2 to all saving throws.           | Creature has -1 to hit on all attacks  | Creature cannot concentrate on psycasts.                                 |
-| 4           | Creature has disadvantage on all ability checks. | Creature has -2 to all saving throws.           | Creature has -2 to hit on all attacks  | Creature cannot concentrate on psycasts and their speed is halved.       |
-| 5           | Creature has disadvantage on all ability checks. | Creature has disadvantage on all saving throws. | Creature has -3 to hit on all attacks. | Creature cannot concentrate on psycasts and their speed is reduced to 0. |
+| Panic Level | Ability Check Modifiers                       | Saving Throw Modifiers                       | Hit Modifiers                       | Other Effects                                                        |
+| ----------- | --------------------------------------------- | -------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------- |
+| 1           | They have -1 to all ability checks.           | They have -1 to all saving throws.           |                                     |                                                                      |
+| 2           | They have -2 to all ability checks.           | They have -1 to all saving throws.           | They have -1 to hit on all attacks  |                                                                      |
+| 3           | They have -2 to all ability checks.           | They have -2 to all saving throws.           | They have -1 to hit on all attacks  | They cannot concentrate on psycasts.                                 |
+| 4           | They have disadvantage on all ability checks. | They have -2 to all saving throws.           | They have -2 to hit on all attacks  | They cannot concentrate on psycasts and their speed is halved.       |
+| 5           | They have disadvantage on all ability checks. | They have disadvantage on all saving throws. | They have -3 to hit on all attacks. | They cannot concentrate on psycasts and their speed is reduced to 0. |
+- Constructs and creatures who do not feel emotion are immune to this condition.

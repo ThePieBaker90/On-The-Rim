@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretUp",
+      "LiSparkles",
       "TiHexagonNumber5",
       "LiListTodo",
-      "TiHexagonNumber4",
-      "TiHexagonNumber3",
-      "TiHexagonNumber2"
+      "TiHexagonNumber4"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,7 +79,6 @@
   "Conditions/Special Conditions/Emotional Conditions/Emotional Guidance.md": "FarSquareCaretUp",
   "Conditions/Special Conditions/Emotional Conditions/Emotionally Numb.md": "FarSquareMinus",
   "Conditions/Special Conditions/Emotional Conditions/Energized.md": "FarSquareCaretUp",
-  "Conditions/Special Conditions/Emotional Conditions/Inspired.md": "FarSquareCaretUp",
   "Conditions/Special Conditions/Emotional Conditions/Joy.md": "FarSquareCaretUp",
   "Conditions/Special Conditions/Emotional Conditions/Lethargic.md": "FarSquareCaretDown",
   "Conditions/Special Conditions/Emotional Conditions/Panic.md": "FarSquareCaretDown",
@@ -330,7 +329,6 @@
   "Items/Weapons/Properties/Mods/Quick Handling.md": "TiSettings2",
   "Items/Weapons/Properties/Mods/Quick Reload.md": "TiSettings2",
   "Items/Weapons/Properties/Mods/Recoil Reduction.md": "TiSettings2",
-  "Items/Weapons/Properties/Mods/Silenced.md": "TiSettings2",
   "Items/Weapons/Properties/Mods/Slow Reload.md": "TiSettings2",
   "Items/Weapons/Properties/Mods/Small Magazine.md": "TiSettings2",
   "Items/Weapons/Properties/Mods/Spread Reduction.md": "TiSettings2",
@@ -1056,7 +1054,7 @@
   "Conditions/Special Conditions/Serum Conditions/Juggernaut.md": "FarSquareMinus",
   "Conditions/Special Conditions/Serum Conditions/Metalblood.md": "FarSquareMinus",
   "Conditions/Special Conditions/Serum Conditions/Mind-Numb.md": "FarSquareMinus",
-  "Conditions/Special Conditions/Serum Conditions/Voidsight.md": "FarSquareMinus",
+  "Conditions/Special Conditions/Serum Conditions/Voidsight.md": "FarSquareCaretUp",
   "Conditions/Special Conditions/Poison Conditions": "TiChartBubble",
   "Conditions/Special Conditions/Emotional Conditions": "FarFaceGrin",
   "Items/Ammunition/Bullets": "LiList",
@@ -1214,8 +1212,10 @@
   "Psycasts/Support Paths/Musopath/5th Level/Heroic Melody.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/4th Level/Encore.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/2nd Level/Inspire!.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/2nd Level/Charming Chime.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/Charming Chime.md": "LiSparkles",
   "Psycasts/Support Paths/Musopath/2nd Level/TODO SPELL.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/2nd Level/TODO SPELL 2.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/3rd Level/TODO SPELL 3.md": "LiListTodo"
+  "Psycasts/Support Paths/Musopath/3rd Level/TODO SPELL 3.md": "LiListTodo",
+  "Conditions/Special Conditions/Emotional Conditions/Inspiration.md": "FarSquareCaretUp",
+  "Items/Weapons/Properties/Mods/Silencer Equipped.md": "TiSettings2"
 }

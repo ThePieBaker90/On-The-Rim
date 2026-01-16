@@ -4,12 +4,13 @@ tags:
   - Serum
   - Mixed-Condition
 ---
-- When a creature has the Juggernaut condition, the following effects happen
-	- (+) Strength increases to 18.
-	- (+) Constitution increases to 18.
-	- (+) Speed increases by 10 feet.
-	- (+) Heals an additional 1 health for every 5 health healed.
-	- (-) Intelligence decreases to 10.
-	- (-) Wisdom decreases to 10.
-	- (-) Charisma decreases to 10 (except for intimidation).
-	- (-) All Intelligence, Wisdom, and Charisma skill checks (except for intimidation) roll with disadvantage.
+- Juggernaut always has a 1 day duration.
+- When a creature has the Juggernaut condition, they have the following effects:
+	- Their strength increases to 18.
+	- Their constitution increases to 18.
+	- Their speed increases by 10 feet.
+	- They heal an additional 1 health for every 5 health healed.
+	- Their intelligence decreases to 10.
+	- Their wisdom decreases to 10.
+	- Their charisma decreases to 10 (except for intimidation).
+	- They roll all intelligence, wisdom, and charisma skill checks (except for intimidation) with disadvantage.
