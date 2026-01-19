@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 12
 - [[Range]]:
-	- 15ft sphere.
+	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:

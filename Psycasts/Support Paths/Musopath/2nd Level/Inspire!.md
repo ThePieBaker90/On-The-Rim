@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 5
 - **[[Neural Heat]] Generation:**
-	- .
+	- 13
 - [[Range]]:
-	- 15ft sphere.
+	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:
@@ -22,6 +22,8 @@ tags:
 	- Continuous, up to 1 Turn.
 - **Effects**:
 	- You play an inspiring melody on your instrument. For the duration of the psycast, all allied creatures within range of you gain the following effects:
-		- They gain [[Inspiration]] when 
+		- They gain 1 level of [[Inspiration]] for the psycast duration.
+			- If they use inspiration's ability effect, they may not gain a level of inspiration again from this psycast this turn.
+		- They have advantage on wisdom saving throws.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.

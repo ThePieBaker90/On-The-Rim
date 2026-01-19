@@ -13,13 +13,13 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- 15ft sphere.
+	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:
 	- Gesture, Focus (Instrument)
 - **Duration**:
-	- 1 Turn.
+	- Continuous, up to 1 Turn.
 - **Effects**:
 	- .
 - **Upcasting**:

@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Musopath
-  - 2nd-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 2nd Level [[Musopath Psycasts|Musopath Psycast]]
+	- 3rd Level [[Musopath Psycasts|Musopath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -13,13 +13,13 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- 15ft sphere.
+	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:
-	- Focus (Instrument)
+	- Kinetic, Focus (Instrument)
 - **Duration**:
-	- 1 Turn.
+	- Continuous, up to 1 Turn.
 - **Effects**:
 	- .
 - **Upcasting**:

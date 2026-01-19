@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 20
 - [[Range]]:
-	- 15ft sphere.
+	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:
@@ -24,5 +24,6 @@ tags:
 	- A sonic wave roars from your instrument, all creatures within range of you must make a Constitution saving throw.
 		- On a failed save, a creature takes 2d8 Sonic damage.
 		- On a successful save, a creature takes half as much damage.
+		- The caster is not affected by this sonic wave.
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.

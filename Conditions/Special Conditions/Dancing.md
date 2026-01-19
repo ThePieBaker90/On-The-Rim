@@ -1,0 +1,21 @@
+---
+tags:
+  - Condition
+  - Mixed-Condition
+---
+- When a creature has the dancing condition they suffer the following effects:
+	- They are dancing to the music at all times, they may only use their hands as part of the dance which renders most two handed actions impossible. 
+		- Their movement does not have to follow the movement of the dance they are doing.
+		- Most one-handed actions are possible, albeit difficult. Anytime they try to do a one-handed action, they must first make a DC 8 dexterity (performance) saving throw.
+			- On a success, they successfully perform the action or if there is other rolls associated with the action, they perform those rolls.
+			- On a failure, they fail to do the action, the action or bonus actions to do the action are still expended.
+				- On a critical failure, if they were holding an item as part of this action, they drop the item (or some other appropriate incident for the action).
+			- Certain one handed actions such as dropping or hand gestures automatically succeed this roll.
+		- One of the two-handed actions possible while dancing is playing a two-handed instrument. When starting playing, the music you play must not disrupt any other nearby ongoing music.
+	- They lose 10ft of movement speed.
+	- They have a -3 modifier on ranged attack rolls.
+	- They have disadvantage on dexterity checks and saving throws.
+- A creature who has proficiency in performance does not suffer the movement speed penalty, and the disadvantage on dexterity checks and saving throws.
+- A creature who has expertise in performance does not suffer the movement speed penalty, the ranged attack penalty, and the disadvantage on dexterity checks and saving throws.
+- A creature may willingly start dancing at any time when listening to music as an action or bonus action. Similarly, a creature may stop dancing at any time for free, unless an effect prevents them from doing so.
+

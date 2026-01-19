@@ -4,8 +4,11 @@ tags:
 ---
 ## Condition Overview
 - Conditions are effects that affect a creature. A creature may have an unlimited amount of conditions affecting them, although all non-[[#Stacking Conditions]] cannot have multiple instances on that creature. 
-- All conditions have a duration, although the duration may be indefinite.
 - All (non-status) conditions are either positive, negative, or mixed. This determines what effects interact with the condition.
+## Duration
+- All conditions have a duration which may be measured in turns or may be indefinite.
+- When a creature ends its turn, the duration of all conditions on the creature decrease by 1 turn. Any conditions that have a duration of 0 turns are removed.
+	- Conditions with indefinite duration do not decrease their duration, they may only be removed by effects.
 ## Statuses
 - Statuses are a form of conditions that cannot be removed by most condition removing effects. They can only be removed in the following ways:
 	- Effects that explicitly affect statuses.

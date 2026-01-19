@@ -87,7 +87,7 @@ aliases:
 ## Psycast Targeting
 - All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated and the target is determined when the psycast is cast.
 	- "Self" refers to the caster.
-	- "A creature" refers to a creature of the caster's choice.
+	- "A creature" refers to a creature of the caster's choice. This includes allied creatures and the caster.
 	- "A point" refers to a point in space, this doesn't need to be grounded unless explicitly stated.
 	- "Within range" means the target's distance to the caster must be under the psycast's range.
 ## Psycast Components
@@ -116,9 +116,10 @@ aliases:
 - In addition to a duration, some psycasts may require concentration from the user or the continuous use of the psycast's components..
 - When the duration ends, the psycast moves into the end phase.
 ### Instant Duration
-- Instant psycasts have their effects occur immediately, they have no duration.
+- Instant psycasts have their effects occur immediately, they do not take place over time.
 ### n Turn Duration
-- $n$ turn psycasts last until the end of the caster's $n$th turn from when the psycast was cast. The turn a psycast is cast is counted as the 1st turn.
+- $n$ turn psycasts last until the start of the caster's $n$th turn from when the psycast was cast. The turn the psycast is cast is counted as the 0th turn.
+	- If the psycast is cast between that caster's turns, the caster's next turn is considered the 0th turn.
 ### Time Based Duration
 - Time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
 ### Concentration
@@ -132,7 +133,8 @@ aliases:
 	- Component costs that consume an object only need to be satisfied once; during the casting phase.
 - Each component has its specific interactions listed in the components section.
 ## Psycast Effects
-- There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended 
+- There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
+- Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.
 ### Immediate Effects
 - Immediate effects occur only once, when the psycast enters the cast phase. 
 	- For example, [[Cinder]] has only immediate effects.

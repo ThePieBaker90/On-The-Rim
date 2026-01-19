@@ -11,13 +11,13 @@ aliases:
 - 1st Level:
 	- [[Sonic Wave]] (3, 20)
 - 2nd Level:
-	- [[TODO SPELL 2]] 
-	- [[Inspire!]]
 	- [[Charming Chime]] (3, 12)
-	- [[TODO SPELL]]
+	- [[Inspire!]] (5, 13)
+	- [[Song of Resilience]] (4, 13)
 - 3rd Level:
-	- [[TODO SPELL 3]]
-	- [[Everyone Dance]]
+	- [[The Band Plays On!]]
+	- [[Irresistible Dance]]
+	- [[TODO SPELL]]
 - 4th Level:
 	- [[Encore]]
 	- [[Create amplifier]]

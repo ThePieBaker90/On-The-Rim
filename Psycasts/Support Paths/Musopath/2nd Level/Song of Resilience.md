@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Musopath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Musopath Psycasts|Musopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 13
+- [[Range]]:
+	- 15ft.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic, Focus (Instrument)
+- **Duration**:
+	- Continuous, up to 1 Turn.
+- **Effects**:
+	- You play a resilient tune on your instrument. For the duration of the psycast, all allied creatures within range of you gain the following effects:
+		- They gain 2d6 temporary health for the psycast duration.
+			- They may only gain this temporary health once from this psycast per turn.
+			- This temporary health is not lost if they leave range of you.
+		- They take 1 less damage from each different damage type when taking damage.
+			- For example, if they are hit by an attack dealing 4 piercing damage and 3 fire damage, they will instead take 3 piercing damage and 2 fire damage.
+- **Upcasting**:
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.

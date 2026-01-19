@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretDown",
       "FarSquareCaretUp",
       "LiSparkles",
       "TiHexagonNumber5",
-      "LiListTodo",
-      "TiHexagonNumber4"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1205,17 +1205,18 @@
   "Psycasts/Support Paths/Musopath/1st Level/Sonic Wave.md": "LiSparkles",
   "Psycasts/Support Paths/Musopath/2nd Level": "TiHexagonNumber2",
   "Psycasts/Support Paths/Musopath/3rd Level": "TiHexagonNumber3",
-  "Psycasts/Support Paths/Musopath/3rd Level/Everyone Dance.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/4th Level": "TiHexagonNumber4",
   "Psycasts/Support Paths/Musopath/4th Level/Create amplifier.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/5th Level": "TiHexagonNumber5",
   "Psycasts/Support Paths/Musopath/5th Level/Heroic Melody.md": "LiListTodo",
   "Psycasts/Support Paths/Musopath/4th Level/Encore.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/2nd Level/Inspire!.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/Inspire!.md": "LiSparkles",
   "Psycasts/Support Paths/Musopath/2nd Level/Charming Chime.md": "LiSparkles",
-  "Psycasts/Support Paths/Musopath/2nd Level/TODO SPELL.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/2nd Level/TODO SPELL 2.md": "LiListTodo",
-  "Psycasts/Support Paths/Musopath/3rd Level/TODO SPELL 3.md": "LiListTodo",
   "Conditions/Special Conditions/Emotional Conditions/Inspiration.md": "FarSquareCaretUp",
-  "Items/Weapons/Properties/Mods/Silencer Equipped.md": "TiSettings2"
+  "Items/Weapons/Properties/Mods/Silencer Equipped.md": "TiSettings2",
+  "Conditions/Basic Conditions/Asleep.md": "FarSquareCaretDown",
+  "Psycasts/Support Paths/Musopath/3rd Level/TODO SPELL.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/2nd Level/Song of Resilience.md": "LiSparkles",
+  "Psycasts/Support Paths/Musopath/3rd Level/Irresistible Dance.md": "LiListTodo",
+  "Psycasts/Support Paths/Musopath/3rd Level/The Band Plays On!.md": "LiListTodo"
 }

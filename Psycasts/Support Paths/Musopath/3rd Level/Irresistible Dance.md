@@ -13,14 +13,19 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- 15ft sphere.
+	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:
 	- Kinetic, Focus (Instrument)
 - **Duration**:
-	- 1 Turn.
+	- Continuous, up to 1 Turn.
 - **Effects**:
-	- .
+	- You play a . on your instrument. For the duration of the psycast, all creatures within range of you are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They begin [[Dancing]].
+		- They are unable to stop [[Dancing]].
+	- Allied afflicted creatures gain the following effects:
+		- They gain 10ft of movement speed.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
