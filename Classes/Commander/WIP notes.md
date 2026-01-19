@@ -16,12 +16,14 @@
 
 **Command Actions (and remember I'm ass at names so they could change):**
 * Tactical Advantage. Add or subtract the roll of a die (only one) to any roll before result. Cost depends on size of die:
+
 D4- 1CP
 D6- 2CP
 D8- 3CP
 D10- 4CP
 D12- 5CP
 (this has diminishing returns to encourage using them tactically. Though could increase costs by one to make them pretty much linear)
+
 * Tactical Reassesment. Allow an ally to reroll any D20. Must take the second result. 2CP.
 * Flexible Coordination. Switch the turn order of two allies for the next round (assuming we don't have flexible initiative which I don't think we did?) 1CP
 * Rally. Choose an ally within 30ft (later upgrades to AoE). They ignore the negative effects of one condition (restrictions apply, you know more than I do about all the conditions) until the start of your next turn. The condition is not removed unless by other means! They gain 2D6 temporary hitpoints until the start of your next turn. 3CP.
