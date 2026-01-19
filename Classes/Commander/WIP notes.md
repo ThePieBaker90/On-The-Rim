@@ -4,7 +4,7 @@
 
 **Passives**
 - Combat preparedness. Add Int to initiative rolls
-- Commanding Presence. Allies within 10ftare granted one of the following bonuses, which can be changed as a free action once on your turn.
+- Commanding Presence. Allies within 10ft are granted one of the following bonuses, which can be changed as a free action once on your turn.
   * Discipline: +1 to saving throws
   * Resolve: +1 to skill checks
   * Focus: +1 to hit rolls
