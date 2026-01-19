@@ -18,10 +18,15 @@
 * Tactical Advantage. Add or subtract the roll of a die (only one) to any roll before result. Cost depends on size of die:
 
 D4- 1CP
+
 D6- 2CP
+
 D8- 3CP
+
 D10- 4CP
+
 D12- 5CP
+
 (this has diminishing returns to encourage using them tactically. Though could increase costs by one to make them pretty much linear)
 
 * Tactical Reassesment. Allow an ally to reroll any D20. Must take the second result. 2CP.
