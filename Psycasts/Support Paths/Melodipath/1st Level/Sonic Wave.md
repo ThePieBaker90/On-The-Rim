@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - 1st-Level
-  - Musopath
+  - Melodipath
 ---
 - **Path**:
-	- 1st Level [[Musopath Psycasts|Musopath Psycast]]
+	- 1st Level [[Melodipath Psycasts|Melodipath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

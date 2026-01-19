@@ -50,8 +50,8 @@ aliases:
 - [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 ### Support Paths
 - [[Empath Psycasts|Empath]] - Emotions and Feelings
+- [[Melodipath Psycasts|Melodipath]] - Sonic Damage and Music
 - [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
-- [[Musopath Psycasts|Musopath]] - Sonic Damage and Music
 - [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation
 - [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
 - [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases

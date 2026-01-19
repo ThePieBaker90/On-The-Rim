@@ -13,13 +13,13 @@ tags:
 	- Demonic
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Yellows, Oranges, Reds
+		- Blues, Violets, Purples
 	- [[Hair Color]]
-		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
+		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
 	- [[Body Type]]
-		- Average, Muscled, Plus-Sized
+		- Muscled, Thin
 	- [[Iris Color]]
-		- Blacks, Reds, Whites, Gold, Silver
+		- Blacks, Blues, Whites, Gold, Silver
 	- [[Demonic Tail]]
 	- [[Traits/Genes/Cosmetic Genes/Horns/Horns|Horns]]
 	- [[Pointy Ears]]

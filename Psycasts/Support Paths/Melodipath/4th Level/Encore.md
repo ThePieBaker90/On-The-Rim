@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Musopath
   - 4th-Level
+  - Melodipath
 ---
 - **Path**:
-	- 4th Level [[Musopath Psycasts|Musopath Psycast]]
+	- 4th Level [[Melodipath Psycasts|Melodipath Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- .
 - **Effects**:
-	- .
+	- Extend musopath durations TODO
 - **Upcasting**:
 	- .

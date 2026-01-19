@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - Musopath
   - 4th-Level
+  - Melodipath
 ---
 - **Path**:
-	- 5th Level [[Musopath Psycasts|Musopath Psycast]]
+	- 5th Level [[Melodipath Psycasts|Melodipath Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

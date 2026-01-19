@@ -13,13 +13,13 @@ tags:
 	- Impish
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Blues, Violets, Purples
+		- Yellows, Oranges, Reds
 	- [[Hair Color]]
-		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
+		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
 	- [[Body Type]]
-		- Muscled, Thin
+		- Average, Muscled, Plus-Sized
 	- [[Iris Color]]
-		- Blacks, Blues, Whites, Gold, Silver
+		- Blacks, Reds, Whites, Gold, Silver
 	- [[Thin Tail]]
 	- [[Mini Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

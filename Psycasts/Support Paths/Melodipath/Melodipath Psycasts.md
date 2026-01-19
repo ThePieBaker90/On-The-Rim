@@ -1,10 +1,10 @@
 ---
 tags:
   - Info
-  - Musopath
+  - Melodipath
 aliases:
-  - Musopath
-  - Musopath Psycast
+  - Melodipath
+  - Melodipath Psycast
 ---
 *todo.*
 ## Core Psycasts

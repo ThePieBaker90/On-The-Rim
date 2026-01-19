@@ -5,7 +5,7 @@ aliases:
   - Germline
 ---
 ## Germline Overview
-- Germlines are equivalent to races or species. All germlines are variations on the [[Human]] genome, some are artificial modifications and others are natural mutations brought on by the environment.
+- Germlines are equivalent to races or species. All germlines are variations on the [[Pure Human]] genome, some are artificial modifications and others are natural mutations brought on by the environment.
 - Germlines all have the following parameters: [[#Proportions]], [[#Speed]], [[#Languages]], and [[Endogenes]].
 - A person can only have one germline at any given time, germlines also cannot be changed.
 - All germlines are humanoid and therefore have all [[Humanoid Body]] parts. Some may have additional parts specified in their [[Endogenes]].
@@ -15,7 +15,7 @@ Certain germlines are more common than others, therefore germlines are split int
 	- [[Dwarf]]
 	- [[Elf]]
 	- [[Half-Foot]]
-	- [[Human]]
+	- [[Pure Human]]
 	- [[Witch]]
 - Uncommon Germlines
 	- [[Demon]]

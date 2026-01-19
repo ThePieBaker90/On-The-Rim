@@ -13,8 +13,11 @@ tags:
 			- Certain one handed actions such as dropping or hand gestures automatically succeed this roll.
 		- One of the two-handed actions possible while dancing is playing a two-handed instrument. When starting playing, the music you play must not disrupt any other nearby ongoing music.
 	- They lose 10ft of movement speed.
+		- Unless they have proficiency or expertise in performance.
 	- They have a -3 modifier on ranged attack rolls.
+		- Unless they have expertise in performance.
 	- They have disadvantage on dexterity checks and saving throws.
+		- Unless they have proficiency or expertise in performance.
 - A creature who has proficiency in performance does not suffer the movement speed penalty, and the disadvantage on dexterity checks and saving throws.
 - A creature who has expertise in performance does not suffer the movement speed penalty, the ranged attack penalty, and the disadvantage on dexterity checks and saving throws.
 - A creature may willingly start dancing at any time when listening to music as an action or bonus action. Similarly, a creature may stop dancing at any time for free, unless an effect prevents them from doing so.

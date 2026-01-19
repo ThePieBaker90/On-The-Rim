@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *A baseline human, unchanged by environmental pressures and gene modification procedures. They are also known as a Baseliner in some reaches of the galaxy*
+- *A regular human, unchanged by environmental pressures and gene modification procedures. They are also known as a Baseliner in some reaches of the galaxy*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
