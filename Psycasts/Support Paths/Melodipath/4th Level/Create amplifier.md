@@ -7,20 +7,25 @@ tags:
 - **Path**:
 	- 4th Level [[Melodipath Psycasts|Melodipath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 44 (24)
 - [[Range]]:
-	- .
+	- 25ft
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- Focus (Instrument)
+	- Gesture.
 - **Duration**:
-	- .
+	- Concentration, up to 5 turns.
 - **Effects**:
-	- .
+	- You create a psychic amplifier to copy all of your [[Melodipath Psycasts]].
+	- You create an amplifier at a point within range. For the duration of the psycast, all [[Melodipath Psycasts]] you use are copied by the amplifier, except all instances of "you" are replaced with "the amplifier."
+		- Some [[Melodipath Psycasts]] cannot be copied by the amplifier, these are denoted in the psycast effects.
+		- [[The Band Plays On!]] is not copied by the amplifier, instead the amplifier simply acts as a performing creature.
+		- The amplifier cannot move or be interacted with outside of interacting with this psycast.
+	- This psycast cannot be copied by an amplifier.
 - **Upcasting**:
-	- .
+	- You cannot upcast this psycast.

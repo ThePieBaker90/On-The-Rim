@@ -7,20 +7,28 @@ tags:
 - **Path**:
 	- 4th Level [[Melodipath Psycasts|Melodipath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 44 (19)
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- Focus (Instrument)
+	- Kinetic, Vocal.
 - **Duration**:
-	- .
+	- Concentration, up to 6 turns.
 - **Effects**:
-	- Extend musopath durations TODO
+	- You use a psychic shortcut to reduce the [[Neural Heat]] cost of repeatedly casting [[Melodipath Psycasts]].
+	- For the duration of this psycast:
+		- Anytime you use a [[Melodipath Psycasts|Melodipath Psycast]], the [[Neural Heat]] cost is reduced by the "encore modifier". 
+			- The encore modifier is an integer.
+			- The encore modifier cannot reduce the [[Neural Heat]] cost of the psycast below 0.
+			- When this psycast is cast, the encore modifier is 0.
+		- Anytime you use a [[Melodipath Psycasts|Melodipath Psycast]] which has the same name as a [[Melodipath Psycasts|Melodipath Psycast]] that ended this turn, the encore modifier increases by 4.
+		- Anytime you use a [[Melodipath Psycasts|Melodipath Psycast]] which does not have the same name as a [[Melodipath Psycasts|Melodipath Psycast]] that ended this turn, the encore modifier becomes 0.
+	- This psycast cannot be copied by an amplifier.
 - **Upcasting**:
-	- .
+	- You cannot upcast this psycast.

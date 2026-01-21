@@ -17,9 +17,9 @@ aliases:
 - This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
 ### Cast Phase (Immediate effects occur)
 - This phase happens immediately after the casting phase has passed, during this phase the caster chooses targets, then, all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
-### Active Phase (Recurring, passive, afflicting and delayed effects)
+### Active Phase (Recurring, passive, afflicting and delayed effects occur)
 - This phase happens after the cast phase, during this phase all recurring or passive effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
-### End Phase (End effects)
+### End Phase (End psycast effects)
 - This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
 ## Psycasting Modifier and Save DC
 - There are two stats that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
@@ -135,6 +135,7 @@ aliases:
 ## Psycast Effects
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
 - Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.
+- The first line of psycast effects is usually an overview of the effects of the psycast. These do not have any tangible effects on their own and are only for ease of reading and flavor.
 ### Immediate Effects
 - Immediate effects occur only once, when the psycast enters the cast phase. 
 	- For example, [[Cinder]] has only immediate effects.

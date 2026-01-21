@@ -21,7 +21,8 @@ tags:
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
-	- You play an inspiring melody on your instrument. For the duration of the psycast, all allied creatures within range of you gain the following effects:
+	- You play an inspiring melody on your instrument, allowing nearby teammates to reroll dice and succeed more often on wisdom saving throws. 
+	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
 		- They gain 1 level of [[Inspiration]] for the psycast duration.
 			- If they use inspiration's ability effect, they may not gain a level of inspiration again from this psycast this turn.
 		- They have advantage on wisdom saving throws.

@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 20
+	- 19
 - [[Range]]:
 	- 15ft.
 - **Target**:
@@ -21,7 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- A sonic wave roars from your instrument, all creatures within range of you must make a Constitution saving throw.
+	- A sonic wave roars from your instrument, damaging all who are nearby.
+	- All creatures within range of you must make a Constitution saving throw.
 		- On a failed save, a creature takes 2d8 Sonic damage.
 		- On a successful save, a creature takes half as much damage.
 		- The caster is not affected by this sonic wave.

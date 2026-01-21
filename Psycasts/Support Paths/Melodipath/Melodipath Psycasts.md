@@ -9,18 +9,18 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Sonic Wave]] (3, 20)
+	- [[Sonic Wave]] (3, 19)
 - 2nd Level:
 	- [[Charming Chime]] (3, 12)
 	- [[Inspire!]] (5, 13)
 	- [[Song of Resilience]] (4, 13)
 - 3rd Level:
-	- [[The Band Plays On!]]
-	- [[Irresistible Dance]]
+	- [[Irresistible Dance]] (4, 14)
+	- [[The Band Plays On!]] (4, 20)
 	- [[TODO SPELL]]
 - 4th Level:
-	- [[Encore]]
-	- [[Create amplifier]]
+	- [[Create Amplifier]] (3, 44)
+	- [[Encore]] (3, 44)
 - 5th Level:
 	- [[Heroic Melody]]
 ## Miscasts

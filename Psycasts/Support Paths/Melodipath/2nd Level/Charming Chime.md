@@ -21,7 +21,8 @@ tags:
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
-	- You play a charming little chime on your instrument. For the duration of the psycast, all creatures within range of you are afflicted.
+	- You play a charming little chime on your instrument, rendering creatures nearby unable to attack you and less observant. 
+	- For the duration of the psycast, all creatures within range of you are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They are [[Charmed]] by you.
 		- They have disadvantage on all perception checks.

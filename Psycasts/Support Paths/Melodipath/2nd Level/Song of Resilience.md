@@ -21,7 +21,8 @@ tags:
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
-	- You play a resilient tune on your instrument. For the duration of the psycast, all allied creatures within range of you gain the following effects:
+	- You play a resilient tune on your instrument, granting nearby teammates temporary health and damage reductions. 
+	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
 		- They gain 2d6 temporary health for the psycast duration.
 			- They may only gain this temporary health once from this psycast per turn.
 			- This temporary health is not lost if they leave range of you.
