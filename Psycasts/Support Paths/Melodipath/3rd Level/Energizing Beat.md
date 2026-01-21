@@ -9,22 +9,22 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 4
 - **[[Neural Heat]] Generation:**
-	- .
+	- 15
 - [[Range]]:
 	- 15ft.
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic, Focus (Instrument)
+	- Gesture, Focus (Instrument)
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
-	- You play . on your instrument,
+	- You play an energizing beat on your instrument, granting nearby teammates movement speed and rate of fire bonuses.
 	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
 		- They gain 10ft of movement speed.
 		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased by 33%.
 			- This is rounded up for decimal places beyond the hundredths place.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
