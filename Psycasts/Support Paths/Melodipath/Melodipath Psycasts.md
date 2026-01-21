@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Irresistible Dance]] (4, 14)
 	- [[The Band Plays On!]] (4, 20)
-	- [[Energizing Beat]] (4, 15)
+	- [[Energizing Beat]] (5, 15)
 - 4th Level:
 	- [[Create Amplifier]] (3, 44)
 	- [[Encore]] (3, 44)

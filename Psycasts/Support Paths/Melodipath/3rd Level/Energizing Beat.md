@@ -9,7 +9,7 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 5
 - **[[Neural Heat]] Generation:**
 	- 15
 - [[Range]]:
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture, Focus (Instrument)
+	- Kinetic, Focus (Instrument)
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
