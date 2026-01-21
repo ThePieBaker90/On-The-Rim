@@ -26,8 +26,6 @@ Check out Amsel suite
 
 Psylinks for every class/subclass
 
-Genotypes for every race
-
 Smart Ammunition 3/4 or 1/2 Maybe idk
 Smart Weapons 1/2
 Hypersmart Weapon 1/4
@@ -53,3 +51,5 @@ Reflection magic
 Golden retriever
 
 Okay so toxilord sounds like a pokemon so maybe it is a monster! It is the corrupt king monster ansd would be a poison type pokemon. It would maybe be a dragon.
+
+Reload on cast with psychic bullets music spell?
