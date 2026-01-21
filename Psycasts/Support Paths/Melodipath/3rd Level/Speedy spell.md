@@ -21,6 +21,9 @@ tags:
 - **Duration**:
 	- Continuous, up to 1 Turn.
 - **Effects**:
-	- .
+	- You play . on your instrument,
+	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
+		- They gain . of movement speed.
+		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased by .
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.

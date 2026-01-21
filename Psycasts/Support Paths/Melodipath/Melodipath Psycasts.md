@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Irresistible Dance]] (4, 14)
 	- [[The Band Plays On!]] (4, 20)
-	- [[TODO SPELL]]
+	- [[Speedy spell]]
 - 4th Level:
 	- [[Create Amplifier]] (3, 44)
 	- [[Encore]] (3, 44)

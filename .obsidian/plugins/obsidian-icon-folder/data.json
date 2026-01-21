@@ -1211,7 +1211,6 @@
   "Psycasts/Support Paths/Melodipath/2nd Level/Song of Resilience.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/4th Level/Encore.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/2nd Level/Charming Chime.md": "LiSparkles",
-  "Psycasts/Support Paths/Melodipath/3rd Level/TODO SPELL.md": "LiListTodo",
   "Psycasts/Support Paths/Melodipath/3rd Level/Irresistible Dance.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/5th Level/Heroic Melody.md": "LiListTodo",
   "Psycasts/Support Paths/Melodipath/3rd Level/The Band Plays On!.md": "LiSparkles",
@@ -1223,5 +1222,6 @@
   "Story/Factions.md": "LiListTodo",
   "Player States/Germlines/Common Germlines/Pure Human.md": "LiCircleUserRound",
   "Conditions/Special Conditions/Dancing.md": "FarSquareCaretDown",
-  "Psycasts/Support Paths/Melodipath/4th Level/Create Amplifier.md": "LiSparkles"
+  "Psycasts/Support Paths/Melodipath/4th Level/Create Amplifier.md": "LiSparkles",
+  "Psycasts/Support Paths/Melodipath/3rd Level/Speedy spell.md": "LiListTodo"
 }

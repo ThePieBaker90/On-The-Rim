@@ -1,13 +1,29 @@
 ---
 tags:
   - Info
+aliases:
+  - ROF
 ---
-ROF is expressed as a positive number which represents the number of attacks a weapon makes when an action is used.
+## Rate of Fire Overview
+- Rate of fire is a stat that all weapons have that represents how many times a weapon attacks when used.
+- Rate of fire (frequently abbreviated ROF) is always a positive number, however the number may not be a whole number.
+	- The maximum number of decimal places ROF may have is 2, decimals beyond this are rounded up.
+		- If an ROF bucket has more than 0.95 but less than 1, the bucket is rounded up to 1 when the weapon is next used.
+## Using Rate of Fire
+- Anytime a weapon is used, the weapon's associated ROF is added to a running sum called the "ROF Bucket".
+	- This is done before we check if the ROF bucket is greater than or equal to 1.
+	- ROF Buckets are unique to each weapon
+	- Note that weapons do not directly attack when used.  
+- Anytime a weapon is used and the ROF Bucket of the weapon is greater than or equal to 1, we subtract 1 from the sum and the weapon performs one attack.
+- Anytime a creature ends their turn, all weapons with ROF Buckets greater than or equal to 1 have 1 subtracted from them until the associated ROF Bucket is less than 1.
+## Rate of Fire Examples
+- Below are some common rates of fire and what they translate to in gameplay.
 
-“ROF is like a resource that you can accumulate and use but with limits. When you use an action, you gain the ROF with the weapon and can use it freely on that turn but any unused ROF >= 1 will be lost at the end of the turn. Additionally, ROF may only be used in increments of 1 (unless a weapon has an exception) and your ROF pool for a weapon may never become negative. ROF is on a per weapon basis, you can’t use an SMG then a shotgun and expect 6 shots with 2 actions.”
-
-Examples include:
-* ROF of 0.5: 1 attack is made when 2 actions are used (actions may be made on separate turns).
-* ROF of 1: 1 attack is made when 1 action is used.
-* ROF is 1.5: 1 attack is made when 1 action is used, every other action has an extra attack.
-* ROF of 2: 2 attacks are made when 1 action is used.
+| ROF | Number of Attacks Per Action                                   | Example Weapon      |
+| --- | -------------------------------------------------------------- | ------------------- |
+| 0.5 | 1 attack every 2 actions.                                      | [[Sniper Rifle]]    |
+| 1   | 1 attack every action.                                         | [[Shotgun]]         |
+| 1.5 | 1 attack every action, every other action has an extra attack. | [[CR-85 Quickdraw]] |
+| 2   | 2 attacks every action.                                        | [[Pistol]]          |
+| 3   | 3 attacks every action.                                        | [[AR-6 Baseliner]]  |
+| 4   | 4 attacks every action.                                        | [[Submachine Gun]]  |

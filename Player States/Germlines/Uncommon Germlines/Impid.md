@@ -13,7 +13,7 @@ tags:
 	- Impish
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Yellows, Oranges, Reds
+		- Oranges, Reds, Yellows, Warm-Greens
 	- [[Hair Color]]
 		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
 	- [[Body Type]]
