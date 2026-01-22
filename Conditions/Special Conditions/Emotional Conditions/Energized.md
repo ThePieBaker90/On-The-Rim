@@ -5,7 +5,7 @@ tags:
 ---
 - Energized can't have an indefinite duration.
 - When a creature has the Energized condition, they have the following effects:
-	- Their speed is doubled.
+	- Their [[Movement|Movement Speed]] is doubled.
 	- They gain an extra action.
 		- This action may not be used to use psycasts.
 	- They gain +2 to their [[Evade Class]].

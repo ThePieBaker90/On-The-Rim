@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 turn.
 - **Effects**:
-	- You increase the static electricity a creature generates temporarily. For the psycast duration, the creature takes 1d6 electric damage for every 5ft of movement speed they use.
+	- You increase the static electricity a creature generates temporarily. For the psycast duration, the creature takes 1d6 electric damage for every 5ft of [[Movement|Movement Speed]] they use.
 - **Upcasting**:
 	- You may upcast this psycast. For every 26 psyfocus spent above the normal cost for this psycast, this psycast last an additional turn.
 

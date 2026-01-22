@@ -24,7 +24,7 @@ tags:
 	- You create a small gravity field at a point within range. You can manipulate any objects fully encapsulated by the field in space freely for the duration of the psycast. 
 		- The gravity field may not stray beyond range from you.
 		- The gravity field dissipates if an object inside is attacked.
-		- The gravity field has a movement speed of 25ft.
+		- The gravity field has a [[Movement|Movement Speed]] of 25ft.
 		- The gravity field's shape may be freely manipulated, but it must remain continuous (You must be able to trace any point in the shape to any other point without that path leaving the space).
 		- The gravity field has a maximum volume of 5ft$^3$.
 - **Upcasting:**

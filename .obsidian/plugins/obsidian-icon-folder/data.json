@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarSquareCaretDown",
-      "FarSquareCaretUp",
-      "LiSparkles",
-      "TiHexagonNumber5",
-      "LiListTodo"
+      "LiListTodo",
+      "TiHexagonNumber1",
+      "TiHexagonNumber2",
+      "TiHexagonNumber3",
+      "TiHexagonNumber4"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1200,7 +1200,7 @@
   "Conditions/Special Conditions/Emotional Conditions/Inspiration.md": "FarSquareCaretUp",
   "Items/Weapons/Properties/Mods/Silencer Equipped.md": "TiSettings2",
   "Conditions/Basic Conditions/Asleep.md": "FarSquareCaretDown",
-  "Psycasts/Support Paths/Melodipath": "LiListTodo",
+  "Psycasts/Support Paths/Melodipath": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/1st Level": "TiHexagonNumber1",
   "Psycasts/Support Paths/Melodipath/2nd Level": "TiHexagonNumber2",
   "Psycasts/Support Paths/Melodipath/4th Level": "TiHexagonNumber4",
@@ -1212,9 +1212,9 @@
   "Psycasts/Support Paths/Melodipath/4th Level/Encore.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/2nd Level/Charming Chime.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/3rd Level/Irresistible Dance.md": "LiSparkles",
-  "Psycasts/Support Paths/Melodipath/5th Level/Heroic Melody.md": "LiListTodo",
+  "Psycasts/Support Paths/Melodipath/5th Level/Heroic Melody.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/3rd Level/The Band Plays On!.md": "LiSparkles",
-  "Psycasts/Support Paths/Melodipath/Melodipath Psycasts.md": "LiListTodo",
+  "Psycasts/Support Paths/Melodipath/Melodipath Psycasts.md": "LiInfo",
   "Mechanics/Gameplay Information/Movement.md": "LiListTodo",
   "Story/Core Assumptions.md": "LiListTodo",
   "Story/History.md": "LiListTodo",
@@ -1224,5 +1224,11 @@
   "Conditions/Special Conditions/Dancing.md": "FarSquareCaretDown",
   "Psycasts/Support Paths/Melodipath/4th Level/Create Amplifier.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/3rd Level/Energizing Beat.md": "LiSparkles",
-  "Psycasts/Support Paths/Melodipath/4th Level/Create amplifier.md": "LiSparkles"
+  "Psycasts/Support Paths/Melodipath/4th Level/Create amplifier.md": "LiSparkles",
+  "Psycasts/Support Paths/Wagepath/5th Level": "TiHexagonNumber5",
+  "Psycasts/Support Paths/Wagepath/4th Level": "TiHexagonNumber4",
+  "Psycasts/Support Paths/Wagepath/3rd Level": "TiHexagonNumber3",
+  "Psycasts/Support Paths/Wagepath/2nd Level": "TiHexagonNumber2",
+  "Psycasts/Support Paths/Wagepath/1st Level": "TiHexagonNumber1",
+  "Psycasts/Support Paths/Wagepath/1st Level/Enduring Speed.md": "LiListTodo"
 }

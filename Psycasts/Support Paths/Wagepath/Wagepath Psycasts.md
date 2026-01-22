@@ -9,15 +9,20 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Enduring Speed]]
 - 2nd Level:
-	- .
+	- Melee Focus
+	- Ranged Focus
 - 3rd Level:
-	- .
+	- Accuracy and range increase
+	- Majestic Leap
+	- Action Surge
 - 4th Level:
-	- .
+	- They all fall like dominoes
+	- Frenzy
 - 5th Level:
-	- .
+	- Killing Blow
+	- Lucky Strike
 ## Miscasts
 - Level 1 Miscast - .
 	- .

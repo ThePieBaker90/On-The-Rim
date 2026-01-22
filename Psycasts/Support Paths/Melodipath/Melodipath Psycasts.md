@@ -6,7 +6,7 @@ aliases:
   - Melodipath
   - Melodipath Psycast
 ---
-*todo.*
+*Melodipaths specialize in songs which apply affects to nearby creatures, some positive, some negative. Most of their songs are short, lasting only 1 turn, and can be changed quickly. They also have [[Create Amplifier]] and [[Encore]] to augment their songs.*
 ## Core Psycasts
 - 1st Level:
 	- [[Sonic Wave]] (3, 19)
@@ -22,12 +22,15 @@ aliases:
 	- [[Create Amplifier]] (3, 44)
 	- [[Encore]] (3, 44)
 - 5th Level:
-	- [[Heroic Melody]]
+	- [[Heroic Melody]] (6, 20)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Out of Tune
+	- You accidentally block the neural pathways related to auditory processing, you are [[Deafened]] for 3 turns.
+- Level 2 Miscast - 
+	- Psychic feedback between you and your instrument creates a loud screech, all creatures within 15ft of you must make a constitution saving throw.
+		- On a failure, they take 2d6 sonic damage and are [[Deafened]] for 2 turns.
+		- On a success, they take half as much damage.
+		- You automatically fail this saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

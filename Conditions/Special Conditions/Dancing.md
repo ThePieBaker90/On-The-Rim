@@ -12,7 +12,7 @@ tags:
 				- On a critical failure, if they were holding an item as part of this action, they drop the item (or some other appropriate incident for the action).
 			- Certain one handed actions such as dropping or hand gestures automatically succeed this roll.
 		- One of the two-handed actions possible while dancing is playing a two-handed instrument. When starting playing, the music you play must not disrupt any other nearby ongoing music.
-	- They lose 10ft of movement speed.
+	- They have their [[Movement|Movement Speed]] slowed by 10ft.
 		- Unless they have proficiency or expertise in performance.
 	- They have a -3 modifier on ranged attack rolls.
 		- Unless they have expertise in performance.

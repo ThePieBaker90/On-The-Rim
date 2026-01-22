@@ -25,7 +25,7 @@ aliases:
 	- [[Word of Panic]] (12, 24)
 ## Miscasts
 - Level 1 Miscast - Empathy with the Self
-	- You cast a second copy of the psycast you just used, except the target is you. You automatically fail any relevant saving throw.
+	- You accidentally overwhelm yourself with the emotion you intended to inflict. You cast a second copy of the psycast you just used, except the target is you. You automatically fail any relevant saving throw.
 		- If [[Empathetic Shout]] was the psycast, you cast a copy of the empowered psycast centered on you.
 - Level 2 Miscast - Tired of Empathy
 	- You exhaust yourself, you gain [[Lethargic]] for 2 turns.

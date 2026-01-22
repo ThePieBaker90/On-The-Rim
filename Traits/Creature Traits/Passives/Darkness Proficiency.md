@@ -3,7 +3,7 @@ tags:
   - Trait
   - Darkness-Proficiency
 ---
-- A creature with the Darkness Proficiency trait gains the following while not in any light
+- A creature with the Darkness Proficiency trait gains the following while not in any light:
 	- +20 ft speed
 	- +2 AC
 	- -1d6 damage from all sources

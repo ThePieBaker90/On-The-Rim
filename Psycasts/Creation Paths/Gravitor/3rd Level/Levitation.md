@@ -21,8 +21,8 @@ tags:
 - **Duration**:
 	- 10 turns.
 - **Effects**:
-	- You create a field of controlled gravity around you. For the duration of the psycast you are able to fly. Your flying speed is your movement speed + 10ft.
-		- If you are already able to fly, you double your flying speed for the duration of the psycast.
+	- You create a field of controlled gravity around you. For the duration of the psycast you are able to fly. Your [[Movement#Flying|Flying Speed]] is your [[Movement|Movement Speed]] + 10ft.
+		- If you are already able to fly, you double your [[Movement#Flying|Flying Speed]] for the duration of the psycast.
 	- You ignore all external sources of gravity for the duration of the psycast.
 - **Upcasting:**
 	- You cannot upcast this psycast. 

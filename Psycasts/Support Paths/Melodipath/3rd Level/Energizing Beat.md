@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- You play an energizing beat on your instrument, granting nearby teammates movement speed and rate of fire bonuses.
 	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
-		- They gain 10ft of movement speed.
+		- Their [[Movement|Movement Speed]] is increased by 10ft.
 		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased by 33%.
 			- This is rounded up for decimal places beyond the hundredths place.
 - **Upcasting**:

@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Wagepath
+---
+- **Path**:
+	- 1st Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
