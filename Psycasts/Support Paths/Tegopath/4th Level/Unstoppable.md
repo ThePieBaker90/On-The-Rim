@@ -22,5 +22,6 @@ tags:
 	- 5 turns.
 - **Effects**
 	- You gain 3d10 temporary health and you are immune to [[Unconscious]], [[Prone]], [[Incapacitated]], [[Grappled]], [[Stunned]], [[Immobilized]], [[Frightened]], [[Charmed]], [[Lethargic]], [[Mind-Shattering Pain]], and [[Weakness]] for the psycast duration.
+		- Additionally, you may not be moved against your will.
 - **Upcasting**:
 	- You cannot upcast this psycast.

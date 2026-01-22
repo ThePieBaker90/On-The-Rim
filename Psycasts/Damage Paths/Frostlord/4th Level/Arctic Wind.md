@@ -24,7 +24,7 @@ tags:
 	- An area of harsh arctic wind surrounds you damaging all creatures within range. This arctic wind follows you if you move. If a creature starts their turn, enters for the first time this turn, or ends their turn within the area, they must make a Constitution saving throw. 
 		- On a failure, they take 3d8 cold damage.
 		- On a success, they take half damage. 
-		- A creature's movement costs twice as much to move through the area.
+		- A creature's [[Movement]] costs twice as much [[Movement|Movement Speed]] to move through the area.
 		- The user and their allies ignore the effects of the arctic wind.
 		- The wind freezes all standing water that within the area.
 - **Upcasting**:

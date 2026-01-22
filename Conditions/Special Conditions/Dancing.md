@@ -5,7 +5,7 @@ tags:
 ---
 - When a creature has the dancing condition they suffer the following effects:
 	- They are dancing to the music at all times, they may only use their hands as part of the dance which renders most two handed actions impossible. 
-		- Their movement does not have to follow the movement of the dance they are doing.
+		- Their [[Movement]] does not have to follow the movement of the dance they are doing.
 		- Most one-handed actions are possible, albeit difficult. Anytime they try to do a one-handed action, they must first make a DC 8 dexterity (performance) saving throw.
 			- On a success, they successfully perform the action or if there is other rolls associated with the action, they perform those rolls.
 			- On a failure, they fail to do the action, the action or bonus actions to do the action are still expended.
