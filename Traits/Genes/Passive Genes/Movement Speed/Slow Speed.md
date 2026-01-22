@@ -6,7 +6,7 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 2
 - **Effects:**
-	- Carriers of this gene have their [[Movement|Movement Speed]] slowed by 5ft.
+	- Carriers of this gene have their [[Movement Speed|Movement Speed]] slowed by 5ft.
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
 	- [[Fast Speed]]
 	- [[Fast Runner]]

@@ -11,7 +11,7 @@ tags:
 | Exhaustion Level | Effects                                                                                  |
 | ---------------- | ---------------------------------------------------------------------------------------- |
 | 1                | They have disadvantage on ability checks.                                                |
-| 2                | Their [[Movement\|Movement Speed]] is halved.                                            |
+| 2                | Their [[Movement Speed\|Movement Speed]] is halved.                                            |
 | 3                | They have disadvantage on attack rolls and saving throws.                                |
 | 4                | Their maximum health is halved.                                                          |
 | 5                | They gain [[Immobilized]], this may not be removed until exhaustion is below this level. |

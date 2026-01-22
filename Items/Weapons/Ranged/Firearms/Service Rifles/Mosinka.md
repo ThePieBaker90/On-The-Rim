@@ -41,6 +41,6 @@ tags:
 - **Lore:**
 	- An ancient relic of Pre-Calamity old Earth, this rifle still miraculously cycles and fires with little issue. Etched into its long-petrified wooden stock is a mysterious inscription in one of Old Earth's many forgotten pre-common languages: "Пуля глупа, штык умен". Affixed to the rifle is a fractured bayonet, the two fused inseparably together after millennia of neglect.
 - **Special**:
-	- Once per short rest, as an action, you may move up to your normal [[Movement|Movement Speed]] in a straight line towards a target.
+	- Once per short rest, as an action, you may move up to your normal [[Movement Speed|Movement Speed]] in a straight line towards a target.
 		- If you end this within melee distance from the target, you may make a melee attack.
 			- On a hit, they take 2d6 + STR piercing damage and must succeed a DC 10 + proficiency + STR strength saving throw or be knocked prone.

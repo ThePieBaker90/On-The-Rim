@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- [[Abomination Matter]] surrounds a 15ft sphere centered on the initial point. Any creature within the sphere with enough remaining [[Movement|Speed]] to reach the edge of the sphere may make a dexterity saving throw. 
+	- [[Abomination Matter]] surrounds a 15ft sphere centered on the initial point. Any creature within the sphere with enough remaining [[Movement Speed|Speed]] to reach the edge of the sphere may make a dexterity saving throw. 
 		- A creature is teleported on a failed save, or if they don't/can't attempt a save. 
 		- The creature is moved to the closest edge and are not teleported on a successful save.
 	- When teleported, the creature's relation to the point is kept in tact. The ending point's Yaw dimension (normal to the floor) may be rotated.

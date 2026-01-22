@@ -6,7 +6,7 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -5
 - **Effects:**
-	- Carriers of this gene have their [[Movement|Movement Speed]] increased by 10ft.
+	- Carriers of this gene have their [[Movement Speed|Movement Speed]] increased by 10ft.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
 	- [[Fast Speed]]
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**

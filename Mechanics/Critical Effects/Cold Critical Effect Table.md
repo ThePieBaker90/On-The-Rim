@@ -7,7 +7,7 @@ tags:
 | d20   | Effect                                                                 |
 | ----- | ---------------------------------------------------------------------- |
 | 1-4   | No Effect                                                              |
-| 5-6   | Target has their [[Movement\|Movement Speed]] slowed by 5ft for 1 turn |
+| 5-6   | Target has their [[Movement Speed\|Movement Speed]] slowed by 5ft for 1 turn |
 | 7-9   | Target has -10 ft of speed for 1 turn                                  |
 | 10-11 | Floors within 20 ft freeze for 5 turns                                 |
 | 12    | Floors within 40 ft freeze for 5 turns                                 |

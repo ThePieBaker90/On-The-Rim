@@ -1215,7 +1215,6 @@
   "Psycasts/Support Paths/Melodipath/5th Level/Heroic Melody.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/3rd Level/The Band Plays On!.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/Melodipath Psycasts.md": "LiInfo",
-  "Mechanics/Gameplay Information/Movement.md": "LiListTodo",
   "Story/Core Assumptions.md": "LiListTodo",
   "Story/History.md": "LiListTodo",
   "Story/Companies.md": "LiListTodo",
@@ -1230,5 +1229,7 @@
   "Psycasts/Support Paths/Wagepath/3rd Level": "TiHexagonNumber3",
   "Psycasts/Support Paths/Wagepath/2nd Level": "TiHexagonNumber2",
   "Psycasts/Support Paths/Wagepath/1st Level": "TiHexagonNumber1",
-  "Psycasts/Support Paths/Wagepath/1st Level/Enduring Speed.md": "LiListTodo"
+  "Psycasts/Support Paths/Wagepath/1st Level/Enduring Speed.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Movement Speed.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Travel.md": "LiListTodo"
 }

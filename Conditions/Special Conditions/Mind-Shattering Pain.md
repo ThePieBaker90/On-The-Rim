@@ -13,8 +13,8 @@ tags:
 | 1                          | They have a -1 modifier on all skill checks and saving throws.                                                                        |
 | 2                          | They have a -2 modifier on all skill checks and saving throws.                                                                        |
 | 3                          | They have disadvantage on all skill checks and saving throws.                                                                         |
-| 4                          | They have disadvantage on all skill checks and saving throws and their [[Movement\|Movement Speed]] is halved                         |
-| 5                          | They are [[Incapacitated]], have disadvantage on all skill checks and saving throws, and their [[Movement\|Movement Speed]] is halved |
+| 4                          | They have disadvantage on all skill checks and saving throws and their [[Movement Speed\|Movement Speed]] is halved                         |
+| 5                          | They are [[Incapacitated]], have disadvantage on all skill checks and saving throws, and their [[Movement Speed\|Movement Speed]] is halved |
 | 6                          | They are [[Stunned]] and have disadvantage on all skill checks and saving throws.                                                     |
 | 7                          | They are [[Paralyzed]] and have disadvantage on all skill checks and saving throws.                                                   |
 | 8+                         | They are [[Unconscious]] and have disadvantage on all skill checks and saving throws.                                                 |

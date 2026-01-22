@@ -25,9 +25,9 @@ tags:
 	- Afflicted creatures suffer the following effects for the psycast duration:
 		- They gain [[Short-Sighted]].
 		- They hear all sounds you make as if you surround them on all sides.
-		- Their [[Movement|Movement Speed]] is slowed by 10ft.
+		- Their [[Movement Speed|Movement Speed]] is slowed by 10ft.
 	- For the psycast duration, you have the following effects:
-		- Your [[Movement|Movement Speed]] is increased by 10ft.
+		- Your [[Movement Speed|Movement Speed]] is increased by 10ft.
 		- You can see the range of vision of afflicted creatures.
 		- You deal an additional 1d4 slashing damage to afflicted creatures.
 - **Upcasting**:

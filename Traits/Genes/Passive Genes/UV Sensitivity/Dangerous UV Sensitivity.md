@@ -10,7 +10,7 @@ tags:
 		- They have -5 to all ability checks
 		- They have disadvantage on all ability checks
 		- They take 1 radiant damage at the beginning of their turn
-		- Their [[Movement|Speed]] is halved.
+		- Their [[Movement Speed|Speed]] is halved.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
 	- [[Mild UV Sensitivity]]
 	- [[Minor UV Sensitivity]]
