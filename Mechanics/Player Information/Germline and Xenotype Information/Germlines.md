@@ -31,7 +31,7 @@ Certain germlines are more common than others, therefore germlines are split int
 	- Size determines a general size of the person with the germline; Tiny, Small, Medium, Large, Huge, and Colossal. Most people have a medium size.
 	- Height determines how tall the person with the germline is.
 ## Speed
-- The speed parameter determines the base [[Movement Speed|Movement Speed]] of a person with the germline. The number listed reflects any increments and decrements to [[Movement Speed|Speed]] due to [[Endogenes]].
+- The speed parameter determines the base [[Movement Speed]] of a person with the germline. The number listed reflects any increments and decrements to [[Movement Speed|Speed]] due to [[Endogenes]].
 ## Languages
 - The languages parameter determines what languages the person with the germline naturally knows.
 ## [[Endogenes]]

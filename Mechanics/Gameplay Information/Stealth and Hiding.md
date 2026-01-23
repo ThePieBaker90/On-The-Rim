@@ -9,7 +9,7 @@ tags:
 	- On a success, you become [[#Hidden]] by the [[#Obscuration]] from all creatures you are hiding from and you are no longer [[#Observed]] by those creatures. 
 	- On a failure, you fail to become [[#Hidden]] by the [[#Obscuration]]. You stay [[#Observed]]
 ## Sneak Action
-- You attempt to sneak while [[#Hidden]], [[#Undetected]], or [[#Unnoticed]] to a second location. This takes 1 action to do. You then may move, although this costs twice as much [[Movement|Movement Speed]] than normal. Once you finish moving, you must make a Dexterity (stealth) check. The DC for this check is the [[#Obscuration]] base DC + the highest [[Sight-Based Perception]] modifier among creatures that had line of sight to you during this action and that you are [[#Hidden]] from, [[#Undetected]] by, or [[#Unnoticed]] by. 
+- You attempt to sneak while [[#Hidden]], [[#Undetected]], or [[#Unnoticed]] to a second location. This takes 1 action to do. You then may move, although this costs twice as much [[Movement Speed]] than normal. Once you finish moving, you must make a Dexterity (stealth) check. The DC for this check is the [[#Obscuration]] base DC + the highest [[Sight-Based Perception]] modifier among creatures that had line of sight to you during this action and that you are [[#Hidden]] from, [[#Undetected]] by, or [[#Unnoticed]] by. 
 	- On a success, you become [[#Undetected]] if you were [[#Hidden]], otherwise you remain [[#Undetected]] or [[#Unnoticed]]. 
 	- On a failure, you stay/become [[#Hidden]] or become [[#Observed]] if you failed critically.
 	- The relevant [[#Obscuration|Obscurations]] are the lighting, cover, and effects at your destination.

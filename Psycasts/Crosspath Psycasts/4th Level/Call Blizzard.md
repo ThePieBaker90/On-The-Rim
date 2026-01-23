@@ -23,7 +23,7 @@ tags:
 	- 3 days
 - **Effects**:
 	- You call upon a harsh blizzard to sweep a circular area centered on you with a radius of 8 miles.
-		- Traversing in a blizzard requires twice as much [[Movement|Movement Speed]].
+		- Traversing in a blizzard requires twice as much [[Movement Speed]].
 		- All ranged attacks made in the blizzard are made with disadvantage.
 		- All fires in the blizzard are extinguished unless otherwise stated.
 		- Creatures who are exposed to the blizzard and are unprotected take 1d10 cold damage every minute.

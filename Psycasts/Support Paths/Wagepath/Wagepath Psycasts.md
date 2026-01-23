@@ -9,10 +9,10 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Enduring Speed]]
+	- [[Enduring Speed]] (0, 18)
 - 2nd Level:
-	- Melee Focus
-	- Ranged Focus
+	- [[Melee Focus]] ()
+	- [[Ranged Focus]] ()
 - 3rd Level:
 	- Accuracy and range increase
 	- Majestic Leap

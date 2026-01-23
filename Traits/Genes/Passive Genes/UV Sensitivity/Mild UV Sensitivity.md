@@ -8,6 +8,6 @@ tags:
 - **Effects:**
 	- Carriers of this gene suffer from the following while in direct UV light:
 		- They have -4 to all ability checks.
-		- Their [[Movement Speed|Movement Speed]] is halved.
+		- Their [[Movement Speed]] is halved.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
 	- [[Minor UV Sensitivity]]

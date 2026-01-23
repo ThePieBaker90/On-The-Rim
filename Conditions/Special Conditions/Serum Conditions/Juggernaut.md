@@ -8,7 +8,7 @@ tags:
 - When a creature has the Juggernaut condition, they have the following effects:
 	- Their strength increases to 18.
 	- Their constitution increases to 18.
-	- Their [[Movement Speed|Movement Speed]] increases by 10 feet.
+	- Their [[Movement Speed]] increases by 10 feet.
 	- They heal an additional 1 health for every 5 health healed.
 	- Their intelligence decreases to 10.
 	- Their wisdom decreases to 10.

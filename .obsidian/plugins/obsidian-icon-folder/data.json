@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkles",
       "LiListTodo",
       "TiHexagonNumber1",
       "TiHexagonNumber2",
-      "TiHexagonNumber3",
-      "TiHexagonNumber4"
+      "TiHexagonNumber3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1229,7 +1229,9 @@
   "Psycasts/Support Paths/Wagepath/3rd Level": "TiHexagonNumber3",
   "Psycasts/Support Paths/Wagepath/2nd Level": "TiHexagonNumber2",
   "Psycasts/Support Paths/Wagepath/1st Level": "TiHexagonNumber1",
-  "Psycasts/Support Paths/Wagepath/1st Level/Enduring Speed.md": "LiListTodo",
+  "Psycasts/Support Paths/Wagepath/1st Level/Enduring Speed.md": "LiSparkles",
   "Mechanics/Gameplay Information/Movement Speed.md": "LiListTodo",
-  "Mechanics/Gameplay Information/Travel.md": "LiListTodo"
+  "Mechanics/Gameplay Information/Travel.md": "LiListTodo",
+  "Psycasts/Support Paths/Wagepath/2nd Level/Melee Focus.md": "LiListTodo",
+  "Psycasts/Support Paths/Wagepath/2nd Level/Ranged Focus.md": "LiListTodo"
 }

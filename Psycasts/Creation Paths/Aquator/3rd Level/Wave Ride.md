@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 3 turns.
 - **Effects**:
 	- You ride a small wave of water. You gain the following effects for the duration of the psycast:
-		- You double your [[Movement|Movement Speed]].
+		- You double your [[Movement Speed]]].
 		- You may not dash.
 		- Creatures you attempt to move through must make a dexterity saving throw. 
 			- On a failure, they are pushed away 5ft and fall [[Prone]]. 

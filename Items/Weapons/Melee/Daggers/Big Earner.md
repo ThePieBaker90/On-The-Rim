@@ -33,7 +33,7 @@ tags:
 * **Special:**
 	* Upon killing a creature with this weapon, the user immediately gains the following:
 		* They gain 1 action.
-		* They gain 30ft of [[Movement|Movement Speed]].
+		* They gain 30ft of [[Movement Speed]].
 		* They have immunity to opportunity attacks. 
 		* These effects last until the end of the turn. There is no limit to the number of times this can happen in one turn.
 - **Lore:**

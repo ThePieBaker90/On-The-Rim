@@ -2,7 +2,6 @@
 tags:
   - Info
 aliases:
-  - Movement Speed
   - Speed
   - Movement
 ---
