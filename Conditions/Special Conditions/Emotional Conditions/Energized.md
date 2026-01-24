@@ -8,7 +8,7 @@ tags:
 	- Their [[Movement Speed]] is doubled.
 	- They gain an extra action.
 		- This action may not be used to use psycasts.
-	- They gain +2 to their [[Evade Class]].
+	- They gain 2 to their [[Evade Class]].
 	- They have advantage on all Dexterity checks.
 	- When they lose this condition, they are [[Stunned]] for 1 turn.
 	- They are immune to [[Lethargic]].

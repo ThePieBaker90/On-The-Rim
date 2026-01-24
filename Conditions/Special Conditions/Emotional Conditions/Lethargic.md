@@ -7,7 +7,7 @@ tags:
 - When a creature has the Lethargic condition, they suffer the following effects:
 	- Their [[Movement Speed]] is halved.
 	- They lose an action.
-	- They lose -2 from their [[Evade Class]].
+	- They lose 2 from their [[Evade Class]].
 	- They have disadvantage on all Dexterity checks.
 	- They are immune to [[Energized]].
 - Constructs and creatures who do not feel emotion are immune to this condition. 

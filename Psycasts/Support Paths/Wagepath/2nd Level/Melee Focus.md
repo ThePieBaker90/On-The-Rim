@@ -21,6 +21,12 @@ tags:
 - **Duration**:
 	- .
 - **Effects**:
-	- You
+	- You increase your reaction speed, enhancing your melee effectiveness.
+	- For the duration of the psycast, you suffer the following effects:
+		- You gain +1 to your [[Evade Class]].
+		- When rolling for damage with a melee weapon, you may reroll each dice once. 
+			- You must take the new result.
+		- If you miss an attack with a melee weapon, you may deal 1 damage of the highest damage type the melee weapon deals to the original target.
+		- .
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
