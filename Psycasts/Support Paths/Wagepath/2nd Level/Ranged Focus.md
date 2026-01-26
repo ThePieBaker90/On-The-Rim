@@ -9,9 +9,9 @@ tags:
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
-	- .
+	- 8
 - **[[Neural Heat]] Generation:**
-	- .
+	- 26 (16)
 - [[Range]]:
 	- .
 - **Target**:
@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Concentration, up to 5 turns.
 - **Effects**:
-	- .
+	- If you end your turn without having made at least 1 ranged attack during that turn, this psycast ends.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

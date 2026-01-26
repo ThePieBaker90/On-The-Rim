@@ -7,26 +7,26 @@ tags:
 - **Path**:
 	- 2nd Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 8
 - **[[Neural Heat]] Generation:**
-	- .
+	- 26 (16)
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Concentration, up to 5 turns.
 - **Effects**:
-	- You increase your reaction speed, enhancing your melee effectiveness.
-	- For the duration of the psycast, you suffer the following effects:
-		- You gain +1 to your [[Evade Class]].
+	- You increase your reaction speed and strength, enhancing your melee effectiveness in battle.
+	- For the duration of the psycast, you gain the following effects:
+		- You gain 1 to your [[Evade Class]].
 		- When rolling for damage with a melee weapon, you may reroll each dice once. 
 			- You must take the new result.
-		- If you miss an attack with a melee weapon, you may deal 1 damage of the highest damage type the melee weapon deals to the original target.
-		- .
+		- You gain 4 to your strength ability score.
+	- If you end your turn without having made at least 1 melee attack during that turn, this psycast ends.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

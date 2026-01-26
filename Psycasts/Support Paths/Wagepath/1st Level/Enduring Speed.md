@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 3 turns.
 - **Effects**:

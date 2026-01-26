@@ -12,7 +12,6 @@ tags:
 - You attempt to sneak while [[#Hidden]], [[#Undetected]], or [[#Unnoticed]] to a second location. This takes 1 action to do. You then may move, although this costs twice as much [[Movement Speed]] than normal. Once you finish moving, you must make a Dexterity (stealth) check. The DC for this check is the [[#Obscuration]] base DC + the highest [[Sight-Based Perception]] modifier among creatures that had line of sight to you during this action and that you are [[#Hidden]] from, [[#Undetected]] by, or [[#Unnoticed]] by. 
 	- On a success, you become [[#Undetected]] if you were [[#Hidden]], otherwise you remain [[#Undetected]] or [[#Unnoticed]]. 
 	- On a failure, you stay/become [[#Hidden]] or become [[#Observed]] if you failed critically.
-	- The relevant [[#Obscuration|Obscurations]] are the lighting, cover, and effects at your destination.
 ## Seek Action
 - You attempt to find an [[#Undetected]] creature. Choose either a 15ft sphere or a cone with a length of 30ft and a maximum width of 30ft. Then, make a Wisdom ([[Sight-Based Perception]]) check. For every creature in the area, compare this result to the DC. The DC is a Dexterity (stealth) saving throw from the creature + the [[#Obscuration]] base DC of the [[#Undetected]] creature $*(-1)$
 	- On success, you find the creature. They are [[#Observed]] by you if you can see them. Otherwise, they are [[#Hidden]] from you if you only know their location. 
@@ -37,13 +36,13 @@ tags:
 - A creature has no cover when they are less than 10% behind cover.
 - This has an obscuration modifier of 10.
 #### Light Cover
-- A creature has light cover if they are less than 33% but more than or equal to 10% behind cover.
+- A creature has light cover if they are less than 33% behind cover but more than or equal to 10% behind cover.
 - This has an obscuration modifier of 8.
 #### Medium Cover
-- A creature has medium cover if they are less than 66% but more than or equal to 33% behind cover.
+- A creature has medium cover if they are less than 66% behind cover but more than or equal to 33% behind cover.
 - This has an obscuration modifier of 3.
 #### Heavy Cover
-- A creature has heavy cover if they have less than 99% but more than or equal to 66% behind cover.
+- A creature has heavy cover if they are less than 99% behind cover but more than or equal to 66% behind cover.
 - This has an obscuration modifier of 0.
 #### Full Cover
 - A creature has full cover if they are more than 99% behind cover.
