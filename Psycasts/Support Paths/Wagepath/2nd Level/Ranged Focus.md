@@ -21,6 +21,12 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
+	- You increase your ., enhancing your ranged effectiveness in battle.
+	- For the duration of the psycast, you gain the following effects:
+		- When rolling for damage with a ranged weapon, you may reroll each dice once.
+			- You must take the new result.
+		- (+ to hit.)
+		- (+ to reload.)
 	- If you end your turn without having made at least 1 ranged attack during that turn, this psycast ends.
 - **Upcasting**:
 	- You cannot upcast this psycast.
