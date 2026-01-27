@@ -11,8 +11,8 @@ aliases:
 - 1st Level:
 	- [[Enduring Speed]] (0, 18)
 - 2nd Level:
-	- [[Melee Focus]] (8, 26)
-	- [[Ranged Focus]] ()
+	- [[Melee Focus]] (6, 24)
+	- [[Ranged Focus]] (6, 24)
 - 3rd Level:
 	- Accuracy and range increase
 	- Majestic Leap

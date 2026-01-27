@@ -7,26 +7,26 @@ tags:
 - **Path**:
 	- 2nd Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- 8
+	- 6
 - **[[Neural Heat]] Generation:**
-	- 26 (16)
+	- 24 (14)
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
-	- You increase your ., enhancing your ranged effectiveness in battle.
+	- You increase your ranged abilities, allowing you to excel in ranged combat.
 	- For the duration of the psycast, you gain the following effects:
-		- When rolling for damage with a ranged weapon, you may reroll each dice once.
-			- You must take the new result.
-		- (+ to hit.)
-		- (+ to reload.)
-	- If you end your turn without having made at least 1 ranged attack during that turn, this psycast ends.
+		- When rolling for damage with a ranged weapon, you may reroll each dice in the damage up to one time.
+			- You must take the new result of a dice being rerolled.
+			- You may pick and choose which dice to reroll.
+		- You gain a +4 modifier to hit with ranged attacks.
+	- If you end your turn without having made at least 1 ranged attack during your turn, this psycast ends.
 - **Upcasting**:
 	- You cannot upcast this psycast.
