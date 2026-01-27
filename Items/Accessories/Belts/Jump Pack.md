@@ -8,7 +8,7 @@ tags:
 - __Accessory Type__:
 	* Belt
 - __Properties__:
-	* [[Items/Armor/Properties/Jump Pack|Jump Pack]]
+	* [[Jump Pack Equipped]]
 * **Effects:**
 	* None
 - **Value:**

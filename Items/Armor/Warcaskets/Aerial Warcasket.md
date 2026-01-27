@@ -16,7 +16,7 @@ tags:
 - __Strength Needed To Wear__:
 	* 0
 - __Properties__:
-	* [[Items/Armor/Properties/Jump Pack|Jump Pack]]
+	* [[Jump Pack Equipped]]
 	* [[Unstealthy]]
 - **Value:**
 	- 1000 credits

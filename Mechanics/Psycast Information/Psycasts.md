@@ -12,7 +12,6 @@ aliases:
 - If an effect forces a psycast into a phase, the phases before are skipped and their effects do not occur.
 ### Use Phase (Pay neural costs)
 - This is the phase the psycast starts out in when it is initially used. During this phase you pay the [[Neural Heat]] and [[Psyfocus]] costs of the psycast. This phase passes instantly to the casting phase if there are no interruptions.
-	- Casting (pay component and casting time costs)
 ### Casting Phase (Pay component and casting time costs)
 - This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
 ### Cast Phase (Immediate effects occur)

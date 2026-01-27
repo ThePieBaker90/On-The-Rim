@@ -1,0 +1,11 @@
+---
+tags:
+  - Property
+  - Jump-Pack
+---
+- A piece of armor that has the jump pack equipped property grants the wearer the Jump Pack Action.
+	- Jump Pack - 1 Bonus Action, 1 Charge
+		- You jump to a point within .
+- anywhere within a circle with a 90ft radius. or be refueled with 1L of [[Chemfuel]]. Refueling takes 30 seconds of time.
+	- If the wearer lands on a creature with this action, the wearer may make an opportunity attack on the creature.
+	- If the wearer attempts to land on a roofed area with this action or use this action while under a roof, they will take 2d4 force damage per entry/exit.

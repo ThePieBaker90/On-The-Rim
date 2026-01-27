@@ -199,7 +199,6 @@
   "Items/Armor/Properties/Fire-Proof.md": "TiSettings2",
   "Items/Armor/Properties/Grappling Hook.md": "TiSettings2",
   "Items/Armor/Properties/Guardian.md": "TiSettings2",
-  "Items/Armor/Properties/Jump Pack.md": "TiSettings2",
   "Items/Armor/Properties/Mechlord.md": "TiSettings2",
   "Items/Armor/Properties/Overshield.md": "TiSettings2",
   "Items/Armor/Properties/Recon.md": "TiSettings2",
@@ -1233,5 +1232,6 @@
   "Mechanics/Gameplay Information/Movement Speed.md": "LiListTodo",
   "Mechanics/Gameplay Information/Travel.md": "LiListTodo",
   "Psycasts/Support Paths/Wagepath/2nd Level/Melee Focus.md": "LiSparkles",
-  "Psycasts/Support Paths/Wagepath/2nd Level/Ranged Focus.md": "LiSparkles"
+  "Psycasts/Support Paths/Wagepath/2nd Level/Ranged Focus.md": "LiSparkles",
+  "Items/Armor/Properties/Jump Pack Equipped.md": "TiSettings2"
 }
