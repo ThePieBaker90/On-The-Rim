@@ -17,7 +17,7 @@ aliases:
 ### Cast Phase (Immediate effects occur)
 - This phase happens immediately after the casting phase has passed, during this phase the caster chooses targets, then, all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
 ### Active Phase (Recurring, passive, afflicting and delayed effects occur)
-- This phase happens after the cast phase, during this phase all recurring or passive effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
+- This phase happens after the cast phase, during this phase all recurring, passive, afflicting, or delayed effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
 ### End Phase (End psycast effects)
 - This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
 ## Psycasting Modifier and Save DC
@@ -35,7 +35,7 @@ aliases:
 ### Creation Paths
 - [[Abominator Psycasts|Abominator]] - Summoning Abominations and Abomination Goo Manipulation
 - [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
-- [[Gravitor Psycasts|Gravitor]] - Force Creation and Energy Manipulation
+- [[Gravitor Psycasts|Gravitor]] - Force Creation and Gravity Manipulation
 - [[Luzator Psycasts|Luzator]] - Light Creation and Information Revealing
 - [[Technonator Psycasts|Technonator]] - Item Creation and Repairing
 - [[Vegetator Psycasts|Vegetator]] - Plant Creation and Growth
@@ -43,13 +43,13 @@ aliases:
 - [[Blazelord Psycasts|Blazelord]] - Fire Damage and Area Denial
 - [[Chemlord Psycasts|Chemlord]] - Corrosion Damage and Varied Chemicals
 - [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
-- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Negative Debuffs
-- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electronics
+- [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Debuffs
+- [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electricity Creation
 - [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping
 - [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 ### Support Paths
 - [[Empath Psycasts|Empath]] - Emotions and Feelings
-- [[Melodipath Psycasts|Melodipath]] - Sonic Damage and Music
+- [[Melodipath Psycasts|Melodipath]] - Area of Effect Buffs and Debuffs
 - [[Mendopath Psycasts|Mendopath]] - Healing and Stabilization
 - [[Neuropath Psycasts|Neuropath]] - Psycast and Neural Manipulation
 - [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
@@ -76,7 +76,7 @@ aliases:
 - [[Neural Heat]] rapidly dissipates and limits how many psycasts you can cast in a short time.
 - See [[Neural Heat]]
 ### Psyfocus
-- [[Psyfocus]] is only regenerated on rest and limits how many psycasts you can cast before having to rest.
+- [[Psyfocus]] is only regenerated when you rest and limits how many psycasts you can cast before having to rest.
 - See [[Psyfocus]]
 ## Psycast Range
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
@@ -96,23 +96,30 @@ aliases:
 ### Kinetic Component
 - Kinetic components require the psycaster have one free hand during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
+- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up one hand for the duration of the psycast.
 ### Gesture Component
 - Gesture components require the psycaster have two free hands during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check at disadvantage against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
+- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up two hands for the duration of the psycast.
 ### Verbal Component
 - Verbal components require the psycaster to be able to speak during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a charisma (stealth) check against any relevant creatures' [[Sound-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. The range of these psycasts are halved when doing this.
+- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up your ability to speak for the duration of the psycast.
 ### Material Component
 - Material components require that the psycaster has the listed items within their inventory during casting, these items are not consumed unless explicitly stated.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
+- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up the material for the duration of the psycast.
 ### Focus Component
 - Focus components require that the psycaster has the listed items held during casting, these items are not consumed unless explicitly stated.
-- When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]].  If an instrument is the focus, [[#Psycasts and Stealth|Stealth Casting]] cannot be done.
+- When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. If an instrument is the focus, [[#Psycasts and Stealth|Stealth Casting]] is impossible.
 - Psycasts with a focus component and a kinetic component require the psycaster to use atleast 1 hand on the focus item.
+	- For [[#Continuous Psycasts]], this hand is taken up for the duration of the psycast.
 - Psycasts with a focus component and a gesture component require the psycaster to use atleast 2 hands on the focus item.
+	- For [[#Continuous Psycasts]], both hands are taken up for the duration of the psycast.
+- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up the focus for the duration of the psycast.
 ## Psycast Duration, Concentration, and Continuous Psycasts
 - All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. 
-- In addition to a duration, some psycasts may require concentration from the user or the continuous use of the psycast's components..
+- In addition to a duration, some psycasts may require concentration from the user or the continuous use of the psycast's components.
 - When the duration ends, the psycast moves into the end phase.
 ### Instant Duration
 - Instant psycasts have their effects occur immediately, they do not take place over time.
@@ -124,10 +131,12 @@ aliases:
 ### Concentration
 - Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free, which moves the psycast to the end phase. 
 	- While concentrating on some psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost.
-	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. On a failure, you lose concentration and the psycast moves to the end phase. On a success, nothing happens.
+	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. 
+		- On a failure, you lose concentration and the psycast moves to the end phase. 
+		- On a success, nothing happens.
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
 ### Continuous Psycasts
-- Some psycasts may be continuous. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase. If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both either phase, the psycast moves to the end phase. 
+- Some psycasts may be continuous. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase. If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both phases, the psycast moves to the end phase. 
 	- The caster may decide at any time to stop fulfilling the component costs. This ends the psycast.
 	- Component costs that consume an object only need to be satisfied once; during the casting phase.
 - Each component has its specific interactions listed in the components section.
