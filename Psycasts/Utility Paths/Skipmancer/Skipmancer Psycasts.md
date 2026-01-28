@@ -10,13 +10,13 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Object Skip]] (1, 25)
-	- [[Skip Self]] (2, 21)
+	- [[Skip Self]] (2, 20)
 - 2nd Level:
 	- [[Chaos Skip]] (3, 24)
-	- [[Skip]] (3, 31)
+	- [[Skip]] (3, 30)
 - 3rd Level:
 	- [[Chain Skip]] (24, 48)
-	- [[Quick Skip]] (12, 31)
+	- [[Quick Skip]] (12, 30)
 - 4th Level:
 	- [[Mass Chaos Skip]] (3 ,44)
 	- [[Mass Skip]] (3, 44)

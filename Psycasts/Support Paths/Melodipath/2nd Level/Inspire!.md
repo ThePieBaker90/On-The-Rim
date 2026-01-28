@@ -27,4 +27,4 @@ tags:
 			- If they use inspiration's ability effect, they may not gain a level of inspiration again from this psycast this turn.
 		- They have advantage on wisdom saving throws.
 - **Upcasting**:
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

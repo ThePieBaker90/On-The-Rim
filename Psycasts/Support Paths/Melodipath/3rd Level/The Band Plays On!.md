@@ -42,4 +42,4 @@ tags:
 	- If this psycast is copied by an amplifier, instead of copying a new psycast instance, the amplifier joins your performance.
 		- The amplifier does not need to satisfy the listed conditions to remain in your performance.
 - **Upcasting**:
-	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

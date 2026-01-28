@@ -29,4 +29,4 @@ tags:
 	- Allied afflicted creatures gain the following effects:
 		- They act as if they have proficiency in performance for the effects of [[Dancing]] if they do not have proficiency or expertise in performance.
 - **Upcasting**:
-	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

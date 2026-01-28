@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 31
+	- 30
 - [[Range]]:
 	- 50ft
 - **Target**:
@@ -29,4 +29,4 @@ tags:
 		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.
 		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
 - **Upcasting**:
-	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.

@@ -27,4 +27,4 @@ tags:
 		- On a successful save, a creature takes half as much damage.
 		- The caster is not affected by this sonic wave.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

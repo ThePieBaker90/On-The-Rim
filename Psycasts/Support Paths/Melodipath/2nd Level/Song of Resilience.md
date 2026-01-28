@@ -29,4 +29,4 @@ tags:
 		- They take 1 less damage from each different damage type when taking damage.
 			- For example, if they are hit by an attack dealing 4 piercing damage and 3 fire damage, they will instead take 3 piercing damage and 2 fire damage.
 - **Upcasting**:
-	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

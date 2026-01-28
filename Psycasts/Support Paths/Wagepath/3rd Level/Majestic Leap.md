@@ -7,20 +7,28 @@ tags:
 - **Path**:
 	- 3rd Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action.
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 6
 - **[[Neural Heat]] Generation:**
-	- .
+	- 35
 - [[Range]]:
-	- .
+	- 80ft
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture.
+	- Kinetic.
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
-	- .
+	- You temporarily strengthen your leg muscles, using them to leap across a battlefield or up to high ground.
+	- You jump to a point within range and choose an "intent" for this leap: melee, ranged, nothing.
+		- If you chose a melee intent for this leap, you may make a melee opportunity attack on a creature within range of the melee weapon once you land.
+			- You must have a melee weapon equipped to choose this intent.
+		- If you chose a ranged intent for this leap, you use your ranged weapon while flying through the air. You have disadvantage on all ranged attacks you make until you land.
+			- You must have a ranged weapon equipped to choose this intent.
+		- If you chose to not have an intent for this leap, you recover 10 [[Neural Heat]] from this psycast.
+		- The path you take may follow any arc as long at the height of the arc is not greater than the range of this psycast but it greater than 5ft.
+		- This leap cannot break through ceilings except for those which would not be able to handle your weight.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the range increases by 20ft.

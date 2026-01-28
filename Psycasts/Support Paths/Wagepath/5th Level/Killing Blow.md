@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .Killing blow shiv deadlock
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

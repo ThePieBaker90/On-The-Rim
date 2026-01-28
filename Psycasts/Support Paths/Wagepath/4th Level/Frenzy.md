@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- Self.
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .Frenzy deadlock
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

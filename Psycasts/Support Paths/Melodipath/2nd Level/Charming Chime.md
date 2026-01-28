@@ -27,4 +27,4 @@ tags:
 		- They are [[Charmed]] by you.
 		- They have disadvantage on all perception checks.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

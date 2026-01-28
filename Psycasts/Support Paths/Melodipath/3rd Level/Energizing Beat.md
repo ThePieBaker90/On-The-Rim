@@ -27,4 +27,4 @@ tags:
 		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased by 33%.
 			- This is rounded up for decimal places beyond the hundredths place.
 - **Upcasting**:
-	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the radius of the range increases by 5ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

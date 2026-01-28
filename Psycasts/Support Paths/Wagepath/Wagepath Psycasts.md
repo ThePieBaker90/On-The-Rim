@@ -14,15 +14,15 @@ aliases:
 	- [[Melee Focus]] (6, 24)
 	- [[Ranged Focus]] (6, 24)
 - 3rd Level:
-	- Accuracy and range increase
 	- [[Majestic Leap]] 
-	- Action Surge
+	- [[Shoot the Moon]]
+	- [[Weapon Juggle]]
 - 4th Level:
-	- They all fall like dominoes
-	- Frenzy
+	- [[Domino]]
+	- [[Frenzy]]
 - 5th Level:
-	- Killing Blow
-	- Lucky Strike
+	- [[Killing Blow]]
+	- [[Lucky Strike]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .
