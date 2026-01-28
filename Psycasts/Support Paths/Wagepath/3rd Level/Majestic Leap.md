@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 3rd Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
 	- .
 - **Effects**:

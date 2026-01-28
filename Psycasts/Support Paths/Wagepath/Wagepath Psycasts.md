@@ -15,7 +15,7 @@ aliases:
 	- [[Ranged Focus]] (6, 24)
 - 3rd Level:
 	- Accuracy and range increase
-	- Majestic Leap
+	- [[Majestic Leap]] 
 	- Action Surge
 - 4th Level:
 	- They all fall like dominoes
