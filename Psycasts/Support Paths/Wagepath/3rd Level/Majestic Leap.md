@@ -9,9 +9,9 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 9
 - **[[Neural Heat]] Generation:**
-	- 35
+	- 32
 - [[Range]]:
 	- 80ft
 - **Target**:
@@ -27,8 +27,8 @@ tags:
 			- You must have a melee weapon equipped to choose this intent.
 		- If you chose a ranged intent for this leap, you use your ranged weapon while flying through the air. You have disadvantage on all ranged attacks you make until you land.
 			- You must have a ranged weapon equipped to choose this intent.
-		- If you chose to not have an intent for this leap, you recover 10 [[Neural Heat]] from this psycast.
+		- If you chose to not have an intent for this leap, you recover 8 [[Neural Heat]] from this psycast.
 		- The path you take may follow any arc as long at the height of the arc is not greater than the range of this psycast but it greater than 5ft.
 		- This leap cannot break through ceilings except for those which would not be able to handle your weight.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the range increases by 20ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 20ft.

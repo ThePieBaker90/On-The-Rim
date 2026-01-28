@@ -14,8 +14,8 @@ aliases:
 	- [[Melee Focus]] (6, 24)
 	- [[Ranged Focus]] (6, 24)
 - 3rd Level:
-	- [[Majestic Leap]] 
-	- [[Shoot the Moon]]
+	- [[Majestic Leap]] (9, 32)
+	- [[Moonshot]]
 	- [[Weapon Juggle]]
 - 4th Level:
 	- [[Domino]]
