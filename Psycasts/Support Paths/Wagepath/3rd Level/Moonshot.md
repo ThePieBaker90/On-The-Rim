@@ -9,18 +9,25 @@ tags:
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 1
 - **[[Neural Heat]] Generation:**
-	- .
+	- 12
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
-	- Self.
+	- A ranged weapon within range.
 - **Components**:
-	- .
+	- Focus (Ranged Weapon).
 - **Duration**:
-	- .
+	- 3 turns.
 - **Effects**:
-	- .Accuracy and range+
+	- You enchant a ranged weapon to give it additional range and accuracy.
+	- You touch a ranged weapon within range, for the duration of the psycast, the weapon has the following effects:
+		- When rolling to hit for an attack with this weapon, the attacker has a +4 modifier to hit.
+		- This weapon's upper-bound for its [[Range]] is increased by 25%.
+			- This is rounded up.
+		- This weapon's absolute-upper-bound for its [[Range]] is increased by 50%.
+			- This is rounded up.
+		- When this weapon successfully hits a creature, this psycast ends. 
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

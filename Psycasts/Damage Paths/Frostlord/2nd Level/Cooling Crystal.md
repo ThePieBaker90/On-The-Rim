@@ -17,11 +17,12 @@ tags:
 - **Target**:
 	- A small rock within range.
 - **Components**:
-	- Kinetic, Focus (A small rock)
+	- Kinetic, Focus (A small rock).
 - **Duration**:
 	- 1 day
 - **Effects**:
 	- You enchant a rock you are holding into a cooling crystal. 
+	- You touch a small rock within range, for the duration of the psycast, the rock is a cooling crystal and has the following effects:
 		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 100,000ft$^3$ in which case it will simply cool a sphere).
 		- The target temperature is chosen when the crystal is created. It may range from 5C to -20C. The crystal cools at a rate of 1C per minute.
 	- The crystal expires at the end of the duration, turning back into a rock.

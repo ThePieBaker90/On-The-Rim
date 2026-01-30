@@ -37,3 +37,4 @@ aliases:
 	- .
 - 5th Level:
 	- [[Resurrect]] (85, 0) ([[Mortilord Psycasts|Mortilord]])
+Mendo Tech - restorative locket type shift.

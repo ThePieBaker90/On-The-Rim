@@ -15,7 +15,7 @@ aliases:
 	- [[Ranged Focus]] (6, 24)
 - 3rd Level:
 	- [[Majestic Leap]] (9, 32)
-	- [[Moonshot]]
+	- [[Moonshot]] (1, 12)
 	- [[Weapon Juggle]]
 - 4th Level:
 	- [[Domino]]
@@ -37,3 +37,6 @@ aliases:
 	- .
 - 5th Level:
 	- .
+Neuro War - Spellslinger deadlock
+Tego War - Damage increases as you take damage
+Melodi War - Reload on cast with psychic bullets music spell?

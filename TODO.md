@@ -30,18 +30,22 @@ Smart Ammunition 3/4 or 1/2 Maybe idk
 Smart Weapons 1/2
 Hypersmart Weapon 1/4
 
-Mind Illusion Spell - Implant Fake Memories
-Chrono Mortilord - Bring someone to the brink of death and bring back to paralyze temp
-Skip Gravity - Volatile Space from weird wood wand
-Tech Skip - Turn normal door into portal!
-Fire Chrono - make fire burn faster
-Poison Chrono - all poison stacks occur at once
-Wild Tech - Arrow rain
-Mind Empath - Link all self effect spells to nearby allies
-Fire Water - Steam cartoon like attack (Thomas gets to name)
-Tego Melody- Lucio beat
-Mind War - Spellslinger deadlock
-Tego War - Damage increases as you take damage
+- Neuro Illusion - Implant Fake Memories
+- Chrono Mortilord - Bring someone to the brink of death and bring back to paralyze temp
+- Skip Gravity - Volatile Space from weird wood wand
+- Tech Skip - Turn normal door into portal!
+- Fire Chrono - make fire burn faster
+- Poison Chrono - all poison stacks occur at once
+- Wild Tech - Arrow rain
+- Neuro Empath - Link all self effect spells to nearby allies
+- Fire Water - Steam cartoon like attack (Thomas gets to name)
+- Tego Melody- Lucio beat
+- Neuro War - Spellslinger deadlock
+- Tego War - Damage increases as you take damage
+- Morti Terra - Graves grasping hands like, call it line in the sand or something
+- Morti Tech - Graves jar of dead type shift.
+- Mendo Tech - restorative locket type shift.
+- Melodi War - Reload on cast with psychic bullets music spell?
 
 270 Core Spells
 54 Miscasts
@@ -53,4 +57,3 @@ Golden retriever
 
 Okay so toxilord sounds like a pokemon so maybe it is a monster! It is the corrupt king monster ansd would be a poison type pokemon. It would maybe be a dragon.
 
-Reload on cast with psychic bullets music spell?

@@ -37,3 +37,4 @@ aliases:
 	- [[Vile Leap]] (3, 44) ([[Wildemancer Psycasts|Wildemancer]])
 - 5th Level:
 	- .
+Poison Chrono - all poison stacks occur at once

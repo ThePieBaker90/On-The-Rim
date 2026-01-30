@@ -37,3 +37,5 @@ aliases:
 	- .
 - 5th Level:
 	- .
+Skip Gravity - Volatile Space from weird wood wand
+Tech Skip - Turn normal door into portal!

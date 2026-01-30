@@ -39,3 +39,4 @@ aliases:
 	- .
 - 5th Level:
 	- First Feeling ([[Illusiomancer Psycasts|Illusiomancer]])
+Neuro Empath - Link all self effect spells to nearby allies

@@ -38,3 +38,4 @@ aliases:
 	- [[Call Blizzard]] (58, 0) ([[Frostlord Psycasts|Frostlord]])
 - 5th Level:
 	- .
+Fire Water - Steam cartoon like attack (Thomas gets to name)

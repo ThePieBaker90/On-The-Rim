@@ -38,3 +38,5 @@ aliases:
 	- .
 - 5th Level:
 	- Baptise lamp ([[Luzator Psycasts|Luzator]])
+Tego Melody- Lucio beat
+Tego War - Damage increases as you take damage
