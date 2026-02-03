@@ -36,8 +36,8 @@ tags:
 		- When they start their turn, they trigger damage.
 		- They have resistance to all damage types.
 		- If they lose affliction, they leave the performance.
-	- The caster is always considered to be performing.
-		- They must use two hands and sing when performing.
+	- You are always considered to be performing.
+		- You must use two hands and sing when performing.
 		- If this psycast is cast immediately after it ended, creatures who were performing stay performing.
 	- If this psycast is copied by an amplifier, instead of copying a new psycast instance, the amplifier joins your performance.
 		- The amplifier does not need to satisfy the listed conditions to remain in your performance.

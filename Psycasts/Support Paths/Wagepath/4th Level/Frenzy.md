@@ -22,5 +22,10 @@ tags:
 	- .
 - **Effects**:
 	- .Frenzy deadlock
+	- This psycast may only be used while you are below 50% health.
+	- For the duration of this psycast, you gain the following effects:
+		- TODO movespeed
+		- TODO firerate
+		- TODO resist
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

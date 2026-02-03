@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
 	- Self.
 - **Components**:
@@ -21,6 +21,10 @@ tags:
 - **Duration**:
 	- .
 - **Effects**:
-	- .Quicker weapon equips and weapon put away
+	- You increase 
+	- You gain the following effects for the psycast duration:
+		- TODO fast put away.
+		- TODO fast pull out
+		- TODO dual wielding buff or something, maybe allow 3 weapons to be wielded by juggling them. Maybe turn this into the main part of the psycast and allow any weapons to be juggled. If a weapon isnt used it must be juggled again, stowed, or dropped.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

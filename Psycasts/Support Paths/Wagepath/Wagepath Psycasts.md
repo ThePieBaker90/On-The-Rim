@@ -16,7 +16,7 @@ aliases:
 - 3rd Level:
 	- [[Majestic Leap]] (9, 32)
 	- [[Moonshot]] (1, 12)
-	- [[Weapon Juggle]]
+	- [[Spirit of the Juggler]]
 - 4th Level:
 	- [[Domino]]
 	- [[Frenzy]]
