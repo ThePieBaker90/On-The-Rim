@@ -4,6 +4,7 @@ tags:
   - Wagepath
   - 3rd-Level
 ---
+
 - **Path**:
 	- 3rd Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
@@ -19,7 +20,7 @@ tags:
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Channeled
 - **Effects**:
 	- You increase 
 	- You gain the following effects for the psycast duration:

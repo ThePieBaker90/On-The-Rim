@@ -9,23 +9,24 @@ tags:
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 10
+	- 9
 - **[[Neural Heat]] Generation:**
-	- 50
+	- 46
 - [[Range]]:
 	- 50ft
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Gesture.
+	- Kinetic.
 - **Duration**:
-	- 2 turns.
+	- Channeled, up to 1 turn.
 - **Effects**:
-	- You create a cylinder of upwards gravity centered on a point within range. The cylinder has a 15ft radius and 40ft height. All creatures within the cylinder must make a Constitution saving throw. 
+	- You lift up a group of creatures with a gravity field before slamming them into the ground, dealing massive damage.
+	- A cylinder generates on a chosen point within range, the cylinder has a 15ft radius and 40ft height. All creatures within the cylinder must make a Constitution saving throw. 
 		- On a failure, they are afflicted and lifted into the air. 
+			- When lifted, creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
 		- On a success, nothing happens. 
-	- At the beginning of the next turn after this psycast is cast, all afflicted creatures are slammed into the ground. They take 1d12 bludgeoning damage per 10ft of height.
-		- When lifted, creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
+	- At the beginning of your next turn after this psycast is cast, all afflicted creatures are slammed into the ground. They take 1d12 bludgeoning damage per 10ft of height. After this, the psycast ends.
 		- While afflicted, creatures without a [[Movement Speed#Flying|Flying Speed]] are [[Immobilized]]. 
 		- If the psycast ends prematurely, all creatures in the air fall, taking 1d6 bludgeoning damage per 10ft of height.
 - **Upcasting:**

@@ -21,7 +21,7 @@ aliases:
 - 4th Level:
 	- [[Implosion]] (3, 44)
 - 5th Level:
-	- [[Gravitic Flux]] (10, 50)
+	- [[Gravitic Flux]] (9, 46)
 	- [[Gravity Well]] (10, 44)
 ## Miscasts
 - Level 1 Miscast - Loss of Gravity
