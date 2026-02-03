@@ -17,9 +17,9 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic, Focus (Instrument)
+	- Kinetic, Focus (Instrument).
 - **Duration**:
-	- Continuous, up to 1 Turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- You play an energizing beat on your instrument, granting nearby teammates movement speed and rate of fire bonuses.
 	- For the duration of the psycast, all allied creatures within range of you gain the following effects:

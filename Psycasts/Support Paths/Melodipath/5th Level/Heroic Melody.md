@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture, Focus (Instrument)
 - **Duration**:
-	- Continuous, up to 1 Turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- You play a heroic melody on your instrument, giving your nearby teammates several offensive buffs for battle and wavering the enemy morale.
 	- For the duration of the psycast, all creatures within range of you are afflicted.

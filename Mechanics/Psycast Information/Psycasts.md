@@ -92,34 +92,34 @@ aliases:
 ## Psycast Components
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. 
 	- The components must be satisfied during the [[#Casting Time]] of the psycast, otherwise the psycast moves to the end phase.
-	- See [[#Continuous Psycasts]].
+	- See [[#Channeling]].
 ### Kinetic Component
 - Kinetic components require the psycaster have one free hand during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
-- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up one hand for the duration of the psycast.
+- When [[#Channeling]] a psycast with a kinetic component, the caster must dedicate one hand to channeling, they may not use that hand for anything else until they stop channeling.
 ### Gesture Component
 - Gesture components require the psycaster have two free hands during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check at disadvantage against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
-- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up two hands for the duration of the psycast.
+- When [[#Channeling]] a psycast with a gesture component, the caster must dedicate two hands to channeling, they may not use those hands for anything else until they stop channeling.
 ### Verbal Component
 - Verbal components require the psycaster to be able to speak during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a charisma (stealth) check against any relevant creatures' [[Sound-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. The range of these psycasts are halved when doing this.
-- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up your ability to speak for the duration of the psycast.
+- When [[#Channeling]] a psycast with a verbal component, the caster must dedicate their voice to channeling, they may not use their voice for anything else until they stop channeling.
 ### Material Component
 - Material components require that the psycaster has the listed items within their inventory during casting, these items are not consumed unless explicitly stated.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. 
-- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up the material for the duration of the psycast.
+- When [[#Channeling]] a psycast with a material component, the caster must dedicate the material to channeling, they may not use the listed material for anything else until they stop channeling.
+	- Consumable materials do not need to be dedicated to channeling.
 ### Focus Component
-- Focus components require that the psycaster has the listed items held during casting, these items are not consumed unless explicitly stated.
+- Focus components require that the psycaster has the listed items held or equipped during casting, these items are not consumed unless explicitly stated.
+	- When combined with a kinetic or gesture component, the caster's hand(s) are occupied with the focus during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. If an instrument is the focus, [[#Psycasts and Stealth|Stealth Casting]] is impossible.
-- Psycasts with a focus component and a kinetic component require the psycaster to use atleast 1 hand on the focus item.
-	- For [[#Continuous Psycasts]], this hand is taken up for the duration of the psycast.
-- Psycasts with a focus component and a gesture component require the psycaster to use atleast 2 hands on the focus item.
-	- For [[#Continuous Psycasts]], both hands are taken up for the duration of the psycast.
-- When in a [[#Continuous Psycasts|Continuous Psycast]], this component takes up the focus for the duration of the psycast.
-## Psycast Duration, Concentration, and Continuous Psycasts
+- When [[#Channeling]] a psycast with a focus component, the caster must dedicate the focus to channeling, they may not use the listed focus for anything else until they stop channeling.
+	- When combined with a kinetic or gesture component, the caster's hand(s) are occupied with the focus during [[#Channeling]].
+	- Consumable focuses do not need to be dedicated to channeling
+## Psycast Duration, Concentration, and Channeling
 - All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. 
-- In addition to a duration, some psycasts may require concentration from the user or the continuous use of the psycast's components.
+- In addition to a duration, some psycasts may require concentration from the user or the channeling of the psycast's components.
 - When the duration ends, the psycast moves into the end phase.
 ### Instant Duration
 - Instant psycasts have their effects occur immediately, they do not take place over time.
@@ -135,11 +135,10 @@ aliases:
 		- On a failure, you lose concentration and the psycast moves to the end phase. 
 		- On a success, nothing happens.
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
-### Continuous Psycasts
-- Some psycasts may be continuous. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase. If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both phases, the psycast moves to the end phase. 
-	- The caster may decide at any time to stop fulfilling the component costs. This ends the psycast.
-	- Component costs that consume an object only need to be satisfied once; during the casting phase.
-- Each component has its specific interactions listed in the components section.
+### Channeling
+- Some psycasts may need to be channeled for their duration. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase (called channeling the psycast). If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both phases, the psycast moves to the end phase. 
+	- The caster may decide at any time to stop channeling the psycast, this immediately moves the psycast to the end step.
+	- Each component has its specific interactions when channeled listed in the components section.
 ## Psycast Effects
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
 - Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.

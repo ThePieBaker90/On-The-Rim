@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Focus (Instrument)
 - **Duration**:
-	- Continuous, up to 1 Turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- You play a resilient tune on your instrument, granting nearby teammates temporary health and damage reductions. 
 	- For the duration of the psycast, all allied creatures within range of you gain the following effects:

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Focus (Instrument)
 - **Duration**:
-	- Continuous, up to 1 Turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- You play a rhythmic song on your instrument, inducing the irresistible need to dance for those nearby. 
 	- For the duration of the psycast, all creatures within range of you are afflicted.

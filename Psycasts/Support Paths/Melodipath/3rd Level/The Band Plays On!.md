@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture, Vocal, Focus (Instrument)
 - **Duration**:
-	- Continuous, up to 1 Turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- You play a song full of passion, as the band stops for nothing. While playing, the music deals damage to those nearby and your band takes less damage.
 	- For the duration of the psycast, all creatures within range of you are afflicted.

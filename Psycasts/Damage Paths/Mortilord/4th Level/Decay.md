@@ -21,7 +21,8 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You rot a creature from the inside. The creature must make a Constitution saving throw. 
+	- You rot a creature from the inside, reducing their healing, damage, and dealing them damage. 
+	- A creature of your choice within range must make a Constitution saving throw. 
 		- On a failure, the creature is afflicted for the duration of the psycast.
 		- On a success, nothing happens.
 	- Afflicted creatures suffer the following:

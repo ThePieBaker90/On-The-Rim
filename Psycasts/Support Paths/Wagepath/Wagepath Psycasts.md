@@ -19,7 +19,7 @@ aliases:
 	- [[Spirit of the Juggler]]
 - 4th Level:
 	- [[Domino]]
-	- [[Frenzy]]
+	- [[Frenzy]] (3, 44)
 - 5th Level:
 	- [[Killing Blow]]
 	- [[Lucky Strike]]

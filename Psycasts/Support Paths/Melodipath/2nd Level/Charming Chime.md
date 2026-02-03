@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture, Focus (Instrument)
 - **Duration**:
-	- Continuous, up to 1 Turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- You play a charming little chime on your instrument, rendering creatures nearby unable to attack you and less observant. 
 	- For the duration of the psycast, all creatures within range of you are afflicted.
