@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Material (Up to 5kg of [[Abomination Matter]])
 - **Duration**:
-	- 1 hour
+	- Channeled, up to 1 hour
 - **Effects**:
 	- You may manipulate up to 1kg of [[Abomination Matter]] in one of the following ways:
 		- You cause the [[Abomination Matter]] to form into a simple shape (square, cone, sphere, pyramid, etc.).
@@ -27,5 +27,6 @@ tags:
 		- You cause [[Abomination Matter]] to harden. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the psycast ends.
 	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn at no cost. 
 	- This shaped abomination matter has 4 health.
+	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting:**
 	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] remains under your control for an additional hour and you can control 1kg more.

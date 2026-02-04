@@ -21,7 +21,7 @@ aliases:
 	- [[Domino]]
 	- [[Frenzy]] (3, 44)
 - 5th Level:
-	- [[Killing Blow]]
+	- [[Killing Blow]] (10, 45)
 	- [[Lucky Strike]]
 ## Miscasts
 - Level 1 Miscast - .

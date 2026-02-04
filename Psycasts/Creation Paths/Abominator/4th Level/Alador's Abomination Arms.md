@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 35 (20)
+	- 36 (18)
 - [[Range]]:
 	- 20ft
 - **Target**:
@@ -19,13 +19,17 @@ tags:
 - **Components**:
 	- Kinetic, Material (4kg of [[Abomination Matter]])
 - **Duration**:
-	- Concentration, up to 10 turns.
+	- Channeled, up to 5 turns.
 - **Effects**:
-	- You create two massive, stretchy arms out of [[Abomination Matter]], these arms cover another creature's arms and enhance their strength. While using the arms, the creature has the following effects:
-		- [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5).
-		- Ability to wield heavy weapons if not already able to.
-		- Increases reach by 10ft.
-		- They may make a melee attack with the abomination arms.
-			- Attacking with the abomination arms is a melee attack with a reach of 15ft. It deals 2d12 + 4 + STR bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
+	- You create two massive, stretchy arms out of [[Abomination Matter]] covering a creature's natural arms. These arms grant increased range and damage to melee attacks.
+	- You grant a creature within range the following effects: 
+		- Their arms are encased in 2 [[Abomination Matter]] arms.
+		- Their [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5).
+			- This may only increase a creature's [[Upper-Body Strength and Dexterity|Upper-Body Strength]] to 21.
+		- They gain the ability to wield heavy weapons if they were not already able to.
+		- Their reach increases by 10ft.
+		- They may make a melee attack with the abomination arms as an action.
+			- Attacking with the abomination arms is a melee attack with a reach of 15ft. It deals 2d10 + 4 + STR bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
+	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting**:
 	- You may upcast this psycast. For every 32 psyfocus spent above the normal cost for this psycast, you may concentrate on the psycast for an additional 1 minute, the melee attack increases in damage by 1d12, and the reach of the arms increases by 5ft.

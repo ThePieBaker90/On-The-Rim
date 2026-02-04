@@ -22,7 +22,7 @@ tags:
 	- 5 turns.
 - **Effects**:
 	- You go into an frenzy, flooding your body with endorphins and adrenaline, giving you superhuman speed and damage resilience.
-	- This psycast may only be used while you are at or below 50% health.
+	- This psycast may only be used while you are at or below 50% health (rounded up).
 		- If end or begin your turn above 50% health during the psycast duration, this psycast ends.
 	- For the duration of this psycast, you gain the following effects:
 		- Your [[Movement Speed]] is increased by 15ft.

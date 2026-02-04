@@ -139,6 +139,9 @@ aliases:
 - Some psycasts may need to be channeled for their duration. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase (called channeling the psycast). If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both phases, the psycast moves to the end phase. 
 	- The caster may decide at any time to stop channeling the psycast, this immediately moves the psycast to the end step.
 	- Each component has its specific interactions when channeled listed in the components section.
+		- When channeled, most components become unavailable to be used on other actions for the psycast duration.
+	- Some psycasts may specify that certain components needed in the casting phase are not required to channel the psycast.
+		- For example, [[Alador's Abomination Arms]] has a clause stating that the kinetic component does not need to be satisfied to channel it. However a kinetic component is still needed during casting.
 ## Psycast Effects
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
 - Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.

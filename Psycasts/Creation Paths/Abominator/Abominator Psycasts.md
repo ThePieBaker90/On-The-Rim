@@ -19,13 +19,13 @@ aliases:
 	- [[Fabricate Abomination Tool]] (35,0)
 	- [[Construct Abomination Structure]] (55,0)
 - 4th Level:
-	- [[Alador's Abomination Arms]] (3,35)
+	- [[Alador's Abomination Arms]] (3,36)
 	- [[Darius' Dislocate]] (3,44)
 - 5th Level:
 	- [[Summon Abomination Army]] (56,18)
 ## Miscasts
 - Level 1 Miscast - Goo Thinning
-	- All active Abominator spells have their duration cut in half and any [[Abomination Matter]] has its health halved (rounded down).
+	- All active Abominator psycasts have their duration cut in half and any [[Abomination Matter]] has its health halved (rounded down).
 - Level 2 Miscast - Abominisplosion!
 	- [[Abomination Matter]] explodes outwards from you. All creatures within 15 ft must attempt a DC 15 Dexterity saving throw. 
 		- On a failure, they take 2d6 bludgeoning damage and are covered in goo. 

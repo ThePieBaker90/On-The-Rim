@@ -19,8 +19,9 @@ tags:
 - **Components**:
 	- Kinetic, Material (Up to 10kg of [[Abomination Matter]])
 - **Duration**:
-	- 24 hours
+	- Channeled, up to 24 hours
 - **Effects**:
-	- You fabricate a tool, armor, weapon, or complex shape out of [[Abomination Matter]] at a point you can see within range. This item has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The item lasts for the duration of the psycast. This psycast may be cast multiple times to create multiple items.
+	- You fabricate a tool, armor, weapon, or complex shape out of [[Abomination Matter]] at a point you can see within range. This item has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The item lasts for the duration of the psycast before deforming back into [[Abomination Matter]].
+	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting:**
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the item lasts for an additional 24 hours.

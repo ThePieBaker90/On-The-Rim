@@ -17,9 +17,9 @@ tags:
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 1 turn
+	- Instant.
 - **Effects**:
 	- You may summon up to 10kg of [[Abomination Matter]] at the chosen point within range.
 		- This [[Abomination Matter]] may be summoned compressed or uncompressed.

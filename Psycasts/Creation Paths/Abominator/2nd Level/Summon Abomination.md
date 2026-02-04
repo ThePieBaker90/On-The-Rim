@@ -19,8 +19,9 @@ tags:
 - **Components**:
 	- Kinetic, Material (6kg of [[Abomination Matter]])
 - **Duration**:
-	- Up to 1 day
+	- Channeled, up to 1 day
 - **Effects**:
 	- You create an [[Abomination]] which will follow single word commands you direct at it. The [[Abomination]] has 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning damage with melee attacks.
+	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting**:
 	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the [[Abomination]] is created with an additional 13 (2d8+2) health.
