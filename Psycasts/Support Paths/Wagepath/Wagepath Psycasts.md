@@ -18,7 +18,7 @@ aliases:
 	- [[Moonshot]] (1, 12)
 	- [[Spirit of the Juggler]]
 - 4th Level:
-	- [[Domino]]
+	- [[Damage Reverb]]
 	- [[Frenzy]] (3, 44)
 - 5th Level:
 	- [[Killing Blow]] (10, 45)
@@ -40,3 +40,5 @@ aliases:
 Neuro War - Spellslinger deadlock
 Tego War - Damage increases as you take damage
 Melodi War - Reload on cast with psychic bullets music spell?
+Fire? War - They all fall like dominoes.
+Electric War - Extreme speed

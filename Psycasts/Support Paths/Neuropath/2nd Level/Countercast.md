@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take in response to a psycast being put into casting.
+	- 1 Reaction, which you take in response to a psycast being put into the casting phase.
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
