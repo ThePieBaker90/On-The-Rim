@@ -18,7 +18,7 @@ aliases:
 	- [[Moonshot]] (1, 12)
 	- [[Spirit of the Juggler]]
 - 4th Level:
-	- [[Damage Reverb]]
+	- [[Damage Reverb]] (8, 34)
 	- [[Frenzy]] (3, 44)
 - 5th Level:
 	- [[Killing Blow]] (10, 45)

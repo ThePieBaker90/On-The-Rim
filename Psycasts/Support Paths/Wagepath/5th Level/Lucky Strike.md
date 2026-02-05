@@ -7,20 +7,24 @@ tags:
 - **Path**:
 	- 5th Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
-	- .
+	- A weapon within range.
 - **Components**:
-	- .
+	- Focus (Weapon).
 - **Duration**:
 	- .
 - **Effects**:
-	- .Lucky strike deadlock
+	- You enchant a weapon giving it the chance to deal a devastating blow.
+	- You touch a weapon within range, for the duration of the psycast, the weapon has the following effects:
+		- The number needed to roll a critical hit while attacking with the weapon is reduced by 1.
+			- This effect can stack with similar effects.
+		- Whenever an attack is made with this weapon, 
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

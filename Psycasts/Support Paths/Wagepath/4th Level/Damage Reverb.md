@@ -7,21 +7,20 @@ tags:
 - **Path**:
 	- 4th Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take when you hit a target.
+	- 1 Bonus Action
 - **[[Psyfocus]] Cost:**
-	- .
+	- 8
 - **[[Neural Heat]] Generation:**
-	- .
+	- 34
 - [[Range]]:
 	- 15ft
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- None.
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- As a reaction to successfully hitting to a creature within range, you apply [[Reverberating]] to the creature for 1 turn.
-		- [[Reverberating]] is applied before the creature takes damage from the attack.
+	- You apply [[Reverberating]] on a creature within range for 1 turn.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the range increases by 15ft.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 15ft.
