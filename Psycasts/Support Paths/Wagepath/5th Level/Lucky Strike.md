@@ -25,6 +25,11 @@ tags:
 	- You touch a weapon within range, for the duration of the psycast, the weapon has the following effects:
 		- The number needed to roll a critical hit while attacking with the weapon is reduced by 1.
 			- This effect can stack with similar effects.
-		- Whenever an attack is made with this weapon, 
+		- Whenever an attack is made with this weapon, the user may roll 1d4-1 before rolling for damage. Then they may increase that many damage dice by 2 sides.
+			- This may not increase the sides of a dice above 12.
+			- The same dice can be chosen multiple times for this increase.
+			- Increasing the sides of a dice only increase it for one instance of damage.
+				- For example, if a weapon deals damage to multiple targets and the result was a 1, only one creature who is taking damage will roll damage from the larger dice.
+			- For example, an attack dealing 1d12 slashing damage, 1d8 fire damage, and 1d4 piercing damage could instead deal 1d12 slashing damage, 1d12 fire damage, and 1d6 piercing damage if the result was a 3.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
