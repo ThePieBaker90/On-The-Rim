@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Terralord Psycast TODO]]
 - 2nd Level:
 	- .
 - 3rd Level:
@@ -18,6 +18,15 @@ aliases:
 	- .
 - 5th Level:
 	- .
+- Summon Walls
+- Throw Stones
+- Immobilize
+- Prevent Mobility Actions
+- Sand Blast (Jam guns)
+- Earth Shaker
+- Pitfall
+- BIIIIG projectile
+- Paige Sword
 ## Miscasts
 - Level 1 Miscast - .
 	- .

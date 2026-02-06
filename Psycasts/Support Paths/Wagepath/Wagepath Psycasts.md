@@ -24,8 +24,8 @@ aliases:
 	- [[Killing Blow]] (10, 45)
 	- [[Lucky Strike]] (4, 27)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
+- Level 1 Miscast - Pain of Punishment
+	- For the next 3 turns, whenever you make an attack with a weapon, you take 1 psychic damage.
 - Level 2 Miscast - Sudden Pacifism
 	- You are [[Charmed]] by all creatures for 3 turns. A creature attacking you or using a harmful effect on you does not remove [[Charmed]] from them.
 ## Crosspath Psycasts
