@@ -16,18 +16,18 @@ aliases:
 - 3rd Level:
 	- [[Majestic Leap]] (9, 32)
 	- [[Moonshot]] (1, 12)
-	- [[Spirit of the Juggler]]
+	- [[Spirit of the Juggler]] (6, 20)
 - 4th Level:
 	- [[Damage Reverb]] (8, 34)
 	- [[Frenzy]] (3, 44)
 - 5th Level:
 	- [[Killing Blow]] (10, 45)
-	- [[Lucky Strike]]
+	- [[Lucky Strike]] (4, 27)
 ## Miscasts
 - Level 1 Miscast - .
 	- .
-- Level 2 Miscast - .
-	- .
+- Level 2 Miscast - Sudden Pacifism
+	- You are [[Charmed]] by all creatures for 3 turns. A creature attacking you or using a harmful effect on you does not remove [[Charmed]] from them.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

@@ -9,23 +9,19 @@ tags:
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 6
 - **[[Neural Heat]] Generation:**
-	- .
+	- 20 (20)
 - [[Range]]:
 	- Self.
 - **Target**:
 	- Self.
 - **Components**:
-	- None.
+	- Kinetic.
 - **Duration**:
-	- Channeled, up to .
+	- Concentration, up to 5 turns.
 - **Effects**:
-	- You increase 
-	- You gain the following effects for the psycast duration:
-		- TODO fast put away.
-		- TODO fast pull out
-		- TODO dual wielding buff or something, maybe allow 3 weapons to be wielded by juggling them. Maybe turn this into the main part of the psycast and allow any weapons to be juggled. If a weapon isnt used it must be juggled again, stowed, or dropped.
-		- Maybe, to channel you must juggle or somethhing? this will need about an hour to itself.
+	- Your items float in to your hands and backpack allowing you to rapidly swap what you are holding.
+	- You may equip and unequip weapons and items at no action cost for the psycast duration.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

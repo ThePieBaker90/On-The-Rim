@@ -9,9 +9,9 @@ tags:
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 4
 - **[[Neural Heat]] Generation:**
-	- .
+	- 27
 - [[Range]]:
 	- Touch.
 - **Target**:
@@ -19,9 +19,9 @@ tags:
 - **Components**:
 	- Focus (Weapon).
 - **Duration**:
-	- .
+	- 3 turns.
 - **Effects**:
-	- You enchant a weapon giving it the chance to deal a devastating blow.
+	- You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting critical areas and dealing extra damage.
 	- You touch a weapon within range, for the duration of the psycast, the weapon has the following effects:
 		- The number needed to roll a critical hit while attacking with the weapon is reduced by 1.
 			- This effect can stack with similar effects.
@@ -32,4 +32,4 @@ tags:
 				- For example, if a weapon deals damage to multiple targets and the result was a 1, only one creature who is taking damage will roll damage from the larger dice.
 			- For example, an attack dealing 1d12 slashing damage, 1d8 fire damage, and 1d4 piercing damage could instead deal 1d12 slashing damage, 1d12 fire damage, and 1d6 piercing damage if the result was a 3.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.
