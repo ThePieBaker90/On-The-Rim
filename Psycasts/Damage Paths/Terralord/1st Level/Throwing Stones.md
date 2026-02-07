@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- .
 - **Effects**:
-	- .
+	- .TODO three versions, one for each damage type (bludgeoning, piercing, and slashing)
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
