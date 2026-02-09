@@ -145,7 +145,8 @@ aliases:
 ## Psycast Effects
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
 - Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.
-- The first line of psycast effects is usually an overview of the effects of the psycast. These do not have any tangible effects on their own and are only for ease of reading and flavor.
+- Italic lines in the psycast's effects do not have any tangible gameplay effect and only serve as flavor for the psycast.
+- Some lines in the psycast's effects do not correspond to any effect and instead affect the way other parts of the psycast work. These are always in effect and take priority over other parts of the psycast.
 ### Immediate Effects
 - Immediate effects occur only once, when the psycast enters the cast phase. 
 	- For example, [[Cinder]] has only immediate effects.

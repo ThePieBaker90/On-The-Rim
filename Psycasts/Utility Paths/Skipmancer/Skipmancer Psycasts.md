@@ -30,7 +30,7 @@ aliases:
 	- All creatures within 100ft of you teleport to a random point within 100ft of you. You do not need line of sight to the creatures or the random point. All equipped and stored items teleport with the creature.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Darius' Dislocate]] (4, 28) ([[Abominator Psycasts|Abominator]]) 
 - 3rd Level:
 	- .
 - 4th Level:

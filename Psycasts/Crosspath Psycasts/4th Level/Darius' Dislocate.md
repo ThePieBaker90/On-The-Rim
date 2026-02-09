@@ -2,18 +2,19 @@
 tags:
   - Abominator
   - Psycast
-  - 4th-Level
+  - 2nd-Level
+  - Skipmancer
 ---
 - **Path**:
-	- 4th Level [[Abominator Psycasts|Abominator Psycast]]
+	- 2nd Level [[Abominator Psycasts|Abominator Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 3
+	- 4
 - **[[Neural Heat]] Generation:**
-	- 44
+	- 28
 - [[Range]]:
-	- 150ft
+	- 40ft
 - **Target**:
 	- Two surface points within range; one initial point and one ending point.
 - **Components**:
@@ -21,7 +22,8 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- [[Abomination Matter]] surrounds a 15ft sphere centered on the initial point. Any creature within the sphere with enough remaining [[Movement Speed|Speed]] to reach the edge of the sphere may make a dexterity saving throw. 
+	- *You create a sphere of volatile [[Abomination Matter]], attempting to trap anyone caught within into a forceful teleport.*
+	- [[Abomination Matter]] surrounds a 10ft sphere centered on the initial point. Any creature within the sphere with enough remaining [[Movement Speed|Speed]] to reach the edge of the sphere may make a dexterity saving throw. 
 		- A creature is teleported on a failed save, or if they don't/can't attempt a save. 
 		- The creature is moved to the closest edge and are not teleported on a successful save.
 	- When teleported, the creature's relation to the point is kept in tact. The ending point's Yaw dimension (normal to the floor) may be rotated.

@@ -15,12 +15,17 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
 	- .
 - **Effects**:
-	- .TODO three versions, one for each damage type (bludgeoning, piercing, and slashing)
+	- *You generate 3 small stones out of nearby dust, rocks, and dirt to fling at a creature. The stones can be one of three shapes affecting the type of damage they deal.*
+	- When you cast this psycast, you choose which shape of stone you shoot from the following types:
+		- Bricks - Bludgeoning Damage.
+		- Discs - Slashing Damage.
+		- Spikes - Piercing Damage.
+	- You shoot 3 stones of the chosen shape at a creature within range. Make a roll to hit for each stone, adding your psycasting ability modifier to each result. On a hit, a stone deals 1d6 damage of the type that corresponds to its shape.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

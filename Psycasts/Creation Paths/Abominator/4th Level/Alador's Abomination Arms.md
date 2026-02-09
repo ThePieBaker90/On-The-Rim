@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Channeled, up to 5 turns.
 - **Effects**:
-	- You create two massive, stretchy arms out of [[Abomination Matter]] covering a creature's natural arms. These arms grant increased range and damage to melee attacks.
+	- *You create two massive, stretchy arms out of [[Abomination Matter]] covering a creature's natural arms. These arms grant increased range and damage to melee attacks.*
 	- You grant a creature within range the following effects: 
 		- Their arms are encased in 2 [[Abomination Matter]] arms.
 		- Their [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5).
@@ -32,4 +32,4 @@ tags:
 			- Attacking with the abomination arms is a melee attack with a reach of 15ft. It deals 2d10 + 4 + STR bludgeoning damage. Abomination arms benefit from both unarmed strike benefits and armed strike benefits. 
 	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting**:
-	- You may upcast this psycast. For every 32 psyfocus spent above the normal cost for this psycast, you may concentrate on the psycast for an additional 1 minute, the melee attack increases in damage by 1d12, and the reach of the arms increases by 5ft.
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, you may concentrate on the psycast for an additional 10 turns and the reach of the arms increases by 5ft.

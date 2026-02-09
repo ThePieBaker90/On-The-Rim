@@ -20,7 +20,7 @@ aliases:
 	- [[Construct Abomination Structure]] (55,0)
 - 4th Level:
 	- [[Alador's Abomination Arms]] (3,36)
-	- [[Darius' Dislocate]] (3,44)
+	- 
 - 5th Level:
 	- [[Summon Abomination Army]] (56,18)
 ## Miscasts
@@ -32,7 +32,7 @@ aliases:
 		- On a success, they take half as much damage. You automatically fail this saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Darius' Dislocate]] (4, 28) ([[Skipmancer Psycasts|Skipmancer]])
 - 3rd Level:
 	- .
 - 4th Level:

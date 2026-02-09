@@ -820,7 +820,6 @@
   "Psycasts/Creation Paths/Abominator/3rd Level/Construct Abomination Structure.md": "LiSparkles",
   "Psycasts/Creation Paths/Abominator/3rd Level/Fabricate Abomination Tool.md": "LiSparkles",
   "Psycasts/Creation Paths/Abominator/4th Level/Alador's Abomination Arms.md": "LiSparkles",
-  "Psycasts/Creation Paths/Abominator/4th Level/Darius' Dislocate.md": "LiSparkles",
   "Psycasts/Creation Paths/Abominator/5th Level/Summon Abomination Army.md": "LiSparkles",
   "Psycasts/Creation Paths/Aquator": "LiSparkles",
   "Psycasts/Creation Paths/Aquator/Aquator Psycasts.md": "LiInfo",
@@ -1248,5 +1247,6 @@
   "Psycasts/Damage Paths/Terralord/3rd Level": "TiHexagonNumber3",
   "Psycasts/Damage Paths/Terralord/4th Level": "TiHexagonNumber4",
   "Psycasts/Damage Paths/Terralord/5th Level": "TiHexagonNumber5",
-  "Psycasts/Damage Paths/Terralord/1st Level/Throwing Stones.md": "LiListTodo"
+  "Psycasts/Damage Paths/Terralord/1st Level/Throwing Stones.md": "LiListTodo",
+  "Psycasts/Crosspath Psycasts/4th Level/Darius' Dislocate.md": "LiSparkles"
 }
