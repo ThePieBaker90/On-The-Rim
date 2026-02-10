@@ -7,21 +7,23 @@ tags:
 - **Path**:
 	- 3rd Level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 55
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 150ft
+	- 150ft.
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Gesture, Material (Up to 250kg of [[Abomination Matter]])
+	- Gesture, Material (Up to 250kg of [[Abomination Matter]]).
 - **Duration**:
-	- Channeled, up to 24 hours
+	- Channeled, up to 24 hours.
 - **Effects**:
 	- You create a structure out of [[Abomination Matter]] centered at a target point. This structure has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The structure lasts for the duration of the psycast before deforming back into [[Abomination Matter]].
 	- The gesture component of this psycast does not need to be satisfied during the cast and active phases to channel it.
+- **Stats**:
+	- None.
 - **Upcasting:**
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the structure lasts for an additional 24 hours. 
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional 24 hours.

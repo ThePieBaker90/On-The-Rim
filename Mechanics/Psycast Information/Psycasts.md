@@ -6,7 +6,7 @@ aliases:
 ---
 ## Psycast Overview
 - Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be used by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters or casters), be it installed, natural, or some other form. You must learn a psycast before you can use it.
-- Psycasts all have several properties, they are: [[#Psycast Paths]], [[#Casting Time]], [[#Psycast Costs]], [[#Psycast Range]], [[#Psycast Targeting]], [[#Psycast Components]], [[#Psycast Duration, Concentration, and Channeling|Psycast Duration]], [[#Psycast Effects]], and [[#Upcasting]]. Each of these are detailed in their own section below.
+- Psycasts all have several properties, they are: [[#Psycast Paths]], [[#Casting Time]], [[#Psycast Costs]], [[#Psycast Range]], [[#Psycast Targeting]], [[#Psycast Components]], [[#Psycast Duration, Concentration, and Channeling|Psycast Duration]], [[#Psycast Effects]], [[#Psycast Stats]] and [[#Upcasting]]. Each of these are detailed in their own section below.
 ## Psycast Phases
 - The psycast has an order of phases that it goes through when used. 
 - The order of phases is: Use -> Casting -> Cast -> Active -> End
@@ -22,7 +22,7 @@ aliases:
 ### End Phase (End psycast effects)
 - This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
 ## Psycasting Modifier and Save DC
-- There are two stats that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
+- There are two relevant properties that may be referenced by psycasts, psycasting ability modifier and the psycast save DC.
 ### Psycasting Modifier
 - A psycaster's psycasting ability modifier is determined by their class.
 ### Psycast Save DC
@@ -150,6 +150,7 @@ aliases:
 	- Some psycasts may specify that certain components needed in the casting phase are not required to channel the psycast.
 		- For example, [[Alador's Abomination Arms]] has a clause stating that the kinetic component does not need to be satisfied to channel it. However a kinetic component is still needed during casting.
 ## Psycast Effects
+- A psycast's effects are the qualitative parts of a psycast, determining what a psycast does when used.
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
 - Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.
 - Italic lines in the psycast's effects do not have any tangible gameplay effect and only serve as flavor for the psycast.
@@ -171,6 +172,9 @@ aliases:
 ### Delayed Effects
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.
+## Psycast Stats
+- A psycast's stats are the quantitative parts of the psycast, determining the exact numbers, variables, or dice used in a psycast effect.
+- Stats are referred to in the [[#Psycast Effects|Psycast's Effects]], either directly referenced or inferred. All listed stats are used in some psycast effect.
 ## Upcasting
 - Some psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.

@@ -7,13 +7,13 @@ tags:
 - **Path**:
 	- 1st level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A grounded point within range.
 - **Components**:
@@ -22,7 +22,9 @@ tags:
 	- Instant.
 - **Effects**:
 	- *[[Abomination Matter]] rises out of the ground, mystically floating and yet directionless, all ready to be collected by you.*
-	- You summon up to 10kg of [[Abomination Matter]] at the target point.
+	- You summon [[Abomination Matter]] at the target point.
 		- This [[Abomination Matter]] may be summoned compressed or uncompressed.
+- **Stats**:
+	- 10kg of [[Abomination Matter]] summoned.
 - **Upcasting:**
-	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, you may summon an additional 10kg of [[Abomination Matter]].
+	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] summoned increases by 10kg.
