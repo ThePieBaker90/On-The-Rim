@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- *You quickly summon a shield of sludge to protect a creature from one attack.*
+	- *You quickly summon a shield of sludge to intercept an attack headed towards a creature.*
 	- As a reaction to a creature within range getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target from incoming damage. All damage from the attack is absorbed by the shield, up to 25 damage. Once the attack ends, the shield dissipates.
 		- Damage over what the shield absorbs is dealt the the creature.
 - **Upcasting**:

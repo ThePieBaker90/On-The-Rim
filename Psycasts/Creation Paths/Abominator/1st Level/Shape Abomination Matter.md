@@ -15,13 +15,13 @@ tags:
 - [[Range]]:
 	- 30ft
 - **Target**:
-	- [[Abomination Matter]] within range.
+	- None.
 - **Components**:
-	- Kinetic, Material (Up to 5kg of [[Abomination Matter]])
+	- Kinetic, Material (Up to 1kg of [[Abomination Matter]])
 - **Duration**:
 	- Channeled, up to 1 hour
 - **Effects**:
-	- You may manipulate up to 1kg of [[Abomination Matter]] in one of the following ways:
+	- You may manipulate up to 1kg of channeled [[Abomination Matter]] in one of the following ways:
 		- You cause the [[Abomination Matter]] to form into a simple shape (square, cone, sphere, pyramid, etc.).
 		- You may freely levitate the [[Abomination Matter]] to a point (or points) in space.
 		- You cause [[Abomination Matter]] to harden. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the psycast ends.

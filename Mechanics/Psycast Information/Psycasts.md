@@ -6,16 +6,17 @@ aliases:
 ---
 ## Psycast Overview
 - Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be used by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters or casters), be it installed, natural, or some other form. You must learn a psycast before you can use it.
+- Psycasts all have several properties, they are: [[#Psycast Paths]], [[#Casting Time]], [[#Psycast Costs]], [[#Psycast Range]], [[#Psycast Targeting]], [[#Psycast Components]], [[#Psycast Duration, Concentration, and Channeling|Psycast Duration]], [[#Psycast Effects]], and [[#Upcasting]]. Each of these are detailed in their own section below.
 ## Psycast Phases
 - The psycast has an order of phases that it goes through when used. 
 - The order of phases is: Use -> Casting -> Cast -> Active -> End
 - If an effect forces a psycast into a phase, the phases before are skipped and their effects do not occur.
-### Use Phase (Pay neural costs)
-- This is the phase the psycast starts out in when it is initially used. During this phase you pay the [[Neural Heat]] and [[Psyfocus]] costs of the psycast. This phase passes instantly to the casting phase if there are no interruptions.
+### Use Phase (Pay neural costs and determine targeting)
+- This is the phase the psycast starts out in when it is initially used. During this phase you pay the [[Neural Heat]] and [[Psyfocus]] costs of the psycast and determine the [[#Psycast Targeting|Targets]] of the psycast. This phase passes instantly to the casting phase if there are no interruptions.
 ### Casting Phase (Pay component and casting time costs)
 - This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
 ### Cast Phase (Immediate effects occur)
-- This phase happens immediately after the casting phase has passed, during this phase the caster chooses targets, then, all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
+- This phase happens immediately after the casting phase has passed, during this phase all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
 ### Active Phase (Recurring, passive, afflicting and delayed effects occur)
 - This phase happens after the cast phase, during this phase all recurring, passive, afflicting, or delayed effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
 ### End Phase (End psycast effects)
@@ -81,14 +82,20 @@ aliases:
 ## Psycast Range
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
 	- "Within range of you" in the psycast effects means you can draw a straight line from you to a relevant point within range that is equal to or less than the length specified within range.
-		- For ranges that are shapes, this means a point is encapsulated within the shape if it is centered onto you.
+		- For ranges that are shapes, this means that a point encapsulated within the shape when the shape is centered on you is within range.
 	- "Self" in the range means the psycast has no need for a range.
 ## Psycast Targeting
-- All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated and the target is determined when the psycast is cast.
+- All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated and the target is determined when the psycast is used.
 	- "Self" refers to the caster.
-	- "A creature" refers to a creature of the caster's choice. This includes allied creatures and the caster.
-	- "A point" refers to a point in space, this doesn't need to be grounded unless explicitly stated.
+	- "A creature" refers to 1 creature of the caster's choice. This includes allied creatures and the caster.
+	- "A point" refers to 1 point in space, this doesn't need to be grounded unless explicitly stated.
 	- "Within range" means the target's distance to the caster must be under the psycast's range.
+	- A shape of any kind means it targets everything in the shape. A shape in range can be arbitrarily placed by the caster anywhere as long as every point in the shape is within range.
+	- A target that is "grounded" is touching the floor.
+	- A "surface" target is touching some stable surface such as a wall, floor, ceiling.
+- A psycast's target doesn't have an inherent effect on the psycast and instead is referred to by other properties of the psycast.
+	- An effect that refers to a "target" or "targets" can only affect things satisfied by the psycast's target property.
+		- Some effects refer to a "target creature" or "target point", these are equivalent to target and just specify the type of target for ease of reading.
 ## Psycast Components
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. 
 	- The components must be satisfied during the [[#Casting Time]] of the psycast, otherwise the psycast moves to the end phase.

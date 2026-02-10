@@ -21,8 +21,9 @@ tags:
 - **Duration**:
 	- 1 turn
 - **Effects**:
+	- *You focus psychic energies into water, forcing an exothermic or endothermic reaction.*
 	- You can change the temperature of up to 30L of water by up to 20 degrees Celsius (both colder and hotter). 
 		- The water changes temperature immediately.
-		- This may only be used on substances made of atleast 97% water.
+		- This may only be used on substances made of at least 97% water.
 - **Upcasting:**
 	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, you may change the temperature of an additional 10L of water and by an additional 20 degrees.

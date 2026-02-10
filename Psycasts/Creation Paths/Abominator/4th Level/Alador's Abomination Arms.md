@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 5 turns.
 - **Effects**:
 	- *You create two massive, stretchy arms out of [[Abomination Matter]] covering a creature's natural arms. These arms grant increased range and damage to melee attacks.*
-	- You grant a creature within range the following effects: 
+	- You grant a target the following effects: 
 		- Their arms are encased in 2 [[Abomination Matter]] arms.
 		- Their [[Upper-Body Strength and Dexterity|Upper-Body Strength]] becomes 21 (+5).
 			- This may only increase a creature's [[Upper-Body Strength and Dexterity|Upper-Body Strength]] to 21.

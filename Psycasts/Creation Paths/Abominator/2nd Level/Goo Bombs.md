@@ -22,7 +22,7 @@ tags:
 	- Instant
 - **Effects**:
 	- *You shoot a pair of [[Abomination Matter]] bombs which explode on contact with a creature, or roll away if they hit the ground. The explosion, although short ranged, will deal considerable damage to anyone caught within the blast.
-	- You shoot two mini-bombs made out of [[Abomination Matter]] at up to two targets within range. Make a roll to hit for each mini-bomb, adding your psycasting ability modifier to each result. 
+	- You shoot two mini-bombs made out of [[Abomination Matter]], one at each target creature. Make a roll to hit for each mini-bomb, adding your psycasting ability modifier to each result. 
 		- On a hit, the mini-bomb explodes dealing 1d6 force damage and 1d8 Corrosion damage in a 5ft sphere centered on the creature. 
 		- On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after 1 turn, dealing 1d6 force damage and 1d8 Corrosion damage in a 5ft sphere centered on the bomb.
 - **Upcasting**:

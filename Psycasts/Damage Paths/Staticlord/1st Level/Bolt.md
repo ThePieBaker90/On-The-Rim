@@ -21,7 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You shoot a bolt of electricity at a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 1d4 electric damage for every 15ft of distance between them and you.
+	- You shoot a bolt of electricity at a creature within range. Make a roll to hit, adding your psycasting ability modifier. 
+		- On a hit, the creature takes 1d4 electric damage for every 15ft of distance between them and you.
 		- This bolt deals a minimum of 1d4 electric damage.
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the damage scales by an additional 1d4 electric damage.

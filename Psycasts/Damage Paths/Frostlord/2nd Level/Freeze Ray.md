@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You shoot a ray of pure cold energy at a target within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature gains the [[Frozen Solid]] condition for 2 turns and takes 3d6 cold damage. 
+	- You shoot a ray of pure cold energy at a target within range. Make a roll to hit, adding your psycasting ability modifier. 
+		- On a hit, the creature gains the [[Frozen Solid]] condition for 2 turns and takes 3d6 cold damage. 
 - **Upcasting**:
 	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the ray deals an additional 1d6 cold damage.

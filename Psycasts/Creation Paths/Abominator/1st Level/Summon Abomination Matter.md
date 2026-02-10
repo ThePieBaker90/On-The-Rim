@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- *[[Abomination Matter]] rises out of the ground, mystically floating and yet directionless, all ready to be collected by you.*
-	- You summon up to 10kg of [[Abomination Matter]] at the chosen point within range.
+	- You summon up to 10kg of [[Abomination Matter]] at the target point.
 		- This [[Abomination Matter]] may be summoned compressed or uncompressed.
 - **Upcasting:**
 	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, you may summon an additional 10kg of [[Abomination Matter]].
