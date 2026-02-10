@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Channeled, up to 24 hours
 - **Effects**:
-	- You create a structure out of [[Abomination Matter]] at a target. This structure has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The structure lasts for the duration of the psycast before deforming back into [[Abomination Matter]].
+	- You create a structure out of [[Abomination Matter]] centered at a target point. This structure has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The structure lasts for the duration of the psycast before deforming back into [[Abomination Matter]].
 	- The gesture component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting:**
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the structure lasts for an additional 24 hours. 

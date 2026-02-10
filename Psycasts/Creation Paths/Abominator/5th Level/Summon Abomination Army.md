@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 1 day
 - **Effects**:
 	- *You summon 3 [[Abomination|Abominations]] to do your bidding. They can follow basic commands and take and deal damage.*
-	- You create three [[Abomination|Abominations]], one at each target, which will follow single word commands you direct at them. The [[Abomination|Abominations]] have 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning damage with melee attacks.
+	- You create three [[Abomination|Abominations]], one at each target point, which will follow single word commands you direct at them. The [[Abomination|Abominations]] have 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning damage with melee attacks.
 		- You may direct different commands to each [[Abomination]].
 	- The gesture component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Upcasting**:
