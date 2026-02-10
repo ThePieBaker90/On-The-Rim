@@ -9,24 +9,25 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 5
+	- 6
 - **[[Neural Heat]] Generation:**
-	- 34 (24)
+	- 24 (14)
 - [[Range]]:
 	- Self.
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You ride a small wave of water. You gain the following effects for the duration of the psycast:
+	- *Water pools at your feet before lifting you in a small wave enhancing your movement abilities and pushing nearby creatures away.*
+	- You gain the following effects for the duration of the psycast:
 		- You double your [[Movement Speed]]].
 		- You may not dash.
 		- Creatures you attempt to move through must make a dexterity saving throw. 
 			- On a failure, they are pushed away 5ft and fall [[Prone]]. 
 			- On a success, they are pushed away 5ft.
-	- The water cannot move over grates or drains, moving over a grate or a drain ends the psycast prematurely.
+		- Moving over a grate or a drain ends the psycast prematurely.
 - **Upcasting:**
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

@@ -17,10 +17,13 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic, Material (300mL of Water)
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
+	- *You quickly concentrate moisture in the air creating a barrier of water to hinder an incoming attack*
 	- As a reaction to getting hit, you create a barrier of water to soften the blow. You gain resistance to one damage type of your choice, this resistance dissipates when the attack resolves.
+		- This cannot grant resistance to psychic or poison damage.
+		- If the chosen type is fire damage, you gain an immunity to fire damage instead of a resistance.
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may gain resistance to an additional damage type of your choice.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, you may gain resistance to an additional damage type of your choice.

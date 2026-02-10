@@ -21,9 +21,10 @@ tags:
 - **Duration**:
 	- 5 days
 - **Effects**:
-	- You call upon rains to fall on a circular area centered on you with a radius of 16 miles.
+	- *You sing a psychic song to call rain.*
+	- Rain falls on a circular area centered on you with a radius of 16 miles.
 		- Traversing in rain requires 1.25x as much [[Movement Speed]].
 		- All ranged attacks made in the rain are made with disadvantage.
 		- All fires in the rain are extinguished unless otherwise stated.
 - **Upcasting**:
-	- You may upcast this psycast. For every 6 psyfocus spent above the normal cost for this psycast, the rain lasts an additional day.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the rain lasts an additional day.

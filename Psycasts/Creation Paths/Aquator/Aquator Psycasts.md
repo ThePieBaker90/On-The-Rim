@@ -15,10 +15,10 @@ aliases:
 	- [[Boiling Strike]] (2,15)
 - 3rd Level:
 	- [[Water Barrier]] (2,24)
-	- [[Wave Ride]] (5, 34)
+	- [[Wave Ride]] (6, 24)
 - 4th Level:
 	- [[Call Rain]] (58,0)
-	- [[Purify]] (36,0)
+	- [[Purify]] (26,0)
 	- [[Typhoon's Fury]] (3,44)
 - 5th Level:
 	- [[Create Water Source]] (48,0)
