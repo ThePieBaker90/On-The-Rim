@@ -20,7 +20,7 @@ aliases:
 	- [[Orb of Corrosion]] (2, 26)
 - 4th Level:
 	- [[Acid Minefield]] (3, 44)
-	- [[Goo Net]] (6, 24)
+	- [[Thermophlastic Net]] (6, 24)
 - 5th Level:
 	- [[Problem Solvent]] (22, 52)
 ## Miscasts

@@ -15,14 +15,15 @@ tags:
 - [[Range]]:
 	- 50ft
 - **Target**:
-	- A point within range.
+	- A grounded point within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- Channeled, up to 1 turn.
 - **Effects**:
 	- You lift up a group of creatures with a gravity field before slamming them into the ground, dealing massive damage.
-	- A cylinder generates on a chosen point within range, the cylinder has a 15ft radius and 40ft height. All creatures within the cylinder must make a Constitution saving throw. 
+	- A cylinder generates with its base centered on a chosen grounded point within range. The cylinder has a 15ft radius, 40ft height, and its central axis is normal to the ground. 
+	- All creatures within the cylinder must make a Constitution saving throw. 
 		- On a failure, they are afflicted and lifted into the air. 
 			- When lifted, creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
 		- On a success, nothing happens. 

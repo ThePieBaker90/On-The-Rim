@@ -21,13 +21,17 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You create a cylinder of strong downward gravitational force centered on a point within range. The cylinder has a 15ft radius and 30ft height. Within the cylinder, the following effects occur:
-		- Creatures starting their turn in the zone, entering the zone for the first time this turn, ending their turn in the zone, or are in the zone when this psycast is cast must make a Constitution saving throw. 
+	- You create a cylinder of strong downward gravitational force with the point within range being centered on the base. The cylinder has a 15ft radius, 30ft height, and its central axis is normal to the ground. 
+	- The cylinder has the following effects:
+		- Creatures are afflicted while in the cylinder.
+		- Projectiles travelling through the cylinder have disadvantage to hit.
+	- Afflicted creatures suffer the following effects for the psycast duration:
+		- When they first become afflicted and at the beginning of their turn, they must make a constitution saving throw.
 			- On a failure, they are forced [[Prone]] until they leave the zone. 
 			- On a success, nothing happens.
 			- Creatures supported by an object automatically succeed the saving throw.
-		- External sources of gravity are ignored.
-		- Projectiles travelling through the cylinder have disadvantage to hit.
-		- Upside down creatures lose 1d4 health at the beginning of their turn.
+		- They ignore external sources of gravity.
+		- If they are upside down, they lose 1d4 health at the beginning of their turn.
+
 - **Upcasting:**
 	- You cannot upcast this psycast.

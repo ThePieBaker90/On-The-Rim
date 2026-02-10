@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 3 turns
 - **Effects**
-	- For the psycast duration, all creatures who meet both of the following conditions are afflicted:
+	- For the psycast duration, any creatures who meet both of the following conditions are afflicted:
 		- They are within range of you.
 		- They are in [[Lighting#Darkness|Darkness]] or [[Lighting#Void|Void]].
 	- Afflicted creatures do the following at the beginning of their turn:

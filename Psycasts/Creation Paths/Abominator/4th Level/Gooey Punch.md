@@ -1,0 +1,30 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Abominator
+---
+- **Path**:
+	- 4th Level [[Abominator Psycasts|Abominator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 50ft.
+- **Target**:
+	- A cylinder with 20ft height, 10ft radius, the center of its base on a surface and within range, and its central axis normal to the surface.
+- **Components**:
+	- Gesture, Material (8kg of [[Abomination Matter]]).
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *[[Abomination Matter]] pools together before forming a massive fist. This fist from the punches out of from the surface, dealing damage and knocking those caught in its sludgy strike away.*
+	- All creatures within the target cylinder must make a Dexterity saving throw.
+		- On a failure, they take 2d8 bludgeoning damage + 2d8 corrosion damage and are knocked in the direction of the punch 20ft away.
+		- On a success, they take half damage and are knocked in the direction of the punch 5ft away.
+	- When this psycast is cast and before any other effects occur, you may choose to make this psycast benign. If this psycast is benign, all damage dice rolled as a result of it roll a 0.
+- **Upcasting**:
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the radius of the cylinder increases by 5ft.

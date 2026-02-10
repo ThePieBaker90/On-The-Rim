@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkles",
       "LiListTodo",
       "TiHexagonNumber5",
       "TiHexagonNumber4",
-      "TiHexagonNumber3",
-      "TiHexagonNumber2"
+      "TiHexagonNumber3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -840,7 +840,6 @@
   "Psycasts/Creation Paths/Gravitor/4th Level/Implosion.md": "LiSparkles",
   "Psycasts/Creation Paths/Gravitor/3rd Level/Zone of Control.md": "LiSparkles",
   "Psycasts/Creation Paths/Gravitor/3rd Level/Levitation.md": "LiSparkles",
-  "Psycasts/Creation Paths/Gravitor/3rd Level/Gravitational Impulse.md": "LiSparkles",
   "Psycasts/Creation Paths/Gravitor/2nd Level/Knockdown.md": "LiSparkles",
   "Psycasts/Creation Paths/Gravitor/2nd Level/Gravity Shift.md": "LiSparkles",
   "Psycasts/Creation Paths/Gravitor/1st Level/Newton's Cradle.md": "LiSparkles",
@@ -878,7 +877,6 @@
   "Psycasts/Damage Paths/Chemlord": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/Chemlord Psycasts.md": "LiInfo",
   "Psycasts/Damage Paths/Chemlord/5th Level/Problem Solvent.md": "LiSparkles",
-  "Psycasts/Damage Paths/Chemlord/4th Level/Goo Net.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/4th Level/Acid Minefield.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/3rd Level/Orb of Corrosion.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/3rd Level/Corrosive Casing.md": "LiSparkles",
@@ -1117,7 +1115,6 @@
   "Materials/Psychic Chemicals/Armor Eating Chemical.md": "LiShapes",
   "Materials/Psychic Chemicals/Matterbane.md": "LiShapes",
   "Materials/Psychic Chemicals/Burning Chemical.md": "LiShapes",
-  "Materials/Psychic Chemicals/Sticky Chemical.md": "LiShapes",
   "Materials/Psychic Chemicals/Slippery Chemical.md": "LiShapes",
   "Materials/Psychic Chemicals/Organic-Liquefication Acid.md": "LiShapes",
   "Items/Weapons/Ranged/Firearms/Assault Rifles": "LiList",
@@ -1248,5 +1245,10 @@
   "Psycasts/Damage Paths/Terralord/4th Level": "TiHexagonNumber4",
   "Psycasts/Damage Paths/Terralord/5th Level": "TiHexagonNumber5",
   "Psycasts/Damage Paths/Terralord/1st Level/Throwing Stones.md": "LiListTodo",
-  "Psycasts/Crosspath Psycasts/4th Level/Darius' Dislocate.md": "LiSparkles"
+  "Psycasts/Crosspath Psycasts/4th Level/Darius' Dislocate.md": "LiSparkles",
+  "Psycasts/Creation Paths/Gravitor/3rd Level/Gravitational Shockwave.md": "LiSparkles",
+  "Psycasts/Creation Paths/Abominator/4th Level/Gooey Punch.md": "LiSparkles",
+  "Mechanics/Gameplay Information/Points and Shapes.md": "LiListTodo",
+  "Materials/Psychic Chemicals/Thermophlastic.md": "LiShapes",
+  "Psycasts/Damage Paths/Chemlord/4th Level/Thermophlastic Net.md": "LiSparkles"
 }

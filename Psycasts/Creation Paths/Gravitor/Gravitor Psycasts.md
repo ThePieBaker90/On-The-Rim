@@ -16,7 +16,7 @@ aliases:
 	- [[Knockdown]] (4, 28)
 - 3rd Level:
 	- [[Levitation]] (9, 21)
-	- [[Gravitational Impulse]] (6, 24)
+	- [[Gravitational Shockwave]] (6, 24)
 	- [[Zone of Control]] (8, 38)
 - 4th Level:
 	- [[Implosion]] (3, 44)

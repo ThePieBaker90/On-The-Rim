@@ -12,4 +12,4 @@ aliases:
 - **Looks:**
 	- .
 - **Notable Features**:
-	- .
+	- (Like thermoplastic rubber except it is a psychic material)

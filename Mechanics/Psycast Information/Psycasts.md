@@ -160,6 +160,7 @@ aliases:
 - Affliction effects are effects that affect only afflicted creatures. Psycasts only afflict creatures if explicitly stated, additionally psycasts mentioning afflicted creatures only refer to creatures afflicted by the same psycast instance.
 	- For example, [[Eternal Night]] afflicts 5 creatures and has them deal with effects.
 	- Affliction is not a condition or status, but it can still be lost and given.
+	- If a creature gains affliction by satisfying some trigger, they lose affliction when they stop satisfying the trigger unless otherwise noted.
 ### Delayed Effects
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.

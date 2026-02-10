@@ -57,3 +57,4 @@ Golden retriever
 
 Okay so toxilord sounds like a pokemon so maybe it is a monster! It is the corrupt king monster ansd would be a poison type pokemon. It would maybe be a dragon.
 
+[[Gooey Punch]] hack that is instead GUI Punch. call that a PUN-ch
