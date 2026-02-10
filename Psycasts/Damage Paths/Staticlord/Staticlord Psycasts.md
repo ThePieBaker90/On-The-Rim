@@ -9,8 +9,8 @@ aliases:
 *Staticlords specialize in creating and storing electrical currents. Most of their psycasts center around high voltages and disabling electronics. Staticlords are proficient at taking out many of grouped up enemies.*
 ## Core Psycasts
 - 1st Level:
-	- [[Zap]] (2, 13)
-	- [[Bolt]] (2, 11)
+	- [[Zap]] (2, 16)
+	- [[Bolt]] (2, 12)
 - 2nd Level:
 	- [[EMP Blast]] (6, 33)
 	- [[Power Surge]] (5, 32)

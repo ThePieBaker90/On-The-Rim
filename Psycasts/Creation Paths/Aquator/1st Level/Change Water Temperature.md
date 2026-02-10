@@ -7,22 +7,22 @@ tags:
 - **Path**:
 	- 1st level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 20ft
+	- 20ft.
 - **Target**:
 	- Water within range.
 - **Components**:
-	- Kinetic, Material (Up to 30L of water)
+	- Kinetic, Material (Up to 30L of water).
 - **Duration**:
-	- 1 turn
+	- Instant.
 - **Effects**:
 	- *You focus psychic energies into water, forcing an exothermic or endothermic reaction.*
-	- You can change the temperature of up to 30L of water by up to 20 degrees Celsius (both colder and hotter). 
+	- You can change the temperature of up to 30L of water by up to 20 degrees Celsius in either direction.
 		- The water changes temperature immediately.
 		- This may only be used on substances made of at least 97% water.
 - **Upcasting:**

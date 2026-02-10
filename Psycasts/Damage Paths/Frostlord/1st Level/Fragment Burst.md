@@ -11,10 +11,10 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
-	- 22
+	- 23
 - [[Range]]:
 	- 60ft
-- **Target**:**
+- **Target:**
 	- A creature within range.
 - **Components**:
 	- Kinetic

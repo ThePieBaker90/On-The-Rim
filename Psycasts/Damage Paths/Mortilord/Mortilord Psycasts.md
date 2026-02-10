@@ -12,12 +12,12 @@ aliases:
 	- [[Bursting Bile]] (1, 14)
 	- [[Learn From the Dead]] (25, 0)
 - 2nd Level:
-	- [[Touch of Wounding]] (4, 21)
+	- [[Touch of Wounding]] (4, 20)
 	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
 	- [[Biotic Drain]] (5, 28)
 	- [[Enthrall]] (10, 22)
-	- [[Weakening Ray]] (3, 28)
+	- [[Weakening Ray]] (3, 26)
 - 4th Level:
 	- [[Decay]] (4, 37)
 	- [[Health Siphon]] (3, 44)

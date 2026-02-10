@@ -13,16 +13,17 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 15
 - [[Range]]:
-	- 5ft
+	- 5ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You strike a nearby creature with scalding hot water, make a melee attack roll against a creature within range, adding your psycasting ability modifier to the result. 
-		- On a hit, the creature takes 2d12 fire damage and they are knocked back 5ft.
-		- This attack ignores all of a creature's EC, however AC is twice as effective at defending against this attack. 
+	- *You steal moisture from the surrounding air, using the heat generated to boil the captured water. The water quickly roars to a boil before you strike a nearby creature with the scalding splash.*
+	- Make a melee attack roll against a target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, the creature takes 2d8 fire damage.
+		- This attack ignores all of a creature's [[Evade Class]], however [[Armor Class]] is twice as effective at defending against this attack. 
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 fire damage.
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.

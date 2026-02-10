@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Throwing Stones]]
+	- [[Throwing Stones]] (2, 17)
 	- Pitfall
 - 2nd Level:
 	- Summon Walls

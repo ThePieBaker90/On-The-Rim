@@ -7,11 +7,11 @@ tags:
 - **Path**:
 	- 1st Level [[Terralord Psycasts|Terralord Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 2
 - **[[Neural Heat]] Generation:**
-	- .
+	- 17
 - [[Range]]:
 	- .
 - **Target**:
@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *You generate 3 small stones out of nearby dust, rocks, and dirt to fling at a creature. The stones can be one of three shapes affecting the type of damage they deal.*
 	- When you cast this psycast, you choose which shape of stone you shoot from the following types:

@@ -7,22 +7,21 @@ tags:
 - **Path**:
 	- 1st level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 15
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 50ft
+	- 50ft.
 - **Target**:
-	- A volume within range.
+	- An area within range with a maximum volume of 150m$^3$.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 1 turn
+	- Instant.
 - **Effects**:
-	- *Water fills the volume from the bottom over the course of the turn.*
-	- You summon up to 15L of water spread across a chosen volume within range.
-		- This volume doesn't need to be a physical volume (for example, a bucket)
+	- *Moisture in the air collects as water begins to form in the air, quickly it manifests and becomes a downpour of water within the area.*
+	- You summon up to 15L of water spread across the target area.
 - **Upcasting:**
 	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water.

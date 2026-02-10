@@ -9,7 +9,7 @@ aliases:
 *Frostlords specialize in bending water and ice to their will. Most of their psycasts center around cold and piercing damage, with many emulating firearms. Many effects also apply [[Frozen Solid]], which can temporarily take a creature out of a fight.*
 ## Core Psycasts
 - 1st Level:
-	- [[Fragment Burst]] (2, 22)
+	- [[Fragment Burst]] (2, 23)
 	- [[Hailshot]] (2, 20)
 - 2nd Level:
 	- [[Freeze Ray]] (4, 22)

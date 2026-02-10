@@ -9,7 +9,7 @@ aliases:
 *Toxilords specialize in infections, radiation, and poisons. Most of their psycasts center around poison damage and damage over time effects. [[Poison Buildup]] is common in their psycasts, dealing increasing damage over time.*
 ## Core Psycasts
 - 1st Level:
-	- [[Poison Dart]] (2, 15)
+	- [[Poison Dart]] (2, 11)
 - 2nd Level:
 	- [[Toxic Trap]] (22, 0)
 	- [[Contaminate]] (22, 0)
