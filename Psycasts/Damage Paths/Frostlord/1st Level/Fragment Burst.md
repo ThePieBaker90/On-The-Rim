@@ -24,4 +24,4 @@ tags:
 	- You summon 4 fragments of ice and launch them at a creature within range. Make a roll to hit for each fragment, adding your psycasting ability modifier to each result. 
 		- On a hit, a fragment deals 1d6 cold damage. 
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 cold damage.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage of each fragment increases by 1d6 cold damage.

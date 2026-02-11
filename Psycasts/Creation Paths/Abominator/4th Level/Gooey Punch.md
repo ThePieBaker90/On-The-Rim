@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *[[Abomination Matter]] pools together before forming a massive fist. This fist from the punches out of from the surface, dealing damage and knocking those caught in its sludgy strike away.*
+	- *[[Abomination Matter]] pools together before forming a massive fist. This fist punches out of from the surface, dealing damage and knocking those caught in its sludgy strike away.*
 	- All creatures within the target cylinder must make a Dexterity saving throw.
 		- On a failure, they take 2d8 bludgeoning damage + 2d8 corrosion damage and are knocked in the direction of the punch 20ft away.
 		- On a success, they take half damage and are knocked in the direction of the punch 5ft away.

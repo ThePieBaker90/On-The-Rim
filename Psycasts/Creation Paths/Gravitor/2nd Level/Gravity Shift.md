@@ -13,17 +13,19 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 25ft
+	- 35ft.
 - **Target**:
-	- A point within range.
+	- A cuboid with 10ft length, 10ft width, 10ft height, and within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 5 minutes.
 - **Effects**:
-	- You create a 10ft cube of changed gravity centered on a point within range. You may choose the strength (up to a maximum of 3gs) and direction of gravity within the cube. The cube lasts for the duration of the psycast.
+	- *You create an invisible area of altered gravity in a direction and with a strength of your choice.*
+	- Gravity within the target cuboid is altered to a strength and direction you choose while casting this psycast for the psycast duration.
+		- The maximum strength of gravity in the cuboid is 3g.
 		- External sources of gravity are ignored within the cube.
 - **Upcasting:**
-	- You may upcast this psycast. For every 5 psyfocus spent above the normal cost for this psycast, you can extend one face of the cube by 10ft.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, you can extend one face of the cube by 10ft.
 		- This may be done to multiple faces with multiple upcasts.
 		- Only the initial center of the cube needs to be within range, Extending a face of the cube may cause the new center of the cube to be out of range.
