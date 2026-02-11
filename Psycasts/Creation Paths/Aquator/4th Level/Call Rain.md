@@ -15,16 +15,19 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- Self.
+	- A circle within range.
 - **Components**:
 	- Verbal
 - **Duration**:
-	- 5 days
+	- 5 days (+1 day)
 - **Effects**:
 	- *You sing a psychic song to call rain.*
-	- Rain falls on a circular area centered on you with a radius of 16 miles.
-		- Traversing in rain requires 1.25x as much [[Movement Speed]].
+	- Rain falls in the target circle for the psycast duration.
+		- Traversing in rain requires additional [[Movement Speed]].
 		- All ranged attacks made in the rain are made with disadvantage.
 		- All fires in the rain are extinguished unless otherwise stated.
+- **Stats**:
+	- 25km Target Circle Radius.
+	- 1.25x Additional [[Movement Speed]] Required.
 - **Upcasting**:
 	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the rain lasts an additional day.

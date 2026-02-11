@@ -19,22 +19,22 @@ tags:
 - **Components**:
 	- Kinetic, Material (4kg of [[Abomination Matter]])
 - **Duration**:
-	- Channeled, up to 5 turns.
+	- Channeled, up to 5 turns. (+10 turns)
 - **Effects**:
 	- *You create two massive, stretchy arms out of [[Abomination Matter]] covering a creature's natural arms. These arms grant increased range and damage to melee attacks.*
 	- You grant the target creature the following effects: 
 		- Their arms are encased in [[Abomination Matter]] arms.
-		- They gain [[Upper-Body Strength and Dexterity|Upper-Body Strength]].
+		- Their [[Upper-Body Strength and Dexterity|Upper-Body Strength]] is increased to a minimum value.
+			- If their [[Upper-Body Strength and Dexterity|Upper-Body Strength]] is greater than the minimum value, it is not decreased to the value.
 		- They gain the ability to wield heavy weapons if they were not already able to.
 		- Their reach increases.
 		- They may make a melee attack with the abomination arms as an action.
-			- Attacking with the abomination arms is a melee attack with a unique range. 
+			- Attacking with the abomination arms is a melee attack.
 			- This melee attack benefits from both unarmed strike benefits and armed strike effects.
 	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Stats**:
-	- +5 [[Upper-Body Strength and Dexterity|Upper-Body Strength]] Modifier.
-	- +10ft Reach Increase.
-	- Abomination Arm Melee Deals 2d10 + 4 + STR Bludgeoning Damage.
-	- +15ft Abomination Arm Melee Attack Bonus Reach.
+	- 21 [[Upper-Body Strength and Dexterity|Upper-Body Strength]] Min Value.
+	- 10ft Reach Increase. (+5ft)
+	- 2d10 + 4 + STR Bludgeoning Damage from Abomination Arm Melee Attack.
 - **Upcasting**:
-	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, you may concentrate on the psycast for an additional 10 turns and the reach of the arms increases by 5ft.
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, you may channel this psycast for an additional 10 turns and the reach of the arms increases by 5ft.

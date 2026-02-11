@@ -1,8 +1,11 @@
 ---
 tags:
   - Info
+aliases:
+  - cast effect table
 ---
-Anytime you cast a psycast that put you over your neural heat limit, you must roll on the cast effect table below. The effect happens at the same time the psycast is cast and cannot be interrupted or stopped without cancelling the psycast. Some effects trigger a "miscast", these miscasts come in 2 levels and can be found on the relevant path's document.
+- Anytime you cast a psycast that put you over your neural heat limit, you must roll on the cast effect table below. The effect happens at the same time the psycast is cast and cannot be interrupted or stopped without cancelling the psycast. 
+- Some effects trigger a "miscast", these miscasts come in 2 levels and can be found on the relevant path's document. For psycasts with multiple paths, roll a dice to determine a random path to cast the miscast of.
 
 | 1d100    | Effect                                                                                             | % Chance |
 | -------- | -------------------------------------------------------------------------------------------------- | -------- |

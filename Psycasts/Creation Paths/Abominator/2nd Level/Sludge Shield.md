@@ -23,8 +23,8 @@ tags:
 - **Effects**:
 	- *You quickly summon a shield of sludge to intercept an attack headed towards a creature.*
 	- As a reaction to a creature within range getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target creature from incoming damage. All damage from the attack is absorbed by the shield. Once the attack ends, the shield dissipates.
-		- Damage over what the shield absorbs is dealt the the creature.
+		- Damage over the shield's health is dealt the the creature.
 - **Stats**:
-	- 25 Max Damage Absorbed.
+	- 25 Shield Health. (+25 Health)
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the maximum damage the shield can absorb increases by 25 damage.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the shield's health increases by 25 health.

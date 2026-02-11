@@ -89,13 +89,14 @@ aliases:
 	- "Self" refers to the caster.
 	- "A creature" refers to 1 creature of the caster's choice. This includes allied creatures and the caster.
 	- "A point" refers to 1 point in space, this doesn't need to be grounded unless explicitly stated.
-	- "Within range" means the target's distance to the caster must be under the psycast's range.
+	- "Within range" means the target's distance to the caster must be under the psycast's range through the cast phase.
 	- A shape of any kind means it targets everything in the shape. A shape in range can be arbitrarily placed by the caster anywhere as long as every point in the shape is within range.
 	- A target that is "grounded" is touching the floor.
 	- A "surface" target is touching some stable surface such as a wall, floor, ceiling.
 - A psycast's target doesn't have an inherent effect on the psycast and instead is referred to by other properties of the psycast.
 	- An effect that refers to a "target" or "targets" can only affect things satisfied by the psycast's target property.
 		- Some effects refer to a "target creature" or "target point", these are equivalent to target and just specify the type of target for ease of reading.
+- A psycast's target does not follow the caster if the caster moves unless otherwise stated.
 ## Psycast Components
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. 
 	- The components must be satisfied during the [[#Casting Time]] of the psycast, otherwise the psycast moves to the end phase.
@@ -128,6 +129,7 @@ aliases:
 - All psycasts have a duration, the duration may be one of three types; Instant, $n$ turn, and time based. 
 - In addition to a duration, some psycasts may require concentration from the user or the channeling of the psycast's components.
 - When the duration ends, the psycast moves into the end phase.
+- There may be a modifier in parenthesis after the duration, this indicates the change in duration when the psycast is [[#Upcasting|Upcast]] to one degree.
 ### Instant Duration
 - Instant psycasts have their effects occur immediately, they do not take place over time.
 ### n Turn Duration
@@ -173,11 +175,16 @@ aliases:
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.
 ## Psycast Stats
-- A psycast's stats are the quantitative parts of the psycast, determining the exact numbers, variables, or dice used in a psycast's effects.
-- Stats are referred to in the [[#Psycast Effects|Psycast's Effects]], either directly referenced or inferred. All listed stats are used in some psycast effect.
+- A psycast's stats are the quantitative parts of the psycast, determining the exact numbers, variables, or dice used in a [[#Psycast Effects|Psycast's Effects]] or a [[#Psycast Targeting|Psycast's Targeting]].
+- Each stat has a qualitative stat along with an identifier (or name), this is how the stat may be referred to in the [[#Psycast Effects|Psycast's Effects]] or the [[#Psycast Targeting|Psycast's Targeting]]. This reference may be direct or inferred. All listed stats are used in the psycast.
+- A stat may have a modifier in parenthesis after the stat identifier, this indicates the change the stat receives when the psycast is [[#Upcasting|Upcast]] by one degree.
 ## Upcasting
 - Some psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
+## Miscasts
+- All psycast paths have 2 miscasts associated with them, one of first level and one of second level. Miscasts are psycasts although they cannot be learned or used like other psycasts, instead they are only used when another effect casts them. 
+- The most common effect that will cast a miscast is rolling on the [[Exceeding the Neural Heat Limit|cast effect table]]. This has a chance of casting either a first or second level miscast.
+- When a miscast is cast, the effects occur immediately and last until all effects of the miscast are resolved. Miscasts cannot be interrupted in any way by actions from the caster of the miscast.
 ## Interrupting
 - Psycasts can be interrupted by many different effects. When a psycast is interrupted, the psycast immediately passes to the end phase. All costs already paid are not refunded.
 ## Psycasts and Stealth

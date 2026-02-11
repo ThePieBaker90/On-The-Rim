@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture, Material (Up to 250kg of [[Abomination Matter]]).
 - **Duration**:
-	- Channeled, up to 24 hours.
+	- Channeled, up to 24 hours. (+24 hours)
 - **Effects**:
 	- You create a structure out of [[Abomination Matter]] centered at a target point. This structure has all physical attributes of its counterpart but cannot perform magical effects or effects which rely on mechanites. The structure lasts for the duration of the psycast before deforming back into [[Abomination Matter]].
 	- The gesture component of this psycast does not need to be satisfied during the cast and active phases to channel it.

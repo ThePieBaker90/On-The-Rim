@@ -13,20 +13,23 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 15ft.
-- **Target**:
 	- Self.
+- **Target**:
+	- A cylinder within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
 	- *You create and push a massive wave of water in every direction around you, dealing heavy damage and pushing creatures away.*
-	- All creatures within range must make a constitution saving throw against the wave.
-		- On a failure, they take 4d8 bludgeoning damage and are knocked back to the edge of this psycast's range.
-			- Creatures are always knocked to the closest edge of this psycast's range.
-		- On a success, they take half as much damage and are not knocked back.
-		- Airborne creatures are unaffected if they are more than 10ft above the ground.
+	- All creatures within the target cylinder must make a constitution saving throw against the wave.
+		- On a failure, they take damage from the wave and are knocked back to the edge of the target cylinder
+			- Creatures are always knocked to the closest edge of the target cylinder.
+		- On a success, they take half as much damage from the wave.
 	- You are immune to the effects of this psycast.
+- **Stats**:
+	- 4d8 Bludgeoning Damage from Wave. (+1d8 Bludgeoning Damage)
+	- 10ft Target Cylinder Height.
+	- 15ft Target Cylinder Radius. (+5ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 bludgeoning damage and the range of this psycast increases by 5ft. 
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 bludgeoning damage and the radius of the cylinder increases by 5ft.

@@ -6,7 +6,7 @@ aliases:
   - Movement
 ---
 ## Movement Speed Overview
-- All creatures have a movement speed (also called speed or movement), speed is used when moving in battle and it determines how far a creature can travel in 1 turn (6 seconds). 
+- All creatures have a movement speed (also called speed or movement), speed is used when moving in battle and it determines how far a creature can travel in 1 turn (6 seconds). Moving 1 foot requires 1ft of movement speed.
 	- The base movement speed most creatures have is 30ft.
 	- Movement speed is a resource measured in feet that can be increased or decreased.
 		- Unspent movement speed is lost when you begin your next turn.
@@ -23,7 +23,7 @@ aliases:
 	- For example, [[Encumbering]] slows the wearer's movement speed by a flat 10ft.
 ### Multiplier Effects
 - These effects apply some multiplier or percentage effect to a creature's movement speed.
-	- For example, dashing doubles the user's movement speed for 1 turn.
+	- For example, [[Wave Ride]] doubles the user's movement speed for the duration of the psycast.
 ### Constant Effects
 - These effects set your movement speed to some value regardless of its current state.
 	- For example, [[Immobilized]] sets a creature's movement speed to 0.

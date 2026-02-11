@@ -15,13 +15,16 @@ tags:
 - [[Range]]:
 	- 50ft.
 - **Target**:
-	- An area within range with a maximum volume of 150m$^3$.
+	- A cuboid within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
 	- *Moisture in the air collects as water begins to form in the air, quickly it manifests and becomes a downpour of water within the area.*
-	- You summon up to 15L of water spread across the target area.
+	- You summon water spread evenly across the target area.
+- **Stats**:
+	- 15L Max Water Created. (+15L)
+	- 150m$^3$ Max Target Cuboid Volume.
 - **Upcasting:**
 	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water.

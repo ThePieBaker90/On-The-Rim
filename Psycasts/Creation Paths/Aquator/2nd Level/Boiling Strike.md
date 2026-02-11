@@ -23,7 +23,9 @@ tags:
 - **Effects**:
 	- *You steal moisture from the surrounding air, using the heat generated to boil the captured water. The water quickly roars to a boil before you strike a nearby creature with the scalding splash.*
 	- Make a melee attack roll against a target creature, adding your psycasting ability modifier to the result. 
-		- On a hit, the creature takes 2d8 fire damage.
+		- On a hit, the creature takes damage from the boiling water.
 		- This attack ignores all of a creature's [[Evade Class]], however [[Armor Class]] is twice as effective at defending against this attack. 
+- **Stats**:
+	- 2d8 Fire Damage from Boiling Water. (+1d8 Fire Damage)
 - **Upcasting**:
 	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.

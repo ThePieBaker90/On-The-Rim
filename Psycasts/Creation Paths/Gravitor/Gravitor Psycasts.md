@@ -10,10 +10,10 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Newton's Cradle]] (1, 8)
-	- [[Gravity Shove]] (4, 19)
+	- [[Gravity Shove]] (4, 22)
 - 2nd Level:
 	- [[Gravity Shift]] (20, 0)
-	- [[Knockdown]] (4, 26)
+	- [[Knockdown]] (4, 28)
 - 3rd Level:
 	- [[Levitation]] (9, 21)
 	- [[Gravitational Shockwave]] (6, 24)

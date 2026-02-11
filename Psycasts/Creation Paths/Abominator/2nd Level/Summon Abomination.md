@@ -25,8 +25,8 @@ tags:
 	- You create an [[Abomination]] at a target point which will follow single word commands you direct at it.
 	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Stats**:
-	- 65 [[Abomination]] health.
-	- [[Abomination]] Melee Deals 1d10+3 Bludgeoning Damage.
-	- [[Abomination]] Ranged Deals 1d8-1 Bludgeoning Damage.
+	- 65 [[Abomination]] Health. (+25 Health)
+	- 1d10 + 3 Bludgeoning Damage from [[Abomination]] Melee Attack.
+	- 1d8 - 1 Bludgeoning Damage from [[Abomination]] Ranged Attack.
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the [[Abomination]] health increases by 15 health.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the [[Abomination]] health increases by 25 health.

@@ -5,7 +5,7 @@ tags:
   - 2nd-Level
 ---
 - **Path**:
-	- 2nd level Evocation
+	- 2nd level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -26,7 +26,7 @@ tags:
 		- On a hit, the mini-bomb explodes, dealing damage to all creatures within explosion distance of the creature.
 		- On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after its fuse duration. This explosion deals damage to all creatures within explosion distance of the bomb.
 - **Stats**:
-	- Explosion Deals 1d6 Force Damage + 1d8 Corrosion Damage.
+	- 1d6 Force + 1d8 Corrosion Damage from Explosion. (+1d6 Force + 1d8 Corrosion Damage)
 	- 5ft Explosion Distance.
 	- 1 Turn Fuse Duration.
 - **Upcasting**:

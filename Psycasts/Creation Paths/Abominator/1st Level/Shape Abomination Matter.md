@@ -28,7 +28,7 @@ tags:
 	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn at no cost. 
 	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Stats**:
-	- 1kg Max [[Abomination Matter]] Channeled.
+	- 1kg Max [[Abomination Matter]] Channeled. (+1kg)
 	- 4 [[Abomination Matter]] Health.
 - **Upcasting:**
 	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional hour and the max [[Abomination Matter]] you can channel increases by 1kg. 

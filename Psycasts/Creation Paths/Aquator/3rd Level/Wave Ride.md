@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 3rd level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
@@ -19,15 +19,19 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 turns. (+1 turn)
 - **Effects**:
 	- *Water pools at your feet before lifting you in a small wave enhancing your movement abilities and pushing nearby creatures away.*
 	- You gain the following effects for the duration of the psycast:
-		- You double your [[Movement Speed]]].
+		- Your [[Movement Speed]] increases.
 		- You may not dash.
 		- Creatures you attempt to move through must make a dexterity saving throw. 
-			- On a failure, they are pushed away 5ft and fall [[Prone]]. 
-			- On a success, they are pushed away 5ft.
+			- On a failure, they are pushed away and are knocked [[Prone]]. 
+			- On a success, they are pushed away.
 		- Moving over a grate or a drain ends the psycast prematurely.
+- **Stats**:
+	- x2 [[Movement Speed]] Modifier.
+	- 5ft Push Away Distance.
+	- 1 Turn [[Prone]] Duration.
 - **Upcasting:**
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

@@ -25,6 +25,6 @@ tags:
 	- You summon [[Abomination Matter]] at the target point.
 		- This [[Abomination Matter]] may be summoned compressed or uncompressed.
 - **Stats**:
-	- 10kg of [[Abomination Matter]] summoned.
+	- 10kg of [[Abomination Matter]] Summoned. (+10kg)
 - **Upcasting:**
 	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] summoned increases by 10kg.
