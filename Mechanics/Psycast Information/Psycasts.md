@@ -173,7 +173,7 @@ aliases:
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.
 ## Psycast Stats
-- A psycast's stats are the quantitative parts of the psycast, determining the exact numbers, variables, or dice used in a psycast effect.
+- A psycast's stats are the quantitative parts of the psycast, determining the exact numbers, variables, or dice used in a psycast's effects.
 - Stats are referred to in the [[#Psycast Effects|Psycast's Effects]], either directly referenced or inferred. All listed stats are used in some psycast effect.
 ## Upcasting
 - Some psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
