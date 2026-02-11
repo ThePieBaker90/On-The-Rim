@@ -2,23 +2,25 @@
 tags:
   - Template
 ---
-- - **Path**:
-	- {{#levelRequired + Ordinal Indicator}} level {{Path}}
+- **Path**:
+	- . level .
 - **Casting Time**:
-	- {{#actionNeeded}} {{"Action"|!"Bonus Action"|!"Reaction"}}
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
 - [[Range]]:
-	- {{#range + "ft"|!"Self"|!"Touch"|!"A point"}}
+	- .
 - **Target**:
-	- {{"Surface"|!"Friendly Creature"|!"Hostile Creature"|!"Self"}}
+	- .
 - **Components**:
-	- {{"V "||"S "||"M (" + Materials Needed +")"}}
-	- |(Add commas between components if multiple components are listed)
+	- .
 - **Duration**:
-	- {{"Instant"|!"Concentration, up to " + \#time + measurement of time|!\#time + measurement of time}}
-- **Classes**:
-	- {{"Artificer "||"Bard "||"Cleric "||"Druid "||"Paladin "||"Ranger "||"Sorcerer "||Warlock  "||"Wizard"}}
-	- |(Add commas between classes if multiple classes are listed.)
-- **Spell**:
-	- {{Spell Effects}}
-- **At Higher Levels**:
-	- When you cast this spell using a spell slot of {{#levelRequired+1 + Ordinal Indicator}} level or higher, {{Spell Modifiers at Higher Levels}} for each level above {{#levelRequired + Ordinal Indicator}}.
+	- .
+- **Effects**:
+	- .
+- **Stats**:
+	- .
+- **Upcasting:**
+	- .

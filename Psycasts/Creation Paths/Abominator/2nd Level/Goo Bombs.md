@@ -7,24 +7,27 @@ tags:
 - **Path**:
 	- 2nd level Evocation
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
 	- 30
 - [[Range]]:
-	- 45ft
+	- 45ft.
 - **Target**:
 	- Up to two creatures within range.
 - **Components**:
-	- Kinetic, Material (3kg of [[Abomination Matter]])
+	- Kinetic, Material (3kg of [[Abomination Matter]]).
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
 	- *You shoot a pair of [[Abomination Matter]] bombs which explode on contact with a creature, or roll away if they hit the ground. The explosion, although short ranged, will deal considerable damage to anyone caught within the blast.
 	- You shoot two mini-bombs made out of [[Abomination Matter]], one at each target creature. Make a roll to hit for each mini-bomb, adding your psycasting ability modifier to each result. 
-		- On a hit, the mini-bomb explodes dealing 1d6 force damage and 1d8 Corrosion damage in a 5ft sphere centered on the creature. 
-		- On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after 1 turn, dealing 1d6 force damage and 1d8 Corrosion damage in a 5ft sphere centered on the bomb.
+		- On a hit, the mini-bomb explodes, dealing damage to all creatures within explosion distance of the creature.
+		- On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after its fuse duration. This explosion deals damage to all creatures within explosion distance of the bomb.
+- **Stats**:
+	- Explosion Deals 1d6 Force Damage + 1d8 Corrosion Damage.
+	- 5ft Explosion Distance.
+	- 1 Turn Fuse Duration.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, each mini-bomb deals an additional 1d6 force damage and 1d8 Corrosion damage.
-
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage the explosion deals increases by 1d6 force damage + 1d8 corrosion damage.
