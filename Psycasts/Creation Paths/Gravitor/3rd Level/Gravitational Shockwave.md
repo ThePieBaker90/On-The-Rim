@@ -15,19 +15,23 @@ tags:
 - [[Range]]:
 	- 40ft
 - **Target**:
-	- 10ft sphere within range.
+	- A sphere within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
 	- *You create a shockwave of gravity by creating a small implosion. The strong gravity pushes anything not bolted down away from the implosion*
-	- All creatures within the target sphere must make a Constitution saving throw. 
-		- On a failure, they are knocked 15ft away from the point if they were within 5ft of the point, or 5ft away if they were further than 5ft away from the point. 
+	- All creatures within the target sphere must make a Constitution saving throw to avoid being pushed away. 
+		- On a failure, they receive knockback away from the center of the sphere. If they are close enough to the center of the sphere, they take additional knockback.
 		- On a success, nothing happens.
 		- Creatures may choose to fail the saving throw.
-	- Creatures knocked into a wall from this psycast take 1d6 bludgeoning damage.
+	- Creatures knocked into a wall from the knockback take damage.
 - **Stats**:
-	- 
+	- 5ft Knockback. (+5ft)
+	- 5ft Close Range Radius.
+	- +10ft Close Range Knockback Modifier.
+	- 1d6 Bludgeoning Damage from Being Knocked into a Wall.
+	- 10ft Target Sphere Radius.
 - **Upcasting:**
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the knockback for all distances increases by 5ft.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the knockback increases by 5ft.
