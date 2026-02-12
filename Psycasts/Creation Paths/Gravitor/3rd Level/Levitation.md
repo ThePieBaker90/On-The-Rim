@@ -22,7 +22,7 @@ tags:
 	- 10 turns.
 - **Effects**:
 	- *You create a field of controlled gravity around you allowing you to fly.*
-	- For the duration of the psycast you are able to fly.
+	- You are able to fly for the duration of the psycast.
 		- If you are already able to fly, your [[Movement Speed#Flying|Flying Speed]] increases instead.
 	- You ignore all external sources of gravity for the duration of the psycast.
 - **Stats**:

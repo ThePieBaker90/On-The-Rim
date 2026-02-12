@@ -27,5 +27,7 @@ tags:
 		- On a success, nothing happens.
 		- Creatures may choose to fail the saving throw.
 	- Creatures knocked into a wall from this psycast take 1d6 bludgeoning damage.
+- **Stats**:
+	- 
 - **Upcasting:**
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the knockback for all distances increases by 5ft.
