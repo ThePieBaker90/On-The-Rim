@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 26
 - [[Range]]:
-	- 100ft
+	- 100ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -22,9 +22,14 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You create a strong and sudden downward gravitational force to sweep a creature off their feet or take a creature out of the air.*
-	- The target creature must make a Constitution saving throw. 
-		- On a failure, they become [[Prone]] and [[Stunned]] for 1 turn. 
+	- The target creature must make a Constitution saving throw to stand their ground. 
+		- On a failure, they are knocked [[Prone]] and [[Stunned]].
 		- On a success, nothing happens.
-		- Airborne creatures automatically fail the Dexterity saving throw and are [[Prone]] and [[Stunned]] for an additional turn. Additionally they are forced to the ground.
+		- Airborne creatures automatically fail the Dexterity saving throw and are [[Prone]] and [[Stunned]] for longer.
+- **Stats**:
+	- 1 Turn [[Prone]] Duration.
+	- 1 Turn [[Stunned]] Duration.
+	- +1 Turn [[Prone]] Duration For Airborne Creatures.
+	- +1 Turn [[Stunned]] Duration For Airborne Creatures.
 - **Upcasting:**
 	- You cannot upcast this psycast.
