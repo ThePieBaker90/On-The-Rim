@@ -30,7 +30,7 @@ tags:
 	- 2d8 Bludgeoning + 2d8 Corrosion Damage from Goo Punch.
 	- 0 Damage from Benign Goo Punch.
 	- 20ft Punch Knockback.
-	- 5ft Weakened Punch Knockback
+	- 5ft Weakened Punch Knockback.
 	- 20ft Target Cylinder Height.
 	- 10ft Target Cylinder Radius. (+5ft)
 - **Upcasting**:

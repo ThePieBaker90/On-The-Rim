@@ -21,11 +21,13 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a strong gravitational force on a point within range, creating a moderate implosion. All creatures within a 15ft sphere centered on the point must make a Constitution saving throw. 
-		- On a failure, they take 4d10 force damage and are moved to the center of the sphere. 
+	- *You concentrate gravity at an extremely small point, creating a large implosion which damages anything nearby before pulling everything not rooted into the ground to its center.*
+	- All creatures within the target sphere must make a Constitution saving throw. 
+		- On a failure, they take damage from the implosion and are pulled to the center of the target sphere. 
+			- If a creature cannot be pulled to the center of the target sphere, they are moved to the closest unobstructed point.
 		- On a success, they take half as much damage.
 - **Stats**:
-	- 4d10 Force Damage from the Implosion.
-	- 15ft Target Sphere Radius.
+	- 4d8 Force Damage from the Implosion.
+	- 15ft Target Sphere Radius. (+5ft)
 - **Upcasting:**
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you deal an additional 1d10 force damage.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the target sphere's radius increases by 5ft.
