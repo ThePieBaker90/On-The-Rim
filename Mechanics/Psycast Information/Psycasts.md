@@ -71,6 +71,7 @@ aliases:
 - Action based psycasts require the caster to expend the listed action type to cast the psycast (Action, Bonus Action, Reaction). The only way to interrupt these psycasts are with reactions.
 ### Time Based
 - Time based psycasts require the caster to be busy with the psycast for the casting time. When the specified time passes, the psycast casts. These psycasts can be interrupted with actions.
+- 6 seconds of casting time is equivalent to 1 turn spent casting the psycast.
 ## Psycast Costs
 - There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast.
 ### Neural Heat

@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You generate a large gravitational force away from you, pulling everything caught in the force.*
+	- *You generate a large gravitational force away from you, pushing everything caught in the force.*
 	- All creatures within a target cuboid must make a Constitution saving throw. 
 		- On a failure, they are pushed away from you to the far face of the cube. 
 		- On a success, nothing happens.

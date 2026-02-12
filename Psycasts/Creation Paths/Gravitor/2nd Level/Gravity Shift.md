@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Gravitor Psycasts|Gravitor Psycast]]
 - **Casting Time**:
-	- 10 seconds.
+	- 12 Seconds.
 - **[[Psyfocus]] Cost:**
 	- 20
 - **[[Neural Heat]] Generation:**
@@ -15,17 +15,21 @@ tags:
 - [[Range]]:
 	- 35ft.
 - **Target**:
-	- A cuboid with 10ft length, 10ft width, 10ft height, and within range.
+	- A cuboid with its center within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- 5 minutes.
 - **Effects**:
 	- *You create an invisible area of altered gravity in a direction and with a strength of your choice.*
-	- Gravity within the target cuboid is altered to a strength and direction you choose while casting this psycast for the psycast duration.
-		- The maximum strength of gravity in the cuboid is 3g.
+	- While casting this psycast, choose a strength and direction of gravity for the psycast.
+	- Gravity within the target cuboid is altered to a strength and direction you chose for the psycast duration.
 		- External sources of gravity are ignored within the cube.
+- **Stats**:
+	- 3g Max Gravity Strength.
+	- 10ft Target Cuboid Length. (+10ft*)
+	- 10ft Target Cuboid Width. (+10ft*)
+	- 10ft Target Cuboid Height. (+10ft*)
 - **Upcasting:**
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, you can extend one face of the cube by 10ft.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, you extend the length, width, or height of the cuboid by 10ft.
 		- This may be done to multiple faces with multiple upcasts.
-		- Only the initial center of the cube needs to be within range, Extending a face of the cube may cause the new center of the cube to be out of range.
