@@ -13,17 +13,18 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 30
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
 	- A grounded cylinder with the center of its base within range and its central axis normal to the ground.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- 3 turns.
 - **Effects**:
+	- *You summon a zone of high gravity making traversal through the zone highly difficult and aiming through the zone nearly impossible.*
 	- The target cylinder has the following effects:
 		- Creatures are afflicted while inside the target cylinder.
-		- Projectiles travelling through the target cylinder have disadvantage to hit.
+		- Projectiles travelling through the target cylinder have double disadvantage to hit.
 	- Afflicted creatures suffer the following effects for the psycast duration:
 		- When they first become afflicted and at the beginning of their turn, they must make a constitution saving throw.
 			- On a failure, they are forced [[Prone]] until they leave the zone. 
