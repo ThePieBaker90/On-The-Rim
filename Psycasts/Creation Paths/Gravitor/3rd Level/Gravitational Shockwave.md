@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You create a shockwave of gravity by creating a small implosion. The strong gravity pushes anything not bolted down away from the implosion*
+	- *You create a shockwave of gravity by creating a small implosion. The strong gravity shockwave carries anything nearby away from the implosion.*
 	- All creatures within the target sphere must make a Constitution saving throw to avoid being pushed away. 
 		- On a failure, they receive knockback away from the center of the sphere. If they are close enough to the center of the sphere, they take additional knockback.
 		- On a success, nothing happens.

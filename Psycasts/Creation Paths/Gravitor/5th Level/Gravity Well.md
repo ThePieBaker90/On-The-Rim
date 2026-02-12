@@ -9,22 +9,26 @@ tags:
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 10
+	- 9
 - **[[Neural Heat]] Generation:**
-	- 44
+	- 36
 - [[Range]]:
-	- 30ft
+	- 35ft
 - **Target**:
-	- A point within range.
+	- A sphere within range.
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 3 turns.
+	- 3 turns. (+1 turn)
 - **Effects**:
-	- You create a temporary gravity well at a point within range. All creatures starting their turn within 20ft of the point must make a Constitution saving throw. 
-		- On a failure, they are moved to the point and are [[Immobilized]].
+	- *You manifest a strong gravity well, pulling anything and everything not bolted down to the singularity. Those pulled to the well find it nearly impossible to escape the strong forces.*
+	- When a creature begins their turn within the target sphere, they must make a Constitution saving throw to avoid being pulled into the well.
+		- On a failure, they are pulled to the center of the target sphere and become [[Immobilized]].
+			- If a creature cannot be pulled to the center of the target sphere, they are moved to the closest unobstructed point.
 		- On a success, nothing happens.
-		- If the point is obstructed, the creature moves as close to the point as possible.
-		- The gravity well dissipates when the psycast ends.
+		- All creatures within the target sphere must make this saving throw when this psycast is cast.
+- **Stats**:
+	- 1 Turn [[Immobilized]] Duration.
+	- 20ft Target Sphere Radius.
 - **Upcasting:**
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

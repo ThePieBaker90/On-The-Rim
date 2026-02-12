@@ -9,11 +9,11 @@ tags:
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 9
+	- 10
 - **[[Neural Heat]] Generation:**
 	- 46
 - [[Range]]:
-	- 50ft
+	- 50ft.
 - **Target**:
 	- A cylinder with the center of its base grounded and within range, and its central axis normal to the ground.
 - **Components**:
@@ -40,4 +40,4 @@ tags:
 	- 15ft Target Cylinder Radius.
 	- 40ft Target Cylinder Height. (+10ft)
 - **Upcasting:**
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the target cylinder's height increases by 10ft.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the target cylinder's height increases by 10ft.

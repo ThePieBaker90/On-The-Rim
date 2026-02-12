@@ -21,8 +21,8 @@ aliases:
 - 4th Level:
 	- [[Implosion]] (3, 44)
 - 5th Level:
-	- [[Gravitic Flux]] (9, 46)
-	- [[Gravity Well]] (10, 44)
+	- [[Gravitic Flux]] (10, 46)
+	- [[Gravity Well]] (9, 36)
 ## Miscasts
 - Level 1 Miscast - Loss of Gravity
 	- You cannot be affected by any gravitational force for the next 2 turns. You are [[Immobilized]] except by grabbing nearby objects and pulling yourself with them.
