@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Cinder]] (2, 9)
 	- [[Conjure Flame]] (1, 6)
-	- [[Melt]] (18, 22)
+	- [[Melt]] (18, 20)
 - 2nd Level:
 	- [[Bart's Blazing Cone]] (2, 20)
 - 3rd Level:
