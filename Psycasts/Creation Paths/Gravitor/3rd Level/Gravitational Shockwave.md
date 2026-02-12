@@ -13,15 +13,16 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
-	- 35ft
+	- 40ft
 - **Target**:
-	- A point within range.
+	- 10ft sphere within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a strong force of outwards facing gravity around a point within range. All creatures within a 10ft sphere centered on the point may make a Constitution saving throw. 
+	- *You create a shockwave of gravity by creating a small implosion. The strong gravity pushes anything not bolted down away from the implosion*
+	- All creatures within the target sphere must make a Constitution saving throw. 
 		- On a failure, they are knocked 15ft away from the point if they were within 5ft of the point, or 5ft away if they were further than 5ft away from the point. 
 		- On a success, nothing happens.
 		- Creatures may choose to fail the saving throw.
