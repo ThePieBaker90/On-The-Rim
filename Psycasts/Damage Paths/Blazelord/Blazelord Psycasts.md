@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Cinder]] (2, 9)
-	- [[Conjure Flame]] (1, 8)
+	- [[Conjure Flame]] (1, 6)
 	- [[Melt]] (18, 22)
 - 2nd Level:
 	- [[Bart's Blazing Cone]] (2, 20)

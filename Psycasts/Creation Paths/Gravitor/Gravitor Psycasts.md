@@ -27,7 +27,9 @@ aliases:
 - Level 1 Miscast - Loss of Gravity
 	- You cannot be affected by any gravitational force for the next 2 turns. You are [[Immobilized]] except by grabbing nearby objects and pulling yourself with them.
 - Level 2 Miscast - Gravitational Vortex
-	- You create a strong gravitational force, all creatures within 25ft of you must make a Constitution saving throw. On a failure, they are pulled to you. On a success, nothing happens.
+	- You create a strong gravitational force to yourself, all creatures within 25ft of you must make a Constitution saving throw. 
+		- On a failure, they are pulled to you. 
+		- On a success, nothing happens.
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Unknown Fire Gravity Psycast]] ([[Blazelord Psycasts|Blazelord]])
