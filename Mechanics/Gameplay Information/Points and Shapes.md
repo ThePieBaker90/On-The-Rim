@@ -8,7 +8,7 @@ Grounded is on the ground, where gravity is pointing, not a wall.
 Surface point is mentioned in [[Darius' Dislocate]]
 Stable surface is mentioned in [[Gooey Punch]].
 Sphere [[Healing Nova]]
-Cone [[Bart's Blazing Cone]]
+Cone [[Bart's Blazing Cone]] Includes apex, base, length and max width
 Cuboid [[Gravitational Shockwave]]
 Arc ([[Problem Solvent]])
 Vector that is normal [[Gooey Punch]]

@@ -13,7 +13,7 @@ aliases:
 	- [[Conjure Flame]] (1, 6)
 	- [[Melt]] (18, 20)
 - 2nd Level:
-	- [[Bart's Blazing Cone]] (2, 20)
+	- [[Bart's Blazing Cone]] (2, 22)
 - 3rd Level:
 	- [[Flame Dash]] (6, 30)
 	- [[Wall of Fire]] (2, 16)
