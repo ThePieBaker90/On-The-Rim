@@ -11,27 +11,29 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 8
 - **[[Neural Heat]] Generation:**
-	- 38
+	- 30
 - [[Range]]:
 	- 40ft
 - **Target**:
-	- A point within range.
+	- A grounded cylinder with the center of its base within range and its central axis normal to the ground.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You create a cylinder of strong downward gravitational force with the point within range being centered on the base. The cylinder has a 15ft radius, 30ft height, and its central axis is normal to the ground. 
-	- The cylinder has the following effects:
-		- Creatures are afflicted while in the cylinder.
-		- Projectiles travelling through the cylinder have disadvantage to hit.
+	- The target cylinder has the following effects:
+		- Creatures are afflicted while inside the target cylinder.
+		- Projectiles travelling through the target cylinder have disadvantage to hit.
 	- Afflicted creatures suffer the following effects for the psycast duration:
 		- When they first become afflicted and at the beginning of their turn, they must make a constitution saving throw.
 			- On a failure, they are forced [[Prone]] until they leave the zone. 
 			- On a success, nothing happens.
 			- Creatures supported by an object automatically succeed the saving throw.
 		- They ignore external sources of gravity.
-		- If they are upside down, they lose 1d4 health at the beginning of their turn.
-
+		- If they are upside down, they lose health at the beginning of their turn.
+- **Stats**:
+	- 1d4 Health Loss Per Turn While Upside Down.
+	- 15ft Target Cylinder Radius. (+5ft)
+	- 30ft Target Cylinder Height.
 - **Upcasting:**
-	- You cannot upcast this psycast.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the target cylinder's radius increases by 5ft.
