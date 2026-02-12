@@ -25,6 +25,6 @@ tags:
 	- You summon water spread evenly across the target area.
 - **Stats**:
 	- 15L Max Water Created. (+15L)
-	- 150m$^3$ Max Target Cuboid Volume.
+	- 150m$^3$ Max Target Cuboid Volume. (+150m$^3$)
 - **Upcasting:**
-	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water.
+	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you may summon an additional 15L of water and the maximum target cuboid volume is increased by 150m$^3$.

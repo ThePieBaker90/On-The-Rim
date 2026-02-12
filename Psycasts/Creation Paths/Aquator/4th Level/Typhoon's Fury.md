@@ -23,8 +23,7 @@ tags:
 - **Effects**:
 	- *You create and push a massive wave of water in every direction around you, dealing heavy damage and pushing creatures away.*
 	- All creatures within the target cylinder must make a constitution saving throw against the wave.
-		- On a failure, they take damage from the wave and are knocked back to the edge of the target cylinder
-			- Creatures are always knocked to the closest edge of the target cylinder.
+		- On a failure, they take damage from the wave and are displaced to the closest curved surface of the target cylinder.
 		- On a success, they take half as much damage from the wave.
 	- You are immune to the effects of this psycast.
 - **Stats**:
@@ -32,4 +31,4 @@ tags:
 	- 10ft Target Cylinder Height.
 	- 15ft Target Cylinder Radius. (+5ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 bludgeoning damage and the radius of the cylinder increases by 5ft.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 bludgeoning damage and the radius of the target cylinder increases by 5ft.

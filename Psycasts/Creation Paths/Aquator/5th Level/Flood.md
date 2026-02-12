@@ -22,9 +22,11 @@ tags:
 	- 5 turns.
 - **Effects**:
 	- *Water fills the room from the bottom as if the walls and floors are crying.*
-	- Water fills target room at a rate of 20% of the room's volume every turn for the duration of this psycast.
-		- A maximum of 3000L of water may be generated in 1 turn by this psycast.
+	- Water fills target room with a percent of its volume in water every turn for the duration of this psycast.
 		- An open door extends what is considered a room for this psycast.
+- **Stats**:
+	- 20% of the Room's Volume in Water Per Turn. (+10%)
+	- 3000L Max Water Per Turn. (+300L)
 - **Upcasting:**
-	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 10% water is generated per turn.
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 10% water is generated per turn and the maximum amount of water that may be generated in 1 turn is increased by 300L.
 

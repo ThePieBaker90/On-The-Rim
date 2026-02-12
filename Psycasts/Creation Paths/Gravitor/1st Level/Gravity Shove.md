@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A cuboid with 25ft length, 15ft width, 15ft height, the caster centered on a square face, and within range.
+	- A cuboid with the caster centered on a square face and within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
@@ -25,5 +25,9 @@ tags:
 	- All creatures within a target cuboid must make a Constitution saving throw. 
 		- On a failure, they are pushed away from you to the far face of the cube. 
 		- On a success, nothing happens.
+- **Stats**:
+	- 25ft Target Cuboid Length. (+5ft)
+	- 15ft Target Cuboid Width.
+	- 15ft Height Cuboid Height.
 - **Upcasting:**
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the cuboid's length increases by 5ft.

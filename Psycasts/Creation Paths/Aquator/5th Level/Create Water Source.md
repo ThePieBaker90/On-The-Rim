@@ -19,11 +19,13 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 hour.
+	- 1 hour. (+10 hours)
 - **Effects**:
 	- *You concentrate psyfocus into a point to absorb nearby moisture for an extended period of time. The absorbed moisture then flows out of the point like an invisible spout.*
-	- Water generates out of a target point at a constant rate of 10L per minute (600L per hour) for 1 hour. 
+	- Water generates out of a target point at a constant rate for the psycast duration.
 		- If the point is occupied, the water will attempt to displace the obstruction, otherwise the water will not generate.
+- **Stats**:
+	- 10L of Water Per Minute.
 - **Upcasting:**
-	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the water generates for an additional 10 hours.
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 10 hours.
 
