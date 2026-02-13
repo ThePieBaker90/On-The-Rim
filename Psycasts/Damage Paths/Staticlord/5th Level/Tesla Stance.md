@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 10
 - **[[Neural Heat]] Generation:**
-	- 58 (43)
+	- 58
 - [[Range]]:
 	- 30ft
 - **Target**:
@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration and Channeled, up to 3 turns.
 - **Effects**:
 	- Lightning arcs from you striking any nearby creature. For the duration of the psycast, all creatures within range of you at the beginning of your turn must make a Dexterity saving throw. 
 		- On a failure, they take 4d6 electric damage and all creatures within 10ft of them take 1d6 electric damage.

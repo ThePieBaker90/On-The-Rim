@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Channeled, up to 1 hour.
 - **Effects**:
+	- *You excite psycho-fluidd particles in [[Abomination Matter]] causing it to take a shape, levitate, or harden.*
 	- You manipulate [[Abomination Matter]] in one of the following ways:
 		- You cause the [[Abomination Matter]] to form into a simple shape (square, cone, sphere, pyramid, etc.).
 		- You may freely levitate the [[Abomination Matter]] to a point (or points) in space.
