@@ -7,17 +7,17 @@ tags:
 - **Path**:
 	- 3rd level [[Blazelord Psycasts|Blazelord Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
 	- 16
 - [[Range]]:
-	- 35ft
+	- 35ft.
 - **Target**:
 	- A grounded cylinder with its central axis normal to the ground and the center of its base within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 3 turns.
 - **Effects**:
