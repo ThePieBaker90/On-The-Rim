@@ -13,9 +13,9 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 48
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
-	- A point within range.
+	- A circle with its center in range.
 - **Components**:
 	- Gesture
 - **Duration**:
