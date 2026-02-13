@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A circle with its center in range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- 3 turns.
 - **Effects**:
@@ -27,5 +27,9 @@ tags:
 	- If the ring is summoned on top of a creature, the creature must make a Dexterity saving throw to dodge the flames. 
 		- On a failure, they take 4d6 fire damage and catch [[On Fire!]] for 2 turns. 
 		- On a success, they move away from the ring and take no damage.
+- **Stats**:
+	- 25ft Target Circle Radius.
+	- 15ft Target Circle Height.
+	- 
 - **Upcasting**:
 	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage increases by 2d6 fire damage.
