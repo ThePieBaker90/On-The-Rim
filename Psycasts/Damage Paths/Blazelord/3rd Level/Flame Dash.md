@@ -7,30 +7,36 @@ tags:
 - **Path**:
 	- 3rd level [[Blazelord Psycasts|Blazelord Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
-	- 30
+	- 26 (21)
 - [[Range]]:
 	- Self.
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- Concentration, up to 3 turns.
 - **Effects**:
-	- You conjure flames beneath you to cover where you walk. You gain the following effects until the end of turn:
-		- Your [[Movement Speed]] is increased by 10ft.
-		- You may use dash  as a bonus action.
-		- Floors you move over are set on fire in a 2.5ft circle around you. Creatures who start their turn on the fire, end their turn on the fire, or move through the fire must make a Constitution saving throw. 
-			- On a failure, they take 1d8 fire damage and become [[Burned]] for 1 turn. 
-			- On a success, nothing happens.
-			- The floors automatically extinguish when the psycast ends.
-			- The fire will not spread unless manually spread by some other effect.
-			- Creatures attempting to jump over the fire make a Dexterity saving throw instead of a Constitution saving throw.
-		- Once per turn, as a reaction to a creature making a melee attack on you, you may deal 1d8 fire damage to them and [[Burned|Burn]] them for 1 turn.
-	- You are not affected by your own flames from this psycast.
+	- *You leave a trail of fire where you run, damaging those who attempt to move through the flames.*
+	- You gain the following effects until the end of turn:
+		- Your [[Movement Speed]] increases.
+		- You may use dash as a bonus action.
+		- Floors you move over are ignited in a small circle around you. 
+			- The floor remains ignited until the psycast ends. 
+			- Fire will not spread from the floor unless another effect forces it to.
+			- You are not affected by the ignited floor.
+	- Creatures who start their turn on the ignited floor, end their turn on the ignited floor, or moving through the ignited floor must make a Constitution saving throw. 
+		- On a failure, they take fire damage and become [[Burned]].
+		- On a success, they take half as much fire damage.
+		- Creatures attempting to jump over the fire make a Dexterity saving throw instead of a Constitution saving throw.
+- **Stats**:
+	- 10ft [[Movement Speed]] Increase.
+	- 2.5ft Floor Ignite Radius.
+	- 1d8 Fire Damage from Floor Fire.
+	- 1 Turn [[Burned]] Duration. (+1 Turn)
 - **Upcasting:**
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you apply [[Burned]] for an additional turn.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, you apply [[Burned]] for an additional turn.
