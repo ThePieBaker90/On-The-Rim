@@ -9,20 +9,25 @@ tags:
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 5
 - **[[Neural Heat]] Generation:**
-	- 34
+	- 29
 - [[Range]]:
 	- 70ft
 - **Target**:
-	- Self.
+	- All creatures within range.
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 3 turns.
+	- 3 turns. (+1 turn)
 - **Effects**:
-	- You summon a fire mote above every creature within range. They must make a dexterity saving throw to avoid the fire motes. 
-		- Upon a failure, they catch [[On Fire!]], this lasts until the psycast ends or the condition is forcibly removed. 
+	- *You summon a fire mote above every creature you can see. The mote shoots down after a short delay, setting anyone who fails to get out of the way [[On Fire!]].*
+	- The target creatures must make a Dexterity saving throw to avoid the fire motes. 
+		- Upon a failure, they catch [[On Fire!]] for the psycast duration.
+			- This instance of [[On Fire!]] cannot be removed by getting doused in water.
 		- Upon a success, nothing happens.
+	- You cannot be targeted by this psycast.
+- **Stats**:
+	- None.
 - **Upcasting:**
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

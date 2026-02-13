@@ -19,7 +19,7 @@ aliases:
 	- [[Pillar of Fire]] (2, 16)
 - 4th Level:
 	- [[Fireball]] (3, 44)
-	- [[Immolate]] (4, 34)
+	- [[Immolate]] (5, 29)
 - 5th Level:
 	- [[Ninth Circle of Hell]] (8, 48)
 	- [[Flamehart's Aura of Fire]] (12, 58)
