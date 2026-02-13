@@ -868,7 +868,6 @@
   "Psycasts/Damage Paths/Blazelord/5th Level/Flamehart's Aura of Fire.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/4th Level/Immolate.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/4th Level/Fireball.md": "LiSparkles",
-  "Psycasts/Damage Paths/Blazelord/3rd Level/Wall of Fire.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/3rd Level/Flame Dash.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/2nd Level/Bart's Blazing Cone.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/1st Level/Melt.md": "LiSparkles",
@@ -1250,5 +1249,6 @@
   "Psycasts/Creation Paths/Abominator/4th Level/Gooey Punch.md": "LiSparkles",
   "Mechanics/Gameplay Information/Points and Shapes.md": "LiListTodo",
   "Materials/Psychic Chemicals/Thermophlastic.md": "LiShapes",
-  "Psycasts/Damage Paths/Chemlord/4th Level/Thermophlastic Net.md": "LiSparkles"
+  "Psycasts/Damage Paths/Chemlord/4th Level/Thermophlastic Net.md": "LiSparkles",
+  "Psycasts/Damage Paths/Blazelord/3rd Level/Pillar of Fire.md": "LiSparkles"
 }

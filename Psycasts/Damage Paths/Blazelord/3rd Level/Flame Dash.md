@@ -29,14 +29,14 @@ tags:
 			- The floor remains ignited until the psycast ends. 
 			- Fire will not spread from the floor unless another effect forces it to.
 			- You are not affected by the ignited floor.
-	- Creatures who start their turn on the ignited floor, end their turn on the ignited floor, or moving through the ignited floor must make a Constitution saving throw. 
+	- Creatures who start their turn on the ignited floor, end their turn on the ignited floor, or move through the ignited floor must make a Constitution saving throw. 
 		- On a failure, they take fire damage and become [[Burned]].
 		- On a success, they take half as much fire damage.
 		- Creatures attempting to jump over the fire make a Dexterity saving throw instead of a Constitution saving throw.
 - **Stats**:
 	- 10ft [[Movement Speed]] Increase.
 	- 2.5ft Floor Ignite Radius.
-	- 1d8 Fire Damage from Floor Fire.
+	- 1d6 + 2 Fire Damage from Floor Fire.
 	- 1 Turn [[Burned]] Duration. (+1 Turn)
 - **Upcasting:**
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, you apply [[Burned]] for an additional turn.
