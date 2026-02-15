@@ -13,17 +13,28 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 58 (43)
 - [[Range]]:
-	- 60ft sphere.
-- **Target**:
 	- Self.
+- **Target**:
+	- A sphere with its center within range.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
-	- You rapidly increase the temperature in a 50ft sphere centered on you. This sphere follows you if you move. All creatures within range take 1d4+2 fire damage at the end of their turn and catch [[On Fire!]] for 1 turn.
-		- A creature who is already [[On Fire!]] does not decrease the duration of [[On Fire!]] while in range. Additionally the duration of [[On Fire!]] increases by 1 turn when [[On Fire!]] would normally be applied by this psycast.
-		- The damage from this psycast is not increased by [[Burned]].
-		- You are immune to the damaging and condition effects of this psycast.
+	- **
+	- The target sphere is centered on you at all times. 
+	- While a creature is in the target sphere, they are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They take damage from the heat at the end of their turn.
+		- They catch [[On Fire!]] at the end of their turn.
+			- If they already have [[On Fire!]], the duration of it increases instead of decreasing.
+	- The damage from this psycast is not increased by [[Burned]].
+	- You are immune to the damaging and condition effects of this psycast.
+- **Stats**:
+	- 1d4 + 2 Fire Damage from Heat.
+	- 1 Turn [[On Fire!]] Duration.
+	- +1 Turn of [[On Fire!]] on Repeat Application.
+	- 5 Turn [[On Fire!]] Limit.
+	- 60ft Target Sphere Radius.
 - **Upcasting**:
 	- You cannot upcast this psycast.
