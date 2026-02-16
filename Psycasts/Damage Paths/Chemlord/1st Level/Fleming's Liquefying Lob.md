@@ -13,18 +13,22 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 20
 - [[Range]]:
-	- 35ft
+	- 35ft (+15ft)
 - **Target**:
-	- 5ft sphere within range, may go over obstacles.
+	- A sphere within range, may go over obstacles.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You lob a projectile of [[Organic-Liquefication Acid]] at a point within range. All creatures within a 5ft sphere centered on this point must make a Constitution saving throw. 
-		- On a failed save, a creature takes 1d6+4 Corrosion damage. 
-		- On a successful save, nothing happens.
-		- A creature wearing heavy armor or a warcasket always succeeds this save.
-		- This attack deals no damage to anything non-organic
+	- *You lob a bubble of [[OrganiX]], the acid eats away at anything organic near the landing location, dealing corrosion damage. The acid is ineffective against non-organic materials making armor invaluable against this lob.*
+	- All creatures in the target sphere must make a Constitution saving throw to weather the acid. 
+		- On a failed save, a creature damage from the acid.
+		- On a successful save, they take half damage.
+		- A creature wearing heavy armor or a warcasket takes no damage from this.
+		- This deals no damage to non-organic creatures or materials.
+- **Stats**:
+	- 1d6 + 4 Corrosion Damage from Acid. (+1d6 Corrosion Damage)
+	- 5ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 Corrosion damage and the range increases by 15ft.

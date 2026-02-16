@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 5 turns.
 - **Effects**:
-	- You create an orb made of [[Organic-Liquefication Acid]] at a point within range. This orb is stationary and has 5 health.  You may expend a bonus action to detonate this orb. When this orb detonates all creatures within 5ft of the it must make a Dexterity saving throw. 
+	- You create an orb made of [[OrganiX]] at a point within range. This orb is stationary and has 5 health.  You may expend a bonus action to detonate this orb. When this orb detonates all creatures within 5ft of the it must make a Dexterity saving throw. 
 		- On a failed save, a creature takes 2d6 Corrosion damage. 
 		- On a successful save, they take half as much damage.
 		- If the orb is reduced to 0 health, it detonates.

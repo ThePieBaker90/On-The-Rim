@@ -85,6 +85,7 @@ aliases:
 	- "Within range of you" in the psycast effects means you can draw a straight line from you to a relevant point within range that is equal to or less than the length specified within range.
 		- For ranges that are shapes, this means that a point encapsulated within the shape when the shape is centered on you is within range.
 	- "Self" in the range means the direct center of the caster.
+- There may be a modifier in parenthesis after the range, this indicates the change in range when the psycast is [[#Upcasting|Upcast]] to one degree.
 ## Psycast Targeting
 - All psycasts have a target, it determines what the caster can choose to be the target of the psycast. The target must be in the caster's line of sight unless otherwise stated and the target is determined when the psycast is used.
 	- "Self" refers to the caster.

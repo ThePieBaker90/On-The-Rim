@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
-	- 55 (40)
+	- 50
 - [[Range]]:
 	- Self.
 - **Target**:
@@ -26,11 +26,11 @@ tags:
 	- The temperature within the target sphere rises dramatically, boiling water and heating metal within the target sphere.
 	- While a creature is in the target sphere, they are afflicted.
 	- Afflicted creatures suffer the following effects:
-		- They take damage from the heat at the end of their turn.
+		- They take minor fire damage from the heat at the end of their turn.
 			- This damage is not increased by [[Burned]].
 		- They catch [[On Fire!]] at the end of their turn.
 			- If they already have [[On Fire!]], the duration of it increases instead of decreasing.
-		- They cannot be doused to remove [[On Fire!]], if they are doused in a liquid they take damage from the searing temperature. 
+		- They cannot be doused to remove [[On Fire!]], if they are doused in a liquid they take moderate damage from the searing temperature. 
 	- You cannot be afflicted by this psycast.
 - **Stats**:
 	- 1d4 + 2 Fire Damage from Heat.
