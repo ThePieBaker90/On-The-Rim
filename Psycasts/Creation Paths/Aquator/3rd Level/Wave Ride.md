@@ -32,6 +32,5 @@ tags:
 - **Stats**:
 	- x2 [[Movement Speed]] Modifier.
 	- 5ft Push Away Distance.
-	- 1 Turn [[Prone]] Duration.
 - **Upcasting:**
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

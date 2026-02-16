@@ -2,6 +2,7 @@
 tags:
   - Status
 ---
+- Prone always has an indefinite duration.
 - When a creature is in the prone status, they suffer the following effects:
 	- Their only movement option is to crawl, crawling is half as efficient as normal movement.
 	- They have disadvantage on melee attack rolls and ranged attack rolls within 30ft.

@@ -15,14 +15,22 @@ tags:
 - [[Range]]:
 	- 40ft
 - **Target**:
-	- 10ft circle within range.
+	- A sphere with its center within range and grounded.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- 1 minute.
 - **Effects**:
-	- You soak the ground in a 10ft circular area in [[Slippery Chemical]]. This chemical doubles the movement cost of the terrain and creatures moving through this chemical for the first time on their turn must make a Dexterity saving throw. 
-		- On a failure, they fall prone.
-		- The [[Slippery Chemical]] can be washed away with water, ending the psycast prematurely.
+	- **
+	- You soak the ground in a 10ft circular area in [[Slippery Chemical]]. 
+	- The target sphere has the following effects for the psycast duration:
+		- Traversing in the target sphere requires more [[Movement Speed]] per 1ft moved.
+		- Creatures moving through the target sphere for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
+			- On a failure, they fall [[Prone]].
+			- On a success, nothing happens.
+	- The [[Slippery Chemical]] can be washed away with a liquid, ending the psycast prematurely.
+- **Stats**:
+	- 2x [[Movement Speed]] Required.
+	- 10ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the chemical lasts an additional minute.

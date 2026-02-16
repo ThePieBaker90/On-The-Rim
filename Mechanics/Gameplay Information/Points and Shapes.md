@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 TODO
-Grounded is on the ground, where gravity is pointing, not a wall.
+Grounded is on the ground, where gravity is pointing, not a wall. Only a
 Surface point is mentioned in [[Darius' Dislocate]]
 Stable surface is mentioned in [[Gooey Punch]].
 Sphere [[Healing Nova]]

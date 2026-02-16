@@ -35,7 +35,6 @@ tags:
 - **Stats**:
 	- 1d12 Bludgeoning Damage per 10ft of Height from Gravity Slam.
 	- 1d6 Bludgeoning Damage per 10ft of Height from Falling
-	- 1 Turn [[Prone]] Duration.
 	- 1 Turn [[Stunned]] Duration.
 	- 15ft Target Cylinder Radius.
 	- 40ft Target Cylinder Height. (+10ft)

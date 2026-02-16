@@ -23,11 +23,11 @@ tags:
 - **Effects**:
 	- *You sing a psychic song to call rain.*
 	- Rain falls in the target circle for the psycast duration.
-		- Traversing in rain requires additional [[Movement Speed]].
+		- Traversing in rain requires more [[Movement Speed]] per 1ft moved.
 		- All ranged attacks made in the rain are made with disadvantage.
 		- All fires in the rain are extinguished unless otherwise stated.
 - **Stats**:
+	- 1.25x [[Movement Speed]] Required.
 	- 25km Target Circle Radius.
-	- 1.25x Additional [[Movement Speed]] Required.
 - **Upcasting**:
 	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the rain lasts an additional day.

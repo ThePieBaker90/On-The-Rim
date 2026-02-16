@@ -27,9 +27,7 @@ tags:
 		- On a success, nothing happens.
 		- Airborne creatures automatically fail the Dexterity saving throw and are [[Prone]] and [[Stunned]] for longer.
 - **Stats**:
-	- 1 Turn [[Prone]] Duration.
 	- 1 Turn [[Stunned]] Duration.
-	- +1 Turn [[Prone]] Duration For Airborne Creatures.
 	- +1 Turn [[Stunned]] Duration For Airborne Creatures.
 - **Upcasting:**
 	- You cannot upcast this psycast.
