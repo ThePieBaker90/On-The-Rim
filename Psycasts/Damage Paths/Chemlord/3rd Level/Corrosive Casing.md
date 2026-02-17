@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 3 turns. (+2 turns)
 - **Effects**:

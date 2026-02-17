@@ -877,7 +877,6 @@
   "Psycasts/Damage Paths/Chemlord/Chemlord Psycasts.md": "LiInfo",
   "Psycasts/Damage Paths/Chemlord/5th Level/Problem Solvent.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/4th Level/Acid Minefield.md": "LiSparkles",
-  "Psycasts/Damage Paths/Chemlord/3rd Level/Orb of Corrosion.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/3rd Level/Corrosive Casing.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/3rd Level/Chemical Coating.md": "LiSparkles",
   "Psycasts/Damage Paths/Chemlord/2nd Level/Induce Acid Reflux.md": "LiSparkles",
@@ -1250,5 +1249,6 @@
   "Materials/Psychic Chemicals/Anti-Glue.md": "LiShapes",
   "Materials/Psychic Chemicals/Break-Through.md": "LiShapes",
   "Materials/Psychic Chemicals/Arma Frágil.md": "LiShapes",
-  "Materials/Psychic Chemicals/Stille Flammen.md": "LiShapes"
+  "Materials/Psychic Chemicals/Stille Flammen.md": "LiShapes",
+  "Psycasts/Damage Paths/Chemlord/3rd Level/Orb of Erosion.md": "LiSparkles"
 }

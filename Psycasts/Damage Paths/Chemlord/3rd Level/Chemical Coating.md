@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A melee weapon within range that is used as the focus.
 - **Components**:
-	- Kinetic, Focus (Melee Weapon)
+	- Kinetic, Focus (Melee Weapon).
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
