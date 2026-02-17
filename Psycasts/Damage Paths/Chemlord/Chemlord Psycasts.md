@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Chemical Coating]] (12, 22)
 	- [[Corrosive Casing]] (12, 26)
-	- [[Orb of Erosion]] (2, 26)
+	- [[Orb of Erosion]] (2, 16)
 - 4th Level:
 	- [[Acid Minefield]] (3, 44)
 	- [[Thermophlastic Net]] (6, 24)

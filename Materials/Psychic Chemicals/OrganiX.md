@@ -10,6 +10,7 @@ aliases:
 - **Uses**:
 	- TODO
 	- Organic liquification psychoacid
+	- Bright green
 - **Looks:**
 	- .
 - **Notable Features**:
