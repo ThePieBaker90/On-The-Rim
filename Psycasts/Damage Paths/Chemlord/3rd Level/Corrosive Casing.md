@@ -19,9 +19,13 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 turns. (+2 turns)
 - **Effects**:
-	- You conjure a layer of [[Anti-Weapon Chemical]] on a creature you touch. Melee attacks that hit this creature apply [[Broken Weapon]] to the weapon. 
-		- Upon losing concentration, the layer of [[Anti-Weapon Chemical]] dissipates. 
+	- *[[Anti-Weapon Chemical]] forms over your armor or clothes causing any weapon that hits to you break and become unusable.*
+	- For the psycast duration, all successful attacks against the target creature apply [[Broken Weapon]] to the thing that hit the creature. 
+		- The thing that hit the creature is the weapon for melee attacks and the projectile for ranged attacks. A projectile with [[Broken Weapon]] may only apply damage once before it is destroyed.
+			- Only physical projectiles may have [[Broken Weapon]] applied by this, non-physical projectiles (such as fire) cannot break. 
+- **Stats**:
+	- None.
 - **Upcasting**:
-	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, the duration is increased by 2 turns.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the duration is increased by 2 turns.
