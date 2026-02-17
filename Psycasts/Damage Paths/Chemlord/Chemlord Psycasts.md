@@ -12,7 +12,7 @@ aliases:
 	- [[Fleming's Liquefying Lob]] (2, 20)
 	- [[Spill]] (8, 12)
 - 2nd Level:
-	- [[Armorbane]] (7, 34)
+	- [[Armorbane]] (6, 24)
 	- [[Induce Acid Reflux]] (4, 37)
 - 3rd Level:
 	- [[Chemical Coating]] (12, 26)
@@ -25,7 +25,7 @@ aliases:
 	- [[Problem Solvent]] (22, 52)
 ## Miscasts
 - Level 1 Miscast - Sweating Chemicals
-	- A layer of [[Armor Eating Chemical]] generates on your skin, giving any armor you are wearing 3 levels of [[Armor Corrosion]] and dealing 2d8 Corrosion damage to you.
+	- A layer of [[Break-Through]] generates on your skin, giving any armor you are wearing 3 levels of [[Armor Corrosion]] and dealing 2d8 Corrosion damage to you.
 - Level 2 Miscast - Burning Blast
 	- [[Burning Chemical]] bursts out in every direction, all creatures within a 15 ft sphere centered on you must make a DC 15 dexterity saving throw. 
 		- On a failure, a creature gains the [[Chemical Burned]] condition for 5 turns. 
