@@ -13,7 +13,7 @@ aliases:
 	- [[Spill]] (8, 12)
 - 2nd Level:
 	- [[Armorbane]] (6, 24)
-	- [[Induce Acid Reflux]] (4, 37)
+	- [[Induce Acid Reflux]] (4, 32)
 - 3rd Level:
 	- [[Chemical Coating]] (12, 26)
 	- [[Corrosive Casing]] (12, 26)
