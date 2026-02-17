@@ -9,28 +9,27 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 8
 - **[[Neural Heat]] Generation:**
-	- 28
+	- 12
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
 	- A sphere with its center within range and grounded.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 1 minute.
+	- 1 minute. (+1 minute)
 - **Effects**:
-	- **
-	- You soak the ground in a 10ft circular area in [[Slippery Chemical]]. 
-	- The target sphere has the following effects for the psycast duration:
-		- Traversing in the target sphere requires more [[Movement Speed]] per 1ft moved.
-		- Creatures moving through the target sphere for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
+	- *You spill [[Anti-Glue]] over all floors in an area, making traversal incredibly difficult.*
+	- All ground within the target sphere is coated in [[Anti-Glue]], it has the following effects:
+		- Traversing through the [[Anti-Glue]] requires more [[Movement Speed]] per 1ft moved.
+		- Creatures moving through the [[Anti-Glue]] for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
 			- On a failure, they fall [[Prone]].
 			- On a success, nothing happens.
-	- The [[Slippery Chemical]] can be washed away with a liquid, ending the psycast prematurely.
+		- The [[Anti-Glue]] can be washed away with a cleaning agent (such as water), ending the psycast prematurely.
 - **Stats**:
-	- 2x [[Movement Speed]] Required.
-	- 10ft Target Sphere Radius.
+	- +1ft of [[Movement Speed]] Required Per 1ft Moved.
+	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the chemical lasts an additional minute.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional minute.

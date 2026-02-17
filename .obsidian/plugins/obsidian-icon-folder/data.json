@@ -1114,7 +1114,6 @@
   "Materials/Psychic Chemicals/Armor Eating Chemical.md": "LiShapes",
   "Materials/Psychic Chemicals/Matterbane.md": "LiShapes",
   "Materials/Psychic Chemicals/Burning Chemical.md": "LiShapes",
-  "Materials/Psychic Chemicals/Slippery Chemical.md": "LiShapes",
   "Items/Weapons/Ranged/Firearms/Assault Rifles": "LiList",
   "Items/Weapons/Ranged/Firearms/Anti-Material Rifles": "LiList",
   "Materials/Psychic Chemicals": "LiList",
@@ -1250,5 +1249,6 @@
   "Materials/Psychic Chemicals/Thermophlastic.md": "LiShapes",
   "Psycasts/Damage Paths/Chemlord/4th Level/Thermophlastic Net.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/3rd Level/Pillar of Fire.md": "LiSparkles",
-  "Materials/Psychic Chemicals/OrganiX.md": "LiShapes"
+  "Materials/Psychic Chemicals/OrganiX.md": "LiShapes",
+  "Materials/Psychic Chemicals/Anti-Glue.md": "LiShapes"
 }

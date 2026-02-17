@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Fleming's Liquefying Lob]] (2, 20)
-	- [[Spill]] (6, 28)
+	- [[Spill]] (8, 12)
 - 2nd Level:
 	- [[Armorbane]] (7, 34)
 	- [[Induce Acid Reflux]] (4, 37)

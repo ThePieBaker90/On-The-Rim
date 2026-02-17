@@ -9,6 +9,7 @@ aliases:
 	- Made with [[Chemlord Psycasts]]
 - **Uses**:
 	- TODO
+	- Slippery Chemical
 - **Looks:**
 	- .
 - **Notable Features**:
