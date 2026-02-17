@@ -15,7 +15,7 @@ aliases:
 	- [[Armorbane]] (6, 24)
 	- [[Induce Acid Reflux]] (4, 32)
 - 3rd Level:
-	- [[Chemical Coating]] (12, 26)
+	- [[Chemical Coating]] (12, 22)
 	- [[Corrosive Casing]] (12, 26)
 	- [[Orb of Corrosion]] (2, 26)
 - 4th Level:

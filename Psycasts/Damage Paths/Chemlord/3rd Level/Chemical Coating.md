@@ -13,15 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 22 (22)
 - [[Range]]:
-	- Touch
+	- Touch.
 - **Target**:
-	- A weapon within range.
+	- A melee weapon within range that is used as the focus.
 - **Components**:
-	- Kinetic
+	- Kinetic, Focus (Melee Weapon)
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You coat a melee weapon in [[Burning Chemical]] causing all of its attacks to give 1 turn of [[Chemical Burned]] to enemies it hits for the duration of the psycast. 
-		- Applying [[Chemical Burned]] to a creature already suffering from [[Chemical Burned]] adds the new duration to the creature's current [[Chemical Burned]] duration.
+	- *[[Burning Chemical]] soaks from your hands, spreading across the weapon. All attacks with the weapon apply [[Chemical Burned]], causing subsequent attacks to deal additional damage.*
+	- You coat the target weapon in [[Burning Chemical]], giving it the following effects for the psycast duration:
+		- On a hit with the weapon, you apply [[Chemical Burned]] on the hit creature.
+			- If they already have [[Chemical Burned]], the duration of [[Chemical Burned]] is increased.
+- **Stats**:
+	- 1 Turn [[Chemical Burned]] Duration. (+1 Turn)
+	- +1 Turn of [[Chemical Burned]] on Repeat Application. (+1 Turn)
+	- 5 Turn [[Chemical Burned]] Limit.
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the duration of the weapon applying [[Chemical Burned]] is increased by 1 turn.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the duration of [[Chemical Burned]] the weapon applies is increased by 1 turn.
