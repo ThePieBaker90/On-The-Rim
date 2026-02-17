@@ -21,8 +21,8 @@ tags:
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- *[[Burning Chemical]] soaks from your hands, spreading across the weapon. All attacks with the weapon apply [[Chemical Burned]], causing subsequent attacks to deal additional damage.*
-	- You coat the target weapon in [[Burning Chemical]], giving it the following effects for the psycast duration:
+	- *[[Stille Flammen]] soaks from your hands, spreading across the weapon. All attacks with the weapon apply [[Chemical Burned]], causing subsequent attacks to deal additional damage.*
+	- You coat the target weapon in [[Stille Flammen]], giving it the following effects for the psycast duration:
 		- On a hit with the weapon, you apply [[Chemical Burned]] on the hit creature.
 			- If they already have [[Chemical Burned]], the duration of [[Chemical Burned]] is increased.
 - **Stats**:

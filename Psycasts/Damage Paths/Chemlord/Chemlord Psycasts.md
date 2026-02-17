@@ -27,7 +27,7 @@ aliases:
 - Level 1 Miscast - Sweating Chemicals
 	- A layer of [[Break-Through]] generates on your skin, giving any armor you are wearing 3 levels of [[Armor Corrosion]] and dealing 2d8 Corrosion damage to you.
 - Level 2 Miscast - Burning Blast
-	- [[Burning Chemical]] bursts out in every direction, all creatures within a 15 ft sphere centered on you must make a DC 15 dexterity saving throw. 
+	- [[Stille Flammen]] bursts out in every direction, all creatures within a 15 ft sphere centered on you must make a DC 15 dexterity saving throw. 
 		- On a failure, a creature gains the [[Chemical Burned]] condition for 5 turns. 
 		- On a success, nothing happens.
 		- You automatically fail this saving throw.

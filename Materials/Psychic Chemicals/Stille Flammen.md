@@ -9,6 +9,8 @@ aliases:
 	- Made with [[Chemlord Psycasts]]
 - **Uses**:
 	- TODO
+	- Burning Chemical
+	- German
 - **Looks:**
 	- .
 - **Notable Features**:
