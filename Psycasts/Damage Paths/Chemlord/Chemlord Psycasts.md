@@ -22,7 +22,7 @@ aliases:
 	- [[Acid Minefield]] (3, 44)
 	- [[Thermophlastic Net]] (6, 24)
 - 5th Level:
-	- [[Problem Solvent]] (22, 52)
+	- [[Problem Solvent]] (20, 48)
 ## Miscasts
 - Level 1 Miscast - Sweating Chemicals
 	- A layer of [[Break-Through]] generates on your skin, giving any armor you are wearing 3 levels of [[Armor Corrosion]] and dealing 2d8 Corrosion damage to you.
