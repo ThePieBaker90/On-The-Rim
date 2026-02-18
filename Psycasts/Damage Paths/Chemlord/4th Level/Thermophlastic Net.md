@@ -13,17 +13,25 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
-	- 15ft
+	- 20ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Instant.
+	- 1 Turn. (+1 turn)
 - **Effects**:
-	- A net made out of [[Thermophlastic]] shoots out towards a creature within range. The creature must make a dexterity saving throw to avoid the net. 
-		- On a failure they become [[Grappled]] for 1 turn and are knocked away from the caster 10ft. 
-		- On a success, nothing happens.
-		- If the creature is knocked into a wall, they are [[Grappled]] for an additional turn and take 1d8 bludgeoning damage.
+	- *A [[Thermophlastic]] shoots from your outstretched hand, wrapping around any enemy it hits. This net makes it impossible to move or use your hands making it exceptional at catching targets running away.*
+	- The target creature must make a dexterity saving throw to avoid the net. 
+		- On a failure they become afflicted by this psycast for the psycast duration and take knockback away from the caster.
+			- If the creature is knocked into a wall, they take damage from being slammed into the wall.
+		- On a success, this psycast ends.
+	- Afflicted creatures suffer the following:
+		- They are [[Grappled]].
+		- Their arms or legs are restrained to their body.
+		- They have disadvantage on dexterity checks.
+- **Stats**:
+	- 5ft Knockback.
+	- 1d8 Bludgeoning Damage from Wall Slam.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the [[Grappled]] status lasts for an additional turn.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.
