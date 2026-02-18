@@ -15,17 +15,18 @@ tags:
 - [[Range]]:
 	- 45ft.
 - **Target**:
-	- Up to two creatures within range.
+	- A creature within range for each bomb shot, this may go over obstacles and the individual targets may target the same creature.
 - **Components**:
 	- Kinetic, Material (3kg of [[Abomination Matter]]).
 - **Duration**:
 	- Instant.
 - **Effects**:
 	- *You shoot a pair of [[Abomination Matter]] bombs which explode on contact with a creature, or roll away if they hit the ground. The explosion, although short ranged, will deal considerable damage to anyone caught within the blast.
-	- You shoot two mini-bombs made out of [[Abomination Matter]], one at each target creature. Make a roll to hit for each mini-bomb, adding your psycasting ability modifier to each result. 
-		- On a hit, the mini-bomb explodes, dealing damage to all creatures within explosion distance of the creature.
-		- On a miss, the mini-bomb lands in a nearby location of the DM's choice, it explodes after its fuse duration. This explosion deals damage to all creatures within explosion distance of the bomb.
+	- You throw mini goo bombs made out of [[Abomination Matter]], one at each target creature. Make a roll to hit for each bomb, adding your psycasting ability modifier to each result. 
+		- On a hit, the bomb explodes, dealing damage to all creatures within explosion distance of the creature.
+		- On a miss, the bomb lands in a nearby location of the DM's choice, it explodes after its fuse duration. This explosion deals damage to all creatures within explosion distance of the bomb.
 - **Stats**:
+	- 2 Goo Bombs.
 	- 1d6 Force + 1d8 Corrosion Damage from Explosion. (+1d6 Force + 1d8 Corrosion Damage)
 	- 5ft Explosion Distance.
 	- 1 Turn Fuse Duration.
