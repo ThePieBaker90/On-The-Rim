@@ -15,17 +15,24 @@ tags:
 - [[Range]]:
 	- 35ft
 - **Target**:
-	- Several points within range.
+	- A point within range for each orb created.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- 10 turns.
 - **Effects**:
-	- You create 4 orbs made of [[OrganiX]] at 4 different points within range. These orbs are stationary and have 5 health. You may expend a bonus action to detonate an orb of your choice. When an orb detonates all creatures within 5ft of the orb must make a Dexterity saving throw. 
-		- On a failed save, a creature takes 2d6 Corrosion damage. 
-		- On a successful save, they take half as much damage.
-		- If an orb is reduced to 0 health, it detonates.
-		- Orbs automatically detonate when the psycast ends.
-		- Orbs are immune to corrosion damage and psychic damage.
+	- *Several orbs of [[OrganiX]] rise out of the ground, creating a green minefield of barely held together bubbles. Most disturbances will cause the orb to detonate dealing damage to those caught in the explosion.*
+	- You create orbs made of [[OrganiX]], one at each of the target points. 
+		- These orbs are stationary and cannot be moved.
+	- When an orb is reduced to 0 health, it detonates. All creatures within its explosion radius must make a Dexterity saving throw. 
+		- On a failed save, they take damage from the explosion.
+		- On a successful save, they take half as much damage from the explosion.
+	- Orbs created by this psycast are reduced to 0 health when the psycast ends.
+	- Orbs are immune to corrosion damage and psychic damage.
+- **Stats**:
+	- 4 Orbs Created. (+1 Orb)
+	- 5 Orb Health.
+	- 5ft Orb Explosion Radius.
+	- 2d6 Corrosion Damage from Orb Explosion.
 - **Upcasting**:
-	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, an additional orb is created.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional orb is created.
