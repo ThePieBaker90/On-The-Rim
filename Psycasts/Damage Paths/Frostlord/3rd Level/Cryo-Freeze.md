@@ -9,22 +9,28 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 12
+	- 14
 - **[[Neural Heat]] Generation:**
-	- 26 (26)
+	- 15 (15)
 - [[Range]]:
 	- Self.
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
-	- Concentration, up to 3 turns
+	- Concentration, up to 3 turns.
 - **Effects**:
-	- You encase yourself in a solid block of ice, gaining the [[Frozen Solid]] condition.
-		- This ice only takes damage from fire damage, it has 30 health.
-			- The ice is not vulnerable to fire damage.
-		- If you end your turn [[Frozen Solid]], you regain 2d10+4 health.
-		- When concentration is lost, you immediately lose the condition. You may stop concentrating on the psycast while incased in the ice.
+	- *You freeze yourself in a chunk of ice, using the time in the ice to heal your injuries.*
+	- For the psycast duration you suffer the following effects:
+		- You are [[Frozen Solid]] for the psycast duration.
+			- This ice only takes damage from fire damage.
+				- The ice is not vulnerable to fire damage.
+			- This ice has a special health.
+		- If you end your turn [[Frozen Solid]], you heal health.
+		- You may stop concentrating on this psycast while [[Frozen Solid]].
+- **Stats**:
+	- 2d10 + 4 Healing from the Ice. (+1d10 Healing)
+	- 30 Ice Health.
 - **Upcasting**:
-	- You may upcast this psycast. For every 34 psyfocus spent above the normal cost for this psycast, you heal an additional 2d10 health at the end of each of your turns while [[Frozen Solid]].
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the healing you receive from this psycast is increased by 2d10.
