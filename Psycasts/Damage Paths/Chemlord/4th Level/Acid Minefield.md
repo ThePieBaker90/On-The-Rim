@@ -30,7 +30,7 @@ tags:
 	- Orbs created by this psycast are reduced to 0 health when the psycast ends.
 	- Orbs are immune to corrosion damage and psychic damage.
 - **Stats**:
-	- 4 Orbs Created. (+1 Orb)
+	- 4 Acid Orbs. (+1 Orb)
 	- 5 Orb Health.
 	- 5ft Orb Explosion Radius.
 	- 2d6 Corrosion Damage from Orb Explosion.
