@@ -26,6 +26,10 @@ tags:
 		- Bricks - Bludgeoning Damage.
 		- Discs - Slashing Damage.
 		- Spikes - Piercing Damage.
-	- You shoot 3 stones of the chosen shape at a creature within range. Make a roll to hit for each stone, adding your psycasting ability modifier to each result. On a hit, a stone deals 1d6 damage of the type that corresponds to its shape.
+	- Make a ranged attack roll for each stone, adding your psycasting ability modifier to each result. On a hit, a stone deals damage corresponding to its shape.
+- **Stats**:
+	- 1d6 Bludgeoning Damage from Brick.
+	- 1d6 Slashing Damage from Disc.
+	- 1d6 Piercing Damage from Spike.
 - **Upcasting**:
 	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage of each stone increases by 1d6 damage.

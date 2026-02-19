@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You shoot a pair of [[Abomination Matter]] bombs which explode on contact with a creature, or roll away if they hit the ground. The explosion, although short ranged, will deal considerable damage to anyone caught within the blast.
-	- You throw mini goo bombs made out of [[Abomination Matter]], one at each target creature. Make a roll to hit for each bomb, adding your psycasting ability modifier to each result. 
+	- Make a ranged attack roll against the target creature for each bomb, adding your psycasting ability modifier to each result. 
 		- On a hit, the bomb explodes, dealing damage to all creatures within explosion distance of the creature.
 		- On a miss, the bomb lands in a nearby location of the DM's choice, it explodes after its fuse duration. This explosion deals damage to all creatures within explosion distance of the bomb.
 - **Stats**:

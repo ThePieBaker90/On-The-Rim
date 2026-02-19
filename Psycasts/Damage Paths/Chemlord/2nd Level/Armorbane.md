@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- *A twisting green bolt of [[Break-Through]] shoots out of your hand, ripping through any armor that tries to stop it.*
-	- Make a roll to hit against the target creature, adding your psycasting ability modifier to the result. 
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. 
 		- On a hit, the creature takes damage from the bolt and any armor they are wearing gains [[Armor Corrosion]].
 		- This attack ignores all of a creature's [[Armor Class]].
 - **Stats**:

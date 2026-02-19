@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You summon several fragments of ice and launch them at a creature, each fragment deals a small amount of cold damage.*
 	- Make a ranged attack roll against the target creature for each ice fragment, adding your psycasting ability modifier to each result. 
-		- On a hit, a fragment a small amount of cold damage.
+		- On a hit, the fragment deals a small amount of cold damage.
 - **Stats**:
 	- 4 Ice Fragments.
 	- 1d6 Cold Damage from Fragment Hit.
