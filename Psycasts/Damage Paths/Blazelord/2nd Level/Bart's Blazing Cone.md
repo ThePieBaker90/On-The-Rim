@@ -25,6 +25,7 @@ tags:
 	- All creatures within the target cone must make a Dexterity saving throw to avoid the blaze. 
 		- On a failed save, they take fire damage and catch [[On Fire!]].
 		- On a successful save, they take half damage.
+	- You are immune to the effects of this psycast.
 - **Stats**:
 	- 2d4 Fire Damage from the Blaze. (+2d4 Fire Damage)
 	- 1d4 - 1 Turn [[On Fire!]] Duration.
