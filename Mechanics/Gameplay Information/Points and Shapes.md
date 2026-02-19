@@ -10,7 +10,7 @@ Surface point is mentioned in [[Darius' Dislocate]]
 Stable surface is mentioned in [[Gooey Punch]].
 Sphere [[Healing Nova]]
 Cone [[Bart's Blazing Cone]] Includes apex, base, length and max width
-Cuboid [[Gravitational Shockwave]]
+Cuboid [[Gravity Shove]]
 Arc ([[Problem Solvent]]) (Originates from the vertex between the two flat surfaces.)
 Vector that is normal [[Gooey Punch]]
 Circles or rings [[Ninth Circle of Hell]]
