@@ -13,7 +13,7 @@ aliases:
 	- [[Hailshot]] (2, 20)
 - 2nd Level:
 	- [[Freeze Ray]] (4, 22)
-	- [[Cooling Crystal]] (26, 0)
+	- [[Cooling Crystal]] (24, 0)
 - 3rd Level:
 	- [[Ice Wall]] (6, 28)
 	- [[Cryo-Freeze]] (12, 26)
