@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 20
 - [[Range]]:
-	- Self.
+	- Touch.
 - **Target**:
 	- A cone with its apex within range.
 - **Components**:
@@ -25,7 +25,6 @@ tags:
 	- All creatures within the target cone must make a Dexterity saving throw to avoid the spread of hail. 
 		- On a failed save, they take damage from the hail.
 		- On a successful save, nothing happens.
-	- You are immune to the effects of this psycast.
 - **Stats**:
 	- 1d6 Piercing + 1d6 Cold Damage from Hail. (+1d6 Piercing + 1d6 Cold Damage)
 	- 30ft Target Cone Length.

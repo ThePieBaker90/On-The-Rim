@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- A circle within range.
+	- A circle with its center within range.
 - **Components**:
 	- Verbal.
 - **Duration**:

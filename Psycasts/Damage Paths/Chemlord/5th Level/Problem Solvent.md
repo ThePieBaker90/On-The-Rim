@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 48
 - [[Range]]:
-	- Self.
+	- Touch
 - **Target**:
 	- An arc with the vertex between its two flat surfaces within range.
 - **Components**:
@@ -27,7 +27,6 @@ tags:
 			- This corrosion damage can not be reduced by resistances, it may still be blocked with immunities.
 		- On a success, they take half as much damage.
 	- All objects in the target area are coated by [[Matterbane]], taking heavy corrosion damage.
-	- You are immune to the effects of this psycast.
 - **Stats**:
 	- 6d10 Corrosion Damage from [[Matterbane]]. (+2d10 Corrosion Damage)
 	- 4 Levels of [[Armor Corrosion]] Applied.

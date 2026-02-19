@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 6
 - [[Range]]:
-	- Self.
+	- Touch.
 - **Target**:
 	- Self.
 - **Components**:

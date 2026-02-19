@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A cuboid with the caster centered on a square face and a point on that face within range.
+	- A cuboid with the caster centered on a square face and the center point of that face within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:

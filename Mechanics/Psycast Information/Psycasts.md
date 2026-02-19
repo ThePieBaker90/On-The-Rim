@@ -84,6 +84,7 @@ aliases:
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
 	- "Within range of you" in the psycast effects means you can draw a straight line from you to a relevant point within range that is equal to or less than the length specified within range.
 		- For ranges that are shapes, this means that a point encapsulated within the shape when the shape is centered on you is within range.
+	- "Touch" means up to the caster's reach, for more creatures this is 5ft.
 	- "Self" in the range means the direct center of the caster.
 - There may be a modifier in parenthesis after the range, this indicates the change in range when the psycast is [[#Upcasting|Upcast]] to one degree.
 ## Psycast Targeting
