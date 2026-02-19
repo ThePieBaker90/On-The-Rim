@@ -13,19 +13,19 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 22
 - [[Range]]:
-	- 120ft
+	- 120ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
 	- *A ray of pure cold shoots out of your palm, freezing whatever it comes into contact with.*
 	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier. 
 		- On a hit, the ray deals cold damage and applies [[Frozen Solid]].
 - **Stats**:
 	- 2 Turn [[Frozen Solid]] Duration.
-	- 3d6 Cold Damage from Freeze Ray.
+	- 3d6 Cold Damage from Freeze Ray. (+2d6 Cold Damage)
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the ray deals an additional 1d6 cold damage.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the ray deals an additional 2d6 cold damage.
