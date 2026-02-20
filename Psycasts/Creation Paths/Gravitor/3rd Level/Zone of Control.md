@@ -30,11 +30,11 @@ tags:
 			- On a failure, they are forced [[Prone]] until they leave the zone. 
 			- On a success, nothing happens.
 			- Creatures supported by an object automatically succeed the saving throw.
-		- Their [[Movement Speed]] is slowed.
+		- They require more [[Movement Speed]] to traverse per 1ft moved.
 		- They ignore external sources of gravity.
 		- If they are upside down, they lose health at the beginning of their turn.
 - **Stats**:
-	- 10ft [[Movement Speed]] Slow.
+	- +1ft [[Movement Speed]] Required Per 1ft Moved.
 	- 1d4 Health Loss Per Turn While Upside Down.
 	- 15ft Target Cylinder Radius. (+5ft)
 	- 30ft Target Cylinder Height.
