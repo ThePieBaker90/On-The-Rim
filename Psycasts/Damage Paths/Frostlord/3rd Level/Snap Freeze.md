@@ -13,13 +13,13 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 30 (30)
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range for each freezing mote.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns
+	- Concentration, up to 3 turns.
 - **Effects**:
 	- *You summon a small freezing mote above several creatures heads. The mote shoots down after a short delay, anyone who fails to avoid it is frozen solid.*
 	- Each target creature must make a Dexterity saving throw to avoid the freezing motes. 
