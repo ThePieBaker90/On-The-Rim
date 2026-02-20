@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 44 (34)
+	- 44 (29)
 - [[Range]]:
 	- Self.
 - **Target**:
@@ -23,17 +23,17 @@ tags:
 - **Effects**:
 	- **
 	- The target sphere is centered on you at all times and follows you when you move. 
-	- TODOOOO An area of harsh arctic wind surrounds you damaging all creatures within range. This arctic wind follows you if you move. If a creature starts their turn, enters for the first time this turn, or ends their turn within the area, they must make a Constitution saving throw. 
-		- On a failure, they take 3d8 cold damage.
-		- On a success, they take half damage. 
 	- The target sphere has the following effects for the psycast duration:
-		- Traversing through the target sphere requires additional [[Movement Speed]] per 1ft moved.
+		- Traversing through it requires additional [[Movement Speed]] per 1ft moved.
+		- A creature entering the target sphere or starting their turn within the target sphere must make a Constitution saving throw. 
+			- On a failure, they take damage from the harsh winds.
+			- On a success, they take half as much damage from the winds.
+		- All standing water within it is frozen.
 	- The user and their allies ignore the effects of the arctic wind.
-		- The wind freezes all standing water that within the area.
 	- You are immune to the effects of this psycast.
 - **Stats**:
 	- 4d8 Cold Damage from Cold Winds.
 	- +1ft [[Movement Speed]] Required Per 1ft Moved.
 	- 10ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the radius of the sphere increases by 5ft.
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the radius of the sphere increases by 5ft.
