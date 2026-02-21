@@ -21,7 +21,7 @@ aliases:
 - 4th Level:
 	- [[Arctic Wind]] (3, 44)
 - 5th Level:
-	- [[Icicle Impale]] (6, 52)
+	- [[Icicle Impale]] (5, 50)
 	- [[Temperature Plunge]] (28, 58)
 ## Miscasts
 - Level 1 Miscast - Sudden Ice Rink

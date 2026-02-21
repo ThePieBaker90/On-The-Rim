@@ -9,20 +9,26 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 5
 - **[[Neural Heat]] Generation:**
-	- 52
+	- 50
 - [[Range]]:
-	- 350ft
+	- 350ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
-	- You shoot a massive icicle towards a creature within range. Make a roll to hit with the icicle, adding your psycasting ability modifier to the result. 
-		- On a hit, the icicle pierces the creature dealing 4d6+6 piercing and 4d6+6 cold damage. Additionally, any armor the creature is wearing gains 4 levels of [[Armor Corrosion]], and the creature gains the [[Frozen Solid]] condition for 3 turns.
-		- This attack has an [[Armor Piercing]] of 16. 
+	- *You launch a massive icicle with enough force to punch through thick armors. The icicle's intense cold freezes anything it impacts, usually turning unsuspecting creatures into poetic although short-lived sculptures.*
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. The icicle has a unique [[Armor Piercing]].
+		- On a hit, the icicle deals massive damage and applies [[Frozen Solid]] to the creature. The icicle also applies [[Armor Corrosion]] to any armor the creature may be wearing.
+- **Stats**:
+	- 4d6 + 6 Piercing + 4d6 + 6 Cold Damage from Icicle.
+	- 4 Levels of [[Armor Corrosion]] Applied.
+	- 3 Turn [[Frozen Solid]] Duration.
+	- 0 Icicle Hit Modifier. (+4)
+	- 16 Icicle [[Armor Piercing]].
 - **Upcasting**:
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the user gains +4 to hit.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the icicle gains +4 to hit.
