@@ -22,13 +22,13 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You launch a massive icicle with enough force to punch through thick armors. The icicle's intense cold freezes anything it impacts, usually turning unsuspecting creatures into poetic although short-lived sculptures.*
-	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. The icicle has a unique [[Armor Piercing]].
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. The icicle has a unique [[Armor Piercing]] and hit modifier.
 		- On a hit, the icicle deals massive damage and applies [[Frozen Solid]] to the creature. The icicle also applies [[Armor Corrosion]] to any armor the creature may be wearing.
 - **Stats**:
 	- 4d6 + 6 Piercing + 4d6 + 6 Cold Damage from Icicle.
 	- 4 Levels of [[Armor Corrosion]] Applied.
 	- 3 Turn [[Frozen Solid]] Duration.
-	- 0 Icicle Hit Modifier. (+4)
+	- +2 Icicle Hit Modifier. (+4)
 	- 16 Icicle [[Armor Piercing]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the icicle gains +4 to hit.
