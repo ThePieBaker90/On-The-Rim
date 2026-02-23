@@ -4,7 +4,7 @@ tags:
   - Blazelord
   - 5th-Level
 ---
-- **Path**:
+**- **Path**:
 	- 5th Level [[Blazelord Psycasts|Blazelord Psycast]]
 - **Casting Time:**
 	- 1 Action.
