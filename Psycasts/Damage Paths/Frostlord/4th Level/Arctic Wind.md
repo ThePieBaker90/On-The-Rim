@@ -33,7 +33,7 @@ tags:
 	- You are immune to the effects of this psycast.
 - **Stats**:
 	- 4d8 Cold Damage from Cold Winds.
-	- +1ft [[Movement Speed]] Required Per 1ft Moved.
+	- +1ft [[Movement Speed]] Required Per 1ft Moved Through Cold Winds.
 	- 10ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the radius of the sphere increases by 5ft.

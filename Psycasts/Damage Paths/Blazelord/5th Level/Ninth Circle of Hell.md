@@ -30,7 +30,7 @@ tags:
 		- Their [[Movement Speed]] is slowed.
 		- When they first become afflicted, they must make a Dexterity saving throw.
 			- On a failure, they take damage from the fire and catch [[On Fire!]].
-			- On a success, they take half as much damage and may move either side of the fire with their [[Movement Speed]], losing affliction in the process.
+			- On a success, they take half as much damage and may move to either side of the fire with their [[Movement Speed]], losing affliction in the process.
 		- When the begin or end their turn, they must make a Constitution saving throw.
 			- On a failure, they take damage from the fire and catch [[On Fire!]].
 			- On a success, they take half as much damage,

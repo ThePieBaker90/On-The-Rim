@@ -34,7 +34,7 @@ tags:
 		- They ignore external sources of gravity.
 		- If they are upside down, they lose health at the beginning of their turn.
 - **Stats**:
-	- +1ft [[Movement Speed]] Required Per 1ft Moved.
+	- +1ft [[Movement Speed]] Required Per 1ft Moved While Afflicted.
 	- 1d4 Health Loss Per Turn While Upside Down.
 	- 15ft Target Cylinder Radius. (+5ft)
 	- 30ft Target Cylinder Height.
