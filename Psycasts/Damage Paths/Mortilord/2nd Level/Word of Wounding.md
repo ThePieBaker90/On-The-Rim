@@ -7,22 +7,26 @@ tags:
 - **Path**:
 	- 2nd Level [[Mortilord Psycasts|Mortilord Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
 	- 23
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You say a word of harming, target creature within range must make a Constitution saving throw. 
-		- On a failure, they take 2d4 necrotic damage and gain [[Antiheal]] for 1 turn. 
+	- *You say a word of wounding, imbued with psychic energy, directed a creature. The word reopens old wounds and prevents them from healing.*
+	- The target creature must make a Wisdom saving throw to psychically defend from the word.
+		- On a failure, they take damage from reopened wounds and gain [[Antiheal]].
 		- On a success, nothing happens.
+- **Stats**:
+	- 3d4 Necrotic Damage from Wounds.
+	- 1 Turn [[Antiheal]] Duration. (+1 Turn)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, this psycast deals an additional 1d10 necrotic damage.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the duration of [[Antiheal]] increases by 1 turn.
