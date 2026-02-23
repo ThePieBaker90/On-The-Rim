@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You point at a corpse causing it to immediately explode into viscera and gibs. This explosion releases necrotic energy held within the corpse, dealing damage to those nearby.*
 	- All creatures within explosion distance of the target corpse must make a Constitution saving throw to avoid absorbing the necrotic energy.
-		- On a failure, they take moderate damage from absorbing the necrotic energy.
+		- On a failure, they take moderate damage.
 		- On a success, nothing happens.
 	- Corpses targeted by this psycast explode into gibs and cannot be targeted by this psycast again or any other effects reliant on the corpse being intact.
 	- The target for this psycast may be a [[Medium Shambler|Shambler]] you created. If it is, this psycast has no [[Neural Heat]] cost when used.
