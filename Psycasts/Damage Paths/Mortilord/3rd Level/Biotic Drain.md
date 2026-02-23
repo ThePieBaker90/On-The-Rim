@@ -26,6 +26,7 @@ tags:
 		- On a success, you lose concentration.
 	- If the creature leaves the range of the psycast, you lose concentration.
 - **Stats**:
-	- 
+	- 1d10 Necrotic Damage from Health Drain.
+	- 1:1 Damage to Healing Ratio.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
