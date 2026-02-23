@@ -13,19 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 58
 - [[Range]]:
-	- 30ft sphere.
+	- A sphere within range.
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- 5 turns
 - **Effects**:
-	- You release a burst of pure cold from yourself freezing everything within range. 
-		- All creatures in range (except for you) must make a Dexterity saving throw. 
+	- *You release a burst of pure cold freezing everything*
+	- All creatures within the target sphere must make a Dexterity saving throw. 
 			- On a failure, they take 1d12 + 4 cold damage and become [[Frozen Solid]] for 2 turns. 
 			- On a success, nothing happens. 
 		- The temperature within range instantly drops to -10C and all liquids that can be frozen at that temperature are immediately frozen.
-		- Ice covers all floors within range making all floors within range difficult terrain
+		- Ice covers all floors within range making all floors within range difficult terrain.
+- **Stats**:
+	- 30ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage of the psycast increases by 1d12 cold damage.
