@@ -25,7 +25,7 @@ aliases:
 	- [[Temperature Plunge]] (30, 38)
 ## Miscasts
 - Level 1 Miscast - Sudden Ice Rink
-	- Ice spreads around you covering the nearby floors. All surfaces within a sphere of 20ft radius, centered on you become difficult terrain.
+	- Ice spreads around you covering the nearby floors. All surfaces within a sphere of 20ft radius centered on you cost an additional 1ft of [[Movement Speed]] per 1ft used to traverse the ice. This ice lasts for 3 turns.
 - Level 2 Miscast - Self Popsicle
 	- You become encased in a solid block of ice. You gain the [[Frozen Solid]] condition for 3 turns.
 ## Crosspath Psycasts
