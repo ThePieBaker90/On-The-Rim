@@ -11,9 +11,9 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
-	- 28
+	- 28 (0)
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -25,5 +25,7 @@ tags:
 		- On a failure, they take 1d10 necrotic damage and you heal the damage they took. 
 		- On a success, you lose concentration.
 	- If the creature leaves the range of the psycast, you lose concentration.
+- **Stats**:
+	- 
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
