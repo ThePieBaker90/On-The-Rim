@@ -28,5 +28,6 @@ tags:
 	- 65 [[Abomination]] Health. (+25 Health)
 	- 1d10 + 3 Bludgeoning Damage from [[Abomination]] Melee Attack.
 	- 1d8 - 1 Bludgeoning Damage from [[Abomination]] Ranged Attack.
+	- 25ft [[Abomination]] [[Movement Speed]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the [[Abomination]] health increases by 25 health.
