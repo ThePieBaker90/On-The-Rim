@@ -15,7 +15,7 @@ aliases:
 	- [[Touch of Wounding]] (4, 20)
 	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
-	- [[Biotic Drain]] (5, 28)
+	- [[Biotic Drain]] (4, 30)
 	- [[Enthrall]] (10, 22)
 	- [[Weakening Ray]] (3, 26)
 - 4th Level:
