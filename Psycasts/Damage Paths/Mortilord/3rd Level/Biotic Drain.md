@@ -21,13 +21,13 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
-	- *You create a psychic link between you and a creature, this link allows you to drain their health while healing your own.*
+	- *You create a psychic link between you and a creature, this link allows you to drain their health while healing your own. A faint green mystical line can be seen connecting your forehead to the creature's forehead.*
 	- At the beginning of each of your turns, the target creature must make a Wisdom saving throw to break the psychic link. 
-		- On a failure, you sap health from them, dealing damage and healing yourself for the damage dealt.
+		- On a failure, you steal health from them, dealing damage and healing yourself for the damage dealt.
 		- On a success, you lose concentration on this psycast.
 	- If the creature leaves the range of the psycast, you lose concentration on this psycast.
 - **Stats**:
-	- 1d10 + 2 Necrotic Damage from Health Sap. (+1d10 Necrotic Damage)
+	- 1d10 + 2 Necrotic Damage from Health Steal. (+1d10 Necrotic Damage)
 	- 1:1 Damage to Healing Ratio.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage from the health sap increases by 1d10 necrotic damage.
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage from the health steal increases by 1d10 necrotic damage.
