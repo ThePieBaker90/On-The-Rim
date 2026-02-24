@@ -1,6 +1,8 @@
 ---
 tags:
   - Info
+aliases:
+  - Condition
 ---
 ## Condition Overview
 - Conditions are effects that affect a creature. A creature may have an unlimited amount of conditions affecting them, although all non-[[#Stacking Conditions]] cannot have multiple instances on that creature. 

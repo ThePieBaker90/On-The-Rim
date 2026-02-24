@@ -11,26 +11,26 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
-	- 37
+	- 36
 - [[Range]]:
 	- 20ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- 3 turns. (+1 turn)
 - **Effects**:
-	- *You rot a creature from the inside, reducing their healing, damage, and dealing them damage. 
-	- A creature of your choice within range must make a Constitution saving throw. 
+	- *You rot a creature from the inside, reducing their healing and damage outputs while inflicting them with damage over time.*
+	- The target creature must make a Constitution saving throw to avoid being rotted. 
 		- On a failure, the creature is afflicted for the duration of the psycast.
-		- On a success, nothing happens.
+		- On a success, this psycast ends.
 	- Afflicted creatures suffer the following:
-		- They take 1d6 + 2 necrotic damage at the beginning of their turn.
+		- They take damage from the rot at the beginning of their turn.
 		- They gain [[Weakness]].
 		- They gain [[Antiheal]].
 		- They gain [[Healbane]]. 
 - **Stats**:
-	- 1d6 + 2 Necrotic Damage Every Turn.
+	- 1d6 + 2 Necrotic Damage Every Turn from Rot.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

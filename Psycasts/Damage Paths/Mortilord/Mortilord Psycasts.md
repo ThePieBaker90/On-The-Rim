@@ -19,7 +19,7 @@ aliases:
 	- [[Enthrall]] (10, 22)
 	- [[Weakening Ray]] (4, 25)
 - 4th Level:
-	- [[Decay]] (4, 37)
+	- [[Decay]] (4, 36)
 	- [[Health Siphon]] (3, 44)
 - 5th Level:
 	- [[Reanimate]] (85, 0)
