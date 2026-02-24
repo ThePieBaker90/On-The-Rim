@@ -25,7 +25,7 @@ tags:
 	- Target creature must make a Constitution saving throw to steel themselves from the reflux.
 		- Upon a failure, they are afflicted for the psycast duration.
 		- On a success, nothing happens.
-	- Creatures afflicted by this psycast suffer the following effects:
+	- Afflicted creatures suffer the following effects:
 		- They cannot concentrate on psycasts.
 		- They gain disadvantage on all ability checks and rolls to hit.
 		- At the beginning of their turn, they must make another Constitution saving throw. 

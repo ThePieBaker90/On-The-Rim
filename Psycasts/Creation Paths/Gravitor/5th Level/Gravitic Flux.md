@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You create a large area of inverted gravity, causing creatures to lift into the air before you invert the gravity, slamming them into the ground and dealing massive damage.
 	- All creatures within the target cylinder must make a Constitution saving throw when this psycast is cast. 
-		- On a failure, they are afflicted.
+		- On a failure, they are afflicted for the psycast duration.
 		- On a success, nothing happens. 
 	- Afflicted creatures suffer the following effects for the psycast duration:
 		- They are levitated into the air.

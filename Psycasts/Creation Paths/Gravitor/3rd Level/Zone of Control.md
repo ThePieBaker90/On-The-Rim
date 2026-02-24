@@ -25,7 +25,7 @@ tags:
 	- The target cylinder has the following effects:
 		- Creatures are afflicted while inside the target cylinder.
 		- Projectiles travelling through the target cylinder have double disadvantage to hit.
-	- Afflicted creatures suffer the following effects for the psycast duration:
+	- Afflicted creatures suffer the following effects:
 		- When they first become afflicted and at the beginning of their turn, they must make a constitution saving throw.
 			- On a failure, they are forced [[Prone]] until they leave the zone. 
 			- On a success, nothing happens.
