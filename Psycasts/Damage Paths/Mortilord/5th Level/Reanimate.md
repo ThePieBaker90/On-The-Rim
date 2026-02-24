@@ -17,19 +17,23 @@ tags:
 - **Target**:
 	- A dead creature within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You target a dead creature within range that fulfills the following conditions:
+	- *You bring a creature who recently died back to life, although the processes of decay has already started causing the creature to suffer heavy side effects.*
+	- The target creature must meet the following conditions for this psycast to cast:
 		- They were alive within the last 5 minutes.
 		- They have no missing body parts that are necessary to live.
 		- They did not die of old age.
 		- They are not suffering any effects preventing resurrection.
 		- They are willing to resurrect.
-	- That creature then suffers the following effects:
+	- The target creature suffers the following effects:
 		- They return to life with 1 health.
-		- They have 1d4 random internal parts gain [[Organ Decay]].
-		- They fall [[Unconscious]] for 1 day.
+		- They have random internal parts gain [[Organ Decay]].
+		- They fall [[Unconscious]].
+- **Stats**:
+	- 1d4 Internal Parts Gain [[Organ Decay]].
+	- 1 Day [[Unconscious]] Duration.
 - **Upcasting**:
 	- You cannot upcast this psycast.

@@ -14,21 +14,24 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 15ft
+	- 15ft.
 - **Target**:
 	- A dead creature within range.
 - **Components**:
-	- Gesture, Material (One of the caster's [[Natural]] [[Hands|Fingers]] which is consumed)
+	- Gesture, Material (One of the caster's [[Natural]] [[Hands|Fingers]] which is consumed).
 		- The finger must be attached to the caster.
 		- The caster must have been born with the finger.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You target a dead creature within range that fulfills the following conditions:
+	- *You use life energy within one of your fingers to perform a perfect resurrection, bringing a creature back to life and mending life threatening wounds.*
+	- The target creature must meet the following conditions for this psycast to cast:
 		- They are not suffering any effects preventing resurrection.
 		- They are willing to resurrect.
-	- That creature then suffers the following effects:
+	- The target creature suffers the following effects:
 		- They return to life at full health.
 		- All missing body parts are replaced by natural versions.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.
