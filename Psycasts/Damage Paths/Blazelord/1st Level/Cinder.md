@@ -27,4 +27,4 @@ tags:
 - **Stats**:
 	- 1d8 + 1 Fire Damage from the Fire Mote. (+1d8 Fire Damage)
 - **Upcasting**:
-	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 fire damage.
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the mote deals an additional 1d8 fire damage.

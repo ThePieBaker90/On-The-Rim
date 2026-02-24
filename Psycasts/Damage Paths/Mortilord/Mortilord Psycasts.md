@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Biotic Drain]] (4, 30)
 	- [[Enthrall]] (10, 22)
-	- [[Weakening Ray]] (3, 26)
+	- [[Weakening Ray]] (4, 25)
 - 4th Level:
 	- [[Decay]] (4, 37)
 	- [[Health Siphon]] (3, 44)
