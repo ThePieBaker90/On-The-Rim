@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Zap]] (2, 16)
-	- [[Bolt]] (2, 12)
+	- [[Bolt]] (2, 13)
 - 2nd Level:
 	- [[EMP Blast]] (6, 33)
 	- [[Power Surge]] (5, 32)

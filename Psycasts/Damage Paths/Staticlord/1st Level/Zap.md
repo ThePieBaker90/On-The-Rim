@@ -21,11 +21,11 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You attempt to shock a creature within range with a high amount of static electricity. 
+	- *You shock a creature within range with a high amount of static electricity. The damage from the electricity scales with how far you have moved this turn.*
 	- Make a melee attack roll against the target creature, adding your psycasting ability modifier to the result. 
 		- On a hit, the creature takes damage scaling with the distance you have moved this turn.
 - **Stats**:
 	- 1d4 Electric Damage Base Damage.
 	- +1d4 Electric Damage per 5ft the Caster has Moved. (+1d4 Electric Damage)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage scales by an additional 1d4 electric damage.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, every 5ft you move adds an extra 1d4 electric damage.
