@@ -9,26 +9,32 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 10
 - **[[Neural Heat]] Generation:**
-	- 33
+	- 26
 - [[Range]]:
-	- 35ft
+	- 35ft.
 - **Target**:
-	- A point within range.
+	- A sphere with its center within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a large electromagnetic pulse within a 15ft sphere centered on a point within range. Within the sphere, the following effects occur:
-		- All non-[[Cybernetics|Cybernetic]] or non-EMP-shielded electronics in the area are disabled for 3 turns. 
-		- Each creature with a [[Cybernetics|Cybernetic]] in the sphere must make a constitution saving throw. 
-			- On a failure, all [[Cybernetics]] the creature has are [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 2 turns. 
+	- *You create a large electromagnetic pulse at an area disabling all electronics in the area for a short time.*
+	- Within the target sphere, the following effects occur:
+		- All non-[[Cybernetics|Cybernetic]] or non-EMP-shielded electronics are disabled for 3 turns. 
+		- Each creature with a [[Cybernetics|Cybernetic]] must make a constitution saving throw.
+			- On a failure, all [[Cybernetics]] the creature has are [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
 			- On a success, nothing happens.
 		- Each construct must make a constitution saving throw. 
-			- On a failure, the creature is [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 2 turns. 
+			- On a failure, the creature is [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
 			- On a success, nothing happens.
+- **Stats**:
+	- 3 Turn Electronic Disable Duration.
+	- 2 Turn [[Cybernetics|Cybernetic]] [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] Duration.
+	- 2 Turn Construct [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] Duration.
+	- 15ft Target Sphere Radius. (+5ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every 19 psyfocus spent above the normal cost for this psycast, the radius of the sphere increases by 5ft.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 5ft.
 

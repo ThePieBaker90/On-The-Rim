@@ -12,7 +12,7 @@ aliases:
 	- [[Zap]] (2, 16)
 	- [[Bolt]] (2, 13)
 - 2nd Level:
-	- [[EMP Blast]] (6, 33)
+	- [[EMP Blast]] (10, 26)
 	- [[Power Surge]] (5, 32)
 	- [[Recharge]] (20, 0)
 - 3rd Level:
