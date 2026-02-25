@@ -24,7 +24,6 @@ tags:
 	- *Your hands inflict wounds and prevent healing on an unlucky creature you touch.*
 	- Make a melee attack roll against the target creature, adding your psycasting ability modifier to the result. 
 		- On a hit, they take moderate necrotic damage and gain [[Antiheal]].
-		- On a miss, nothing happens.
 - **Stats**:
 	- 2d10 Necrotic Damage from Wounds. (+1d10 Necrotic Damage)
 	- 1 Turn [[Antiheal]] Duration.

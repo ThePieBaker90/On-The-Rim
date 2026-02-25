@@ -13,14 +13,19 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 16
 - [[Range]]:
-	- 15ft
+	- Touch.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You attempt to shock a creature within range with a high amount of static electricity. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 1d4 electric damage for every 5ft you've moved since the beginning of your turn.
+	- You attempt to shock a creature within range with a high amount of static electricity. 
+	- Make a melee attack roll against the target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, the creature takes damage scaling with the distance you have moved this turn.
+- **Stats**:
+	- 1d4 Electric Damage Base Damage.
+	- +1d4 Electric Damage per 5ft the Caster has Moved. (+1d4 Electric Damage)
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage scales by an additional 1d4 electric damage.
