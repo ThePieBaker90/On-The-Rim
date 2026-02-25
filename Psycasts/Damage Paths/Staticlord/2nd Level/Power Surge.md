@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Material (9V Battery or Equivalent)
+	- Material (9V or Greater Battery)
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:

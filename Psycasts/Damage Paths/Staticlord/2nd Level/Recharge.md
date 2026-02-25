@@ -17,10 +17,13 @@ tags:
 - **Target**:
 	- A battery within range.
 - **Components**:
-	- Kinetic, Focus (A battery)
+	- Kinetic, Focus (A battery).
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You recharge a battery you are holding with 10kW/h worth of energy.
+	- *You manifest psychic energy as electricity using it to recharge a battery.*
+	- You recharge a battery you are holding.
+- **Stats**:
+	- 10kW/h Max Energy Recharged.
 - **Upcasting**:
 	- You cannot upcast this psycast.
