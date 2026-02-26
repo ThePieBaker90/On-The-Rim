@@ -21,15 +21,15 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *TODO*
+	- *A lightning bolt fires from your hands, electrocuting anything in its path. It deals high damage and disables electronics including [[Cybernetics]].*
 	- All creatures within the target line must make a Dexterity saving throw to avoid the lightning. 
-		- On a failure, they take a large amount of electric damage and a random cybernetic attached to them gains [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
+		- On a failure, they take a large amount of electric damage and a random [[Cybernetics|Cybernetic]] attached to them gains [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
 		- On a success, they take half as much damage.
 	- All non-cybernetic or non-EMP-shielded electronics in the target line are disabled for a short time.
 - **Stats**:
 	- 4d10 Electric Damage from Lightning.
 	- 1 Turn [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] Duration.
-	- 1 [[Cybernetics|Cybernetic]] [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] by Lightning.
+	- 1 [[Cybernetics|Cybernetic]] Gains [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
 	- 3 Turn Electronic Disable Duration.
 	- 30ft Target Line Length. (+10ft)
 	- 10ft Target Line Thickness.
