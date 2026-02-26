@@ -25,7 +25,7 @@ tags:
 	- For the duration of the psycast, when you hit a creature with a ranged attack, an electric spark arcs to each creature within electric spark range of the hit creature. The electric sparks deal very little damage but cannot be avoided.
 		- The creature hit by this psycast can be hit by an electric spark.
 - **Stats**:
-	- 5 Maximum Electric Spark Targets.
+	- 5 Max Electric Spark Targets.
 	- 1 Electric Damage from Electric Spark.
 	- 10ft Electric Spark Range.
 - **Upcasting**:
