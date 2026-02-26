@@ -17,7 +17,7 @@ aliases:
 	- [[Recharge]] (20, 0)
 - 3rd Level:
 	- [[Arcing Lightning]] (4, 32)
-	- [[Increase Static]] (4, 24)
+	- [[Increase Static]] (5, 25)
 - 4th Level:
 	- [[Lightning Bolt]] (3, 44)
 	- [[Ball 'o' Lightning]] (3, 34)

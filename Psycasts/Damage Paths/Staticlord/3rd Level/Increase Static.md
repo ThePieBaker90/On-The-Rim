@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 5
 - **[[Neural Heat]] Generation:**
-	- 24
+	- 25
 - [[Range]]:
-	- 15ft
+	- 15ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,10 +21,12 @@ tags:
 - **Duration**:
 	- 1 turn.
 - **Effects**:
-	- You increase the static electricity a creature generates temporarily.
-	- Afflict a creature within range of your choice.
-	- For the psycast duration, afflicted creatures suffer the following effects:
-		- They take 1d6 electric damage for every 5ft of [[Movement Speed]] they use.
+	- *You drastically increase the static electricity a creature generates. The amount
+	- You afflict the target creature for the psycast duration.
+	- At the end of their turn, afflicted creatures take electric damage scaling with the distance they moved this turn.
+- **Stats**:
+	- 0 Electric Damage Base Damage.
+	- +1d6 Electric Damage per 5ft the Afflicted Creature has Moved.
 - **Upcasting**:
-	- You may upcast this psycast. For every 26 psyfocus spent above the normal cost for this psycast, this psycast last an additional turn.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, this psycast last an additional turn.
 
