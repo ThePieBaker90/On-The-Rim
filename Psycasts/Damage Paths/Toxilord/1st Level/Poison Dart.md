@@ -23,5 +23,8 @@ tags:
 - **Effects**:
 	- You shoot a small poison dart at a creature of your choice. Make a roll to hit, adding your psycasting ability modifier. 
 		- On a hit, the dart deals 1d4 poison damage and applies 2 levels of [[Poison Buildup]] to the creature.
+- **Stats**:
+	- 1d4 Poison Damage from Dart.
+	- 2 Levels of [[Poison Buildup]] Applied. (+2 Levels)
 - **Upcasting**:
 	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Poison Buildup]] is applied.
