@@ -21,10 +21,11 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You shoot a small poison dart at a creature of your choice. Make a roll to hit, adding your psycasting ability modifier. 
-		- On a hit, the dart deals 1d4 poison damage and applies 2 levels of [[Poison Buildup]] to the creature.
+	- *You extend your wrist and flick your hand down causing a small poison soaked dart to fire from the center of your wrist. The dart applies poison buildup and deals minor poison damage.*
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, the dart minor poison damage and applies [[Poison Buildup]].
 - **Stats**:
 	- 1d4 Poison Damage from Dart.
 	- 2 Levels of [[Poison Buildup]] Applied. (+2 Levels)
 - **Upcasting**:
-	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Poison Buildup]] is applied.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Poison Buildup]] is applied.
