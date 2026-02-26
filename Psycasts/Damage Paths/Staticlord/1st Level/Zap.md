@@ -18,7 +18,7 @@ tags:
 	- A creature within range.
 - **Components**:
 	- Kinetic.
-- **Duration**:
+- **Duration**:**
 	- Instant.
 - **Effects**:
 	- *You shock a creature within range with a high amount of static electricity. The damage from the electricity scales with how far you have moved this turn.*

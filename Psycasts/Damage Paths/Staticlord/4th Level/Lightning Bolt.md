@@ -13,17 +13,25 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 30ft
+	- Touch.
 - **Target**:
-	- A point within range.
+	- A line with one endpoint within range.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You shoot a lightning bolt directly at a point within range. All creatures within 5ft of the bolt's path must make a Dexterity saving throw. 
-		- On a failure, they take 4d10 electric damage and 1 random [[Cybernetics|Cybernetic]] they have installed is [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 1 turn. 
+	- *TODO*
+	- All creatures within the target line must make a Dexterity saving throw to avoid the lightning. 
+		- On a failure, they take a large amount of electric damage and a random cybernetic attached to them gains [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
 		- On a success, they take half as much damage.
-		- All non-cybernetic or non-EMP-shielded electronics in the area are disabled for 3 turns.
+	- All non-cybernetic or non-EMP-shielded electronics in the target line are disabled for a short time.
+- **Stats**:
+	- 4d10 Electric Damage from Lightning.
+	- 1 Turn [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] Duration.
+	- 1 [[Cybernetics|Cybernetic]] [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] by Lightning.
+	- 3 Turn Electronic Disable Duration.
+	- 30ft Target Line Length. (+10ft)
+	- 10ft Target Line Thickness.
 - **Upcasting**:
-	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the range increases by 10ft.
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the target line length increases by 10ft.
