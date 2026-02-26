@@ -20,7 +20,7 @@ aliases:
 	- [[Increase Static]] (5, 25)
 - 4th Level:
 	- [[Lightning Bolt]] (3, 44)
-	- [[Ball 'o' Lightning]] (3, 34)
+	- [[Ball 'o' Lightning]] (4, 34)
 - 5th Level:
 	- [[Tesla Stance]] (10, 58)
 ## Miscasts

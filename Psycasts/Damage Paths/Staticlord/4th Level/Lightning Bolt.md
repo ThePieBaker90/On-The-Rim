@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A line with one endpoint within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
