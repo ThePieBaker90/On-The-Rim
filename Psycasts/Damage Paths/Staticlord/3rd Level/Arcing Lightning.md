@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You shock a creature with a spark of electricity which jumps to nearby creatures and continues the chain. The lightning recurses being extremely effective against close groups of enemies.*
+	- *You shock a creature with a spark of electricity which jumps to nearby creatures and continues the chain.*
 	- The target creature must make a Dexterity saving throw to avoid the spark of lightning. 
 		- On a failure, they take damage and a copy of this psycast is cast from them for each creature within 10ft of them, each copy targeting a different creature. 
 			- This psycast copy uses the original psycast caster's [[Psycasts#Psycast Save DC|Psycast Save DC]].
