@@ -22,7 +22,7 @@ aliases:
 	- [[Lightning Bolt]] (3, 44)
 	- [[Ball 'o' Lightning]] (4, 34)
 - 5th Level:
-	- [[Tesla Stance]] (10, 58)
+	- [[Tesla Stance]] (6, 48)
 ## Miscasts
 - Level 1 Miscast - Electromagnetic Burst
 	- You cast [[EMP Blast]] centered on yourself. You automatically fail the saving throw.

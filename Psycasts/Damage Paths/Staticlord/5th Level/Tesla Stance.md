@@ -9,21 +9,26 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 10
+	- 6
 - **[[Neural Heat]] Generation:**
-	- 58 ()
+	- 48 (33)
 - [[Range]]:
 	- 30ft
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Concentration and Channeled, up to 3 turns.
 - **Effects**:
-	- Lightning arcs from you striking any nearby creature. For the duration of the psycast, all creatures within range of you at the beginning of your turn must make a Dexterity saving throw. 
-		- On a failure, they take 4d6 electric damage and all creatures within 10ft of them take 1d6 electric damage.
-		- On a success, they take half as much initial damage.
-		- Creatures within range of you make the Dexterity saving throw when this psycast is cast.
+	- *You hit an electrifying stance, causing electricity to arc from your outstretched, raised arms to nearby creatures. This electricity can cause secondary shocks to creatures just standing near a shocked creature.*
+	- For the duration of the psycast, all creatures within range of you at the beginning and end of your turn must make a Dexterity saving throw to avoid being shocked. 
+		- On a failure, they take electric damage from the direct shock and all creatures within secondary shock range of them are shocked for a weaker amount of electric damage.
+		- On a success, they take half as much damage from a direct shock.  a direct shock cannot be targeted by a secondary shock.
+	- You are immune to the effects of this psycast.
+- **Stats**:
+	- 2d6 Electric Damage from Direct Shock. (+1d6 Electric Damage)
+	- 1d4 Electric Damage from Secondary Shock.
+	- 10ft Secondary Shock Range.
 - **Upcasting**:
-	- You may upcast this psycast. For every 30 psyfocus spent above the normal cost for this psycast, the initial damage is increased by 2d6.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage from a direct shock increases by 1d6 Electric Damage.
