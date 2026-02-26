@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 48 (33)
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- Self.
 - **Components**:
