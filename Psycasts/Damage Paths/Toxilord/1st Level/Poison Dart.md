@@ -13,11 +13,11 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 11
 - [[Range]]:
-	- 45ft
+	- 45ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
