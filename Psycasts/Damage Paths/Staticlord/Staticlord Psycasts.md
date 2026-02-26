@@ -16,7 +16,7 @@ aliases:
 	- [[Power Surge]] (5, 32)
 	- [[Recharge]] (20, 0)
 - 3rd Level:
-	- [[Arcing Lightning]] (3, 23)
+	- [[Arcing Lightning]] (4, 32)
 	- [[Increase Static]] (4, 24)
 - 4th Level:
 	- [[Lightning Bolt]] (3, 44)

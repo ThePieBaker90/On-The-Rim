@@ -9,20 +9,32 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 3
+	- 4
 - **[[Neural Heat]] Generation:**
-	- 29
+	- 32
 - [[Range]]:
 	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You shock a creature with arcing electricity. The creature must make a dexterity saving throw. On a failure, the creature takes 2d6 electric damage and casts a copy of this psycast for each creature within 10ft of them, each copy targeting a different creature. On a success, nothing happens.
-		- The psycast copy uses the original psycast caster's psycast save DC.
-		- A creature who has failed the saving throw automatically succeeds any saving throws from copies of this psycast until the original psycast ends.
+	- *You shock a creature with a spark of electricity which jumps to nearby creatures and continues the chain. The lightning recurses being extremely effective against close groups of enemies.*
+	- The target creature must make a Dexterity saving throw to avoid the spark of lightning. 
+		- On a failure, they take damage and a copy of this psycast is cast from them for each creature within 10ft of them, each copy targeting a different creature. 
+			- This psycast copy uses the original psycast caster's [[Psycasts#Psycast Save DC|Psycast Save DC]].
+			- This psycast copy cannot target the creature who was targeted by its parent psycast (The psycast this copy was created by).
+				- This does not prevent the psycast from targeting creatures targeted by its grandparent psycast (the psycast the parent psycast was created by) or unrelated psycast copies.
+			- This psycast may only be recursed (copied by itself) a certain number of times. If it hits its maximum limit, the copies of this psycast are simply interrupted as soon as they are cast without their effects occurring.
+				- The initial cast is considered to be the 0th level of the recursion. Each copy increases this level by 1.
+		- On a success, nothing happens.
+	- This psycast and its copies cannot target you.
+- **Stats**:
+	- 2d6 Electric Damage from Lightning Spark. (+1d6 Electric Damage)
+	- 4 Max Levels of Lightning Spark Recursion.
+	- 2 Max Copies of Lightning Spark Cast By One Instance.
+	- 0th Degree Upcast Copy Level. (+1 Degree)
 - **Upcasting**:
-	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 electric damage and all copies of this psycast are upcast by one degree.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage from the electric spark increases by 1d6 electric damage and all copies of this psycast are upcast by one degree.
