@@ -7,25 +7,32 @@ tags:
 - **Path**:
 	- 2nd Level [[Toxilord Psycasts|Toxilord Psycast]]
 - **Casting Time:**
-	- 1 Minute.
+	- 6 Seconds.
 - **[[Psyfocus]] Cost:**
 	- 22
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 10ft
+	- 10ft.
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- 1 Hour.
 - **Effects**:
-	- You create a poison trap at a point within range. The trap activates when any creature unaware of the trap comes within 10ft of the trap. Upon activation, all creatures within 15ft of the trap must make a Constitution saving throw. 
-		- Upon a failure, they take 1d10 poison damage and gain 4 levels of [[Poison Buildup]]. 
-		- Upon a success, they take half as much damage and gain 2 levels of [[Poison Buildup]].
-		- A creature can see the trap with a successful [[Sight-Based Perception]] skill check. The trap can be disabled with a successful  slight of hand skill check.
-			- The DC for both is the caster's psycast save DC. 
-		- This trap can be activated by other traps within 15ft activating.
+	- *You create a psychic poison trap which cannot be seen unless a creature is looking for it. The trap releases poison when a creature comes close to it, poisoning everyone caught in the noxious blast.*
+	- The target point is a poison trap for the psycast duration. The trap has a detection range which will cause it to trigger when any creature unaware of the trap passes within that range of the trap.
+	- When the trap is triggered all creatures within the trap's range must make a Constitution saving throw. 
+		- Upon a failure, they take poison damage and gain many levels of [[Poison Buildup]].
+		- Upon a success, they take half as much damage and gain a few levels of [[Poison Buildup]].
+	- A creature can detect the trap with a successful [[Sight-Based Perception]] skill check. The trap can be disabled with a successful slight of hand skill check within touch range.
+		- The DC for both skill checks is the caster's psycast save DC. 
+- **Stats**:
+	- 1d10 Poison Damage from Trap.
+	- 4 Levels of [[Poison Buildup]] Applied on Failed Save. (+1 Level)
+	- 2 Levels of [[Poison Buildup]] Applied on Successful Save.
+	- 15ft Trap Range.
+	- 10ft Trap Detection Range.
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the trap applies an additional level of [[Poison Buildup]] on a failed save.
