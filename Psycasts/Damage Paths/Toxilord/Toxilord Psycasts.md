@@ -13,7 +13,7 @@ aliases:
 - 2nd Level:
 	- [[Toxic Trap]] (22, 0)
 	- [[Contaminate]] (22, 0)
-	- [[Filter Poisons]] (12, 24)
+	- [[Filter Poisons]] (24, 12)
 - 3rd Level:
 	- [[Poison Spray]] (5, 37)
 	- [[Radioactivate]] (7, 28)
