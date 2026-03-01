@@ -11,18 +11,25 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
-	- 37
+	- 38
 - [[Range]]:
-	- 180 degree arc, 10ft in length.
+	- Touch.
 - **Target**:
-	- A direction.
+	- An arc with the vertex between its two flat surfaces within range.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You spray poison in an arc towards a direction. All creatures in the arc must make a Constitution saving throw. 
-		- On a failure, creatures take 1d8 poison damage and gain 5 levels of [[Poison Buildup]]. 
-		- On a success, nothing happens.
+	- *You spray poison filled saliva from orifices that form in your mouth. This poison spreads and poisons nearby creatures dealing immediate damage as well as applying [[Poison Buildup]].*
+	- All creatures in the target arc must make a Constitution saving throw to resist the poison spray. 
+		- On a failure, they take damage and gain several levels of [[Poison Buildup]].
+		- On a success, they gain a few levels of [[Poison Buildup]].
+- **Stats**:
+	- 1d8 Poison Damage from Spray.
+	- 5 Levels of [[Poison Buildup]] Applied on Failed Save. (+1 Level)
+	- 2 Levels of [[Poison Buildup]] Applied on Successful Save
+	- 180 Degree Target Arc Radius.
+	- 10ft Target Arc Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional level of [[Poison Buildup]] is applied on a failed saving throw.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the spray applies an additional level of [[Poison Buildup]] on a failed saving throw.
