@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- **
+	- *A frosty wind encircles you for several turns slowing and damaging creatures caught within.*
 	- The target sphere is centered on you at all times and follows you when you move. 
 	- The target sphere has the following effects for the psycast duration:
 		- Traversing through it requires additional [[Movement Speed]] per 1ft moved.
