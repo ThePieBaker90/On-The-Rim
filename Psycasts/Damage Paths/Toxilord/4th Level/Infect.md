@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 27
 - [[Range]]:
-	- 20ft
+	- 15ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,8 +21,12 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You attempt to infect a creature within range. The target must make a Constitution saving throw. 
-		- Upon a failure, they gain 5 levels of [[Infection]], take 1d12 poison damage. 
+	- *You create a psychic virus and spread it to a creature through a vulnerable psychic pathway. The virus is short-lived but wrecks havoc on immune systems and spreads like wildfire.*
+	- The target creature must make a Constitution saving throw to avoid contracting the infection. 
+		- Upon a failure, they take immediate poison damage and suffer [[Infection]].
 		- Upon a success, nothing happens.
+- **Stats**:
+	- 1d6 + 5 Poison Damage from Infection.
+	- 5 Levels of [[Infection]] Applied.
 - **Upcasting**:
 	- You cannot upcast this psycast.

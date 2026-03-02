@@ -10,9 +10,10 @@ tags:
 	- When they take damage from this condition:
 		- They lose a level of infection.
 		- Every creature within 10ft of them who doesn't have [[Infection]] or [[Infection Immunity]] must make a DC 13 Constitution saving throw. 
-			- On a failure, a creature gains n levels of [[Infection]]. 
+			- On a failure, a creature gains $n$ levels of [[Infection]].
 			- On a success, nothing happens.
-	- They gain [[Infection Immunity]] for n turns when this condition is removed, where n is the initial level of infection they were given.
+	- They gain [[Infection Immunity]] for $n$ turns when this condition is removed.
+- $n$ is the initial level of [[Infection]] that was applied to them.
 - Creatures who are immune to poison damage or have [[Infection Immunity]] are immune to this condition.
 
 

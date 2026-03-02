@@ -23,7 +23,7 @@ aliases:
 	- This level may be capped or uncapped for certain conditions.
 	- For example, [[Radiation Buildup]] is a stacking condition.
 ## Condition Effects
-- Condition effects can be sorted into . different types: [[#Passive Effects]], [[#Ability Effects]], [[#Condition Granting Effects]], [[#Start of Turn Effects]], [[#End of Turn Effects]], and [[#Triggered Effects]].
+- Condition effects can be sorted into 6 different types: [[#Passive Effects]], [[#Ability Effects]], [[#Condition Granting Effects]], [[#Start of Turn Effects]], [[#End of Turn Effects]], and [[#Triggered Effects]].
 - These effect descriptions also apply to [[#Statuses]].
 ### Passive Effects
 - Passive effects are always in effect while a creature has the condition.
