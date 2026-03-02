@@ -9,20 +9,24 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 12
+	- 30
 - **[[Neural Heat]] Generation:**
-	- 44
+	- 45
 - [[Range]]:
-	- 15ft
+	- 15ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You duplicate poisons within a creature within range. The target must make a Constitution saving throw. 
-		- Upon a failure, they double their current level of [[Poison Buildup]] or [[Volatile Poison Buildup]]. 
+	- *You imbue psychic energy into poison in a creatures bloodstream. This psychic energy is specifically tuned to cause the poison to enter a mitosis like process, nearly as if it was a living being. This process, although short and very expensive for the caster causes the poisons in the body to effectively double.*
+	- The target creature must make a Constitution saving throw to resist the poison duplication. 
+		- Upon a failure, they gain [[Poison Buildup]] and [[Volatile Poison Buildup]] equal to their current level of [[Poison Buildup]] or [[Volatile Poison Buildup]].
 		- Upon a success, nothing happens.
+- **Stats**:
+	- 100% of Creature's Current Level of [[Poison Buildup]] Applied.
+	- 100% of Creature's Current Level of [[Volatile Poison Buildup]] Applied.
 - **Upcasting**:
 	- You cannot upcast this psycast.

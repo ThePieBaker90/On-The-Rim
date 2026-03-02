@@ -22,7 +22,7 @@ aliases:
 	- [[Infect]] (4, 27)
 - 5th Level:
 	- [[Excite Toxins]] (15, 33)
-	- [[Toxin Duplication]] (12, 44)
+	- [[Toxin Duplication]] (30, 45)
 ## Miscasts
 - Level 1 Miscast - Toxin Overload
 	- Natural toxins present in your body grow in strength, you gain 5 levels of [[Poison Buildup]].
