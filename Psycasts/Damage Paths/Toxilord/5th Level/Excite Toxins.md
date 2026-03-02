@@ -9,20 +9,23 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 14
+	- 15
 - **[[Neural Heat]] Generation:**
-	- 46
+	- 38
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You excite poisons within a creature within range. The target must make a Constitution saving throw. 
-		- Upon a failure, they gain 2 levels of [[Volatile Poison Buildup]]. 
+	- *You transmit very specific psychic waves at a creature, trying to metabolize poisons in their blood into a much more dangerous version. If successful, the poisons rip through the host's body leaving massive damage.*
+	-  The target creature must make a Constitution saving throw to resist the toxin excitement. 
+		- Upon a failure, they gain [[Volatile Poison Buildup]].
 		- Upon a success, nothing happens.
+- **Stats**:
+	- 2 Levels of [[Volatile Poison Buildup]] Applied. (+2 Levels)
 - **Upcasting**:
-	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Volatile Poison Buildup]] is applied.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional 2 levels of [[Volatile Poison Buildup]] is applied.

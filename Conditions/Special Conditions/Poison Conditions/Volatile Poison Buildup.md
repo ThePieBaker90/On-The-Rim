@@ -6,7 +6,7 @@ tags:
 - Volatile poison buildup always has an indefinite duration.
 - Volatile poison buildup may stack.
 - When a creature has one or more levels of volatile poison buildup, they suffer the following effects:
-	- All levels of [[Poison Buildup]] on them become volatile poison buildup.
+	- All levels of [[Poison Buildup]] on them become [[Volatile Poison Buildup]].
 	- They take 1.5 damage per level of volatile poison buildup they have, per tun, rounded down.
 	- When they take damage from this condition, they lose 1 level of volatile poison buildup.
 - Creatures who are immune to poison damage are immune to this condition.
