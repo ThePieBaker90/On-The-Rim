@@ -21,7 +21,7 @@ aliases:
 	- [[Poison Cloud]] (3, 44)
 	- [[Infect]] (4, 27)
 - 5th Level:
-	- [[Excite Toxins]] (15, 38)
+	- [[Excite Toxins]] (15, 33)
 	- [[Toxin Duplication]] (12, 44)
 ## Miscasts
 - Level 1 Miscast - Toxin Overload
