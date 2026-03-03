@@ -13,20 +13,22 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 14
 - [[Range]]:
-	- 15ft.
+	- 15ft. (+5ft)
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic, Focus (Instrument)
+	- Kinetic, Focus (Instrument).
 - **Duration**:
 	- Channeled, up to 1 Turn.
 - **Effects**:
-	- You play a rhythmic song on your instrument, inducing the irresistible need to dance for those nearby. 
+	- *You play a rhythmic song on your instrument, inducing the irresistible need to dance for those nearby. Dancing makes most two-handed tasks impossible as well as negatively affecting dexterity for inexperienced dancers.*
 	- For the duration of the psycast, all creatures within range of you are afflicted.
 	- Afflicted creatures suffer the following effects:
-		- They begin [[Dancing]].
+		- They begin [[Dancing]] if not already doing so.
 		- They are unable to stop [[Dancing]].
 	- Allied afflicted creatures gain the following effects:
 		- They act as if they have proficiency in performance for the effects of [[Dancing]] if they do not have proficiency or expertise in performance.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.
