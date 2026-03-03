@@ -13,11 +13,11 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 12
 - [[Range]]:
-	- 15ft.
+	- 15ft. (+5ft)
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture, Focus (Instrument)
+	- Gesture, Focus (Instrument).
 - **Duration**:
 	- Channeled, up to 1 Turn.
 - **Effects**:
@@ -27,5 +27,6 @@ tags:
 		- They are [[Charmed]] by you.
 		- They have disadvantage on all perception checks.
 - **Stats**:
+	- None.
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.
