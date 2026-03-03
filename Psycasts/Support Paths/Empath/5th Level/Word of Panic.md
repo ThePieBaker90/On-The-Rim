@@ -7,21 +7,21 @@ tags:
 - **Path**:
 	- 5th Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
-	- *You imbue psychic energy into a word of anxiety, directing it at a creature. The creature enters a state of [[Panic]], suffering negative modifiers to nearly all of their abilities. Every turn, when [[Panic|Panicing]], they will either fall further within their head, increasing the effects of [[Panic]], or come more to their senses, decreasing the effects of [[Panic]].*
+	- *You imbue psychic energy into a word of anxiety, directing it at a creature. The creature enters a state of [[Panic]], suffering stacking negative modifiers to nearly all of their abilities.
 	- The target creature must make a Wisdom saving throw to resist the panic. 
 		- On a failure, they gain 1 level of [[Panic]]. 
 		- On a success, nothing happens.
