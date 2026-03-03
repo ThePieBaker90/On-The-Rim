@@ -13,11 +13,11 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 23
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
 	- 1 minute.
 - **Effects**:
