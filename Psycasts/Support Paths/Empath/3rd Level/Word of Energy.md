@@ -21,6 +21,9 @@ tags:
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You say an energetic word to grant an ally within range the [[Energized]] condition for the psycast duration.
+	- *You imbue psychic energy into a word of vitality, directing it at a creature. *
+	- The target creature gains [[Energized]] for the psycast duration.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.
