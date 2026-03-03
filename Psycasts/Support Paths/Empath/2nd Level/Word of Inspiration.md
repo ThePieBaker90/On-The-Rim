@@ -21,6 +21,8 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You say a word of inspiration to grant an ally within range  [[Inspiration]] condition for the psycast duration.
+	- The target ally gains [[Inspiration]] for the psycast duration.
+- **Stats**:
+	- 1 Level of [[Inspiration]] Applied.
 - **Upcasting**:
 	- You cannot upcast this psycast.
