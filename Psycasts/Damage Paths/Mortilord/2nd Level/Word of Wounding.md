@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- *You say a word of wounding, imbued with psychic energy, directed a creature. The word reopens old wounds and prevents them from healing.*
+	- *You imbue psychic energy into a word of harm, directing it at a creature. The word reopens old wounds and prevents them from healing.*
 	- The target creature must make a Wisdom saving throw to psychically defend from the word.
 		- On a failure, they take damage from reopened wounds and gain [[Antiheal]].
 		- On a success, nothing happens.

@@ -160,6 +160,8 @@ aliases:
 - Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.
 - Italic lines in the psycast's effects do not have any tangible gameplay effect and only serve as flavor for the psycast.
 - Some lines in the psycast's effects do not correspond to any effect and instead affect the way other parts of the psycast work. These are always in effect and take priority over other parts of the psycast.
+- If a psycast has no ongoing effects or effects that are yet to trigger, it automatically ends. An ongoing effect is any effect that has triggered and there is a way it can be triggered again.
+	- This applies to psycasts requiring concentration and channeled psycasts.
 ### Immediate Effects
 - Immediate effects occur only once, when the psycast enters the cast phase. 
 	- For example, [[Cinder]] has only immediate effects.

@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Word of Anger]] (4, 14)
 	- [[Word of Guidance]] (5, 0)
-	- [[Word of Joy]] (5, 26)
+	- [[Word of Joy]] (10, 21)
 - 2nd Level:
 	- [[Word of Inspiration]] (10, 0)
 	- [[Word of Suppression]] (5, 23)
