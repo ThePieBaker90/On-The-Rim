@@ -13,14 +13,17 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- An ally within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- 1 turn.
+	- Instant.
 - **Effects**:
-	- You say a word of guidance to grant an ally within range the [[Emotional Guidance]] condition for the psycast duration.
+	- *You imbue psychic energy into a word of guidance, directing it at an ally. The ally gains a small bonus to an ability check.*
+	- The target ally gains [[Emotional Guidance]].
+- **Stats**:
+	- 1 Turn [[Emotional Guidance]] Duration.
 - **Upcasting**:
 	- You cannot upcast this psycast.
