@@ -29,8 +29,7 @@ tags:
 			- On a failure, they take damage from the harsh winds.
 			- On a success, they take half as much damage from the winds.
 		- All standing water within it is frozen.
-	- The user and their allies ignore the effects of the arctic wind.
-	- You are immune to the effects of this psycast.
+	- You and your allies are immune to the effects of this psycast.
 - **Stats**:
 	- 4d8 Cold Damage from Cold Winds.
 	- +1ft [[Movement Speed]] Required Per 1ft Moved Through Cold Winds.
