@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You imbue psychic energy into a word of hatred, directing it at a creature. The creature finds themselves inexplicably [[Anger|Angry]], causing their melee to deal more damage but making them more likely to miss attacks.*
-	- The target creature must make a Wisdom saving throw. 
+	- The target creature must make a Wisdom saving throw to resist the anger. 
 		- On a failure, they gain [[Anger]]. 
 		- On a success, nothing happens.
 		- A creature may willingly fail this saving throw.
