@@ -3,6 +3,7 @@ tags:
   - Condition
   - Negative-Condition
 ---
+- Mind-Shattering pain always has an indefinite duration.
 - Mind-Shattering pain may stack.
 - When a creature has one or more levels of mind-shattering pain, they suffer the following effects:
 	- They lose 1 level of mind-shattering pain at the beginning of their turn if they did not gain any levels since the start of their last turn.
