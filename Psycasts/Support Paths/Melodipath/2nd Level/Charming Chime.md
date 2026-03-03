@@ -21,10 +21,11 @@ tags:
 - **Duration**:
 	- Channeled, up to 1 Turn.
 - **Effects**:
-	- You play a charming little chime on your instrument, rendering creatures nearby unable to attack you and less observant. 
+	- *You play a charming little chime on your instrument, rendering creatures nearby unable to attack you and less observant.*
 	- For the duration of the psycast, all creatures within range of you are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They are [[Charmed]] by you.
 		- They have disadvantage on all perception checks.
+- **Stats**:
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

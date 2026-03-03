@@ -23,9 +23,9 @@ tags:
 - **Effects**:
 	- *You summon a zone of high gravity making traversal through the zone highly difficult and aiming through the zone nearly impossible.*
 	- The target cylinder has the following effects:
-		- Creatures are afflicted while inside the target cylinder.
+		- Any creatures inside the target cylinder are afflicted.
 		- Projectiles travelling through the target cylinder have double disadvantage to hit.
-	- Afflicted creatures suffer the following effects:
+	- Afflicted creatures suffer the following:
 		- When they first become afflicted and at the beginning of their turn, they must make a constitution saving throw.
 			- On a failure, they are forced [[Prone]] until they leave the zone. 
 			- On a success, nothing happens.

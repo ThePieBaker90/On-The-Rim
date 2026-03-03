@@ -21,8 +21,9 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You release a wave of darkness, afflicting up to 5 targets of your choice within range.
-	- Afflicted creatures suffer the following effects for the psycast duration:
+	- You release a wave of darkness, 
+	- Each target creature is afflicted for the psycast duration.
+	- Afflicted creatures suffer the following effects:
 		- They gain [[Short-Sighted]].
 		- They hear all sounds you make as if you surround them on all sides.
 		- Their [[Movement Speed]] is slowed by 10ft.

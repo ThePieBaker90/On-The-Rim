@@ -22,7 +22,7 @@ tags:
 	- 1 turn.
 - **Effects**:
 	- *You drastically increase the static electricity a creature generates. The amount
-	- You afflict the target creature for the psycast duration.
+	- The target creature is afflicted for the psycast duration.
 	- At the end of their turn, afflicted creatures take electric damage scaling with the distance they moved this turn.
 - **Stats**:
 	- 0 Electric Damage Base Damage.

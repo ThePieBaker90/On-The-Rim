@@ -25,7 +25,7 @@ tags:
 	- All creatures within the target cylinder must make a Constitution saving throw when this psycast is cast. 
 		- On a failure, they are afflicted for the psycast duration.
 		- On a success, nothing happens. 
-	- Afflicted creatures suffer the following effects for the psycast duration:
+	- Afflicted creatures suffer the following effects:
 		- They are levitated into the air.
 			- When levitated, creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
 		- If they do not have a [[Movement Speed#Flying|Flying Speed]], they are [[Immobilized]]. 

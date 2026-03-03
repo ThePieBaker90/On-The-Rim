@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 5 turns
 - **Effects**:
 	- *You excite a creature's gastric acids, inducing extreme acid reflux. The acid reflux makes it incredibly hard for the creature to concentrate on tasks.*
-	- Target creature must make a Constitution saving throw to steel themselves from the reflux.
+	- The target creature must make a Constitution saving throw to steel themselves from the reflux.
 		- Upon a failure, they are afflicted for the psycast duration.
 		- On a success, nothing happens.
 	- Afflicted creatures suffer the following effects:

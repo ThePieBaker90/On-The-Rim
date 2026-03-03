@@ -15,13 +15,14 @@ tags:
 - [[Range]]:
 	- 20ft.
 - **Target**:
-	- A creature within range.
+	- A non-hostile creature within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- 1 minute.
 - **Effects**:
-	- You charm a non-hostile creature within range to be temporarily friendly. For the duration of the psycast, the creature is afflicted.
+	- You charm a non-hostile creature within range to be temporarily friendly. 
+	- The target creature is afflicted for the psycast duration.
 	- Afflicted creatures suffer the following:
 		- They are [[Charmed]] by you.
 		- They will act as if you are good friends. 
