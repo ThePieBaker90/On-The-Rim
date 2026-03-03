@@ -13,14 +13,15 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- An ally within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
 	- 3 turns.
 - **Effects**:
+	- *You imbue psychic energy into a word of encouragement, directing it at a creature. The creature gains a bit of [[Inspiration]], allowing them to reroll a dice of their choice.*
 	- The target ally gains [[Inspiration]] for the psycast duration.
 - **Stats**:
 	- 1 Level of [[Inspiration]] Applied.

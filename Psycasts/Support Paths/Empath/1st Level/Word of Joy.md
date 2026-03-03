@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 10 turns.
 - **Effects**:
-	- *You imbue psychic energy into a word of joy, directing it at a creature. The creature finds themselves in a pleasant, [[Joy|Joyful]] mood, causing all checks to have a flat positive modifier.*
+	- *You imbue psychic energy into a word of glee, directing it at a creature. The creature finds themselves in a pleasant, [[Joy|Joyful]] mood, causing all checks to have a flat positive modifier.*
 	- The target creature gains [[Joy]] for the psycast duration.
 - **Stats**:
 	- None.

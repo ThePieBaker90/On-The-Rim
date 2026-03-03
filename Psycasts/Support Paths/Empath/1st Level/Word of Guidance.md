@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You imbue psychic energy into a word of guidance, directing it at an ally. The ally gains a small bonus to an ability check.*
+	- *You imbue psychic energy into a word of advice, directing it at an ally. The ally gains a small bonus to an ability check.*
 	- The target ally gains [[Emotional Guidance]].
 - **Stats**:
 	- 1 Turn [[Emotional Guidance]] Duration.
