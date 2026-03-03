@@ -13,18 +13,20 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 13
 - [[Range]]:
-	- 15ft.
+	- 15ft. (+5ft)
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic, Focus (Instrument)
+	- Kinetic, Focus (Instrument).
 - **Duration**:
 	- Channeled, up to 1 Turn.
 - **Effects**:
-	- You play an inspiring melody on your instrument, allowing nearby teammates to reroll dice and succeed more often on wisdom saving throws. 
+	- *You play an inspiring melody on your instrument, allowing nearby teammates to reroll dice and succeed more often on wisdom saving throws.*
 	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
-		- They gain 1 level of [[Inspiration]] for the psycast duration.
-			- If they use inspiration's ability effect, they may not gain a level of inspiration again from this psycast this turn.
+		- They gain [[Inspiration]] for the psycast duration.
+			- This may only happen once per turn.
 		- They have advantage on wisdom saving throws.
+- **Stats**:
+	- 1 Level of [[Inspiration]] Applied.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.
