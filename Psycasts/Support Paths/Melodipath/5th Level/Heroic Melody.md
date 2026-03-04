@@ -27,15 +27,16 @@ tags:
 		- When they are targeted by an attack, the attacker gains a positive modifier to hit.
 	- Allied afflicted creatures gain the following effects:
 		- When they roll to hit for an attack, their critical hit threshold is reduced.
-		- When they are first afflicted, they gain [[Ammunition]] in their held weapon which scales with the maximum storable [[Ammunition]] for the weapon. 
-			- This ammo is psychic bullets which act identically to normal bullets except they leave no casing behind.
-			- This may increase the stored [[Ammunition]] of a weapon beyond its maximum storable [[Ammunition]]. Th
+		- When they are first afflicted, they gain Psychic [[Ammunition]] in their held weapon which scales with the weapon's ammo capacity. 
+			- Psychic ammo acts identically to normal bullets except they leave no casing behind.
+			- This may increase the weapon's stored [[Ammunition]] beyond its ammo capacity.
 			- This effect may trigger only once per turn per creature.
-		- When they attack with a melee weapon, the [[Rate of Fire]] of the weapon is increased by 50%.
+		- When they attack with a melee weapon, the [[Rate of Fire]] of the weapon is increased for the attack.
 			- This is rounded up for decimal places beyond the hundredths place.
 - **Stats**:
 	- +2 to Hit for Attackers on Afflicted Creatures.
 	- -1 [[Criticals#Critical Successes|Critical Success Threshold]] while Attacking.
-	- 50% of Max Storable [[Ammunition]] Granted as Additional [[Ammunition]].
+	- 2:1 Ammo Capacity to Psychic Ammo Gained Ratio.
+	- 50% [[Rate of Fire]] Increase for Melee Weapons while Attacking.
 - **Upcasting**:
 	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.
