@@ -21,6 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You mend wounds you touch with your hands. A creature you touch immediately heals 1d10+2 health.
+	- *Your hands heal the injuries of a lucky creature you touch.*
+	- You heal the target creature some health.
+- **Stats**:
+	- 1d10 + 2 Health from Touch. (+1d10 Health)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the target heals an additional 1d10 health.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you heal the creature an additional 1d10 health.
