@@ -26,7 +26,7 @@ aliases:
 ## Miscasts
 - Level 1 Miscast - Out of Tune
 	- You accidentally block the neural pathways related to auditory processing, you are [[Deafened]] for 3 turns.
-- Level 2 Miscast - 
+- Level 2 Miscast - Psychic Difficulties
 	- Psychic feedback between you and your instrument creates a loud screech, all creatures within 15ft of you must make a constitution saving throw.
 		- On a failure, they take 2d6 sonic damage and are [[Deafened]] for 2 turns.
 		- On a success, they take half as much damage.
