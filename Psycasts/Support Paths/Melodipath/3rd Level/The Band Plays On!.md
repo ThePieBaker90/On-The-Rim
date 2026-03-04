@@ -34,7 +34,7 @@ tags:
 		- Creatures within range of them are afflicted.
 			- They cannot afflict themselves with this.
 		- When they start their turn, they trigger damage.
-		- They have resistance to all damage types.
+		- They take less damage from all damage types.
 		- If they lose affliction, they leave the performance.
 	- You are considered to be performing while channeling this psycast.
 	- If this psycast is cast immediately after it ended, creatures who were performing stay performing.
@@ -42,5 +42,6 @@ tags:
 		- The amplifier does not need to satisfy the listed conditions to remain in your performance.
 - **Stats**:
 	- 2d8 Sonic Damage from Triggering Damage.
+	- 33% Less Damage Taken from All Damage for Performers.
 - **Upcasting**:
 	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

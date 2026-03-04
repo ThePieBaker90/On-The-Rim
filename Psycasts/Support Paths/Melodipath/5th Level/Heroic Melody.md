@@ -24,13 +24,16 @@ tags:
 	- *You play a heroic melody on your instrument, giving your nearby teammates several offensive buffs for battle and wavering the enemy morale.*
 	- For the duration of the psycast, all creatures within range of you are afflicted.
 	- Non-allied afflicted creatures suffer the following effects:
-		- When they are targeted by an attack, the attacker has +2 to hit.
+		- When they are targeted by an attack, the attacker gains a positive modifier to hit.
 	- Allied afflicted creatures gain the following effects:
-		- When they roll to hit for an attack, the number needed to roll a critical hit is reduced by 1.
+		- When they roll to hit for an attack, the critical hit number is reduced.
 		- When they are first afflicted, they gain [[Ammunition]] in their held weapon equal to 50% of the maximum storable ammunition for the weapon. 
 			- This ammo is psychic bullets which act identically to normal bullets except they leave no casing behind.
 			- This effect may trigger only once per turn per creature.
 		- When they attack with a melee weapon, the [[Rate of Fire]] of the weapon is increased by 50%.
 			- This is rounded up for decimal places beyond the hundredths place.
+- **Stats**:
+	- +2 to Hit for Attackers on Afflicted Creatures.
+	- -1 Dice Number Needed to 
 - **Upcasting**:
 	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.
