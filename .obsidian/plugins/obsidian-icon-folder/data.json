@@ -942,7 +942,6 @@
   "Psycasts/Support Paths/Mendopath/2nd Level/Word of Mending.md": "LiSparkles",
   "Psycasts/Support Paths/Mendopath/2nd Level/Touch of Mending.md": "LiSparkles",
   "Psycasts/Support Paths/Mendopath/1st Level/Stabilize.md": "LiSparkles",
-  "Psycasts/Support Paths/Mendopath/1st Level/Healing Rite.md": "LiSparkles",
   "Psycasts/Support Paths/Neuropath": "LiSparkles",
   "Psycasts/Support Paths/Neuropath/Neuropath Psycasts.md": "LiInfo",
   "Psycasts/Support Paths/Neuropath/5th Level/Neurocast.md": "LiSparkles",
@@ -1250,5 +1249,6 @@
   "Mechanics/Gameplay Information/Critical Effects/Psychic Critical Effect Table.md": "FasPersonFallingBurst",
   "Mechanics/Gameplay Information/Critical Effects/Radiant Critical Effect Table.md": "FasPersonFallingBurst",
   "Mechanics/Gameplay Information/Critical Effects/Slashing Critical Effect Table.md": "FasPersonFallingBurst",
-  "Mechanics/Gameplay Information/Critical Effects/Sonic Critical Effect Table.md": "FasPersonFallingBurst"
+  "Mechanics/Gameplay Information/Critical Effects/Sonic Critical Effect Table.md": "FasPersonFallingBurst",
+  "Psycasts/Support Paths/Mendopath/1st Level/Regenerating Rite.md": "LiSparkles"
 }
