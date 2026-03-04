@@ -9,7 +9,7 @@ aliases:
 *Medopaths specialize in healing others and preventing death. Most of their psycasts grant health to others or themselves. Some of their psycasts are used to stabilize critical patients or increase their own healing output.*
 ## Core Psycasts
 - 1st Level:
-	- [[Regenerating Rite]] (12, 20)
+	- [[Regeneration Rite]] (12, 20)
 	- [[Stabilize]] (8, 30)
 - 2nd Level:
 	- [[Touch of Mending]] (4, 21)
