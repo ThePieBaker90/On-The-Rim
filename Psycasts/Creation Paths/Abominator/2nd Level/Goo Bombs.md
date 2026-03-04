@@ -27,7 +27,7 @@ tags:
 		- On a miss, the bomb lands in a nearby location of the DM's choice, it explodes after its fuse duration. This explosion deals damage to all creatures within explosion distance of the bomb.
 - **Stats**:
 	- 2 Goo Bombs.
-	- 1d6 Force + 1d8 Corrosion Damage from Explosion. (+1d6 Force + 1d8 Corrosion Damage)
+	- 1d6 Force + 1d8 Corrosion Damage from Explosion. (+1d6 Force + 1d8 Corrosion Damage) 
 	- 5ft Explosion Distance.
 	- 1 Turn Fuse Duration.
 - **Upcasting**:
