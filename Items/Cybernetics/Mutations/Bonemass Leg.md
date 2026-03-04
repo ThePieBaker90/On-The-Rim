@@ -19,6 +19,6 @@ tags:
 	- 1
 - **Abilities:**
 	- The user has their [[Movement Speed]] slowed by 5ft.
-	- Cannot be removed through [[Core Critical Changes|Critical Effects]].
+	- Cannot be removed through [[Criticals#Critical Effect Tables|Critical Effects]].
 - **Looks:**
 	- A solid mass of bone grows from the thigh as if it was a boney tree-stump. This growth has no joint to act as a knee.
