@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 15
 - [[Range]]:
-	- 15ft.
+	- 15ft. (+5ft)
 - **Target**:
 	- Self.
 - **Components**:
@@ -21,10 +21,13 @@ tags:
 - **Duration**:
 	- Channeled, up to 1 Turn.
 - **Effects**:
-	- You play an energizing beat on your instrument, granting nearby teammates movement speed and rate of fire bonuses.
+	- *You play an energizing beat on your instrument, granting nearby teammates [[Movement Speed]] and [[Rate of Fire]] bonuses.*
 	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
-		- Their [[Movement Speed]] is increased by 10ft.
-		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased by 33%.
+		- Their [[Movement Speed]] increases.
+		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased.
 			- This is rounded up for decimal places beyond the hundredths place.
+- **Stats**:
+	- 10ft [[Movement Speed]] Increase.
+	- 33% [[Rate of Fire]] Increase.
 - **Upcasting**:
 	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.
