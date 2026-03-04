@@ -3,8 +3,9 @@ tags:
   - Property
   - Ammunition
 ---
-A weapon with this property can only be used a certain number of times before running out of uses. The maximum number of times a weapon can be used is specified in the 1st option.
-
-When a weapon is used, its stored ammunition decreases by one. Notably, a weapon may be used multiple times in one action if it has a high [[Rate of Fire]].
-
-If a weapon has the ammunition property but no [[Reload]] property, it may not be reloaded and is discarded upon being fully used.
+- A weapon with this property uses ammunition to attack and therefore can only attack a certain number of times.
+- Each attack uses 1 ammo, each weapon has its own ammo counter which determines if it may attack. If this counter is 0, the weapon may not attack as it has no ammo stored.
+	- A weapon may attack multiple times in 1 use if it has a high [[Rate of Fire]].
+	- The counter is a non-negative integer.
+- The weapons ammo capacity is specified in the 1st option. This determines the maximum amount of ammo that the weapon can store. The ammo stored in the weapon may not exceed this number except with special effects.
+- Ammunition does not inherently give a weapon the ability to replenish its ammunition, see [[Reload]], a common companion property on firearms.
