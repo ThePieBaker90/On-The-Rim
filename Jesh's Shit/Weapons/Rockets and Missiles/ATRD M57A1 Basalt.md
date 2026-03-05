@@ -18,7 +18,7 @@ tags:
     * On a failure, they take 2d4 force damage
     * On a success, they take half 2d4 force damage
 * [[Rate of Fire]]:
-	* 0.5
+  * 1
 * **Armour Penetration**
   * AP 30  
 * **Properties**:
