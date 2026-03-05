@@ -35,7 +35,7 @@ tags:
     * All creatures within line-of-sight and in a 5ft long, 5ft wide cone directly behind the user, in addition to above effects, take 1d6 force damage and are knocked back 5ft
   * Piercing critical effects happen whenever the total hit roll is 20+ after modifiers.
 * **Value**:
-	* 90 credits
+	* 120 credits
 * **Lore:**
   * The Brear Arms Anti-Tank Rocket, Disposable, Model 5457-A1 "Basalt" is a lightweight, affordable, disposable low-calibre rocket launcher developed from the older Model 5413. It remains the go-to anti-tank solution for many parties nearly a century after its introduction thanks to its simplicity, afforability, and reliability. However, because it is a single sealed round the M57A1 has lower versatility than a reusable weapon system. 
 * **Looks**:
