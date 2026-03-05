@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *A [[Thermophlastic]] shoots from your outstretched hand, wrapping around any enemy it hits. This net makes it impossible to move or use your hands making it exceptional at catching targets running away.*
 	- The target creature must make a dexterity saving throw to avoid the net. 
-		- On a failure, they are afflicted for the psycast duration and take knockback away from the caster.
+		- On a failure, for the duration of this psycast, they are afflicted and they take a one time knockback away from the caster.
 			- If the creature is knocked into a wall, they take damage from being slammed into the wall.
 		- On a success, this psycast ends.
 	- Afflicted creatures suffer the following:

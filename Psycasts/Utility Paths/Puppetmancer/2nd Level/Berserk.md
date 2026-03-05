@@ -21,6 +21,9 @@ tags:
 - **Duration**:
 	- Concentration, up to 10 turns.
 - **Effects**:
-	- You psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. On a failure, they are sent into a [[Berserk Rage]] for the psycast duration, they may repeat the saving throw at the beginning of each of your turns. On a success, the psycast ends.
+	- You psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. 
+		- On a failure, for the duration of this psycast they are sent into a [[Berserk Rage]]. 
+		- On a success, the psycast ends.
+		- The target creature may repeat the saving throw at the beginning of each of your turns.
 - **Upcasting**:
 	- You cannot upcast this psycast.

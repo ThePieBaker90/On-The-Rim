@@ -24,7 +24,7 @@ tags:
 	- You throw a ball of void at a point within range. Darkness expands from the ball blinding those nearby. All creatures within a 20ft sphere centered on this point must make a Dexterity saving throw. 
 		- On a failure, they are [[Blinded]] for 2 turns. 
 		- On a success, nothing happens.
-	- For the psycast duration, the 20ft sphere is [[Lighting#Void|Void]] for the psycast duration and all lights in the area are extinguished.
+	- For the duration of this psycast, the 20ft sphere is [[Lighting#Void|Void]] and all lights in the area are extinguished.
 		- This area cannot be lit up or have its [[Lighting|Light Level]] changed by any means. 
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the radium of the sphere increases by 10ft

@@ -23,9 +23,9 @@ tags:
 - **Effects**:
 	- *You play a resilient tune on your instrument, granting nearby teammates temporary health and a damage reduction scaling with the amount of damage types an attack does.*
 	- For the duration of this psycast, all allied creatures within range of you gain the following effects:
-		- They gain moderate temporary health for the psycast duration.
+		- They gain moderate temporary health.
 			- They may only gain this temporary health once from this psycast per turn.
-			- This temporary health is not lost if they leave range of you.
+			- This temporary health is not lost if they leave range of you, it is lost if this psycast ends.
 		- They take slightly less damage from attacks scaling with the number of different damage types.
 			- For example, if they are hit by an attack dealing 4 piercing damage and 3 fire damage, they will instead take 3 piercing damage and 2 fire damage.
 - **Stats**:

@@ -22,7 +22,7 @@ tags:
 	- 2 turns.
 - **Effects**:
 	- You say a word of fear to psychically drive a creature within range into a fearful panic, the creature must make a Wisdom saving throw. 
-		- On a failure, they gain [[Frightened]] for the psycast duration. 
+		- On a failure, for the duration of this psycast, they are [[Frightened]].
 		- On a success, nothing happens.
 - **Upcasting**:
 	- You cannot upcast this psycast.

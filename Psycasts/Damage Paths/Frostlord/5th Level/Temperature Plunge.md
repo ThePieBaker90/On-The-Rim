@@ -25,7 +25,7 @@ tags:
 	- When this psycast is cast, all creatures within the target sphere must make a Constitution saving throw to resist the cold.
 		- On a failure, they take damage from the cold and are frozen solid.
 		- On a success, they take damage from the cold.
-	- The temperature within the target sphere instantly drops by a set amount and all liquids that can be frozen at that temperature are immediately frozen. This temperature cool lasts for the psycast duration.
+	- For the duration of this psycast, the temperature within the target sphere instantly drops by a set amount and all liquids that can be frozen at that temperature are immediately frozen.
 		- If the temperature goes below 0, all floors in the target sphere freeze. This frozen ground requires more [[Movement Speed]] to traverse per 1ft moved.
 - **Stats**:
 	- 2d4 + 10 Cold Damage from the Cold. (+1d4 + 5 Cold Damage)

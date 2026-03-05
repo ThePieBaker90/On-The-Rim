@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 3 turns.
 - **Effects**:
 	- *[[Stille Flammen]] soaks from your hands, spreading across the weapon. All attacks with the weapon apply [[Chemical Burned]], causing subsequent attacks to deal additional damage.*
-	- You coat the target weapon in [[Stille Flammen]], giving it the following effects for the psycast duration:
+	- For the duration of this psycast, the target weapon has following effects:
 		- On a hit with the weapon, you apply [[Chemical Burned]] on the hit creature.
 			- If they already have [[Chemical Burned]], the duration of [[Chemical Burned]] is increased.
 - **Stats**:

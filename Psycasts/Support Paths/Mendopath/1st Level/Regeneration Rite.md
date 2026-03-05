@@ -22,7 +22,7 @@ tags:
 	- 3 turns. (+1 turn)
 - **Effects**
 	- *You place a weak psychic rite on a creature granted them regeneration. The regeneration allows for grievous wounds to ignore medical attention but any additional damage breaks the psychic rite.*
-	- For the psycast duration, at the end of the target creature's turn they regenerate a small amount of health.
+	- For the duration of this psycast, at the end of the target creature's turn they regenerate a small amount of health.
 		- This regeneration counts as active healing.
 	- If the target creature takes damage, this psycast ends.
 - **Stats**:

@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You touch a stone, turning into a semi-transparent light-blue crystal and causing it to cool down the surrounding area.*
 	- When you cast this psycast, you choose a chosen temperature for the crystal to cool to.
-	- You enchant the target rock into a cooling crystal, giving it the following effects for the psycast duration:
+	- For the duration of this psycast, the target rock becomes a cooling crystal with the following effects:
 		- The crystal passively cools a sphere centered around it to a chosen temperature. If it is contained in a volume, it instead cools the volume.
 			- If the volume is large enough, the crystal will only cool objects around itself.
 - **Stats**:

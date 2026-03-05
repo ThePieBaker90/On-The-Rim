@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You summon a small freezing mote above several creatures heads. The mote shoots down after a short delay, anyone who fails to avoid it is frozen solid.*
 	- Each target creature must make a Dexterity saving throw to avoid the freezing motes. 
-		- Upon a failure, they gain the [[Frozen Solid]] condition for the psycast duration.
+		- Upon a failure, for the duration of this psycast, they are [[Frozen Solid]].
 		- Upon a success, nothing happens.
 		- If all creatures succeed this saving throw, you lose concentration on this saving throw.
 - **Stats**:

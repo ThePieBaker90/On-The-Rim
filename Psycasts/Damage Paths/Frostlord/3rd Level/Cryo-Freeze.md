@@ -22,8 +22,8 @@ tags:
 	- Concentration, up to 3 turns.
 - **Effects**:
 	- *You freeze yourself in a chunk of ice, using the time in the ice to heal your injuries.*
-	- For the psycast duration you suffer the following effects:
-		- You are [[Frozen Solid]] for the psycast duration.
+	- For the duration of this psycast, you suffer the following effects:
+		- You are [[Frozen Solid]].
 			- This ice only takes damage from fire damage.
 				- The ice is not vulnerable to fire damage.
 			- This ice has a special health.

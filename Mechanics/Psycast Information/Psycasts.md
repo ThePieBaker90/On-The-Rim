@@ -171,6 +171,7 @@ aliases:
 ### Passive Effects
 - Passive effects are always in effect while the psycast is active.
 	- For example, [[Levitation]] has only passive effects.
+	- These effects are usually indicated with "For the duration of this psycast." which means the effects end when the psycast moves to the end phase.
 ### Affliction Effects
 - Affliction effects are effects that affect only afflicted creatures. Psycasts only afflict creatures if explicitly stated, additionally psycasts mentioning afflicted creatures only refer to creatures afflicted by the same psycast instance.
 	- For example, [[Eternal Night]] afflicts 5 creatures and has them deal with effects.

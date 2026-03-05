@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 3 turns.
 - **Effects**:
 	- *You imbue psychic energy into a word of vitality, directing it at a creature. The creature finds themselves [[Energized]], allowing them so perform superhuman dexterity feats and gaining an extra action. When this energy wears off, creatures tend to not take the change well, finding themselves recovering for an entire turn.*
-	- The target creature gains [[Energized]] for the psycast duration.
+	- For the duration of this psycast, the target creature is [[Energized]].
 - **Stats**:
 	- None.
 - **Upcasting**:

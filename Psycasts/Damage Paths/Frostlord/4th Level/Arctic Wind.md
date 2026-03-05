@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *A frosty wind encircles you for several turns slowing and damaging creatures caught within.*
 	- The target sphere is centered on you at all times and follows you when you move. 
-	- The target sphere has the following effects for the psycast duration:
+	- For this psycast's duration, the target sphere has the following effects:
 		- Traversing through it requires additional [[Movement Speed]] per 1ft moved.
 		- A creature entering the target sphere or starting their turn within the target sphere must make a Constitution saving throw. 
 			- On a failure, they take damage from the harsh winds.

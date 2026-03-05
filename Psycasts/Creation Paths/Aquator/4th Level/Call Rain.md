@@ -22,7 +22,7 @@ tags:
 	- 5 days. (+1 day)
 - **Effects**:
 	- *You sing a psychic song to call rain.*
-	- Rain falls in the target circle for the psycast duration.
+	- For the duration of this psycast, rain falls in the target circle.
 		- Traversing in rain requires more [[Movement Speed]] per 1ft moved.
 		- All ranged attacks made in the rain are made with disadvantage.
 		- All fires in the rain are extinguished unless otherwise stated.

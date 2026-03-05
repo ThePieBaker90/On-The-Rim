@@ -22,7 +22,7 @@ tags:
 	- 1 hour. (+10 hours)
 - **Effects**:
 	- *You concentrate psyfocus into a point to absorb nearby moisture for an extended period of time. The absorbed moisture then flows out of the point like an invisible spout.*
-	- Water generates out of a target point at a constant rate for the psycast duration.
+	- For the duration of this psycast, water generates out of the target point at a constant rate.
 		- If the point is occupied, the water will attempt to displace the obstruction, otherwise the water will not generate.
 - **Stats**:
 	- 10L of Water Per Minute.

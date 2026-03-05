@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You superheat the air in a large radius around you, causing most things to burst into flames.*
 	- The target sphere is centered on you at all times and follows you when you move. 
-	- For the psycast duration, creatures who are in the target sphere are afflicted.
+	- For the duration of this psycast, creatures who are in the target sphere are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They take minor fire damage from the heat at the end of their turn.
 			- This damage is not increased by [[Burned]].

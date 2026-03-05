@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You imbue psychic energy into a word of fatigue, directing it at a creature. The creature has their energy drained from them, dexterity actions performed by them are harder to perform and they lose an action.*
 	- The target creature must make a Wisdom saving throw to resist the exhausting word. 
-		- On a failure, they gain [[Lethargic]] for the psycast duration. 
+		- On a failure, for the duration of this psycast, they are [[Lethargic]].
 		- On a success, nothing happens.
 - **Stats**:
 	- None.
