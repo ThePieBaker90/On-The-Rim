@@ -22,7 +22,7 @@ tags:
 	- 10 turns.
 - **Effects**:
 	- *You create a small amorphous gravity field to float and manipulate small objects within.*
-	- You create a small gravity field at a target point. You can manipulate any objects fully encapsulated by the field in space freely for the duration of the psycast. 
+	- For the duration of this psycast, there is a small gravity field at a target point. You can manipulate any objects fully encapsulated by the field in space freely 
 		- The gravity field may not stray beyond range from you.
 		- The gravity field dissipates if an object inside is attacked.
 		- The gravity field's shape is amorphous and may be freely manipulated, but it must remain continuous (You must be able to trace any point in the shape to any other point without that path leaving the space).

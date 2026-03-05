@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- 5 turns.
 - **Effects**:
-	- You grant an ally within range [[Ward]] for the duration of the psycast.
+	- You grant an ally within range [[Ward]] for the duration of this psycast.
 - **Upcasting**:
 	- You cannot upcast this psycast.

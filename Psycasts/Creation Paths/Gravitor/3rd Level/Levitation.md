@@ -24,7 +24,7 @@ tags:
 	- *You create a field of controlled gravity around you allowing you to fly.*
 	- You are able to fly for the duration of this psycast.
 		- If you are already able to fly, your [[Movement Speed#Flying|Flying Speed]] increases instead.
-	- You ignore all external sources of gravity for the duration of the psycast.
+	- You ignore all external sources of gravity for the duration of this psycast.
 - **Stats**:
 	- [[Movement Speed]] + 10ft [[Movement Speed#Flying|Flying Speed]].
 	- x2 [[Movement Speed#Flying|Flying Speed]] Modifier for Flying Creatures.

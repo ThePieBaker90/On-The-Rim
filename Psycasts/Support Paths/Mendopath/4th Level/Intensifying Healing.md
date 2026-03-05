@@ -21,9 +21,11 @@ tags:
 - **Duration**:
 	- 10 turns.
 - **Effects**
-	- You snap your fingers to a healing beat. For the duration of this psycast, you gain the following effects:
+	- You snap your fingers to a healing beat. 
+	- For the duration of this psycast, you gain the following effects:
 		- All non-passive instances of healing heal an additional $x$d4 health where $x$ is the number of turns this psycast has lasted. (On the turn the psycast is cast, the psycast has lasted one turn).
 		- This psycast ends prematurely if you do not actively heal or grant health to any creatures on your turn. Passive healing does not extend this psycast.
 	- Casting this psycast counts as actively healing a creature.
+- **Stats**:
 - **Upcasting**:
 	- You cannot upcast this psycast.

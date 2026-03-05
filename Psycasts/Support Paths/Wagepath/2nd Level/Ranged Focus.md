@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 5 turns.
 - **Effects**:
 	- You increase your ranged abilities, allowing you to excel in ranged combat.
-	- For the duration of the psycast, you gain the following effects:
+	- For the duration of this psycast, you gain the following effects:
 		- When rolling for damage with a ranged weapon, you may reroll each dice in the damage up to one time.
 			- You must take the new result of a dice being rerolled.
 			- You may pick and choose which dice to reroll.

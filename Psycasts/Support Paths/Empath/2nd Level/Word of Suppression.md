@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You imbue psychic energy into a word of numbing, directing it at a creature. They are unable to feel emotions or pain, just feeling overwhelming numbness.*
 	- The target creature must make a Wisdom saving throw to resist the emotion numbing. 
-		- On a failure, they gain [[Emotionally Numb]] and [[Painblock]] for the duration of the psycast. 
+		- On a failure, they gain [[Emotionally Numb]] and [[Painblock]] for the duration of this psycast. 
 		- On a success, nothing happens.
 		- A creature may willingly fail this saving throw if they are in a normal state of mind.
 - **Stats**:

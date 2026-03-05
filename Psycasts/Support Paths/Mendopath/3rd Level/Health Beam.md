@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 5 turns.
 - **Effects**
 	- *A green ray of healing connects you and a teammate healing you both. You can expend an action to increase the healing output to your teammate.*
-	- For the duration of the psycast, there is a healing beam connecting you and the target creature.
+	- For the duration of this psycast, there is a healing beam connecting you and the target creature.
 		- You and the target creature heal a small amount passively at the beginning of your turn.
 		- You may expend an action to burst heal the target creature.
 		- At any time, if the target creature goes beyond beam range from you or you lose line of sight to to the target creature, you lose concentration on this psycast.

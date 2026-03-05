@@ -22,7 +22,7 @@ tags:
 	- 3 turns.
 - **Effects**:
 	- You enchant a ranged weapon to give it additional range and accuracy.
-	- You touch a ranged weapon within range, for the duration of the psycast, the weapon has the following effects:
+	- You touch a ranged weapon within range, for the duration of this psycast, the weapon has the following effects:
 		- When rolling to hit for an attack with this weapon, the attacker has a +4 modifier to hit.
 		- This weapon's upper-bound for its [[Range]] is increased by 25%.
 			- This is rounded up.

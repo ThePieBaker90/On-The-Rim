@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play a resilient tune on your instrument, granting nearby teammates temporary health and a damage reduction scaling with the amount of damage types an attack does.*
-	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
+	- For the duration of this psycast, all allied creatures within range of you gain the following effects:
 		- They gain moderate temporary health for the psycast duration.
 			- They may only gain this temporary health once from this psycast per turn.
 			- This temporary health is not lost if they leave range of you.

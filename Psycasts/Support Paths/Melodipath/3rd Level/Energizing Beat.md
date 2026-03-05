@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play an energizing beat on your instrument, granting nearby teammates [[Movement Speed]] and [[Rate of Fire]] bonuses.*
-	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
+	- For the duration of this psycast, all allied creatures within range of you gain the following effects:
 		- Their [[Movement Speed]] increases.
 		- When they attack with a weapon, the [[Rate of Fire]] of the weapon is increased.
 			- This is rounded up for decimal places beyond the hundredths place.

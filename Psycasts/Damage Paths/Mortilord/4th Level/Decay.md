@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You rot a creature from the inside, reducing their healing and damage outputs while inflicting them with damage over time.*
 	- The target creature must make a Constitution saving throw to avoid being rotted. 
-		- On a failure, the creature is afflicted for the duration of the psycast.
+		- On a failure, the creature is afflicted for the duration of this psycast.
 		- On a success, this psycast ends.
 	- Afflicted creatures suffer the following:
 		- They take damage from the rot at the beginning of their turn.

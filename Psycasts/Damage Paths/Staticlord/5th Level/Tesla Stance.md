@@ -22,7 +22,7 @@ tags:
 	- Concentration and Channeled, up to 3 turns.
 - **Effects**:
 	- *You hit an electrifying stance, causing electricity to arc from your outstretched, raised arms to nearby creatures. This electricity can cause secondary shocks to creatures just standing near a shocked creature.*
-	- For the duration of the psycast, all creatures within range of you at the beginning and end of your turn must make a Dexterity saving throw to avoid being shocked. 
+	- For the duration of this psycast, all creatures within range of you at the beginning and end of your turn must make a Dexterity saving throw to avoid being shocked. 
 		- On a failure, they take electric damage from the direct shock and all creatures within secondary shock range of them are shocked for a weaker amount of electric damage.
 		- On a success, they take half as much damage from a direct shock.  a direct shock cannot be targeted by a secondary shock.
 	- You are immune to the effects of this psycast.

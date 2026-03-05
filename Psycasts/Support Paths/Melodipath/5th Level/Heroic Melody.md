@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play a heroic melody on your instrument, giving your nearby teammates several offensive buffs for battle and wavering the enemy morale.*
-	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- For the duration of this psycast, all creatures within range of you are afflicted.
 	- Non-allied afflicted creatures suffer the following effects:
 		- When they are targeted by an attack, the attacker gains a positive modifier to hit.
 	- Allied afflicted creatures gain the following effects:

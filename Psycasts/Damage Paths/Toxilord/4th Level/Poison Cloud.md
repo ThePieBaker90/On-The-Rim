@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 5 turns.
 - **Effects**:
 	- *You release a poison cloud to apply [[Poison Buildup]] and deal poison damage in an area. The cloud lasts a while but can be dissipated by strong winds.*
-	- For the duration of the psycast creatures starting their turn within the target sphere, entering the target sphere for the first time this turn, or ending their turn within the target sphere must make a Constitution saving throw to resist the airborne poisons.
+	- For the duration of this psycast creatures starting their turn within the target sphere, entering the target sphere for the first time this turn, or ending their turn within the target sphere must make a Constitution saving throw to resist the airborne poisons.
 		- On a failure, they take poison damage and gain several levels of [[Poison Buildup]].
 		- On a success, they gain a level of [[Poison Buildup]].
 - **Stats**:

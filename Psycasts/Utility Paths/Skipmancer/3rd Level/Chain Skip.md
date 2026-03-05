@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- 4 turns.
 - **Effects**:
-	- You grant the [[Skipping]] condition to a creature within range for the duration of the psycast. 
+	- You grant the [[Skipping]] condition to a creature within range for the duration of this psycast. 
 - **Upcasting**:
-	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the duration of the psycast is increased by 2 turns
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the duration of this psycast is increased by 2 turns

@@ -22,7 +22,7 @@ tags:
 	- 3 turns.
 - **Effects**:
 	- You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting critical areas and dealing extra damage.
-	- You touch a weapon within range, for the duration of the psycast, the weapon has the following effects:
+	- You touch a weapon within range, for the duration of this psycast, the weapon has the following effects:
 		- The number needed to roll a critical hit while attacking with the weapon is reduced by 1.
 			- This effect can stack with similar effects.
 		- Whenever an attack is made with this weapon, the user may roll 1d4-1 before rolling for damage. Then they may increase that many damage dice by 2 sides.
