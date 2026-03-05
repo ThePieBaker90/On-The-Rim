@@ -7,20 +7,24 @@ tags:
 - **Path**:
 	- 4th Level [[Mendopath Psycasts|Mendopath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 15ft sphere.
-- **Target**:
 	- Self.
+- **Target**:
+	- A sphere with its center within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You create a health nova, healing allies nearby. All allied creatures within range heal 2d10 health.
+	- *You create a psychic burst releasing what appears to be a fine green dust. You and your nearby allies heal a moderate amount of health from this dust which dissipates soon after.*
+	- You heal allied creatures within the target sphere a moderate amount of health.
+- **Stats**:
+	- 2d10 Health from Health Nova. (+1d10 Health)
+	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, all allied creatures heal 1d10 more health.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the health nova heals allied creatures an additional 1d10 Health.
