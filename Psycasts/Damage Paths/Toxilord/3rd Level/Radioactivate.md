@@ -9,20 +9,24 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 7
+	- 5
 - **[[Neural Heat]] Generation:**
-	- 28
+	- 30
 - [[Range]]:
-	- 10ft sphere, line of sight not necessary.
-- **Target**:
 	- Self.
+- **Target**:
+	- A sphere with its center within range.
 - **Components**:
-	- Gesture
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You release a burst of gamma radiation, all creatures within 10ft of you gain 2 levels of [[Radiation Buildup]].
-		- This burst pierces through everything except lead.
-		- You gain half as many levels that are applied to other creatures, rounded down.
+	- *You generate and release a burst of gamma radiation, irradiating everything nearby.*
+	- All creatures within the target sphere gain levels of [[Radiation Buildup]].
+		- The sphere pierces through everything except lead.
+		- You only gain half as many levels that are applied to other creatures, rounded down.
+- **Stats**:
+	- 2 Levels of [[Radiation Buildup]] Applied. (+1 Level)
+	- 10ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 23 psyfocus spent above the normal cost for this psycast, an additional level of [[Radiation Buildup]] is applied
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional level of [[Radiation Buildup]] is applied

@@ -3,5 +3,4 @@ tags:
   - Property
   - Encumbering
 ---
-An item that has the Encumbering property grants its wearer a flat 10ft decrease to their speed.
-
+An item that has the encumbering property slows the user's [[Movement Speed]] by 10ft.

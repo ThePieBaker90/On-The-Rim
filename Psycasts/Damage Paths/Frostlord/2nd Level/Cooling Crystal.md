@@ -9,21 +9,28 @@ tags:
 - **Casting Time:**
 	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- 26
+	- 24
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A small rock within range.
+	- A small rock within range that is used as the focus.
 - **Components**:
-	- Kinetic, Focus (A small rock)
+	- Kinetic, Focus (A small rock).
 - **Duration**:
-	- 1 day
+	- 1 day.
 - **Effects**:
-	- You enchant a rock you are holding into a cooling crystal. 
-		- The crystal passively cools a 30ft sphere around it to the target temperature. If it is contained in a volume, it instead cools the volume (unless the volume is greater than 100,000ft$^3$ in which case it will simply cool a sphere).
-		- The target temperature is chosen when the crystal is created. It may range from 5C to -20C. The crystal cools at a rate of 1C per minute.
-	- The crystal expires at the end of the duration, turning back into a rock.
+	- *You touch a stone, turning into a semi-transparent light-blue crystal and causing it to cool down the surrounding area.*
+	- When you cast this psycast, you choose a chosen temperature for the crystal to cool to.
+	- You enchant the target rock into a cooling crystal, giving it the following effects for the psycast duration:
+		- The crystal passively cools a sphere centered around it to a chosen temperature. If it is contained in a volume, it instead cools the volume.
+			- If the volume is large enough, the crystal will only cool objects around itself.
+- **Stats**:
+	- 30ft Cooling Radius.
+	- 100,000ft$^3$ Max Volume Cooled.
+	- 5 Degrees Celsius Max Target Temperature.
+	- -20 Degrees Celsius Min Target Temperature. (-10 Degrees)
+	- -1 Degree Celsius Cooling Rate Per Turn.
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the target temperature may be -10C lower.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the target temperature may be -10C lower.

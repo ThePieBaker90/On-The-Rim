@@ -11,18 +11,32 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 10
 - **[[Neural Heat]] Generation:**
-	- 50
+	- 46
 - [[Range]]:
-	- 50ft
+	- 50ft.
 - **Target**:
-	- A point within range.
+	- A cylinder with the center of its base grounded and within range, and its central axis normal to the ground.
 - **Components**:
-	- Gesture.
+	- Kinetic.
 - **Duration**:
-	- 2 turns.
+	- Channeled, up to 1 turn.
 - **Effects**:
-	- You create a cylinder of upwards gravity centered on a point within range. The cylinder has a 15ft radius and 40ft height. All creatures within the cylinder must make a Constitution saving throw. On a failure they are lifted into the air. On a success nothing happens. At the beginning of the casters next turn all creatures held in the air are slammed into the ground, taking 1d12 bludgeoning damage per 10ft of height.
-		- While in the air, creatures without a flying speed cannot move. Creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
-		- If the psycast ends prematurely, all creatures in the air fall, taking 1d6 bludgeoning damage per 10ft of height.
+	- *You create a large area of inverted gravity, causing creatures to lift into the air before you invert the gravity, slamming them into the ground and dealing massive damage.
+	- All creatures within the target cylinder must make a Constitution saving throw when this psycast is cast. 
+		- On a failure, they are afflicted for the psycast duration.
+		- On a success, nothing happens. 
+	- Afflicted creatures suffer the following effects:
+		- They are levitated into the air.
+			- When levitated, creatures are brought to the height of the cylinder or the ceiling, whichever is lower.
+		- If they do not have a [[Movement Speed#Flying|Flying Speed]], they are [[Immobilized]]. 
+		- At the beginning of your next turn, they are slammed into the ground, taking heavy damage that scales with the height of the slam and being knocked [[Prone]] and [[Stunned]].
+			- Once this effect triggers, they lose affliction.
+	- If the psycast ends prematurely, all afflicted creatures fall taking damage scaling with the height of the fall.
+- **Stats**:
+	- 1d12 Bludgeoning Damage per 10ft of Height from Gravity Slam.
+	- 1d6 Bludgeoning Damage per 10ft of Height from Falling
+	- 1 Turn [[Stunned]] Duration.
+	- 15ft Target Cylinder Radius.
+	- 40ft Target Cylinder Height. (+10ft)
 - **Upcasting:**
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the cylinder's height increases by 10ft.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the target cylinder's height increases by 10ft.

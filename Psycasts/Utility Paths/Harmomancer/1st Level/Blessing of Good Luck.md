@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 1st level [[Harmomancer Psycasts|Harmomancer Psycast]]
 - **Casting Time**:
-	- 1 Reaction
+	- 1 Reaction, which you take when a target makes an ability check.
 - **[[Psyfocus]] Cost:**
 	- 22
 - **[[Neural Heat]] Generation:**

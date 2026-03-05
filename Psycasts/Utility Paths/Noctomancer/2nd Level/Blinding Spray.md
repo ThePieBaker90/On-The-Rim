@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Noctomancer
+---
+- **Path**:
+	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 26
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A cone originating from the caster with a length of 15ft and a maximum width of 10ft.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- A blinding spray shoots out of your hands in a cone towards the direction of your choosing. All creatures within the cone with [[Eyes]] must make a Dexterity saving throw. 
+		- On a failure, they are [[Blinded]] for 2 turns. 
+		- On a success, nothing happens.
+- **Upcasting**:
+	- You cannot upcast this psycast.

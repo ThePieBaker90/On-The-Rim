@@ -13,14 +13,19 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 36 (31)
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
 	- Concentration, up to 2 turns.
 - **Effects**:
-	- You say a lethargic word to drain the energy from a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain the [[Lethargic]] condition for the psycast duration. On a success, nothing happens.
+	- *You imbue psychic energy into a word of fatigue, directing it at a creature. The creature has their energy drained from them, dexterity actions performed by them are harder to perform and they lose an action.*
+	- The target creature must make a Wisdom saving throw to resist the exhausting word. 
+		- On a failure, they gain [[Lethargic]] for the psycast duration. 
+		- On a success, nothing happens.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.

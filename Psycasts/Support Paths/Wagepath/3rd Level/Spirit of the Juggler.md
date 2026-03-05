@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 20 (20)
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**:
+	- Your items float in to your hands and backpack allowing you to rapidly swap what you are holding.
+	- You may equip and unequip weapons and items at no action cost for the psycast duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

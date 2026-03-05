@@ -9,19 +9,29 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 22
+	- 20
 - **[[Neural Heat]] Generation:**
-	- 52
+	- 48
 - [[Range]]:
-	- 10ft, 90 degree arc.
+	- Touch
 - **Target**:
-	- A direction.
+	- An arc with the vertex between its two flat surfaces within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
-	- You splash [[Matterbane]] towards a direction. All creatures in a 10ft, 90 degree arc centered on this direction must make a Dexterity saving throw. On a failure, creatures take 6d10 corrosion damage, any armor they may be wearing gains 4 levels of [[Armor Corrosion]], and they gain the [[Chemical Burned]] condition for 3 turns. On a success, creatures take half as much damage.
-		- Objects take 8d10 corrosion damage when hit, this ignores any damage reductions from the object but not any corrosion immunities.
+	- *You splash [[Matterbane]], an extreme solvent that dissolves nearly anything, in an arc. Anything hit by the [[Matterbane]] begins dissolving immediately.*
+	- All creatures in the target arc must make a Dexterity saving throw to avoid the [[Matterbane]]. 
+		- On a failure, they take heavy corrosion damage, any armor they are wearing gains [[Armor Corrosion]], and they are [[Chemical Burned]].
+			- This corrosion damage can not be reduced by resistances, it may still be blocked with immunities.
+		- On a success, they take half as much damage.
+	- All objects in the target area are coated by [[Matterbane]], taking heavy corrosion damage.
+- **Stats**:
+	- 6d10 Corrosion Damage from [[Matterbane]]. (+2d10 Corrosion Damage)
+	- 4 Levels of [[Armor Corrosion]] Applied.
+	- 3 Turn [[Chemical Burned]] Duration.
+	- 90 Degree Target Arc Radius.
+	- 10ft Target Arc Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the attack deals 2d10 more damage.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, this psycast deals 2d10 more damage.

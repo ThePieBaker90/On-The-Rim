@@ -3,23 +3,22 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- Mind-Shattering Pain is measured in 8 levels.
-	- An effect can give a creature one or more levels of mind-shattering pain, as specified in the effect’s description. 
-	- Creatures who do not feel pain or are immune to psychic damage are not affected by this condition.
-	- If a creature already suffers from mind-shattering pain and suffers another effect that causes mind-shattering pain, its current level of mind-shattering pain increases by the amount specified in the effect’s description.
-- Mind-Shattering Pain dissipates on its own, 1 level at the start of the creature's turn if the creature did not gain any levels of Mind-Shattering Pain after the start of their last turn.
-- Mind-Shattering Pain is not capped.
+- Mind-Shattering pain always has an indefinite duration.
+- Mind-Shattering pain may stack.
+- When a creature has one or more levels of mind-shattering pain, they suffer the following effects:
+	- They lose 1 level of mind-shattering pain at the beginning of their turn if they did not gain any levels since the start of their last turn.
+	- They suffer the effect listed in the following table:
 
-| Mind-Shattering Pain Level | Effects                                                              |
-| -------------------------- | -------------------------------------------------------------------- |
-| 1                          | Creature has a -1 modifier on all checks                             |
-| 2                          | Creature has a -2 modifier on all checks                             |
-| 3                          | Creature has disadvantage on all checks                              |
-| 4                          | Creature has disadvantage on all checks + Creature's speed is halved |
-| 5                          | Creature is Incapacitated + Creature's speed is halved               |
-| 6                          | Creature is Stunned                                                  |
-| 7                          | Creature is Paralyzed                                                |
-| 8+                         | Creature is Unconscious                                              |
-
+| Mind-Shattering Pain Level | Effects                                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                          | They have a -1 modifier on all skill checks and saving throws.                                                                        |
+| 2                          | They have a -2 modifier on all skill checks and saving throws.                                                                        |
+| 3                          | They have disadvantage on all skill checks and saving throws.                                                                         |
+| 4                          | They have disadvantage on all skill checks and saving throws and their [[Movement Speed\|Movement Speed]] is halved                         |
+| 5                          | They are [[Incapacitated]], have disadvantage on all skill checks and saving throws, and their [[Movement Speed\|Movement Speed]] is halved |
+| 6                          | They are [[Stunned]] and have disadvantage on all skill checks and saving throws.                                                     |
+| 7                          | They are [[Paralyzed]] and have disadvantage on all skill checks and saving throws.                                                   |
+| 8+                         | They are [[Unconscious]] and have disadvantage on all skill checks and saving throws.                                                 |
+- Creatures who do not feel pain or are immune to psychic damage are immune to this condition.
 
 

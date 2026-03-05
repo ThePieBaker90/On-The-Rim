@@ -13,17 +13,23 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 14
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
-	- A corpse within range.
+	- An intact corpse within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You explode a corpses bile, all creatures within 10ft of the corpse must make a dexterity saving throw. On a failure, they take 2d8 necrotic damage. On a success, nothing happens.
-	- Corpses targeted by this psycast cannot be targeted by this psycast again.
-	- This psycast can be cast on a [[Medium Shambler|Shambler]] you created with no [[Neural Heat]] cost.
+	- *You point at a corpse causing it to immediately explode into viscera and gibs. This explosion releases necrotic energy held within the corpse, dealing damage to those nearby.*
+	- All creatures within explosion distance of the target corpse must make a Constitution saving throw to avoid absorbing the necrotic energy.
+		- On a failure, they take moderate damage.
+		- On a success, nothing happens.
+	- Corpses targeted by this psycast explode into gibs and cannot be targeted by this psycast again or any other effects reliant on the corpse being intact.
+	- The target for this psycast may be a [[Medium Shambler|Shambler]] you created. If it is, this psycast has no [[Neural Heat]] cost when used.
 		- This kills the [[Medium Shambler|Shambler]] instantly.
+- **Stats**:
+	- 2d8 Necrotic Damage from Necrotic Energy Absorption. (+1d8 Necrotic Damage)
+	- 10ft Explosion Distance.
 - **Upcasting**:
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the damage increases by 1d12 necrotic damage.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the damage increases by 1d8 necrotic damage.

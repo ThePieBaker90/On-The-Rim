@@ -6,4 +6,4 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -1
 - **Effects:**
-	- Carriers of this gene can attempt to hide even when only lightly obscured by natural phenomena (rain, foliage, snow, mist, etc.)
+	- Carriers of this gene are considered to be under heavy cover when only under light  or medium cover from natural phenomena (rain, foliage, snow, mist, etc.).

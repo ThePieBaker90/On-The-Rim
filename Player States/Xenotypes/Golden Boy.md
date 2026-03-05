@@ -1,0 +1,22 @@
+---
+tags:
+  - Xenotype
+---
+- *Brough to you by GenArt, the Golden Boy! Become sleek, smooth, sexy. Become the Golden Boy! Worry about death no more with our custom regenerative gene!*
+- **[[Metabolic Efficiency|Metabolic Efficiency Modifier:]]** -1
+- **[[Genes#Cosmetic Genes|Cosmetic Xenogenes:]]**
+	- [[Golden Skin]]
+	- [[Hair Color]]
+		- Golden
+- **[[Genes#Life Genes|Life Xenogenes:]]**
+	- None.
+- **[[Genes#Ability Genes|Ability Xenogenes:]]**
+	- [[Regenerative Spirit]]
+	- [[Mendopath Psycast Affinity]]
+	- [[Slow Speed]]
+- **[[Genes#Passive Genes|Passive Xenogenes]]**
+	- [[Hyperconductor]]
+	- [[Increased Health]]
+- **[[Genes#Skill Genes|Skill Xenogenes:]]**
+	- [[Medium Charisma Increase]]
+	- [[Medium Dexterity Decrease]]

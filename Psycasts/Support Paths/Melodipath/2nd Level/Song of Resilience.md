@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Melodipath
+---
+- **Path**:
+	- 2nd Level [[Melodipath Psycasts|Melodipath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 13
+- [[Range]]:
+	- 15ft. (+5ft)
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic, Focus (Instrument).
+- **Duration**:
+	- Channeled, up to 1 Turn.
+- **Effects**:
+	- *You play a resilient tune on your instrument, granting nearby teammates temporary health and a damage reduction scaling with the amount of damage types an attack does.*
+	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
+		- They gain moderate temporary health for the psycast duration.
+			- They may only gain this temporary health once from this psycast per turn.
+			- This temporary health is not lost if they leave range of you.
+		- They take slightly less damage from attacks scaling with the number of different damage types.
+			- For example, if they are hit by an attack dealing 4 piercing damage and 3 fire damage, they will instead take 3 piercing damage and 2 fire damage.
+- **Stats**:
+	- 2d6 Temporary Health Gained.
+	- 1 Less Damage per Damage Type.
+- **Upcasting**:
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 14
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,7 +21,12 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You say a word of anger to enrage a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain 1 level of [[Anger]]. On a success, nothing happens.
-		- A creature may willingly fail the saving throw.
+	- *You imbue psychic energy into a word of hatred, directing it at a creature. The creature finds themselves inexplicably [[Anger|Angry]], causing their melee to deal more damage but making them more likely to miss attacks.*
+	- The target creature must make a Wisdom saving throw to resist the anger. 
+		- On a failure, they gain [[Anger]]. 
+		- On a success, nothing happens.
+		- A creature may willingly fail this saving throw.
+- **Stats**:
+	- 1 Level of [[Anger]] Applied. (+1 Level)
 - **Upcasting**:
-	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the creature gains an additional level of [[Anger]] on a failed save.
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, an additional level of [[Anger]] is applied.

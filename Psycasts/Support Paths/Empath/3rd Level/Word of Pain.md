@@ -7,20 +7,26 @@ tags:
 - **Path**:
 	- 3rd Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
-	- You say a painful word to a creature within range, the creature must make a Wisdom saving throw. On a failure, they take 1d8 psychic damage and gain 1 level of [[Mind-Shattering Pain]]. On a success, nothing happens.
+	- *You imbue psychic energy into a word of agony, directing it at a creature. The creature is struck with [[Mind-Shattering Pain]], inhibiting all of their abilities. If the pain grows large enough, a creature can become [[Incapacitated]] or even fall [[Unconscious]].*
+	- The target creature must make a Wisdom saving throw to resist the pain. 
+		- On a failure, they take psychic damage from the pain and gain [[Mind-Shattering Pain]]. 
+		- On a success, nothing happens.
+- **Stats**:
+	- 1d8 Psychic Damage from Pain.
+	- 1 Level of [[Mind-Shattering Pain]] Applied. (+1 Level)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, an additional level of [[Mind-Shattering Pain]] is applied on a failed save.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, an additional level of [[Mind-Shattering Pain]] is applied.

@@ -3,4 +3,11 @@ tags:
   - Property
   - Reload
 ---
-A weapon with this property can refill the number of uses it has left by using the resource written in the 1st option (bonus action, action, reaction). When this is done, the number in the 2nd option tells you how much is refilled, if the option says “full” then the maximum number of uses is refilled.
+- A weapon with this property gains the reload ability to reload its stored [[Ammunition]]. 
+- Reloading is an ability that takes the reload cost to perform. When you expend the costs, you add ammo into the weapon equal to the reload amount (you add the reload amount to the ammo counter in the weapon's [[Ammunition]] property).
+- The reload cost of a weapon is held in the 1st option as some time-based and/or material-based cost. This cost is both the time it takes to reload a weapon and the material cost of bigger impact weapons.
+	- Action and Bonus-Actions are examples of a time-based cost for reload cost.
+	- Rockets and Grenade Shells are examples of a material-based cost for reload cost.
+- The reload amount of a weapon is held in the 2nd option as some integer or "full". This is how much the weapon reloads with the reload costs are paid.
+	- "full" means the weapon reloads up to its ammo capacity.
+- This property depends on the weapon having the [[Ammunition]] property.

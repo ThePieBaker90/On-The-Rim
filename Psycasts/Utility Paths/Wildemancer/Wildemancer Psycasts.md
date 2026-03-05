@@ -32,3 +32,4 @@ aliases:
 	- [[Vile Leap]] (3, 44) ([[Toxilord Psycasts|Toxilord]])
 - 5th Level:
 	- .
+Wild Tech - Arrow rain

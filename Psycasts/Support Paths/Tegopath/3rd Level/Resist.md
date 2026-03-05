@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 30ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 2 turns.
+- **Effects**
+	- You grant a creature in range resistance to one damage type for the psycast duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -15,10 +15,10 @@ aliases:
 	- [[Boiling Strike]] (2,15)
 - 3rd Level:
 	- [[Water Barrier]] (2,24)
-	- [[Wave Ride]] (5, 34)
+	- [[Wave Ride]] (6, 24)
 - 4th Level:
 	- [[Call Rain]] (58,0)
-	- [[Purify]] (36,0)
+	- [[Purify]] (26,0)
 	- [[Typhoon's Fury]] (3,44)
 - 5th Level:
 	- [[Create Water Source]] (48,0)
@@ -27,7 +27,9 @@ aliases:
 - Level 1 Miscast - Instant Evaporate
 	- All water within a 45ft sphere centered on the caster instantly evaporates. This does not evaporate mixtures which are not at least 95% water and mixtures with a boiling point above 100C. 
 - Level 2 Miscast - Blanket of Boiling Water
-	- A sheet of boiling hot water manifests slightly above the caster, it is a circle with radius of 15ft. After about 2 seconds, the sheet falls, soaking everything under it. Any creature under it must succeed a DC 15 dexterity saving throw or take 2d8 fire damage. The creature also automatically fails any concentration checks resulting because of this damage.
+	- A sheet of boiling hot water manifests slightly above the caster, it is a circle with radius of 15ft. Any creature under the sheet of water must make a DC 15 dexterity saving throw to avoid it.
+		- On a failure, they take 2d8 fire damage and lose concentration on any psycasts.
+		- On a success, they take half as much damage.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
@@ -38,3 +40,4 @@ aliases:
 	- [[Call Blizzard]] (58, 0) ([[Frostlord Psycasts|Frostlord]])
 - 5th Level:
 	- .
+Fire Water - Steam cartoon like attack (Thomas gets to name)

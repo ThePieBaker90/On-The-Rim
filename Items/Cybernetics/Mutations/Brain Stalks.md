@@ -24,5 +24,6 @@ tags:
 	- User has horrifying nightmares preventing a productive long rest, all long rests only give the benefits of short rests.
 	- Short rests regenerate one spell slot of each level and up to a quarter of your hit dice.
 	- Features and items which recharge on a long rest instead recharge on the first short rest in a 24 hour time period.
+	- TODO REFACTOR
 - **Looks:**
 	- The brain generates odd "stalks" which attach it to the walls of the skull.

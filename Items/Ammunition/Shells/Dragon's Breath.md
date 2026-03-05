@@ -7,9 +7,9 @@ tags:
 ---
 - **Usable In:**
 	- Shotguns
-- **Effect:**
-	- 1 dice worth of damage becomes fire damage rather than piercing damage.
-	- 1 fire damage dealt to target upon a missed shot
-	- Target must succeed a DC 15 Dexterity saving throw or gain the [[On Fire!]] condition for 1 turn.
-- **Cost:**
-	- 1 credit for 5
+- **Effects:**
+	- The weapon has the highest dice worth of damage replaced by fire damage.
+	- The weapon deals 1 fire damage to the target upon missing.
+	- When a target is hit with the weapon, they must succeed a DC 15 Dexterity saving throw or gain the [[On Fire!]] condition for 1 turn.
+- **Value:**
+	- 5 credits for 1

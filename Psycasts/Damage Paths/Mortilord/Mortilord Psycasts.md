@@ -12,14 +12,14 @@ aliases:
 	- [[Bursting Bile]] (1, 14)
 	- [[Learn From the Dead]] (25, 0)
 - 2nd Level:
-	- [[Touch of Wounding]] (4, 21)
+	- [[Touch of Wounding]] (4, 20)
 	- [[Word of Wounding]] (6, 23)
 - 3rd Level:
-	- [[Biotic Drain]] (5, 28)
+	- [[Biotic Drain]] (4, 30)
 	- [[Enthrall]] (10, 22)
-	- [[Weakening Ray]] (3, 28)
+	- [[Weakening Ray]] (4, 25)
 - 4th Level:
-	- [[Decay]] (4, 37)
+	- [[Decay]] (4, 36)
 	- [[Health Siphon]] (3, 44)
 - 5th Level:
 	- [[Reanimate]] (85, 0)
@@ -37,3 +37,6 @@ aliases:
 	- .
 - 5th Level:
 	- [[Resurrect]] (85, 0) ([[Mendopath Psycasts|Mendopath]])
+Chrono Mortilord - Bring someone to the brink of death and bring back to paralyze temp
+Morti Terra - Graves grasping hands like, call it line in the sand or something
+Morti Tech - Graves jar of dead type shift.

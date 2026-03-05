@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Terralord
+---
+- **Path**:
+	- 1st Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 17
+- [[Range]]:
+	- 45ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You generate 3 small stones out of nearby dust, rocks, and dirt to fling at a creature. The stones can be one of three shapes affecting the type of damage they deal.*
+	- When you cast this psycast, you choose which shape of stone you shoot from the following types:
+		- Bricks - Bludgeoning Damage.
+		- Discs - Slashing Damage.
+		- Spikes - Piercing Damage.
+	- Make a ranged attack roll for each stone, adding your psycasting ability modifier to each result. On a hit, a stone deals damage corresponding to its shape.
+- **Stats**:
+	- 1d6 Bludgeoning Damage from Brick.
+	- 1d6 Slashing Damage from Disc.
+	- 1d6 Piercing Damage from Spike.
+- **Upcasting**:
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the damage of each stone increases by 1d6 damage.

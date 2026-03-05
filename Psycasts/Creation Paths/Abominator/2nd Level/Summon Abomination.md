@@ -7,20 +7,27 @@ tags:
 - **Path**:
 	- 2nd Level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 28
 - **[[Neural Heat]] Generation:**
 	- 18
 - [[Range]]:
-	- 10ft
+	- 10ft.
 - **Target**:
 	- A point within range.
 - **Components**:
-	- Kinetic, Material (6kg of [[Abomination Matter]])
+	- Kinetic, Material (6kg of [[Abomination Matter]]).
 - **Duration**:
-	- Up to 1 day
+	- Channeled, up to 1 day.
 - **Effects**:
-	- You create an [[Abomination]] which will follow single word commands you direct at it. The [[Abomination]] has 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning damage with melee attacks.
+	- *You summon an [[Abomination]], a golem made of [[Abomination Matter]], which can fight, follow basic commands, and take a lot of damage.*
+	- You create an [[Abomination]] at a target point which will follow single word commands you direct at it.
+	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
+- **Stats**:
+	- 65 [[Abomination]] Health. (+25 Health)
+	- 1d10 + 3 Bludgeoning Damage from [[Abomination]] Melee Attack.
+	- 1d8 - 1 Bludgeoning Damage from [[Abomination]] Ranged Attack.
+	- 25ft [[Abomination]] [[Movement Speed]].
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the [[Abomination]] is created with an additional 13 (2d8+2) health.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the [[Abomination]] health increases by 25 health.

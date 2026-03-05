@@ -28,7 +28,7 @@ tags:
 		- Drop
 			- Creature drops whatever item(s) they are holding.
 		- Halt
-			- Creature stops and cannot move until the end of their next turn.
+			- Creature stops and is [[Immobilized]] until the end of their next turn.
 		- Away
 			- Creature uses all available movement to walk away from you. 
 		- Attack

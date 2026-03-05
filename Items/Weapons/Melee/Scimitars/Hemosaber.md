@@ -21,7 +21,7 @@ tags:
 - **Properties**:
 	- Martial
 	- Finesse
-	- [[Light]]
+	- [[Items/Weapons/Properties/Light]]
 	- [[Nick]] (Mastery)
 	- Special
 	- [[Unmoddable]]

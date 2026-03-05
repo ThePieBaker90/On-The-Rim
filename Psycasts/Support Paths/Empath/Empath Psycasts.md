@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Word of Anger]] (4, 14)
 	- [[Word of Guidance]] (5, 0)
-	- [[Word of Joy]] (5, 26)
+	- [[Word of Joy]] (10, 21)
 - 2nd Level:
 	- [[Word of Inspiration]] (10, 0)
 	- [[Word of Suppression]] (5, 23)
@@ -25,7 +25,7 @@ aliases:
 	- [[Word of Panic]] (12, 24)
 ## Miscasts
 - Level 1 Miscast - Empathy with the Self
-	- You cast a second copy of the psycast you just used, except the target is you. You automatically fail any relevant saving throw.
+	- You accidentally overwhelm yourself with the emotion you intended to inflict. You cast a second copy of the psycast you just used, except the target is you. You automatically fail any relevant saving throw.
 		- If [[Empathetic Shout]] was the psycast, you cast a copy of the empowered psycast centered on you.
 - Level 2 Miscast - Tired of Empathy
 	- You exhaust yourself, you gain [[Lethargic]] for 2 turns.
@@ -33,8 +33,10 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
+	- [[Empathetic Shielding]] (5, 42) ([[Tegopath Psycasts|Tegopath]])
 	- [[Ritual of Wrath]] (90, 0) ([[Puppetmancer Psycasts|Puppetmancer]])
 - 4th Level:
 	- .
 - 5th Level:
 	- First Feeling ([[Illusiomancer Psycasts|Illusiomancer]])
+Neuro Empath - Link all self effect spells to nearby allies

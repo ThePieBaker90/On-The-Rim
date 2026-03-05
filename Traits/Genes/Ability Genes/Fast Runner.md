@@ -6,4 +6,4 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -2
 - **Effects:**
-	- Carriers of this gene gain +10ft of movement speed when they dash.
+	-  Carriers of this gene have their [[Movement Speed]] increased by 5ft for 1 turn when they dash.

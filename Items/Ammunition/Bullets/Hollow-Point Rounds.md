@@ -2,16 +2,14 @@
 tags:
   - Item
   - Ammunition
-  - Assault-Rifle
-  - Submachine-Gun
   - Pistol
   - Revolver
   - Bullet
 ---
 - **Usable In:**
-	- Assault Rifles, Submachine Guns, Pistols, and Revolvers.
-- **Effect:**
-	- +1d4 piercing damage.
-	- -1 [[Armor Piercing]]
-- **Cost:**
+	- Pistols, and Revolvers.
+- **Effects:**
+	- Weapon gains +1d4 piercing damage.
+	- Weapon gains -1 [[Armor Piercing]]
+- **Value:**
 	- 1 credit for 10

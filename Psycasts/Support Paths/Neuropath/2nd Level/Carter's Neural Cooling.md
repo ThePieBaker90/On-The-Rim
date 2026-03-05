@@ -23,6 +23,6 @@ tags:
 - **Effects**:
 	- You psychically cool your brain, increasing [[Neural Heat]] dissipation but requiring additional [[Psyfocus]] to cast psycasts. For the duration of the psycast you have the following effects:
 		- You dissipate an additional 3 [[Neural Heat]] per turn.
-		- All psycasts [[Psyfocus]] cost is increased by 35% (rounded up).
+		- All psycast's [[Psyfocus]] cost is increased by 35% (rounded up).
 - **Upcasting**:
 	- You cannot upcast this psycast.

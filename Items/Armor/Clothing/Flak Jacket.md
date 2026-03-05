@@ -6,10 +6,14 @@ tags:
 ---
 - __Type of Armor__:
 	* Clothing
-- __Armor Class__:
+- __[[Armor Class]]__:
 	* 11 + DEX
+* __[[Evade Class]]:__
+	* 0
 - __Strength Needed To Wear__:
 	* N/A
+- **Properties:**
+	- N/A
 - **Value:**
 	- 20 credits
 - **Lore:**

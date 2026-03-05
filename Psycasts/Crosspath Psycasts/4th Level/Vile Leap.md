@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Toxilord
+  - Wildemancer
+---
+- **Path**:
+	- 4th Level [[Toxilord Psycasts|Toxilord Psycast]] & [[Wildemancer Psycasts|Wildemancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 35ft
+- **Target**:
+	- A point within range, may go over obstacles.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You take an empowered leap, releasing poisons to those you land nearby. 
+	- You jump to a point within range and release a burst of toxicity where you land. All creatures within a 15ft sphere of you must make a Constitution saving throw. 
+		- On a failure, they take 2d6 poison damage and gain 6 levels of [[Poison Buildup]]. 
+		- On a success, they take half damage and gain 3 levels of [[Poison Buildup]].
+		- You ignore the effects of this psycast.
+		- This jump follows the standard arc of the jump action.
+- **Upcasting**:
+	- You may upcast this psycast. For every 30 psyfocus spent above the normal cost for this psycast, the number of [[Poison Buildup]] levels applied on a failed saving throw in increased by 3.

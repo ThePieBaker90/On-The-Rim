@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 17
 - [[Range]]:
-	- 10ft
+	- 10ft.
 - **Target**:
 	- A humanoid corpse within range.
 - **Components**:
@@ -21,7 +21,15 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a [[Medium Shambler|Shambler]] from a humanoid corpse within range. The corpse reanimates and becomes a [[Medium Shambler|Shambler of matching size]] that automatically chases and attacks enemies.
-	- The [[Medium Shambler|Shambler]] dies from metabolic exhaustion after 1 hour unless restrained.
+	- *You reanimate a corpse into a [[Medium Shambler|Shambler]], a zombie like creature that will automatically chase and attack enemies it sees.*
+	- You create a [[Medium Shambler|Shambler]] from the target corpse. The corpse becomes a [[Medium Shambler|Shambler of matching size]] that automatically chases and attacks enemies.
+	- The [[Medium Shambler|Shambler]]  will die from metabolic exhaustion after enough time unless restrained.
+- **Stats**:
+	- 1 Hour [[Medium Shambler|Shambler]] Lifespan.
+	- 17 [[Small Shambler]] Health.
+	- 20 [[Medium Shambler]] Health.
+	- 25 [[Large Shambler]] Health.
+	- 1d6 + 1 Bludgeoning Damage from [[Medium Shambler|Shambler]] Melee Attack.
+	- 30ft [[Medium Shambler|Shambler]] [[Movement Speed]].
 - **Upcasting**:
 	- You cannot upcast this psycast.

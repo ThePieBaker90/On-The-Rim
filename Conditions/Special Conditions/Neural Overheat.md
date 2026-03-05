@@ -3,4 +3,4 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- When a creature has the neural overheat condition, any psycasts they cast that generate [[Neural Heat]] generate an additional 5 [[Neural Heat]].
+- When a creature has the neural overheat condition, when they use a psycast that generates [[Neural Heat]], they generate an additional 5 [[Neural Heat]].

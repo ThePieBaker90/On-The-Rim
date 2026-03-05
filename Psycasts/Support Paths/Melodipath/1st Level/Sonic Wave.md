@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Melodipath
+---
+- **Path**:
+	- 1st Level [[Melodipath Psycasts|Melodipath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 19
+- [[Range]]:
+	- 15ft. (+5ft)
+- **Target**:
+	- Self.
+- **Components**:
+	- Focus (Instrument)
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *A sonic wave roars from your instrument, damaging all who are nearby.*
+	- All creatures within range of you must make a Constitution saving throw to resist the sonic wave.
+		- On a failed save, they take moderate sound damage.
+		- On a successful save, they take half as much damage.
+	- You are immune to the effects of this psycast.
+- **Stats**:
+	- 2d8 Sonic Damage from Sonic Wave.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

@@ -1,15 +1,16 @@
 ---
 tags:
-  - Armor
   - Item
   - Shield-Belt
   - Belt
-  - Equipment
+  - Accessory
 ---
-- __Type of Armor__:
+- __Accessory Type__:
 	* Belt
 - __Properties__:
 	* [[Items/Armor/Properties/Shield Belt|Shield Belt]]
+* **Effects:**
+	* None
 - **Value:**
 	- 200 credits
 - **Lore:

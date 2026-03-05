@@ -7,20 +7,25 @@ tags:
 - **Path**:
 	- 5th Level [[Empath Psycasts|Empath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
-	- You say a word of panic to incite anxiety in a creature within range, the creature must make a Wisdom saving throw. On a failure, they gain 1 level of [[Panic]]. On a success, nothing happens.
+	- *You imbue psychic energy into a word of anxiety, directing it at a creature. The creature enters a state of [[Panic]], suffering stacking negative modifiers to nearly all of their abilities.
+	- The target creature must make a Wisdom saving throw to resist the panic. 
+		- On a failure, they gain 1 level of [[Panic]]. 
+		- On a success, nothing happens.
+- **Stats**:
+	- 1 Level of [[Panic]] Applied. 
 - **Upcasting**:
 	- You cannot upcast this psycast.

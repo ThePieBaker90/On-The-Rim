@@ -13,14 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 20
 - [[Range]]:
-	- Self.
+	- Touch.
 - **Target**:
-	- A cone originating from the caster.
+	- A cone with its apex within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- Pellets of ice form and shoot out in a conical shape in a direction of your choosing. The cone originates from you, has a length of 30ft, and a maximum width of 10ft. All creatures within the cone must make a Dexterity saving throw. On a failed save, a creature takes 1d6 piercing and 1d6 cold damage. On a successful save, nothing happens.
+	- *You shoot hundreds of small hail pellets dealing damage to anyone caught in the spread.*
+	- All creatures within the target cone must make a Dexterity saving throw to avoid the spread of hail. 
+		- On a failed save, they take damage from the hail.
+		- On a successful save, nothing happens.
+- **Stats**:
+	- 1d6 Piercing + 1d6 Cold Damage from Hail. (+1d6 Piercing + 1d6 Cold Damage)
+	- 30ft Target Cone Length.
+	- 10ft Target Cone Max Width,
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 bludgeoning and 1d6 cold damage.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the damage from the hail increases by 1d6 piercing and 1d6 cold damage.

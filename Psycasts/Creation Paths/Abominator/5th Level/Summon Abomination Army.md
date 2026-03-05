@@ -13,14 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 18
 - [[Range]]:
-	- 10ft
+	- 15ft
 - **Target**:
 	- 3 points within range.
 - **Components**:
-	- Kinetic, Material (18kg of [[Abomination Matter]])
+	- Gesture, Material (18kg of [[Abomination Matter]])
 - **Duration**:
-	- Up to 1 day
+	- Channeled, up to 1 day
 - **Effects**:
-	- You create three [[Abomination|Abominations]] which will follow single word commands you direct at them. The [[Abomination|Abominations]] have 65 (10d8+20) health and deals 1d10 + 3 Bludgeoning damage with melee attacks.
+	- *You summon 3 [[Abomination|Abominations]] to do your bidding. They can follow basic commands and take and deal damage.*
+	- You create three [[Abomination|Abominations]], one at each target point, which will follow single word commands you direct at them. 
+		- You may direct different commands to each [[Abomination]].
+	- The gesture component of this psycast does not need to be satisfied during the cast and active phases to channel it.
+- **Stats**:
+	- 65 [[Abomination]] health. (+25 Health)
+	- 1d10 + 3 Bludgeoning Damage from [[Abomination]] Melee Attack.
+	- 1d8 - 1 Bludgeoning Damage from [[Abomination]] Ranged Attack.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the [[Abomination|Abominations]] are created with an additional 13 (2d8+2) health.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the [[Abomination|Abominations]] health increases by 25 health.

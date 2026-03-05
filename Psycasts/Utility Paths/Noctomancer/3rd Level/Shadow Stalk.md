@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Reaction, which you take when you use the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 35 (25)
+- [[Range]]:
+	- Self
+- **Target**:
+	- Self
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**
+	- As you hide or sneak, you begin sink into the shadows. You have the following effects for the psycast duration:
+		- While in [[Lighting#Bright Light|Bright Light]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Dim Light|Dim Light]] instead.
+		- While in [[Lighting#Dim Light|Dim Light]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Darkness|Darkness]] instead.
+		- While in [[Lighting#Darkness|Darkness]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Void|Void]] instead.
+		- When dealing damage while [[Stealth and Hiding#Hidden|Hidden]], [[Stealth and Hiding#Undetected|Undetected]], or [[Stealth and Hiding#Unnoticed|Unnoticed]]; you deal an additional 50% damage and can use the [[Stealth and Hiding#Hide Action|Hide Action]] for free this turn.
+			- You may only do this once per turn.
+- **Upcasting**:
+	- You cannot upcast this psycast.

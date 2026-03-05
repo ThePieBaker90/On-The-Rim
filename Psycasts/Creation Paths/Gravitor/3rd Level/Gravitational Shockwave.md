@@ -1,0 +1,37 @@
+---
+tags:
+  - Psycast
+  - 3rd-Level
+  - Gravitor
+---
+- **Path**:
+	- 3rd Level [[Gravitor Psycasts|Gravitor Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 40ft
+- **Target**:
+	- A sphere within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You create a shockwave of gravity by creating a small implosion. The strong gravity shockwave carries anything nearby away from the implosion.*
+	- All creatures within the target sphere must make a Constitution saving throw to avoid being pushed away. 
+		- On a failure, they receive knockback away from the center of the sphere. If they are close enough to the center of the sphere, they take additional knockback.
+		- On a success, nothing happens.
+		- Creatures may choose to fail the saving throw.
+	- Creatures knocked into a wall from the knockback take damage.
+- **Stats**:
+	- 5ft Knockback. (+5ft)
+	- 5ft Close Range Radius.
+	- +10ft Close Range Knockback Modifier.
+	- 1d6 Bludgeoning Damage from Being Knocked into a Wall.
+	- 10ft Target Sphere Radius.
+- **Upcasting:**
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the knockback increases by 5ft.

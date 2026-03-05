@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 30
+- **[[Neural Heat]] Generation:**
+	- 50 (50)
+- [[Range]]:
+	- 15ft
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Concentration, up to 3 turns.
+- **Effects**
+	- You instill a creature with temporary immortality, their health cannot drop below 10% of their maximum health for the duration of this psycast.
+		- The creature still deals with the effects of taking damage such as concentration rolls.
+- **Upcasting**:
+	- You cannot upcast this psycast.

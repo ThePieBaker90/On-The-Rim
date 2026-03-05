@@ -1,0 +1,14 @@
+---
+tags:
+  - Condition
+  - Serum
+  - Mixed-Condition
+---
+- Mind-Numb always has a 1 day duration.
+- When a creature has the Mind-Numb condition, they have the following effects:
+	- All psychic damage they take is multiplied by 0.75, rounded down.
+	- They cannot have their thoughts read.
+	- They are immune to [[Mind-Shattering Pain]].
+	- They gain [[Emotionally Numb]].
+	- They cannot have insight checks performed on them.
+	- They cannot perform insight checks

@@ -3,13 +3,13 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- Volatile Poison Buildup is measured in different levels.
-	- An effect can give a creature one or more levels of volatile poison buildup, as specified in the effect’s description. 
-	- Creatures who are immune to poison damage are not affected by this condition.
-	- If a creature already suffers from volatile poison buildup and suffers another effect that causes volatile poison buildup, its current level of  volatile poison buildup increases by the amount specified in the effect’s description.
-	- If a creature already suffers from [[Poison Buildup]] and suffers another effect that causes volatile poison buildup, all levels of [[Poison Buildup]] become volatile poison buildup.
-- Volatile Poison Buildup dissipates on its own, 1 level every time the creature receives the effects of poison buildup.
-- Volatile Poison Buildup is not capped.
+- Volatile poison buildup always has an indefinite duration.
+- Volatile poison buildup may stack.
+- When a creature has one or more levels of volatile poison buildup, they suffer the following effects:
+	- All levels of [[Poison Buildup]] on them become [[Volatile Poison Buildup]].
+	- They take 1.5 damage per level of volatile poison buildup they have, per tun, rounded down.
+	- When they take damage from this condition, they lose 1 level of volatile poison buildup.
+- Creatures who are immune to poison damage are immune to this condition.
 
 | Poison Buildup Level | Effects                                                | Overall Damage               |
 | -------------------- | ------------------------------------------------------ | ---------------------------- |
@@ -28,7 +28,7 @@ tags:
 | 12                   | 18 poison damage per turn.                             | 114                          |
 | 13                   | 19 poison damage per turn.                             | 133                          |
 | 14                   | 21 poison damage per turn.                             | 154                          |
-| 15                   | 22 poison damage per turn.                             | 1                            |
+| 15                   | 22 poison damage per turn.                             | 176                          |
 
 
 

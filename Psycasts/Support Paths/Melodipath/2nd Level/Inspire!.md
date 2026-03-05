@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Melodipath
+---
+- **Path**:
+	- 2nd Level [[Melodipath Psycasts|Melodipath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 13
+- [[Range]]:
+	- 15ft. (+5ft)
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic, Focus (Instrument).
+- **Duration**:
+	- Channeled, up to 1 Turn.
+- **Effects**:
+	- *You play an inspiring melody on your instrument, allowing nearby teammates to reroll dice and succeed more often on wisdom saving throws.*
+	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
+		- They gain [[Inspiration]] for the psycast duration.
+			- This may only happen once per turn.
+		- They have advantage on wisdom saving throws.
+- **Stats**:
+	- 1 Level of [[Inspiration]] Applied.
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

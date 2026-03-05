@@ -20,8 +20,8 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* [[Light]]
-	* [[Stealth]]
+	* [[Items/Weapons/Properties/Light]]
+	* [[Stealthy]]
 * **Value**:
 	* 100 credits
 * **Looks**:

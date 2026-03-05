@@ -1,8 +1,8 @@
 ---
 tags:
-  - Condition
+  - Status
 ---
-- When a creature has the stabilized status they suffer the following effects:
+- When a creature is in the stabilized status they suffer the following effects:
 	- They are [[Incapacitated]],
 	- They are [[Prone]] and cannot get up.
 	- A help action can be used to regenerate this creature to 1 health and remove this status.

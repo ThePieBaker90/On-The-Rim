@@ -3,6 +3,8 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- When a creature has the plasma burned condition, they will take 1d6 fire damage at the start of their turn. 
-- If the creature is doused in water or another extinguishing agent they will lose this condition.
-- A creature who is immune to fire damage is not affected by this condition.
+- When a creature has the on fire! condition, they suffer the following effects: 
+	- They take 1d6 fire damage at the start of their turn.
+	- They have disadvantage on all concentration rolls.
+	- If they are doused in water or another extinguishing agent they lose this condition.
+- A creature who is immune to fire damage is immune to this condition.

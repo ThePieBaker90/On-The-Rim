@@ -24,9 +24,9 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* [[Light]]
+	* [[Items/Weapons/Properties/Light]]
 	* Thrown
-	* [[Stealth]]
+	* [[Stealthy]]
 	* Special
 	* [[Unmoddable]]
 * **Value**:

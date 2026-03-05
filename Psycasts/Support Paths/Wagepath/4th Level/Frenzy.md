@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- You go into an frenzy, flooding your body with endorphins and adrenaline, giving you superhuman speed and damage resilience.
+	- This psycast may only be used while you are at or below 50% health (rounded up).
+		- If end or begin your turn above 50% health during the psycast duration, this psycast ends.
+	- For the duration of this psycast, you gain the following effects:
+		- Your [[Movement Speed]] is increased by 15ft.
+		- You gain an extra action at the beginning of each of your turns.
+			- This action may not be used to use psycasts.
+		- You take 2 less damage when you take damage.
+			- This applies to the highest damage type of the damage.
+			- This cannot reduce the damage below 0.
+		- You cannot concentrate on psycasts.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

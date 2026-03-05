@@ -13,14 +13,17 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 40 (40)
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You say an energetic word to grant an ally within range the [[Energized]] condition for the psycast duration.
+	- *You imbue psychic energy into a word of vitality, directing it at a creature. The creature finds themselves [[Energized]], allowing them so perform superhuman dexterity feats and gaining an extra action. When this energy wears off, creatures tend to not take the change well, finding themselves recovering for an entire turn.*
+	- The target creature gains [[Energized]] for the psycast duration.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.

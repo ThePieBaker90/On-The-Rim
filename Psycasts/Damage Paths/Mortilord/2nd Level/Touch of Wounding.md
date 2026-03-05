@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
-	- 21
+	- 20
 - [[Range]]:
 	- Touch.
 - **Target**:
@@ -21,6 +21,11 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You inflict wounds with your hands. Make a roll to hit against a creature within range, adding your psycasting ability modifier. On a hit, they take 2d10 necrotic damage and gain [[Antiheal]] for 1 turn.
+	- *Your hands inflict wounds and prevent healing on an unlucky creature you touch.*
+	- Make a melee attack roll against the target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, they take moderate necrotic damage and gain [[Antiheal]].
+- **Stats**:
+	- 2d10 Necrotic Damage from Wounds. (+1d10 Necrotic Damage)
+	- 1 Turn [[Antiheal]] Duration.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage increases by 1d10 necrotic damage.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the damage from the wounds increases by 1d10 necrotic damage.

@@ -11,16 +11,25 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
-	- 20
+	- 22
 - [[Range]]:
-	- Self.
+	- Touch.
 - **Target**:
-	- A cone originating from the caster with a length of 20ft and maximum width of 10ft.
+	- A cone with its apex within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- Flames shoot out of your hands in a conical shape towards a direction of your choosing. The cone originates from you, has a length of 20ft, and a maximum width of 10ft. All creatures within the cone must make a Dexterity saving throw. On a failed save, a creature takes 2d4 fire damage and catch [[On Fire!]] for 1d4-1 turns. On a successful save, they take half damage.
+	- *You join your hands together causing flames to shoot out, charring anything unfortunate enough to be standing in front of you.*
+	- All creatures within the target cone must make a Dexterity saving throw to avoid the blaze. 
+		- On a failed save, they take fire damage and catch [[On Fire!]].
+		- On a successful save, they take half damage.
+	- You are immune to the effects of this psycast.
+- **Stats**:
+	- 2d4 Fire Damage from the Blaze. (+2d4 Fire Damage)
+	- 1d4 - 1 Turn [[On Fire!]] Duration.
+	- 20ft Target Cone Length.
+	- 20ft Target Cone Max Width.
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage increases by 2d4 fire damage.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage from the blaze increases by 2d4 Fire damage.

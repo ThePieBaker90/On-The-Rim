@@ -21,7 +21,7 @@ tags:
 - **Properties**:
 	- Martial
 	- Finesse
-	- [[Light]]
+	- [[Items/Weapons/Properties/Light]]
 	- [[Nick]] (Mastery)
 - **Value**:
 	- 15 credits

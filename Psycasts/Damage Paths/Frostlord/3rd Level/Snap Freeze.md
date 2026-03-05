@@ -9,18 +9,24 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 4
+	- 5
 - **[[Neural Heat]] Generation:**
-	- 37 (37)
+	- 30 (30)
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
-	- Up to 3 creatures within range.
+	- A creature within range for each freezing mote.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns
+	- Concentration, up to 3 turns.
 - **Effects**:
-	- You summon 3 freezing motes above up to 3 targets of your choice. They must make a Dexterity saving throw to avoid the freezing motes. Upon a failure, they gain the [[Frozen Solid]] condition, this condition lasts until the psycast ends or the condition is forcibly removed. Upon a success, nothing happens.
+	- *You summon a small freezing mote above several creatures heads. The mote shoots down after a short delay, anyone who fails to avoid it is frozen solid.*
+	- Each target creature must make a Dexterity saving throw to avoid the freezing motes. 
+		- Upon a failure, they gain the [[Frozen Solid]] condition for the psycast duration.
+		- Upon a success, nothing happens.
+		- If all creatures succeed this saving throw, you lose concentration on this saving throw.
+- **Stats**:
+	- 3 Freezing Motes. (+1 Mote)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the caster may summon 1 additional freezing mote above 1 additional target.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the caster may summon 1 additional freezing mote above 1 additional target.

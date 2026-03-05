@@ -13,15 +13,33 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 48
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
-	- A point within range.
+	- A cylinder with its central axis normal to the ground and the center of its base grounded and within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
-	- 3 turns.
+	- 5 turns.
 - **Effects**:
-	- You summon a ring of fire centered on a point within range. The ring has a 25ft radius, 15ft height, and the fire is contained to the ring. Creatures starting their turn in the fire, entering the fire for the first time this turn, or ending their turn in the fire must make a Constitution saving throw. On a failure they take 4d6 fire damage, catch [[On Fire!]] for 2 turns, and have their speed reduced by 10ft until the end of turn. On a success, they take half as much damage.
-	- If the ring is summoned on top of a creature, the creature must make a Dexterity saving throw to dodge the flames. On a failure, they take 4d6 fire damage and catch [[On Fire!]] for 2 turns. On a success, they move away from the ring and take no damage.
+	- *You summon a ring of fire, preventing creatures caught in the inferno from leaving unscathed.*
+	- For the psycast duration, fire follows the curved edge of the target cylinder along the ground. While a creature is in contact with the fire, they are afflicted. 
+		- The fire has a thickness, the fire extends that far out of every single point on the curved edge of the target cylinder.
+		- The fire's height is the height of the target cylinder.
+		- The fire does not spread unless another effect causes it to.
+	- Afflicted creatures suffer the following effects:
+		- Their [[Movement Speed]] is slowed.
+		- When they first become afflicted, they must make a Dexterity saving throw.
+			- On a failure, they take damage from the fire and catch [[On Fire!]].
+			- On a success, they take half as much damage and may move to either side of the fire with their [[Movement Speed]], losing affliction in the process.
+		- When the begin or end their turn, they must make a Constitution saving throw.
+			- On a failure, they take damage from the fire and catch [[On Fire!]].
+			- On a success, they take half as much damage,
+- **Stats**:
+	- 4d6 Fire Damage from Fire. (+2d6 Fire Damage)
+	- 2 Turn [[On Fire!]] Duration.
+	- 10ft [[Movement Speed]] Slow.
+	- 2.5ft Fire Thickness.
+	- 25ft Target Cylinder Radius.
+	- 15ft Target Cylinder Height.
 - **Upcasting**:
-	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage increases by 2d6 fire damage.
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage from the fire increases by 2d6 fire damage.

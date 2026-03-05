@@ -3,9 +3,12 @@ tags:
   - Condition
   - Positive-Condition
 ---
-- When a creature has the Joy condition, they add 2 to the following rolls:
-	- Saving throws.
-	- Ability checks.
-	- Attack Rolls.
-- When this creature is damaged, they must make a Wisdom saving throw. The DC of this check is equal to 10 or half of the damage of the attack, whichever is higher. On a failure, they lose this condition. On a success, nothing happens.
+- When a creature has the Joy condition, they have the following effects:
+	- They add 2 to the following rolls:
+		- Saving throws.
+		- Ability checks.
+		- Attack Rolls.
+	- When they are damaged, they must make a Wisdom saving throw. The DC of this check is equal to 10 or half of the damage of the attack, whichever is higher. 
+		- On a failure, they lose this condition. 
+		- On a success, nothing happens.
 - Constructs and creatures who do not feel emotion are immune to this condition.

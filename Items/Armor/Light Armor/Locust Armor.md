@@ -7,14 +7,14 @@ tags:
 ---
 - __Type of Armor__:
 	* Light Armor
-* __Armor Class__:
+- __[[Armor Class]]__:
 	* +3
-* __Evade Class:__
+* __[[Evade Class]]:__
 	* -1
 - __Strength Needed To Wear__:
 	* 0
 - __Properties__:
-	* [[Items/Armor/Properties/Jump Pack|Jump Pack]]
+	* [[Jump Pack Equipped]]
 - **Value:**
 	- 350 credits
 - **Lore:

@@ -6,23 +6,28 @@ aliases:
   - Noctomancer
   - Noctomancer Psycast
 ---
-*todo.*
+*Noctomancers specialize in the creation, manipulation and amplification of darkness. Some of their psycasts inflict [[Blinded]] and [[Frightened]]. Their ability to work within the shadows and expand their domain make their stealth capabilities unmatched.*
 ## Core Psycasts
 - 1st Level:
-	- [[Fear]] (6, 24)
+	- [[Darkvision]] (12, 0)
+	- [[Snuff Light]] (5, 0)
+	- [[Word of Fear]] (6, 24)
 - 2nd Level:
-	- .
+	- [[Psychic Blindness]] (5, 21)
+	- [[Blinding Spray]] (6, 26)
 - 3rd Level:
-	- .
+	- [[Shadow Stalk]] (6, 35)
+	- [[Void Shroud]] (20, 50)
+	- [[Ball 'o' Black]] (6, 33)
 - 4th Level:
-	- .
+	- [[Slashing Shadows]] (3,44)
 - 5th Level:
-	- .
+	- [[Eternal Night]] (8, 45)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Un-darkvision
+	- Your vision is heavily obscured, [[Lighting#Dim Light|Dim Light]] and [[Lighting#Darkness|Darkness]] act as [[Lighting#Void|Void]] for your [[Sight-Based Perception]] checks.
+- Level 2 Miscast - Darkness Overflow
+	- Darkness overflows within you, you become [[Blinded]] for 3 turns.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

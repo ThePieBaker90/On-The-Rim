@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	-  1 Action
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 45
+- [[Range]]:
+	- 100ft
+- **Target**:
+	- Up to 5 creatures within range.
+- **Components**:
+	- Gesture
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- You release a wave of darkness, 
+	- Each target creature is afflicted for the psycast duration.
+	- Afflicted creatures suffer the following effects:
+		- They gain [[Short-Sighted]].
+		- They hear all sounds you make as if you surround them on all sides.
+		- Their [[Movement Speed]] is slowed by 10ft.
+	- For the psycast duration, you have the following effects:
+		- Your [[Movement Speed]] is increased by 10ft.
+		- You can see the range of vision of afflicted creatures.
+		- You deal an additional 1d4 slashing damage to afflicted creatures.
+- **Upcasting**:
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you may target an additional 5 creatures.

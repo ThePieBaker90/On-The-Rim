@@ -6,7 +6,7 @@ tags:
 ---
 - **Usable In:**
 	- Special
-- **Effect:**
+- **Effects:**
 	- N/A
-- **Cost:**
+- **Value:**
 	- 1 credit for 10

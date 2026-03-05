@@ -21,7 +21,7 @@ tags:
 	* [[Ammunition]](8)
 	* [[Reload]](Bonus Action, Full)
 	* One-Handed
-	* [[Light]]
+	* [[Items/Weapons/Properties/Light]]
 * **Value**:
 	* 25 credits
 * **Looks**:

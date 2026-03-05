@@ -9,9 +9,9 @@ tags:
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 3
+	- 4
 - **[[Neural Heat]] Generation:**
-	- 28
+	- 25
 - [[Range]]:
 	- 120ft
 - **Target**:
@@ -21,6 +21,12 @@ tags:
 - **Duration**:
 	- Instant
 - **Effects**:
-	- You shoot a weakening ray at a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature gains [[Weakness]] and [[Healbane]] for 2 turns and takes 2d8 + 2 necrotic damage
+	- *Several small rays shoot out of your fingers before converging into a pale green weakening ray. Any creature unlucky enough to be struck by the ray has their life energy drained, suffering weakness, healing reduction, and damage.*
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, the ray deals moderate necrotic damage and inflicts the creature with [[Weakness]] and [[Healbane]].
+- **Stats**:
+	- 2d8 + 2 Necrotic Damage from Weakening Ray.
+	- 2 Turn [[Weakness]] Duration. (+1 Turn)
+	- 2 Turn [[Healbane]] Duration. (+1 Turn)
 - **Upcasting**:
-	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the ray deals an additional 1d8 necrotic damage
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the duration of [[Healbane]] and [[Weakness]] increases by 1 turn.

@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 24 (14)
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**:
+	- You increase your melee abilities, allowing you to excel in melee combat.
+	- For the duration of the psycast, you gain the following effects:
+		- When rolling for damage with a melee weapon, you may reroll each dice in the damage up to one time.
+			- You must take the new result of a dice being rerolled.
+			- You may pick and choose which dice to reroll.
+		- You gain a +4 modifier to hit with melee attacks.
+	- If you end your turn without having made at least 1 melee attack during your turn, this psycast ends.
+- **Upcasting**:
+	- You cannot upcast this psycast.

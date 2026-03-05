@@ -10,22 +10,22 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Cinder]] (2, 9)
-	- [[Conjure Flame]] (1, 8)
-	- [[Melt]] (18, 22)
+	- [[Conjure Flame]] (1, 6)
+	- [[Melt]] (18, 20)
 - 2nd Level:
-	- [[Bart's Blazing Cone]] (2, 20)
+	- [[Bart's Blazing Cone]] (2, 22)
 - 3rd Level:
-	- [[Flame Dash]] (6, 30)
-	- [[Wall of Fire]] (4, 16)
+	- [[Flame Dash]] (6, 26)
+	- [[Pillar of Fire]] (2, 16)
 - 4th Level:
 	- [[Fireball]] (3, 44)
-	- [[Immolate]] (4, 34)
+	- [[Immolate]] (5, 29)
 - 5th Level:
 	- [[Ninth Circle of Hell]] (8, 48)
-	- [[Flamehart's Aura of Fire]] (12, 58)
+	- [[Flamehart's Aura of Fire]] (12, 50)
 ## Miscasts
 - Level 1 Miscast - Sudden Combustion
-	- You combust into flames, you catch [[On Fire!]] for 3 turns.
+	- You combust into flames, catching [[On Fire!]] for 3 turns.
 - Level 2 Miscast - The Simplest Solution
 	- You cast [[Fireball]] centered on yourself. You automatically fail the saving throw.
 ## Crosspath Psycasts
@@ -37,3 +37,5 @@ aliases:
 	- [[Thermite Spray]] ([[Chemlord Psycasts|Chemlord]])
 - 5th Level:
 	- .
+Fire Chrono - make fire burn faster
+Fire Water - Steam cartoon like attack (Thomas gets to name)

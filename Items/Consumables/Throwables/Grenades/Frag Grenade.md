@@ -1,0 +1,16 @@
+---
+tags:
+  - Item
+  - Grenade
+  - Consumable
+---
+- **Consumable Type:**
+	- Throwable (Grenade)
+- **Effects:**
+	- When used as an action, the user throws the Frag Grenade. All creatures who are in line-of-sight of the grenade and within 20 ft must make a DC 13 dexterity saving throw. On a failed save they take 2d12 force damage, on a successful save they take half as much damage.
+- **Charges:**
+	- 1
+- **Value:**
+	- 120 Credits.
+- **Lore:**
+	- *A typical frag grenade.*

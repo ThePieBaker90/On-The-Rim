@@ -2,15 +2,16 @@
 tags:
   - Item
   - Ammunition
+  - Bullet
   - Assault-Rifle
   - Service-Rifle
+  - Sniper-Rifle
   - Light-Machine-Gun
   - Revolver
-  - Bullet
 ---
 - **Usable In:**
 	- Assault Rifles, Service Rifles, Sniper Rifles, Light Machine Guns, and Revolvers.
-- **Effect:**
-	- +2 [[Armor Piercing]]
-- **Cost:**
+- **Effects:**
+	- Weapon gains +2 [[Armor Piercing]].
+- **Value:**
 	- 1 credit for 5

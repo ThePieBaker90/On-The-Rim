@@ -9,23 +9,34 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 3
+	- 4
 - **[[Neural Heat]] Generation:**
 	- 34
 - [[Range]]:
 	- 75ft
 - **Target**:
-	- A point within range.
+	- A sphere centered on the caster and a stable surface point within range.
 - **Components**:
 	- Kinetic
 - **Duration**:
 	- 5 turns.
 - **Effects**:
-	- You shoot a small, slow moving ball of electrical plasma towards a point within range. The ball originates from you and travels 15ft towards the point at the beginning of your turn and when this psycast is cast. The ball has an area of effect of a 10ft sphere centered on it.
-		- When any creature is in the area of effect, the ball's movement speed slows to 5ft per turn.
-		- If a creature starts their turn in the area of effect, comes within the area of effect for the first time this turn, or ends their turn within the area of effect, they must make a Dexterity saving throw. On a failure, they take 4d6 electric damage and and 1 random [[Cybernetics|Cybernetic]] they have installed is [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] for 1 turn. On a success, they take half as much damage.
-		- All non-cybernetic or non-EMP-shielded electronics in the area of effect are disabled for 3 turns.
-	- If the ball collides with a surface, it sticks to the surface.
-
+	- *You generate a ball of electricity around you before sending it forward to zap anything in front of you. The ball moves slowly but deals high damage and all except the center of the ball may move through surfaces. The high electricity disables electronics and automatically slows the ball when any creature is within its area.*
+	- The target sphere moves towards the target point with its [[Movement Speed]] at the beginning of your turn and when this psycast is cast. 
+		- If the center of the target sphere collides with a stable surface, it stops on the surface until the end of the psycast.
+		- The target sphere levitates and is not affected by gravity or any forces, it cannot be slowed or sped up except by itself.
+		- If the target sphere reaches the target point, the center of the target sphere will be at the exact same point as the target point.
+	- When any creature is in the target sphere, the sphere's [[Movement Speed]] is slowed.
+	- If a creature starts their turn in the target sphere, comes within the target sphere for the first time this turn, or ends their turn within the target sphere, they must make a Dexterity saving throw. 
+		- On a failure, they take a large amount of electric damage and a random [[Cybernetics|Cybernetic]] attached to them gains [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
+		- On a success, they take half as much damage.
+	- You are not considered to be a creature by this psycast.
+- **Stats**:
+	- 3d8 Electric Damage from Ball 'o' Lightning.
+	- 1 Turn [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] Duration.
+	- 1 [[Cybernetics|Cybernetic]] Gains [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]].
+	- 15ft Target Sphere Normal [[Movement Speed]].
+	- 5ft Target Sphere Slowed [[Movement Speed]].
+	- 10ft Target Sphere Radius. (+5ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the radius of the area of effect increases by 5ft.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 5ft.

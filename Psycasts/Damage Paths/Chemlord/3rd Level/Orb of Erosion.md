@@ -1,0 +1,37 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 16
+- [[Range]]:
+	- 35ft (+15ft)
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- *An orb of [[OrganiX]] rises out of the ground, floating in place. Its bright green surface bubbles, barely being held together. Most disturbances will cause the orb to detonate dealing damage to those caught in the explosion.*
+	- You create an orb made of [[OrganiX]] at the target point. 
+		- This orb is stationary and cannot be moved.
+	- When an orb is reduced to 0 health, it detonates. All creatures within its explosion radius must make a Dexterity saving throw. 
+		- On a failed save, they take damage from the explosion.
+		- On a successful save, they take half as much damage from the explosion.
+	- Orbs created by this psycast are reduced to 0 health when the psycast ends.
+	- Orbs are immune to corrosion damage and psychic damage.
+- **Stats**:
+	- 5 Orb Health.
+	- 5ft Orb Explosion Radius.
+	- 2d6 Corrosion Damage from Orb Explosion.
+- **Upcasting**:
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the range of the psycast increases by 15ft.

@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 1st Level [[Mortilord Psycasts|Mortilord Psycast]]
 - **Casting Time**:
-	- 1 Action.
+	- 6 Seconds.
 - **[[Psyfocus]] Cost:**
 	- 25
 - **[[Neural Heat]] Generation:**
@@ -21,7 +21,11 @@ tags:
 - **Duration**:
 	- 1 Minute.
 - **Effects**:
-	- You may psychically ask the target corpse up to 3 questions. The corpse responds telepathically to you with a truthful answer for each question.
+	- *You create a psychic connection with the corpse, allowing you to ask it up to 3 questions. The corpse will always respond truthfully although its truth may differ from what actually happened.*
+	- You ask the target corpse several questions. The corpse responds telepathically to you with a truthful answer for each question.
 		- A creature must have known information while alive for it to be used in its answer.
+		- The creature's truth may not necessarily be the actual truth, it is just what the creature believed to be the truth. 
+- **Stats**:
+	- 3 Max Questions.
 - **Upcasting**:
 	- You cannot upcast this psycast.

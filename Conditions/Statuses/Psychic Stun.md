@@ -1,0 +1,13 @@
+---
+tags:
+  - Status
+---
+- When a creature has the psychic stun status they suffer the following effects:
+	- They are [[Psy Sapped]].
+	- They are [[Incapacitated]].
+	- They are [[Immobilized]].
+	- They are [[Silenced]].
+	- They automatically fail all non-constitution based checks.
+	- Attack rolls against this creature have advantage.
+	- All melee attacks against this creature are critical hits.
+	- They cannot force themselves to fall prone.

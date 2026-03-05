@@ -1,15 +1,16 @@
 ---
 tags:
-  - Armor
   - Item
   - Belt
   - Jump-Pack
-  - Equipment
+  - Accessory
 ---
-- __Type of Armor__:
+- __Accessory Type__:
 	* Belt
 - __Properties__:
-	* [[Items/Armor/Properties/Jump Pack|Jump Pack]]
+	* [[Jump Pack Equipped]]
+* **Effects:**
+	* None
 - **Value:**
 	- 200 credits
 - **Lore:

@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Dwarves evolved from humans on planets with intense gravity. Their smaller, more robust stature allow them to live on planets with harsh g-forces.*
+- *Dwarves evolved from humans on planets with intense gravity. Their smaller, more robust stature allow them to live on planets with harsh g-forces. (Kepler-62f)*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 4-5ft tall generally

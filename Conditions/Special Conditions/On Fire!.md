@@ -3,7 +3,9 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- When a creature has the on fire! condition, they will take 1d6 fire damage at the start of their turn, additionally they have disadvantage on all concentration rolls.
-- Once this condition ends, the creature gains the [[Burned]] condition for 2 turns.
-- If the creature is doused in water or another extinguishing agent they will lose this condition. The [[Burned]] condition will not be granted if the condition is lost this way.
-- A creature who is immune to fire damage is not affected by this condition.
+- When a creature has the on fire! condition, they suffer the following effects: 
+	- They take 1d6 fire damage at the start of their turn.
+	- They have disadvantage on all concentration rolls.
+	- If the duration of this condition expires, they gain[[Burned]] for 2 turns.
+	- If they are doused in water or another extinguishing agent they lose this condition.
+- A creature who is immune to fire damage is immune to this condition.

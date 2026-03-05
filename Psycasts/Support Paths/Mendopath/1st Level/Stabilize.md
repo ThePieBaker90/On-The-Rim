@@ -13,14 +13,17 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 30
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A [[Dying]] creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You stabilize a creature within range, they lose the [[Dying]] status and [[Bleeding]] condition and gain the [[Stabilized]] status.
+	- *You imbue your will with psychic energy, giving it to a creature and allowing their body to recover from deadly blows. It doesn't shield from death nor undo it, but it can give a creature the extra time it needs to keep on living.*
+	- The target creature loses the [[Dying]] status and [[Bleeding]] condition and gains the [[Stabilized]] status.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.

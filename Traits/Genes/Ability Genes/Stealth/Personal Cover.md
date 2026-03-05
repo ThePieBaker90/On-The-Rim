@@ -6,4 +6,4 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -2
 - **Effects:**
-	- Carriers of this gene can attempt to hide behind a creature whose size is bigger than the carrier's size.
+	- Carriers of this gene have heavy cover instead of light cover when behind a creature whose size is bigger than the carrier's size.

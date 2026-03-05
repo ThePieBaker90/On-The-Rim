@@ -1,0 +1,37 @@
+---
+tags:
+  - Psycast
+  - Chemlord
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Chemlord Psycasts|Chemlord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 20ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Turn. (+1 turn)
+- **Effects**:
+	- *A [[Thermophlastic]] shoots from your outstretched hand, wrapping around any enemy it hits. This net makes it impossible to move or use your hands making it exceptional at catching targets running away.*
+	- The target creature must make a dexterity saving throw to avoid the net. 
+		- On a failure, they are afflicted for the psycast duration and take knockback away from the caster.
+			- If the creature is knocked into a wall, they take damage from being slammed into the wall.
+		- On a success, this psycast ends.
+	- Afflicted creatures suffer the following:
+		- They are [[Grappled]].
+		- Their arms or legs are restrained to their body.
+		- They have disadvantage on dexterity checks.
+- **Stats**:
+	- 5ft Knockback.
+	- 1d8 Bludgeoning Damage from Wall Slam.
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

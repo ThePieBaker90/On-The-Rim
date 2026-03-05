@@ -1,0 +1,47 @@
+---
+tags:
+  - Psycast
+  - 3rd-Level
+  - Melodipath
+---
+- **Path**:
+	- 3rd Level [[Melodipath Psycasts|Melodipath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- 15ft. (+5ft)
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture, Vocal, Focus (Instrument).
+- **Duration**:
+	- Channeled, up to 1 Turn.
+- **Effects**:
+	- *You play a song full of passion, as the band stops for nothing. While playing, the music deals damage to those nearby and your band takes less damage from all sources.*
+	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They must make a Constitution saving throw when any part of this psycast "triggers damage".
+			- On a failed save, they take a moderate amount of sonic damage
+			- On a successful save, they take half as much sonic damage.
+		- They have disadvantage on all concentration rolls.
+	- Allied afflicted creatures may join your performance, given that they have an instrument. If they join your performance, they have the following effects:
+		- They do not take damage or have disadvantage on concentration rolls from this psycast.
+		- They must use at least 2 hands to play their instrument at all times, otherwise they leave the performance.
+		- Creatures within range of them are afflicted.
+			- They cannot afflict themselves with this.
+		- When they start their turn, they trigger damage.
+		- They take less damage from all damage types.
+		- If they lose affliction, they leave the performance.
+	- You are considered to be performing while channeling this psycast.
+	- If this psycast is cast immediately after it ended, creatures who were performing stay performing.
+	- If this psycast is copied by an amplifier, instead of copying a new psycast instance, the amplifier joins your performance.
+		- The amplifier does not need to satisfy the listed conditions to remain in your performance.
+- **Stats**:
+	- 2d8 Sonic Damage from Triggering Damage.
+	- 33% Less Damage Taken from All Damage for Performers.
+- **Upcasting**:
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

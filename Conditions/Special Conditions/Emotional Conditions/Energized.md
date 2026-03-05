@@ -3,12 +3,13 @@ tags:
   - Condition
   - Positive-Condition
 ---
+- Energized can't have an indefinite duration.
 - When a creature has the Energized condition, they have the following effects:
-	- Their speed is doubled.
+	- Their [[Movement Speed]] is doubled.
 	- They gain an extra action.
 		- This action may not be used to use psycasts.
-	- They gain +2 to their [[Evade Class]].
+	- They gain 2 to their [[Evade Class]].
 	- They have advantage on all Dexterity checks.
-- When this condition is removed, they are [[Stunned]] for 1 turn.
+	- When they lose this condition, they are [[Stunned]] for 1 turn.
+	- They are immune to [[Lethargic]].
 - Constructs and creatures who do not feel emotion are immune to this condition.
-- A creature with this condition is immune to [[Lethargic]].

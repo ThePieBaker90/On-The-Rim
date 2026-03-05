@@ -1,0 +1,42 @@
+---
+tags:
+  - Psycast
+  - 4th-Level
+  - Melodipath
+---
+- **Path**:
+	- 5th Level [[Melodipath Psycasts|Melodipath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- 15ft.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture, Focus (Instrument)
+- **Duration**:
+	- Channeled, up to 1 Turn.
+- **Effects**:
+	- *You play a heroic melody on your instrument, giving your nearby teammates several offensive buffs for battle and wavering the enemy morale.*
+	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- Non-allied afflicted creatures suffer the following effects:
+		- When they are targeted by an attack, the attacker gains a positive modifier to hit.
+	- Allied afflicted creatures gain the following effects:
+		- When they roll to hit for an attack, their critical hit threshold is reduced.
+		- When they are first afflicted, they gain Psychic [[Ammunition]] in their held weapon which scales with the weapon's ammo capacity. 
+			- Psychic ammo acts identically to normal bullets except they leave no casing behind.
+			- This may increase the weapon's stored [[Ammunition]] beyond its ammo capacity.
+			- This effect may trigger only once per turn per creature.
+		- When they attack with a melee weapon, the [[Rate of Fire]] of the weapon is increased for the attack.
+			- This is rounded up for decimal places beyond the hundredths place.
+- **Stats**:
+	- +2 to Hit for Attackers on Afflicted Creatures.
+	- -1 [[Criticals#Critical Successes|Critical Success Threshold]] while Attacking.
+	- 2:1 Ammo Capacity to Psychic Ammo Gained Ratio.
+	- 50% [[Rate of Fire]] Increase for Melee Weapons while Attacking.
+- **Upcasting**:
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**: 
-	-  You lose 2d8 health, all creatures within a 15ft sphere of you lose that half that much health (rounded up).
+	- You lose 2d8 health, all creatures within range of you lose half that much health (rounded up).
 		- The creatures always lose exactly half (rounded up) of the amount of health you lost.
 - **Upcasting:**
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, You lose 1d8 more health.

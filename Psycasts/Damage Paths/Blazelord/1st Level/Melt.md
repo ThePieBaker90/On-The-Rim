@@ -11,19 +11,26 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 18
 - **[[Neural Heat]] Generation:**
-	- 22
+	- 20
 - [[Range]]:
-	- 5ft
+	- Touch.
 - **Target**:
 	- A metallic object within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 1 turn.
 - **Effects**:
-	- You heat up a metallic object of your choice to a temperature of your choice over 1 turn. 
-		- You may heat the object up to 1500C. 
-		- You may only heat up a maximum volume of 5ft$^3$.
-		- If a creature is the target of this spell, they must make a dexterity saving throw. On a failure, they take 2d10 fire damage. On a success, nothing happens.
+	- *You excite a metallic object, causing it to heat up to extreme temperatures over the course of a turn.*
+	- You heat up the target object to a temperature of your choice over the course of 1 turn. 
+	- If a creature is the target of this psycast, you make a melee attack against them, adding your psycasting ability modifier to the result.
+		- On a hit, they are heated up significantly and take damage.
+	- If an object a creature is holding is the target of this psycast, the creature may make a Dexterity saving throw to prevent you from heating the object.
+		- On a failure, the object is heated normally.
+		- On a success, this psycast is interrupted.
+- **Stats**:
+	- 1500 Degrees Celsius Max Temperature. (+250 Degrees)
+	- 5ft$^3$ Max Volume Heated.
+	- 2d12 Fire Damage from Being Heated to Dangerous Levels.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the target temperature may be 250C higher.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the maximum temperature this psycast can heat an object to is increased by 250 degrees Celsius.

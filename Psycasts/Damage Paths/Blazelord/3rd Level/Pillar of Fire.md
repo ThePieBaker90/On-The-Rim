@@ -1,0 +1,38 @@
+---
+tags:
+  - Psycast
+  - Blazelord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd level [[Blazelord Psycasts|Blazelord Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 16
+- [[Range]]:
+	- 35ft.
+- **Target**:
+	- A grounded cylinder with its central axis normal to the ground and the center of its base within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- *You summon a pillar of fire, dealing damage and igniting unlucky creatures caught within.*
+	- Creatures starting their turn within the target cylinder, entering the target cylinder for the first time this turn, or ending their turn within the target cylinder must make a Constitution saving throw. 
+		- On a failure, they take heavy fire damage and catch [[On Fire!]].
+		- On a success, they take half as much damage.
+	- When this psycast is cast, any creatures in the target cylinder must make a Dexterity saving throw to dodge the pillar. 
+		- On a failure, they take small fire damage and catch [[On Fire!]].
+		- On a success, they move out of the cylinder and take no damage.
+- **Stats**:
+	- 2d8 Fire Damage from Being in the Pillar of Fire.
+	- 2d4 Fire Damage from the Pillar of Fire Being Summoned on a Creature.
+	- 1 Turn [[On Fire!]] Duration. (+1 Turn)
+	- 15ft Target Cylinder Height.
+	- 5ft Target Cylinder Radius.
+- **Upcasting:**
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, [[On Fire!]] is applied for an additional turn.

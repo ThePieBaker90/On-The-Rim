@@ -1,0 +1,11 @@
+---
+tags:
+  - Condition
+  - Serum
+  - Positive-Condition
+---
+- Voidsight always has a 1 day duration.
+- When a creature has the Voidsight condition, they have the following effects:
+	- They can see in dim light and darkness as if it was bright light.
+	- They may see in void as if it was dim light.
+	- Their eyes become completely black.

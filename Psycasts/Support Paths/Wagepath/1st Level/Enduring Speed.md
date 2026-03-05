@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Wagepath
+---
+- **Path**:
+	- 1st Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 0
+- **[[Neural Heat]] Generation:**
+	- 18
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- You increase your adrenaline, enabling you to run further for longer. 
+	- For the duration of the psycast, your [[Movement Speed]] is increased by 15ft.
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 3 turns.

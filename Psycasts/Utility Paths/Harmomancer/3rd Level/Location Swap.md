@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You swap locations with a creature of your choice.
+	- You swap locations with a creature of your choice within range.
 - **Upcasting:**
 	- You cannot upcast this psycast.

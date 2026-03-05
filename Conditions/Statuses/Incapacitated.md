@@ -2,5 +2,9 @@
 tags:
   - Status
 ---
-- When a creature has the incapacitated status, they cannot take actions, bonus actions, or reactions.
+- When a creature is in the incapacitated status, they suffer the following effects:
+	- They cannot take actions.
+	- They cannot take bonus actions.
+	- They cannot take reactions.
+
 

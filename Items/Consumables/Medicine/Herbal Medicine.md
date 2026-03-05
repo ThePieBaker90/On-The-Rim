@@ -4,7 +4,14 @@ tags:
   - Medicine
   - Consumable
 ---
-- May be used outside of combat to tend to a target creature within touch. The user must succeed a DC 12 wisdom (medical) check. If successful the target regains 4d6 hit points. This consumes the Herbal Medicine.
-- May be used in combat as an action to quickly tend to a target creature within touch. The user must succeed a DC 18 wisdom (medical) check. If successful the target regains 2d6 hit points. This consumes the Herbal Medicine.
-- *A pack of herbal concoctions typically extracted from the [[Healroot]] plant. It is less potent than industrial pharmaceuticals, but much better than nothing.*
-- 50 credits
+- **Consumable Type:**
+	- Medicine
+- **Effects:**
+	- May be used outside of combat to tend to a target creature within touch. The user must succeed a DC 12 wisdom (medical) check. If successful the target regains 4d6 hit points. 
+	- May be used in combat as an action to quickly tend to a target creature within touch. The user must succeed a DC 18 wisdom (medical) check. If successful the target regains 2d6 hit points. 
+- **Charges:**
+	- 1
+- **Value:**
+	- 50 Credits.
+- **Lore:**
+	- *A pack of herbal concoctions typically extracted from the [[Healroot]] plant. It is less potent than industrial pharmaceuticals, but much better than nothing.*

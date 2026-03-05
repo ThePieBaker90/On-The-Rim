@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - Tegopath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Tegopath Psycasts|Tegopath Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 32
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 5 turns.
+- **Effects**
+	- You gain 3d10 temporary health and you are immune to [[Unconscious]], [[Prone]], [[Incapacitated]], [[Grappled]], [[Stunned]], [[Immobilized]], [[Frightened]], [[Charmed]], [[Lethargic]], [[Mind-Shattering Pain]], and [[Weakness]] for the psycast duration.
+		- Additionally, you may not be moved against your will.
+- **Upcasting**:
+	- You cannot upcast this psycast.

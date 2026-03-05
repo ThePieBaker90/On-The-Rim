@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 1
+- **[[Neural Heat]] Generation:**
+	- 12
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A ranged weapon within range.
+- **Components**:
+	- Focus (Ranged Weapon).
+- **Duration**:
+	- 3 turns.
+- **Effects**:
+	- You enchant a ranged weapon to give it additional range and accuracy.
+	- You touch a ranged weapon within range, for the duration of the psycast, the weapon has the following effects:
+		- When rolling to hit for an attack with this weapon, the attacker has a +4 modifier to hit.
+		- This weapon's upper-bound for its [[Range]] is increased by 25%.
+			- This is rounded up.
+		- This weapon's absolute-upper-bound for its [[Range]] is increased by 50%.
+			- This is rounded up.
+		- When this weapon successfully hits a creature, this psycast ends. 
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -21,6 +21,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You create a health nova, healing all allies within range. All allied creatures heal 2d10 health.
+	- You create a health nova, healing allies nearby. All allied creatures within range heal 2d10 health.
 - **Upcasting**:
 	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, all allied creatures heal 1d10 more health.

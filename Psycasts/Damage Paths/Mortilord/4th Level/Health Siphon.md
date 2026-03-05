@@ -13,14 +13,23 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- Self.
+	- Touch.
 - **Target**:
-	- A cone originating from the caster with a length of 35ft and a maximum width of 40ft.
+	- A cone with its apex within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You siphon the health from all creatures within a cone in front of you. All creatures in the cone must make a Constitution saving throw. On a failure, they take 3d12 necrotic damage. On a success, they take half damage. You then heal 25% of the total damage done with this psycast (rounded up).
+	- You siphon the health from all creatures within a cone in front of you. 
+	- All creatures in the target cone must make a Constitution saving throw to resist the life drain. 
+		- On a failure, they heavy necrotic damage.
+		- On a success, they take half damage. 
+	- All damage dealt with this psycast immediately heals you for a portion of the damage.
+- **Stats**:
+	- 3d12 Necrotic Damage from Health Siphon. (+1d12 Necrotic Damage)
+	- 4:1 Damage to Healing Ratio.
+	- 35ft Target Cone Length.
+	- 40ft Target Cone Max Width.
 - **Upcasting**:
-	- You may upcast this psycast. For every 27 psyfocus spent above the normal cost for this psycast, the psycast deals an additional 1d12 necrotic damage on a failed save.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage from the health siphon increases by 1d12 necrotic damage.

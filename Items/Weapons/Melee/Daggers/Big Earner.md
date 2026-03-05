@@ -24,13 +24,17 @@ tags:
 	* Simple
 	* One-Handed
 	* [[Light]]
-	* [[Stealth]]
+	* [[Stealthy]]
 	* [[Unmoddable]]
 * **Value**:
 	* 2500 credits
 * **Looks**:
 	* It is a broken Italian stiletto switchblade left permanently unsheathed. Three small bands of blood-stained tape are wrapped near the base of the blade.
 * **Special:**
-	* Upon killing a creature with this weapon, the user immediately gains an action, 30ft of movement, and immunity to opportunity attacks. These effects last until the end of the turn. There is no limit to the number of times this can happen in one turn.
+	* Upon killing a creature with this weapon, the user immediately gains the following:
+		* They gain 1 action.
+		* They gain 30ft of [[Movement Speed]].
+		* They have immunity to opportunity attacks. 
+		* These effects last until the end of the turn. There is no limit to the number of times this can happen in one turn.
 - **Lore:**
 	- *A persona dagger which grants its user a burst of energy on a kill*

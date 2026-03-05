@@ -15,12 +15,15 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A battery within range.
+	- A battery within range that is used as the focus.
 - **Components**:
-	- Kinetic, Focus (A battery)
+	- Kinetic, Focus (A battery).
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You recharge a battery you are holding with 10kW/h worth of energy.
+	- *You manifest psychic energy as electricity using it to recharge a battery in the palm of your hand.*
+	- You recharge the target battery.
+- **Stats**:
+	- 10kW/h Max Energy Recharged.
 - **Upcasting**:
 	- You cannot upcast this psycast.

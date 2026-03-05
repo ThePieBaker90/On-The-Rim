@@ -28,4 +28,4 @@ tags:
 	* A [[Plasteel]] baseball bat with streaks of yellow paint. One side of the bat is heavily stained with blood.
 * **Special**:
 	* The number you need to roll a critical hit with the Kneecapper is reduced by 1. This effect can stack with other effects.
-	* When rolling on the [[Core Critical Changes|Critical effect table]], you may roll an additional time and take either result.
+	* When rolling on any [[Criticals#Critical Effect Tables|Critical Effect Tables]] you may roll an additional time and take either result.

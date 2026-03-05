@@ -17,7 +17,7 @@ tags:
 - **[[Cybercost]]:**
 	- 0.5
 - **Abilities:**
-	- Getting up from prone takes an entire action in addition to other costs.
-	- Cannot be removed through [[Core Critical Changes|Critical Effects]].
+	- Getting up from [[Prone]] takes an entire action in addition to other costs.
+	- Cannot be removed through [[Criticals#Critical Effect Tables|Critical Effects]].
 - **Looks:**
 	- The spine grows extra bone which is unnaturally strong, unfortunately these growths restrict movement in the spine.

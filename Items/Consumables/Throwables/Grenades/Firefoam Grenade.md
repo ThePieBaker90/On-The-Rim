@@ -1,0 +1,16 @@
+---
+tags:
+  - Item
+  - Grenade
+  - Consumable
+---
+- **Consumable Type:**
+	- Throwable (Grenade)
+- **Effects:**
+	- When used as an action, the user throws the Firefoam Grenade. It extinguishes all fires in a 30ft radius sphere around where it lands. All surfaces within this sphere are covered in [[Firefoam]] and cannot be reignited for 1 hour.
+- **Charges:**
+	- 1
+- **Value:**
+	- 25 Credits.
+- **Lore:**
+	-  *A red and white pull pin grenade.*

@@ -10,13 +10,13 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Object Skip]] (1, 25)
-	- [[Skip Self]] (2, 21)
+	- [[Skip Self]] (2, 20)
 - 2nd Level:
 	- [[Chaos Skip]] (3, 24)
-	- [[Skip]] (3, 31)
+	- [[Skip]] (3, 30)
 - 3rd Level:
 	- [[Chain Skip]] (24, 48)
-	- [[Quick Skip]] (12, 31)
+	- [[Quick Skip]] (12, 30)
 - 4th Level:
 	- [[Mass Chaos Skip]] (3 ,44)
 	- [[Mass Skip]] (3, 44)
@@ -30,10 +30,12 @@ aliases:
 	- All creatures within 100ft of you teleport to a random point within 100ft of you. You do not need line of sight to the creatures or the random point. All equipped and stored items teleport with the creature.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Darius' Dislocate]] (4, 28) ([[Abominator Psycasts|Abominator]]) 
 - 3rd Level:
 	- .
 - 4th Level:
 	- .
 - 5th Level:
 	- .
+Skip Gravity - Volatile Space from weird wood wand
+Tech Skip - Turn normal door into portal!

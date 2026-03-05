@@ -7,10 +7,10 @@ tags:
 	- 7
 - **Effects:**
 	- Carriers of this gene suffer from the following while in direct UV light:
-		- -5 to all ability checks
-		- Disadvantage on all ability checks
-		- 1 radiant damage every turn
-		- Speed Halved
+		- They have -5 to all ability checks
+		- They have disadvantage on all ability checks
+		- They take 1 radiant damage at the beginning of their turn
+		- Their [[Movement Speed]] costs twice as much to move 1ft.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
 	- [[Mild UV Sensitivity]]
 	- [[Minor UV Sensitivity]]

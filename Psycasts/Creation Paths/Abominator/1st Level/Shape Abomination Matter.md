@@ -7,25 +7,30 @@ tags:
 - **Path**:
 	- 1st level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 1
 - **[[Neural Heat]] Generation:**
 	- 10
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
-	- [[Abomination Matter]] within range.
+	- None.
 - **Components**:
-	- Kinetic, Material (Up to 5kg of [[Abomination Matter]])
+	- Kinetic, Material (Up to 1kg of [[Abomination Matter]]).
 - **Duration**:
-	- 1 hour
+	- Channeled, up to 1 hour.
 - **Effects**:
-	- You may manipulate up to 1kg of [[Abomination Matter]] in one of the following ways:
+	- *You excite psycho-fluid particles in [[Abomination Matter]] causing it to take a shape, levitate, or harden.*
+	- You manipulate [[Abomination Matter]] in one of the following ways:
 		- You cause the [[Abomination Matter]] to form into a simple shape (square, cone, sphere, pyramid, etc.).
 		- You may freely levitate the [[Abomination Matter]] to a point (or points) in space.
 		- You cause [[Abomination Matter]] to harden. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the psycast ends.
 	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn at no cost. 
-	- This shaped abomination matter has 4 health.
+	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
+- **Stats**:
+	- 1kg Max [[Abomination Matter]] Channeled. (+1kg)
+	- 4 [[Abomination Matter]] Health.
 - **Upcasting:**
-	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, the [[Abomination Matter]] remains under your control for an additional hour and you can control 1kg more.
+	- You may upcast this psycast. For every 4 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional hour and the max [[Abomination Matter]] you can channel increases by 1kg. 
+		- This increases the material cost of this psycast by 1kg of [[Abomination Matter]].

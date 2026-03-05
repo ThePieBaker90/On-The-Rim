@@ -9,19 +9,23 @@ tags:
 - **Casting Time**:
 	- 1 Minute.
 - **[[Psyfocus]] Cost:**
-	- 36
+	- 26
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 50ft
+	- 50ft.
 - **Target**:
-	- Food or drink within range.
+	- Food or liquid within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You purify one volume of liquid (up to 15L) or one piece of food (up to 3kg) from any poisons, contaminants, or diseases. 
-		- Certain contaminants cannot be removed by this psycast.
+	- *Ambient moisture in the air draws toxins out of a food or drink through diffusion.*
+	- You purify target food or liquid from any poisons, contaminants, and diseases. 
+		- Certain strong contaminants cannot be removed by this psycast as specified in that contaminant's description.
+- **Stats**:
+	- 15L Max Liquid Purified. (+15L)
+	- 3kg Max Food Purified. (+3kg)
 - **Upcasting:**
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may purify 15L more worth of liquid or 3kg more worth of food.
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the psycast purifies an additional 15L of liquid or an additional 3kg of food.

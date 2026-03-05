@@ -11,16 +11,21 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
-	- 26
+	- 23
 - [[Range]]:
-	- 60ft
-- **Target**:
+	- 60ft.
+- **Target:**
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You summon 4 fragments of ice and launch them at a creature within range. Make a roll to hit for each fragment, adding your psycasting ability modifier to each result. On a hit, a fragment deals 1d4 piercing and 1d4 cold damage. 
+	- *You summon several fragments of ice and launch them at a creature, each fragment deals a small amount of cold damage.*
+	- Make a ranged attack roll against the target creature for each ice fragment, adding your psycasting ability modifier to each result. 
+		- On a hit, the fragment deals a small amount of cold damage.
+- **Stats**:
+	- 4 Ice Fragments.
+	- 1d6 Cold Damage from Fragment Hit.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the damage increases by 1d4 piercing and 1d4 cold damage.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage of each fragment increases by 1d6 cold damage.

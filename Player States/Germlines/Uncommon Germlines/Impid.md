@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield.*
+- *Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield. (TRAPPIST-1e)*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
@@ -13,13 +13,13 @@ tags:
 	- Impish
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Blues, Violets, Purples
+		- Oranges, Reds, Yellows, Warm-Greens
 	- [[Hair Color]]
-		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
+		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
 	- [[Body Type]]
-		- Muscled, Thin
+		- Average, Muscled, Plus-Sized
 	- [[Iris Color]]
-		- Blacks, Blues, Whites, Gold, Silver
+		- Blacks, Reds, Whites, Gold, Silver
 	- [[Thin Tail]]
 	- [[Mini Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**: 
-	-  You lose 2d8 health, all friendly creatures within a 15ft sphere of you gain that half that much health (rounded up).
+	- You lose 2d8 health, all friendly creatures within range of you gain half that much health (rounded up).
 		- The creatures always gain exactly half (rounded up) of the amount of health you lost.
 		- If the creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
 - **Upcasting:**

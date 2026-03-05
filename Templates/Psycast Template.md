@@ -1,0 +1,26 @@
+---
+tags:
+  - Template
+---
+- **Path**:
+	- . level .
+- **Casting Time**:
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Stats**:
+	- .
+- **Upcasting:**
+	- .

@@ -11,21 +11,32 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 8
 - **[[Neural Heat]] Generation:**
-	- 38
+	- 30
 - [[Range]]:
-	- 40ft
+	- 40ft.
 - **Target**:
-	- A point within range.
+	- A grounded cylinder with the center of its base within range and its central axis normal to the ground.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You create a cylinder of strong downward gravitational force centered on a point within range. The cylinder has a 15ft radius and 30ft height. Within the cylinder, the following effects occur:
-		- Creatures starting their turn in the zone, entering the zone for the first time this turn, ending their turn in the zone, or are in the zone when this psycast is cast must make a Constitution saving throw. On a failure they are forced [[Prone]] until they leave the zone. On a success nothing happens.
+	- *You summon a zone of high gravity making traversal through the zone highly difficult and aiming through the zone nearly impossible.*
+	- The target cylinder has the following effects:
+		- Any creatures inside the target cylinder are afflicted.
+		- Projectiles travelling through the target cylinder have double disadvantage to hit.
+	- Afflicted creatures suffer the following:
+		- When they first become afflicted and at the beginning of their turn, they must make a constitution saving throw.
+			- On a failure, they are forced [[Prone]] until they leave the zone. 
+			- On a success, nothing happens.
 			- Creatures supported by an object automatically succeed the saving throw.
-		- External sources of gravity are ignored.
-		- Projectiles travelling through the cylinder have disadvantage to hit.
-		- Upside down creatures lose 1d4 health at the beginning of their turn.
+		- They require more [[Movement Speed]] to traverse per 1ft moved.
+		- They ignore external sources of gravity.
+		- If they are upside down, they lose health at the beginning of their turn.
+- **Stats**:
+	- +1ft [[Movement Speed]] Required Per 1ft Moved While Afflicted.
+	- 1d4 Health Loss Per Turn While Upside Down.
+	- 15ft Target Cylinder Radius. (+5ft)
+	- 30ft Target Cylinder Height.
 - **Upcasting:**
-	- You cannot upcast this psycast.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the target cylinder's radius increases by 5ft.

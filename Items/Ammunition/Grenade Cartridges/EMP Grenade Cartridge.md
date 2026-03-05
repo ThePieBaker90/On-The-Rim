@@ -7,9 +7,10 @@ tags:
 ---
 - **Usable In:**
 	- Grenade Launchers
-- **Effect:**
-	- All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC 16 Constitution saving throw.
-		- On a failed save, they gain [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] on all cybernetics for 1d4+1 turns.
-		- On a successful save, they gain [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] on all cybernetics for 1 turn.
-- **Cost:**
+- **Effects:**
+	- The weapon now fires an EMP grenade.
+		- All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC 16 Constitution saving throw.
+			- On a failed save, they gain [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] on all cybernetics for 1d4+1 turns.
+			- On a successful save, they gain [[Conditions/Special Conditions/EMP Stunned|EMP Stunned]] on all cybernetics for 1 turn.
+- **Value:**
 	- 200 credits for 1

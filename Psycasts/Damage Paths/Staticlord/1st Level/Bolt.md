@@ -11,17 +11,21 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
-	- 11
+	- 13
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You shoot a bolt of electricity at a creature within range. Make a roll to hit, adding your psycasting ability modifier. On a hit, the creature takes 1d4 electric damage for every 15ft of distance between them and you.
-		- The creature takes 1d4 electric damage if you are closer than 15ft to them.
+	- *A bolt of electricity shoots from your extended hand. As it travels it grows in power making it quite dangerous at long ranges.*
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, the creature takes damage scaling with the distance between you and them.
+- **Stats**:
+	- 1d4 Electric Damage Base Damage.
+	- +1d4 Electric Damage for every 15ft of Distance. (+1d4 Electric Damage)
 - **Upcasting**:
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the damage scales by an additional 1d4 electric damage.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, every 15ft of distance between you and the target adds an extra 1d4 electric damage.

@@ -1,0 +1,12 @@
+---
+tags:
+  - Condition
+  - Serum
+  - Mixed-Condition
+---
+- Metalblood always has a 1 day duration.
+- When a creature has the Metalblood condition, they have the following effects:
+	- They have resistance to incoming bludgeoning, piercing, and slashing damage.
+	- All fire damage they take is multiplied by 3.
+	- Their blood becomes rust-colored.
+- Creatures who are immune to fire damage are immune to this condition.

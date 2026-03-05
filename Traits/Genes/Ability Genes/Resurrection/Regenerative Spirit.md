@@ -1,0 +1,12 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -3
+- **Effects:**
+	- Carriers of this gene may use [[Resurrect]] on themselves without any cost as long as the following conditions have been met:
+		- It has been at least 1 day since they died, but not more than a week since they died.
+		- Their body is not missing any body parts that are necessary to live.
+		- They have not used this ability in the past month.

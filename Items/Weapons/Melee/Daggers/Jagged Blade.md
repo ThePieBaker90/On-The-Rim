@@ -23,7 +23,7 @@ tags:
 * __Properties__:
 	* Simple
 	* One-Handed
-	* [[Light]]
+	* [[Items/Weapons/Properties/Light]]
 	* Thrown(5-40-80ft)
 	* [[Lacerating]](3, Hit on target)
 	* Returning

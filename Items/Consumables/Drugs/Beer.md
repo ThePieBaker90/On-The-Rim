@@ -1,0 +1,14 @@
+---
+tags:
+  - Item
+---
+- **Consumable Type:**
+	- Drug
+- **Effects:**
+	- TODO
+- **Charges:**
+	- 1
+- **Value:**
+	- 10 Credits
+- **Lore:**
+	- *Known colloquially as a "cold one."

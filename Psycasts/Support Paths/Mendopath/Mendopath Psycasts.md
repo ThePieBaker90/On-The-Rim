@@ -9,14 +9,14 @@ aliases:
 *Medopaths specialize in healing others and preventing death. Most of their psycasts grant health to others or themselves. Some of their psycasts are used to stabilize critical patients or increase their own healing output.*
 ## Core Psycasts
 - 1st Level:
-	- [[Healing Rite]] (12, 20)
+	- [[Regeneration Rite]] (12, 20)
 	- [[Stabilize]] (8, 30)
 - 2nd Level:
 	- [[Touch of Mending]] (4, 21)
 	- [[Word of Mending]] (6, 23)
 - 3rd Level:
 	- [[Health Beam]] (18, 46)
-	- [[Ritual of Restoration]] (50, 0)
+	- [[Ritual of Restoration]] (40, 0)
 - 4th Level:
 	- [[Healing Nova]] (3, 44)
 	- [[Healing Tempo]] (40, 0)
@@ -37,3 +37,4 @@ aliases:
 	- .
 - 5th Level:
 	- [[Resurrect]] (85, 0) ([[Mortilord Psycasts|Mortilord]])
+Mendo Tech - restorative locket type shift.

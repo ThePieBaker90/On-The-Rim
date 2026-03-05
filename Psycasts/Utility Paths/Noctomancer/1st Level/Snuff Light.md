@@ -1,0 +1,27 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Noctomancer
+---
+- **Path**:
+	- 1st Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 60ft
+- **Target**:
+	- A light source within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- You extinguish one source of light within range.
+		- The light source may have a maximum volume of 5ft$^3$.
+- **Upcasting**:
+	- You cannot upcast this psycast.

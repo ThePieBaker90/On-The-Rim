@@ -9,11 +9,11 @@ tags:
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- 5
+	- 10
 - **[[Neural Heat]] Generation:**
-	- 26 (21)
+	- 21 (11)
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Concentration, up to 10 turns.
 - **Effects**:
-	- You say a word of joy to delight a creature within range, the creature gains [[Joy]] for the psycast duration.
-		- If [[Joy]] is removed, concentration is lost on this psycast.
+	- *You imbue psychic energy into a word of glee, directing it at a creature. The creature finds themselves in a pleasant, [[Joy|Joyful]] mood, causing all checks to have a flat positive modifier.*
+	- The target creature gains [[Joy]] for the psycast duration.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cant upcast this psycast.

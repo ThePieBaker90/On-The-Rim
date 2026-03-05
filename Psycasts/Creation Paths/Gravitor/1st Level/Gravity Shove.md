@@ -11,18 +11,23 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
-	- 22
+	- 19
 - [[Range]]:
-	- 25ft (length) x 15ft (width) x 15ft (height) cuboid with the caster on the edge.
+	- Touch.
 - **Target**:
-	- A direction.
+	- A cuboid with the caster centered on a square face and the center point of that face within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create a large, horizontal, gravitational force within a cuboid in front of you. All creatures within the cuboid must make a Constitution saving throw. On a failure, they are pushed away from you to the end of the cube. On a success, nothing happens.
-		- The cuboid has dimensions 25ft (length) x 15ft (width) x 15ft (height).
-		- The length of the cuboid is always parallel to the direction you are facing.
+	- *You generate a large gravitational force away from you, pushing everything caught in the force.*
+	- All creatures within a target cuboid must make a Constitution saving throw. 
+		- On a failure, they are pushed away from you to the far face of the cube. 
+		- On a success, nothing happens.
+- **Stats**:
+	- 25ft Target Cuboid Length. (+5ft)
+	- 15ft Target Cuboid Width.
+	- 15ft Height Cuboid Height.
 - **Upcasting:**
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the cuboid's length increases by 5ft.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the target cuboid's length increases by 5ft.

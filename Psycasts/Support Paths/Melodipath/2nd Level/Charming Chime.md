@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Melodipath
+---
+- **Path**:
+	- 2nd Level [[Melodipath Psycasts|Melodipath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 12
+- [[Range]]:
+	- 15ft. (+5ft)
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture, Focus (Instrument).
+- **Duration**:
+	- Channeled, up to 1 Turn.
+- **Effects**:
+	- *You play a charming little chime on your instrument, rendering creatures nearby unable to attack you and less observant.*
+	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They are [[Charmed]] by you.
+		- They have disadvantage on all perception checks.
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 5ft.

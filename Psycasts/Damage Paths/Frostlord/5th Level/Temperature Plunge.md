@@ -9,21 +9,29 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 28
+	- 30
 - **[[Neural Heat]] Generation:**
-	- 58
+	- 38
 - [[Range]]:
-	- 30ft sphere.
-- **Target**:
 	- Self.
+- **Target**:
+	- A sphere with its center within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
-	- 5 turns
+	- 5 turns.
 - **Effects**:
-	- You release a burst of pure cold from yourself freezing everything within range. 
-		- All creatures in range (except for the caster) must make a Dexterity saving throw. On a failure they take 1d12 + 4 cold damage and become [[Frozen Solid]] for 2 turns. On a success nothing happens. 
-		- The temperature within range instantly drops to -10C and all liquids that can be frozen at that temperature are immediately frozen.
-		- Ice covers all floors within range making all floors within range difficult terrain
+	- *You release a burst of pure cold energy, plunging the temperature and dealing unavoidable cold damage to those nearby.*
+	- When this psycast is cast, all creatures within the target sphere must make a Constitution saving throw to resist the cold.
+		- On a failure, they take damage from the cold and are frozen solid.
+		- On a success, they take damage from the cold.
+	- The temperature within the target sphere instantly drops by a set amount and all liquids that can be frozen at that temperature are immediately frozen. This temperature cool lasts for the psycast duration.
+		- If the temperature goes below 0, all floors in the target sphere freeze. This frozen ground requires more [[Movement Speed]] to traverse per 1ft moved.
+- **Stats**:
+	- 2d4 + 10 Cold Damage from the Cold. (+1d4 + 5 Cold Damage)
+	- 2 Turn [[Frozen Solid]] Duration.
+	- -30 Degrees Celsius Temperature Cool. (-20 Degrees)
+	- +1ft [[Movement Speed]] Required Per 1ft Moved Over Frozen Ground.
+	- 30ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the damage of the psycast increases by 1d12 cold damage.
+	- You may upcast this psycast. For every 25 psyfocus spent above the normal cost for this psycast, the damage from the cold increases by 1d4 + 5 cold damage and the temperature cool decreases by 20 degrees.

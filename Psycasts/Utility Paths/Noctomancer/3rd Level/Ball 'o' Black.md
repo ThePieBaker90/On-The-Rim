@@ -1,0 +1,30 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 33
+- [[Range]]:
+	- 50ft
+- **Target**:
+	- A point within range, may go over obstacles.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 3 turns.
+- **Effects**
+	- You throw a ball of void at a point within range. Darkness expands from the ball blinding those nearby. All creatures within a 20ft sphere centered on this point must make a Dexterity saving throw. 
+		- On a failure, they are [[Blinded]] for 2 turns. 
+		- On a success, nothing happens.
+	- For the psycast duration, the 20ft sphere is [[Lighting#Void|Void]] for the psycast duration and all lights in the area are extinguished.
+		- This area cannot be lit up or have its [[Lighting|Light Level]] changed by any means. 
+- **Upcasting**:
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the radium of the sphere increases by 10ft

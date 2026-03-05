@@ -13,16 +13,26 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 28 (14)
 - [[Range]]:
-	- 20ft
+	- 25ft.
 - **Target**:
-	- A point within range.
+	- A grounded cuboid normal to the ground with the center of its base within range.
 - **Components**:
-	- Gesture
+	- Kinetic.
 - **Duration**:
-	- 1 minute.
+	- Concentration, up to 1 minute. (+1 minute)
 - **Effects**:
-	- You create a 5ft x 25ft x 10ft wall of ice centered at a target point within range. The ice wall rises out of the ground and pushes up everything that is above it. If the ice wall  is restricted by a wall or a ceiling, it will stop at the obstruction. The ice wall has 45 HP.
-	- Upon creation the user determines if the wall is clear or opaque ice and the rotation of the wall
-	- When concentration is lost, the wall immediately breaks.
+	- *A massive wall of ice rises out of the ground. The wall is thick and difficult to penetrate or destroy making it suitable as makeshift cover.*
+	- When you cast this psycast, you choose if the wall is made of transparent or opaque ice.
+	- The target cuboid forms a wall of ice which exists for the psycast duration. The wall is impassible, has its own health, and is made of the type of ice you chose.
+		- If the ice wall is summoned on a creature, the creature is pushed up by the wall.
+			- If the ice wall is restricted by a wall or a ceiling, it will stop at the obstruction. 
+		- If the ice wall is reduced to 0 health, it is destroyed and this psycast ends.
+		- The ice wall takes additional damage from fire damage.
+- **Stats**:
+	- 45 Ice Wall Health. (+20 Health)
+	- x2 Fire Damage Modifier on Wall.
+	- 5ft Target Cuboid Length.
+	- 25ft Target Cuboid Width.
+	- 15ft Target Cuboid Height.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the ice wall lasts an additional minute and its HP increases by 20 HP.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional minute and the ice wall's health increases by 20.

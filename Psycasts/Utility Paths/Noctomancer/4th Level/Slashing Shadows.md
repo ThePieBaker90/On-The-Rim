@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 120ft.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 3 turns
+- **Effects**
+	- For the psycast duration, any creatures who meet both of the following conditions are afflicted:
+		- They are within range of you.
+		- They are in [[Lighting#Darkness|Darkness]] or [[Lighting#Void|Void]].
+	- Afflicted creatures do the following at the beginning of their turn:
+		- Take 2d8 slashing damage.
+		- Their movement is slowed by 10ft.
+- **Upcasting**:
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

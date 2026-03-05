@@ -9,18 +9,22 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 12
-- **[[Neural Heat]] Generation:**
 	- 24
+- **[[Neural Heat]] Generation:**
+	- 12
 - [[Range]]:
-	- Touch
+	- Touch.
 - **Target**:
 	- A creature within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**:
-	- You remove up to 5 levels of [[Poison Buildup]] from a creature. The creature takes 1 poison damage per level removed.
+	- *You touch a creature, filtering basic poisons in their blood up through their skin, metabolizing it in your fingers to make it harmlessly pass through your body. The rapid amount of poison passing through the blood stream causes the creature to suffer some of the poison's effects, although to a much lesser potency.*
+	- You remove [[Poison Buildup]] from the target creature, they take damage scaling with the levels removed.
+- **Stats**:
+	- No Max Levels of [[Poison Buildup]] Removed.
+	- 1 Poison Damage per Level Removed.
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you may remove an additional 2 levels of [[Poison Buildup]].
+	- You cannot upcast this psycast.
