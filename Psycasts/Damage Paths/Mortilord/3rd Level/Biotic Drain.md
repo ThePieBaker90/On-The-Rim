@@ -30,4 +30,4 @@ tags:
 	- 1d10 + 2 Necrotic Damage from Health Steal. (+1d10 Necrotic Damage)
 	- 1:1 Damage to Healing Ratio.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the damage from the health steal increases by 1d10 necrotic damage.
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the damage from the health steal increases by 1d10 necrotic damage.

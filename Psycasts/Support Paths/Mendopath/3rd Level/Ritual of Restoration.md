@@ -15,12 +15,15 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A [[Ritual Circle]].
+	- A [[Ritual Circle]] within range that is used as a material.
 - **Components**:
 	- Gesture, Verbal, Material (A [[Ritual Circle]])
 - **Duration**:
 	- Instant.
 - **Effects**
-	- All creatures surrounding the ritual circle heal half of their maximum health, rounded up.
+	- All creatures surrounding the target ritual circle heal health scaling with their maximum health.
+		- 
+- **Stats**:
+	- 2:1 Max Health to Healing Ratio.
 - **Upcasting**:
 	- You cannot upcast this psycast. 
