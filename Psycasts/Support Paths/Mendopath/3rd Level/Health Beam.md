@@ -13,14 +13,22 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 46 (31)
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**
-	- You create a healing beam between you and a creature within range. For the duration of the psycast, you may expend a bonus action to heal that creature for 1d6+1 health.
+	- *A green ray of healing connects you and a teammate healing you both. You can expend an action to increase the healing output to your teammate.*
+	- For the duration of the psycast, there is a healing beam connecting you and the target creature.
+		- You and the target creature heal a small amount passively at the beginning of your turn.
+		- You may expend an action to burst heal the target creature.
+		- At any time, if the target creature goes beyond beam range from you or you lose line of sight to to the target creature, you lose concentration on this psycast.
+- **Stats**:
+	- 1d4 Health from Beam Passive Heal.
+	- 1d8 + 2 Health from Beam Burst Heal. (+1d8 Health)
+	- 30ft Beam Range.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you heal an additional 1d6 health every turn.
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the burst heal from the beam increases by 1d8 health.
