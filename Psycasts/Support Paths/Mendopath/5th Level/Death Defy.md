@@ -13,18 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 40 (40)
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 2 turns.
 - **Effects**
-	- You give a creature within range the ability to defy death once. 
-	- For the duration of this psycast, if the target creature's hit points drops to 0, the following effects occur:
-		- They heal 2d12 health, this ignores healing reductions and negations.
+	- *You use psychic energy to prevent a creature from dying for a short time. This death protection wont prevent an already mortally wounded creature from dying but will prevent a healthy creature from suffering a similar fate. Skilled casters of this psycast know that the most difficult part is this psycast's short duration, making timing everything.*
+	- For the duration of this psycast, if the target creature's health drops to 0, the following effects occur:
+		- They heal a moderate amount of health.
+			- This ignores healing reductions and negations.
 		- They ignore the effects of dropping to 0 hit points.
 		- The caster loses concentration on the psycast.
+- **Stats**:
+	- 2d12 Health from Defying Death.
 - **Upcasting**:
 	- You cannot upcast this psycast.
