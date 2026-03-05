@@ -17,15 +17,18 @@ tags:
 - **Target**:
 	- Self.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 10 turns.
 - **Effects**
-	- You snap your fingers to a healing beat. 
+	- *You create a temporary psychic feedback loop between your healing and this psycast. This causes all healing to heal more and more as the psycast goes on. The feedback loop is unstable and will break if you fail to actively heal anybody on your turn.*
 	- For the duration of this psycast, you gain the following effects:
-		- All non-passive instances of healing heal an additional $x$d4 health where $x$ is the number of turns this psycast has lasted. (On the turn the psycast is cast, the psycast has lasted one turn).
-		- This psycast ends prematurely if you do not actively heal or grant health to any creatures on your turn. Passive healing does not extend this psycast.
-	- Casting this psycast counts as actively healing a creature.
+		- All non-passive healing you do heals additional health scaling with the number of turns this psycast has been active.
+			- The turn this psycast is cast, it is considered to have been active for 1 turn. At the beginning of the caster's next turn it has been active for 2 turns.
+			- This extra healing applies to all creatures healed by the active healing.
+		- This psycast ends prematurely if you do not actively heal any creature on your turn. Passive healing does not extend this psycast.
+			- This is ignored on the turn this psycast is cast.
 - **Stats**:
+	- +1d4 Health per Turn this Psycast has been Active on all Active Healing.
 - **Upcasting**:
 	- You cannot upcast this psycast.
