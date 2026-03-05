@@ -29,6 +29,6 @@ tags:
 		- This psycast ends prematurely if you do not actively heal any creature on your turn. Passive healing does not extend this psycast.
 			- This is ignored on the turn this psycast is cast.
 - **Stats**:
-	- +1d4 Health from all Active Healing per Turn this Psycast has been Active.
+	- +1d4 Health Healed from all Active Healing per Turn this Psycast has been Active.
 - **Upcasting**:
 	- You cannot upcast this psycast.

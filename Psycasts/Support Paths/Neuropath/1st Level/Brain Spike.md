@@ -24,5 +24,8 @@ tags:
 	- You target a creature within range with a psychic spike. The creature must make a Wisdom saving throw. 
 		- On a failed save, the spike psionically impales the creature, applying the [[Psy Sapped]] condition for 1 turn and dealing 3d6 psychic damage. 
 		- On a successful save, nothing happens.
+- **Stats**:
+	- 3d6 Psychic Damage from Psychic Spike.
+	- 1 Turn [[Psy Sapped]] Duration.
 - **Upcasting**:
 	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 damage.

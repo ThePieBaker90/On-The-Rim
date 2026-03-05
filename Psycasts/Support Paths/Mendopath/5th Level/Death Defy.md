@@ -28,6 +28,6 @@ tags:
 		- They ignore the effects of dropping to 0 hit points.
 		- The caster loses concentration on the psycast.
 - **Stats**:
-	- 2d12 Health from Defying Death.
+	- 2d12 Health Healed from Defying Death.
 - **Upcasting**:
 	- You cannot upcast this psycast.

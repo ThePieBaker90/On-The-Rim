@@ -27,8 +27,8 @@ tags:
 		- You may expend an action to burst heal the target creature.
 		- At any time, if the target creature goes beyond beam range from you or you lose line of sight to to the target creature, you lose concentration on this psycast.
 - **Stats**:
-	- 1d4 Health from Beam Passive Heal.
-	- 1d8 + 2 Health from Beam Burst Heal. (+1d8 Health)
+	- 1d4 Health Healed from Beam Passive Heal.
+	- 1d8 + 2 Health Healed from Beam Burst Heal. (+1d8 Health Healed)
 	- 30ft Beam Range.
 - **Upcasting**:
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the burst heal from the beam increases by 1d8 health.

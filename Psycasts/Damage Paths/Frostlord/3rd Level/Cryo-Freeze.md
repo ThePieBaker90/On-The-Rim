@@ -30,7 +30,7 @@ tags:
 		- If you end your turn [[Frozen Solid]], you heal health.
 		- You may stop concentrating on this psycast while [[Frozen Solid]].
 - **Stats**:
-	- 2d10 + 4 Health per Turn from the Ice. (+1d10 Healing)
+	- 2d10 + 4 Health Healed per Turn from the Ice. (+1d10 Health Healed)
 	- 30 Ice Health.
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the healing you receive from this psycast is increased by 2d10.

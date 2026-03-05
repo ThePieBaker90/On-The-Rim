@@ -24,7 +24,7 @@ tags:
 	- *You create a psychic burst releasing what appears to be a fine green dust. You and your nearby allies heal a moderate amount of health from this dust which dissipates soon after.*
 	- You heal allied creatures within the target sphere a moderate amount of health.
 - **Stats**:
-	- 2d10 Health from Health Nova. (+1d10 Health)
+	- 2d10 Health Healed from Health Nova. (+1d10 Health Healed)
 	- 15ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the health nova heals allied creatures an additional 1d10 Health.
