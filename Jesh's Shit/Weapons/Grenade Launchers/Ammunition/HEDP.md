@@ -7,7 +7,7 @@ tags:
 - Aimed at a target or point within range
 - Minimum range 10ft
 - On a miss, the grenade impacts the location of the target but does not directly hit the target
-- All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC13 dexterity sving throw.
+- All creatures in line-of-sight and within a 15ft radius of grenade's impact point must make a DC13 dexterity saving throw.
   - On a failure, they take 2D6 force damage
   - On a sucess, they take half 2D6 force damage, rounded up
   - On a hit and a failed save, the target additionally takes 2D8 piercing damage and any armour worn by the target recieves the [Broken Armour] condition, if possible. The target is knocked prone, if possible.
