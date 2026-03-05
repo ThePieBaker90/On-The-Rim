@@ -13,19 +13,20 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 32
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You target a creature within range with a psychic spike. The creature must make a Wisdom saving throw. 
-		- On a failed save, the spike psionically impales the creature, applying the [[Psy Sapped]] condition for 1 turn and dealing 3d6 psychic damage. 
+	- *A psychic spike manifests above a creature, the only way to defend from it is to mentally block it out. If the creature can't create a willpower to mentally defend, they take a decent amount of psychic damage and are [[Psy Sapped]].*
+	- The target creature must make a Wisdom saving throw to mentally defend from the psychic spike. 
+		- On a failed save, they take psychic damage and are [[Psy Sapped]].
 		- On a successful save, nothing happens.
 - **Stats**:
-	- 3d6 Psychic Damage from Psychic Spike.
+	- 3d6 Psychic Damage from Psychic Spike. (+1d6 Psychic Damage)
 	- 1 Turn [[Psy Sapped]] Duration.
 - **Upcasting**:
-	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the damage increases by 1d6 damage.
+	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the damage from the psychic spike increases by 1d6 psychic damage.
