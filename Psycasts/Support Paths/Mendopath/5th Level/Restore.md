@@ -13,14 +13,16 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 45
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Instant
+	- Instant.
 - **Effects**
-	- You heal a creature within range to maximum health.
+	- You heal the target creature to maximum health.
+- **Stats**:
+	- 100% of Max Health Healed.
 - **Upcasting**:
 	- You cannot upcast this psycast. 
