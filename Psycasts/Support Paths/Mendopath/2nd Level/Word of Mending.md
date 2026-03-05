@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**
 	- *You imbue psychic energy into a word of health, directing it at a creature. The word mends the wounds of the creature, healing their health.* 
-	- You heal the target creature a little health.
+	- You heal the target creature a bit of health.
 - **Stats**:
 	- 1d6 + 1 Health from Injuries Healing. (+1d6 Health)
 - **Upcasting**:
