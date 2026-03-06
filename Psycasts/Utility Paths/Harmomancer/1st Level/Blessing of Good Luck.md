@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 1st level [[Harmomancer Psycasts|Harmomancer Psycast]]
 - **Casting Time**:
-	- 1 Reaction, which you take when a target makes an ability check.
+	- 1 Reaction.
 - **[[Psyfocus]] Cost:**
 	- 22
 - **[[Neural Heat]] Generation:**
@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- As a reaction to a creature within range making an ability check, you give them advantage on the ability check.
+	- This psycast is used as a reaction to a target creature making an ability check.
+	- You give the target creature advantage on the ability check.
 - **Upcasting:**
 	- You cannot upcast this psycast.

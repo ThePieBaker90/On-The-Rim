@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take in response to a psycast being put into the casting phase.
+	- 1 Reaction.
 - **[[Psyfocus]] Cost:**
 	- 4
 - **[[Neural Heat]] Generation:**
@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- **
-	- This psycast is used a reaction to a psycast being put into the casting phase, 
+	- This psycast is used as a reaction to a psycast being put into the casting phase. 
 	- you attempt to interrupt the caster. The caster must make a Wisdom saving throw. 
 		- On a failure, their psycast is interrupted and forced to end. 
 		- On a success, nothing happens.

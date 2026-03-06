@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 3rd Level [[Aquator Psycasts|Aquator Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take when you are hit by an attack.
+	- 1 Reaction.
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
@@ -22,7 +22,8 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You quickly concentrate moisture in the air creating a barrier of water to hinder an incoming attack*
-	- As a reaction to getting hit, you create a barrier of water to soften the blow. You gain resistance to a damage type of your choice, this resistance dissipates when the attack resolves.
+	- This psycast is used as a reaction to you getting hit.
+	- While the incoming attack has not yet ended, you gain resistance to a damage type of your choice.
 		- This cannot grant resistance to psychic or poison damage.
 		- If the chosen type is fire damage, you gain an immunity to fire damage instead of a resistance.
 - **Stats**:

@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 3rd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take when you use the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].
+	- 1 Reaction.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**
-	- As you hide or sneak, you begin sink into the shadows. You have the following effects for the psycast duration:
+	- *TODOAs you hide or sneak, you begin sink into the shadows. *
+	- This psycast is used as a reaction to you using the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].
+	- You have the following effects for the psycast duration:
 		- While in [[Lighting#Bright Light|Bright Light]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Dim Light|Dim Light]] instead.
 		- While in [[Lighting#Dim Light|Dim Light]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Darkness|Darkness]] instead.
 		- While in [[Lighting#Darkness|Darkness]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Void|Void]] instead.

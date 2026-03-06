@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- 1 Reaction, which you take when a target is hit by an attack.
+	- 1 Reaction.
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
@@ -22,8 +22,10 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You quickly summon a shield of sludge to intercept an attack headed towards a creature.*
-	- As a reaction to a creature within range getting hit, you create a shield out of [[Abomination Matter]] to quickly protect a target creature from incoming damage. All damage from the attack is absorbed by the shield. Once the attack ends, the shield dissipates.
-		- Damage over the shield's health is dealt the the creature.
+	- This psycast is used as a reaction to a target creature being hit by an attack
+	- All damage from the attack directed at the target creature is absorbed by the shield. 
+		- Once the attack ends, the shield dissipates.
+		- Damage over the shield's health is dealt to the target creature.
 - **Stats**:
 	- 25 Shield Health. (+25 Health)
 - **Upcasting**:
