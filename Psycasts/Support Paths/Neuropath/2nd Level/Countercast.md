@@ -13,19 +13,20 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 28
 - [[Range]]:
-	- 150ft
+	- 150ft.
 - **Target**:
 	- A creature within range currently casting a psycast.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- **
+	- *You direct a powerful psychic interrupt at a creature who is casting a psycast.*
 	- This psycast is used as a reaction to a psycast being put into the casting phase. 
-	- you attempt to interrupt the caster. The caster must make a Wisdom saving throw. 
-		- On a failure, their psycast is interrupted and forced to end. 
+	- The target creature must make a Wisdom saving throw to avoid being interrupted. 
+		- On a failure, their psycast is interrupted.
 		- On a success, nothing happens.
-		- You may only interrupt psycasts of 1st level and 2nd level.
+- **Stats**:
+	- 2 Max Level of Psycast Being Interrupted. (+1 Level)
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, you may interrupt a psycast of 1 level higher.
