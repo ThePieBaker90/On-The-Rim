@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	- [[Carter's Neural Cooling]] (10, 0) ([[Neuropath Psycasts|Neuropath]])
 - 4th Level:
 	- [[Call Blizzard]] (68, 0) ([[Aquator Psycasts|Aquator]])
 - 5th Level:

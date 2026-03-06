@@ -13694,58 +13694,24 @@
         ]
       }
     },
-    "Psycasts/Support Paths/Neuropath/2nd Level/Carter's Neural Cooling.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 79,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2633333333333333,
-      "characterCount": 665,
-      "nonWhitespaceCharacterCount": 550,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.2981132075471698,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1770855216331,
-      "modifiedDate": 1772747302635,
-      "sizeInBytes": 718,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2633333333333333,
-        "wordCount": 79,
-        "characterCount": 665,
-        "nonWhitespaceCharacterCount": 550,
-        "newlineCount": 23
-      },
-      "frontmatter": {
-        "tags": [
-          "Psycast",
-          "Neuropath",
-          "2nd-Level"
-        ]
-      }
-    },
     "Psycasts/Support Paths/Neuropath/1st Level/Neural Heat Transfer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 89,
+      "wordCount": 114,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 719,
-      "nonWhitespaceCharacterCount": 587,
+      "pageCount": 0.38,
+      "characterCount": 862,
+      "nonWhitespaceCharacterCount": 706,
       "newlineCount": 27,
-      "readingTimeInMinutes": 0.33584905660377357,
-      "linkCount": 8,
+      "readingTimeInMinutes": 0.43018867924528303,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1770855216330,
-      "modifiedDate": 1772770516335,
-      "sizeInBytes": 772,
+      "modifiedDate": 1772771046859,
+      "sizeInBytes": 915,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29,
@@ -34636,20 +34602,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 28,
+      "wordCount": 34,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 182,
-      "nonWhitespaceCharacterCount": 150,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 210,
+      "nonWhitespaceCharacterCount": 172,
       "newlineCount": 3,
-      "readingTimeInMinutes": 0.10566037735849057,
+      "readingTimeInMinutes": 0.12830188679245283,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1770855182295,
-      "modifiedDate": 1772142635952,
-      "sizeInBytes": 232,
+      "modifiedDate": 1772771632522,
+      "sizeInBytes": 260,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09333333333333334,
@@ -37378,6 +37344,41 @@
           "Eyes",
           "Body-Part",
           "Sensory-Part"
+        ]
+      }
+    },
+    "Psycasts/Crosspath Psycasts/3rd Level/Carter's Neural Cooling.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 82,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 708,
+      "nonWhitespaceCharacterCount": 589,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 0.30943396226415093,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770855216331,
+      "modifiedDate": 1772772285465,
+      "sizeInBytes": 775,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "Psycast",
+          "Neuropath",
+          "Frostlord",
+          "3rd-Level"
         ]
       }
     }

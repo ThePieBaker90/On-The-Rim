@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - Frostlord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]] & [[Frostlord Psycasts|Frostlord Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 10 turns.
+- **Effects**:
+	- *You psychically cool your brain, increasing [[Neural Heat]] dissipation but requiring additional [[Psyfocus]] to cast psycasts.*
+	- For the duration of this psycast, you have the following effects:
+		- You dissipate neural heat faster.
+		- You pay an additional [[Psyfocus]] when you cast any psycast. (Rounded up)
+- **Stats**:
+	- 3 Additional [[Neural Heat]] Dissipated Per Turn.
+	- 20% Additional [[Psyfocus]] Cost.
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -12,9 +12,9 @@ aliases:
 	- [[Brain Spike]] (3, 28)
 	- [[Neural Heat Transfer]] (15, 0)
 - 2nd Level:
-	- [[Carter's Neural Cooling]] (10, 0)
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
+	- 
 - 3rd Level:
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
 	- [[Anti-Psychic Wave]] (13, 36)
@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	-  [[Carter's Neural Cooling]] (10, 0) ([[Frostlord Psycasts|Frostlord]])
 - 4th Level:
 	- .
 - 5th Level:
