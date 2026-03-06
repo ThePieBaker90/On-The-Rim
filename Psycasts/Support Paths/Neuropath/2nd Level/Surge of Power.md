@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 25
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 5 turns.
+- **Effects**:
+	- *Psychic power surges through you, making your psycasts more effective. While the power flows through you, your eyes and veins faintly glow purple.*
+	- For the duration of this psycast, your [[Psycasts#Psycast Save DC|Psycast Save DC]] is increased.
+- **Stats**:
+	- +2 [[Psycasts#Psycast Save DC|Psycast Save DC]].
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- As a reaction to a psycast being put into the casting phase, you attempt to interrupt the caster. The caster must make a Wisdom saving throw. 
+	- **
+	- This psycast is used a reaction to a psycast being put into the casting phase, 
+	- you attempt to interrupt the caster. The caster must make a Wisdom saving throw. 
 		- On a failure, their psycast is interrupted and forced to end. 
 		- On a success, nothing happens.
 		- You may only interrupt psycasts of 1st level and 2nd level.

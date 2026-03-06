@@ -14,7 +14,7 @@ aliases:
 - 2nd Level:
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
-	- [[Increase Spell DC Psycast]]
+	- [[Surge of Power]] (5, 25)
 - 3rd Level:
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
 	- [[Anti-Psychic Wave]] (13, 36)
