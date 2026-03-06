@@ -1,0 +1,26 @@
+---
+tags:
+  - Psycast
+  - Neuropath
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Neuropath Psycasts|Neuropath Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- Self.
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- .
+- **Upcasting**:
+	- You cannot upcast this psycast.
