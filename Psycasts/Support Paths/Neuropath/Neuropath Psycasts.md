@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Brain Spike]] (3, 28)
-	- [[Neural Heat Transfer]] (20, 0)
+	- [[Neural Heat Transfer]] (15, 0)
 - 2nd Level:
 	- [[Carter's Neural Cooling]] (10, 0)
 	- [[Countercast]] (4, 28)
