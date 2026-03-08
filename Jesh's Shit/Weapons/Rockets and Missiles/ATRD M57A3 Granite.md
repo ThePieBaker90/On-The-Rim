@@ -37,6 +37,6 @@ tags:
 * **Value**:
 	* 130 credits
 * **Lore:**
-  * The Brear Arms Anti-Tank Rocket, Disposable, Model 5457-A1 "Basalt" is a lightweight, affordable, disposable low-calibre rocket launcher developed from the older Model 5413. The M57A3 version is an explosive version of the M57 with a blast warhead, intended for use against soft targets. An external knob allows setting of a distance fuze, though the projectile also retains the standard impact fuze. 
+  * The Brear Arms Anti-Tank Rocket, Disposable, Model 5457 is a lightweight, affordable, disposable low-calibre rocket launcher developed from the older Model 5413. The M57A3 "Granite" version is an explosive version of the M57 with a blast warhead, intended for use against soft targets. An external knob allows setting of a distance fuze, though the projectile also retains the standard impact fuze. 
 * **Looks**:
 	* A stock M72A9 LAW.
