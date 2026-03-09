@@ -7,22 +7,28 @@ tags:
 - **Path**:
 	- 3rd Level [[Neuropath Psycasts|Neuropath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 13
+	- 20
 - **[[Neural Heat]] Generation:**
-	- 36
+	- 30
 - [[Range]]:
-	- 100ft
+	- Touch.
 - **Target**:
-	- Self.
+	- A line with one endpoint within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You create an anti-psychic wave to interrupt all psycasts currently in progress. For every active psycast within range, its caster must make a Wisdom saving throw. 
-		- On a failure, their psycast is interrupted and ends prematurely. 
+	- *You create a wave of psychic noise to interrupt psycasts currently in progress and prevent other casters from forming coherent psycasts.*
+	- Within the target line, the following effects occur:
+	- All creatures within the target line must make a Wisdom saving throw to resist the wave.
+		- On a failure, they are [[Psy Sapped]] and any active psycasts they used are interrupted.
 		- On a success, nothing happens.
+- **Stats**:
+	- 3 Turn [[Psy Sapped]] Duration.
+	- 40ft Target Line Length.
+	- 20ft Target Line Thickness.
 - **Upcasting**:
 	- You cannot upcast this psycast. 
