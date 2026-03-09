@@ -17,7 +17,7 @@ aliases:
 	- [[Surge of Power]] (5, 25)
 - 3rd Level:
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
-	- [[Anti-Psychic Wave]] (13, 36)
+	- [[Anti-Psychic Wave]] (20, 30)
 	- [[Siphon Psyfocus]] (5, 25)
 - 4th Level:
 	- [[Neural Overload]] (3, 44)
