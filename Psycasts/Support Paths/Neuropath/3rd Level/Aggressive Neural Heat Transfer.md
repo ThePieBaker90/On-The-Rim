@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,10 +21,13 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You dump your neural heat into a creature within range. The creature must make a Wisdom saving throw. 
-		- On a failure they gain all of your neural heat and you lose all neural heat. 
+	- You dump your neural heat into a creature within range. 
+	- The target creature must make a Wisdom saving throw to resist absorbing your [[Neural Heat]]. 
+		- On a failure, you lose all generated [[Neural Heat]] and they gain [[Neural Heat]] scaling with the amount you lost.
 		- On a success, nothing happens.
 	- This psycast cannot be used while concentrating on another psycast.
 	- You cannot target yourself with this psycast
+- **Stats**:
+	- 1:1 Neural Heat Lost to Neural Heat Given Ratio.
 - **Upcasting**:
 	- You cannot upcast this psycast.
