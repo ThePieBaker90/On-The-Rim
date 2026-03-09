@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You dump your neural heat into a creature within range. 
+	- *You forcefully dump your neural heat into a creature, freeing your mind of the heat while shoving the problem onto them.
 	- The target creature must make a Wisdom saving throw to resist absorbing your [[Neural Heat]]. 
 		- On a failure, you lose all generated [[Neural Heat]] and they gain [[Neural Heat]] scaling with the amount you lost.
 		- On a success, nothing happens.
