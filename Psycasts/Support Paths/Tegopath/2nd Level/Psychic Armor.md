@@ -26,4 +26,4 @@ tags:
 - **Stats**:
 	- +2 [[Armor Class]] Applied.
 - **Upcasting**:
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional 2 turns.

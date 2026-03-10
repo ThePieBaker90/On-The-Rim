@@ -26,4 +26,4 @@ tags:
 - **Stats**:
 	- 2d8 Levels of [[Temporary Health]] Applied. (+2d8 Levels)
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the creature gains an additional 2d8 temporary health.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the target creature gains an additional 2d8 temporary health.

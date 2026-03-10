@@ -31,4 +31,4 @@ tags:
 	- 1 Turn [[Immobilized]] Duration.
 	- 20ft Target Sphere Radius.
 - **Upcasting:**
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

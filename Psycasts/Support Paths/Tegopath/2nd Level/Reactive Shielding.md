@@ -21,9 +21,10 @@ tags:
 - **Duration**:
 	- 3 turns.
 - **Effects**
-	- *TODOYou cast a temporary damage barrier on them. *
+	- *You cast a damage barrier on a creature, using a neural shortcut to manifest it faster but costing more to cast.*
 	- This psycast is used as a reaction to a target creature getting hit.
-	- The target creature gains 2d8 temporary health. 
-		- This health goes away when the psycast ends.
+	-  For the duration of this psycast, the target creature has [[Temporary Health]].
+- **Stats**:
+	- 2d8 Levels of [[Temporary Health]] Applied. (+2d8 Levels)
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the creature gains an additional 2d8 temporary health.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the target creature gains an additional 2d8 temporary health.

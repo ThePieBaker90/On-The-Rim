@@ -28,4 +28,4 @@ tags:
 	- 40 Barrier Health. (+40 Health)
 	- 15ft Target Square Side Length. 
 - **Upcasting**:
-	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the barrier can absorb 40 more damage.
+	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the barrier health increases by 40 health.
