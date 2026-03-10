@@ -22,7 +22,6 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You create a wave of psychic noise to interrupt psycasts currently in progress and prevent other casters from forming coherent psycasts.*
-	- Within the target line, the following effects occur:
 	- All creatures within the target line must make a Wisdom saving throw to resist the wave.
 		- On a failure, they are [[Psy Sapped]] and any active psycasts they used are interrupted.
 		- On a success, nothing happens.
