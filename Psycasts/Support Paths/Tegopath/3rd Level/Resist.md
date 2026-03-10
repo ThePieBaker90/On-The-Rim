@@ -7,20 +7,24 @@ tags:
 - **Path**:
 	- 3rd Level [[Tegopath Psycasts|Tegopath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 8
 - **[[Neural Heat]] Generation:**
 	- 28
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 2 turns.
 - **Effects**
-	- You grant a creature in range resistance to one damage type for the psycast duration.
+	- *You manifest psychic energy to protect a creature from a specific damage type. The energy works to reduce damage of the chosen type.
+	- When you cast this psycast, you choose a damage type.
+	- For the duration of this psycast, the target creature takes reduced damage (rounded down) from the chosen damage type.
+- **Stats**:
+	- 50% Reduction in Damage of the Chosen Type.
 - **Upcasting**:
 	- You cannot upcast this psycast.
