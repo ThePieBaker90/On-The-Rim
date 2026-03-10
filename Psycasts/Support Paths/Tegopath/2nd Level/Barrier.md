@@ -7,23 +7,25 @@ tags:
 - **Path**:
 	- 2nd Level [[Tegopath Psycasts|Tegopath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 2
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
-	- 35ft
+	- 35ft.
 - **Target**:
-	- A point within range.
+	- A square within range,
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- 5 turns.
 - **Effects**
-	- You create a barrier centered at a point within range. The barrier is a square 15ft in size and can be oriented in a direction of your choice when this psycast is cast. The barrier blocks all ranged attacks that would cross through it and can block up to 40 total damage before it dissipates.
-		- Creatures can move through the barrier unimpeded.
-		- The barrier does not block melee attacks.
+	- *You project a barrier to block incoming projectiles. The barrier can only absorb a certain amount of damage before breaking.*
+	- For the duration of this psycast, any ranged attacks passing through the target square are blocked by the barrier. The barrier may block up to its health in attacks.
 	- You may end this psycast for free during your turn.
+- **Stats**:
+	- 40 Barrier Health. (+40 Health)
+	- 15ft Target Square Side Length. 
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the barrier can absorb 40 more damage.
