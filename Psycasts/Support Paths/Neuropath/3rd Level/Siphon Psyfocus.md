@@ -13,17 +13,23 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 25 (25)
 - [[Range]]:
-	- 55ft
+	- 55ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Gesture.
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**:
-	- You siphon psyfocus from a creature within range. The creature must make a Wisdom saving throw when this psycast is cast and at the beginning of each of your subsequent turns during the duration of this psycast. 
-		- On a failure, the creature loses 20 psyfocus and you gain 20 psyfocus.
-		- On a success, the psycast ends.
-		- A creature who has 20 psyfocus or less automatically succeeds the saving throw.
+	- *You create a psychic link between you and a creature, this link allows you to steal their [[Psyfocus]]. A faint iridescent wave can be seen connecting your forehead to the creature's forehead.*
+	- For the duration of this psycast, when you begin your turn the target creature must make a Wisdom saving throw to break the psychic link. 
+		- On a failure, you drain some [[Psyfocus]] from them, gaining [[Psyfocus]] in the process.
+		- On a success, you lose concentration on this psycast.
+	- If the target creature has a low enough [[Psyfocus]], you lose concentration on this psycast.
+	- If the target creature leaves the range of the psycast, you lose concentration on this psycast.
+- **Stats**:
+	- 20 [[Psyfocus]] Drained.
+	- 1:1 [[Psyfocus]] Drained to [[Psyfocus]] Gained Ratio.
+	- 20 Min Target Creature [[Psyfocus]].
 - **Upcasting**:
 	- You cannot upcast this psycast.
