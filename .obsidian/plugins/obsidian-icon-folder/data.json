@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretUp",
       "LiSparkles",
       "LiListTodo",
       "TiHexagonNumber5",
-      "TiHexagonNumber4",
-      "TiHexagonNumber3"
+      "TiHexagonNumber4"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1251,5 +1251,6 @@
   "Psycasts/Support Paths/Mendopath/1st Level/Regeneration Rite.md": "LiSparkles",
   "Psycasts/Support Paths/Mendopath/4th Level/Intensifying Healing.md": "LiSparkles",
   "Psycasts/Crosspath Psycasts/3rd Level/Carter's Neural Cooling.md": "LiSparkles",
-  "Psycasts/Support Paths/Neuropath/2nd Level/Surge of Power.md": "LiSparkles"
+  "Psycasts/Support Paths/Neuropath/2nd Level/Surge of Power.md": "LiSparkles",
+  "Conditions/Basic Conditions/Temporary Health.md": "FarSquareCaretUp"
 }
