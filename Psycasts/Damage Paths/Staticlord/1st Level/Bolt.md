@@ -26,6 +26,6 @@ tags:
 		- On a hit, the creature takes damage scaling with the distance between you and them.
 - **Stats**:
 	- 1d4 Electric Damage Base Damage.
-	- +1d4 Electric Damage for every 15ft of Distance. (+1d4 Electric Damage)
+	- +1d4 Electric Damage per 15ft of Distance. (+1d4 Electric Damage)
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, every 15ft of distance between you and the target adds an extra 1d4 electric damage.
