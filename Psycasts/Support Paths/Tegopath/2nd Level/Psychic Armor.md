@@ -7,20 +7,23 @@ tags:
 - **Path**:
 	- 2nd Level [[Tegopath Psycasts|Tegopath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 7
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- 3 turns. (+2 turns)
 - **Effects**
-	- You grant a creature in range +2 [[Armor Class]] for the psycast duration.
+	- *You grant a creature psychic armor making attacks more likely to deflect off of them. You can get the occasional glimpse of the knight-like psychic armor if the light is just right.*
+	- For the duration of this psycast, the target creature has additional [[Armor Class]].
+- **Stats**:
+	- +2 [[Armor Class]] Applied.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
