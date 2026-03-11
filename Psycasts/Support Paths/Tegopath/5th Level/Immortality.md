@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 5th Level [[Tegopath Psycasts|Tegopath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 30
 - **[[Neural Heat]] Generation:**
