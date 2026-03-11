@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 4th Level [[Tegopath Psycasts|Tegopath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
@@ -15,15 +15,17 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- Self.
+	- A sphere with its center within range.
 - **Components**:
-	- Gesture 
+	- Gesture.
 - **Duration**:
-	- 3 turns
+	- 3 turns.
 - **Effects**
-	- You create a spherical barrier centered on you. The shield is a sphere 15ft in radius. The barrier blocks all incoming ranged attacks that would cross the surface of the sphere and can block up to 40 total damage before it breaks.
-		- Creatures can move through the barrier unimpeded.
-		- The barrier does not block melee attacks or outgoing ranged attacks.
+	- *You project a sphere shaped barrier around you. The barrier does not block ranged attacks coming from within making it optimal for ranged engagements.*
+	- For the duration of this psycast, any ranged attacks entering the target sphere from the outside are blocked by the barrier. The barrier may block up to its health in attacks.
 	- You may end this psycast for free during your turn.
+- **Stats**:
+	- 40 Barrier Health. (+30 Health)
+	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the barrier can absorb 30 more damage.
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the barrier health increases by 30 health.
