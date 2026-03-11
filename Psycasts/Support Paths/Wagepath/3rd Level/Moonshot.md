@@ -15,19 +15,23 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A ranged weapon within range.
+	- A ranged weapon within range that is used as the focus.
 - **Components**:
 	- Focus (Ranged Weapon).
 - **Duration**:
 	- 3 turns.
 - **Effects**:
-	- You enchant a ranged weapon to give it additional range and accuracy.
-	- You touch a ranged weapon within range, for the duration of this psycast, the weapon has the following effects:
-		- When rolling to hit for an attack with this weapon, the attacker has a +4 modifier to hit.
-		- This weapon's upper-bound for its [[Range]] is increased by 25%.
+	- *You enchant a ranged weapon to give it additional range and accuracy until it hits an attack. There is a faint orange glow from the barrel of the weapon.*
+	- For the duration of this psycast, the target weapon has the following effects:
+		- When rolling to hit for an attack made with the weapon, the attacker has a positive modifier to hit.
+		- The weapon's upper-bound for its [[Range]] is increased.
 			- This is rounded up.
 		- This weapon's absolute-upper-bound for its [[Range]] is increased by 50%.
 			- This is rounded up.
-		- When this weapon successfully hits a creature, this psycast ends. 
+		- When the weapon hits a creature, this psycast ends. 
+- **Stats**:
+	- +4 to Hit.
+	- 25% Upper-Bound [[Range]] Increase.
+	- 50% Absolute-Upper-Bound [[Range]] Increase.
 - **Upcasting**:
 	- You cannot upcast this psycast.
