@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
-	- Your items float in to your hands and backpack allowing you to rapidly swap what you are holding.
-	- You may equip and unequip weapons and items at no action cost for the psycast duration.
+	- *Your items seem to float into your hands and backpack allowing you to rapidly swap what you are holding.*
+	- For the duration of this psycast, you can equip and unequip weapons and items at no action cost.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.
