@@ -13,15 +13,18 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 50 (50)
 - [[Range]]:
-	- 15ft
+	- 15ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Concentration, up to 3 turns.
 - **Effects**
-	- You instill a creature with temporary immortality, their health cannot drop below 10% of their maximum health for the duration of this psycast.
-		- The creature still deals with the effects of taking damage such as concentration rolls.
+	- *You instill a creature with temporary immortality, allowing them to survive anything short of a black hole. The immortality is short lived and can be dispelled if you lose concentration.*
+	- For the duration of this psycast, the target creature's health cannot drop below a minimum percent of their maximum health.
+		- The target creature still deals with the effects of taking damage such as making concentration rolls.
+- **Stats**:
+	- 10% of Max Health Min Health.
 - **Upcasting**:
 	- You cannot upcast this psycast.
