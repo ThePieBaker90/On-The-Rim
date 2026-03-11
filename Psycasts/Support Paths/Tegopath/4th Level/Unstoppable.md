@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 4th Level [[Tegopath Psycasts|Tegopath Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 8
 - **[[Neural Heat]] Generation:**
@@ -21,7 +21,13 @@ tags:
 - **Duration**:
 	- 5 turns.
 - **Effects**
-	- You gain 3d10 temporary health and you are immune to [[Unconscious]], [[Prone]], [[Incapacitated]], [[Grappled]], [[Stunned]], [[Immobilized]], [[Frightened]], [[Charmed]], [[Lethargic]], [[Mind-Shattering Pain]], and [[Weakness]] for the psycast duration.
-		- Additionally, you may not be moved against your will.
+	- *Psychic energy surges through your body giving you [[Temporary Health]] and making you immune to negative conditions and certain statuses.*
+	- For the duration of this psycast, you have the following effects:
+		- You have [[Temporary Health]].
+		- You are immune to [[Grappled]], [[Incapacitated]], [[Prone]], [[Unconscious]], all mixed [[Conditions]], and all negative [[Conditions]].
+		- You may not be moved against your will.
+		- Your [[Movement Speed]] cannot be slowed.
+- **Stats**:
+	- 3d10 Levels of [[Temporary Health]] Applied.
 - **Upcasting**:
 	- You cannot upcast this psycast.
