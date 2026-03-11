@@ -5,12 +5,12 @@ tags:
 ---
 - Reverberating's duration may never be more than 1 turn.
 - When a creature has the reverberating condition, they suffer the following effects:
-	- All damage they take is halved (rounded up) and added to a running total $n$. 
-		- $n$ is set to 0 when the creature gains this condition.
+	- For every 2 damage they take, 1 is added to a running total $n$. 
+		- $n$ is 0 when the creature gains this condition.
 		- $n$ cannot be referred to outside of this condition, other instances of this condition do not share the value in $n$.
-	- When they lose the condition, all creatures within 10ft of them must make a constitution saving throw. 
+	- They have their [[Movement Speed]] slowed by 10ft.
+	- If this condition is lost from the duration expiring, all creatures within 10ft of them must make a constitution saving throw. 
 		- On a failure, a creature takes $n$ psychic damage.
 		- On a success, they take half as much damage.
 		- This cannot reduce a creature's health below 1.
-	- They have their [[Movement Speed]] slowed by 10ft.
 - A creature who is immune to psychic damage is immune to this condition.

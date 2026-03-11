@@ -7,13 +7,13 @@ tags:
 - **Path**:
 	- 4th Level [[Wagepath Psycasts|Wagepath Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 8
 - **[[Neural Heat]] Generation:**
 	- 34
 - [[Range]]:
-	- 15ft
+	- 15ft. (+15ft)
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,6 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You apply [[Reverberating]] on a creature within range for 1 turn.
-- **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range increases by 15ft.
+	- *You transmit a reverberating psychic wave at a creature causing them to take additional delayed damage for a turn.*
+	- The target creature gains [[Reverberating]].
+- **Stats**:
+	- 1 Turn [[Reverberating]] Duration.
+with- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the range of this psycast increases by 15ft.
