@@ -19,9 +19,11 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- 3 turns. (+3 turns)
 - **Effects**:
-	- You increase your adrenaline, enabling you to run further for longer. 
-	- For the duration of this psycast, your [[Movement Speed]] is increased by 15ft.
+	- *You increase your adrenaline, enabling you to run further for longer.* 
+	- For the duration of this psycast, your [[Movement Speed]] is increased.
+- **Stats**:
+	- 15ft [[Movement Speed]] Increase.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 3 turns.
