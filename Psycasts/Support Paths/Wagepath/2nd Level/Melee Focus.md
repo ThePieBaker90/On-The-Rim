@@ -21,12 +21,15 @@ tags:
 - **Duration**:
 	- Concentration, up to 5 turns.
 - **Effects**:
-	- You increase your melee abilities, allowing you to excel in melee combat.
-	- For the duration of this psycast, you gain the following effects:
-		- When rolling for damage with a melee weapon, you may reroll each dice in the damage up to one time.
-			- You must take the new result of a dice being rerolled.
-			- You may pick and choose which dice to reroll.
-		- You gain a +4 modifier to hit with melee attacks.
-	- If you end your turn without having made at least 1 melee attack during your turn, this psycast ends.
+	- *You increase your melee abilities, allowing you to excel in melee combat. You that find your weapon hits enemies more often and harder.*
+	- For the duration of this psycast, you have the following effects:
+		- When rolling for damage for an attack made with a melee weapon, you may reroll each damage dice.
+			- You must take the new result of a damage dice being rerolled.
+			- You may pick and choose which damage dice to reroll.
+		- When you roll to hit for a melee attack, you gain a positive modifier to hit.
+	- If you end your turn without having made a melee attack during your turn, this psycast ends.
+- **Stats**:
+	- 1 Max Reroll per Damage Dice.
+	- +4 to Hit with Melee Attacks.
 - **Upcasting**:
 	- You cannot upcast this psycast.
