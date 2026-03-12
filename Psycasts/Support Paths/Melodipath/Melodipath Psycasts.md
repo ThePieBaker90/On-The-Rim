@@ -40,5 +40,3 @@ aliases:
 	- .
 - 5th Level:
 	- .
-Tego Melody- Lucio beat
-Melodi War - Reload on cast with psychic bullets music spell?

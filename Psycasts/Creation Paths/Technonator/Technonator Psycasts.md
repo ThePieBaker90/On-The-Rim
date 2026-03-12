@@ -32,7 +32,3 @@ aliases:
 	- .
 - 5th Level:
 	- .
-Tech Skip - Turn normal door into portal!
-Wild Tech - Arrow rain
-Morti Tech - Graves jar of dead type shift.
-Mendo Tech - restorative locket type shift.

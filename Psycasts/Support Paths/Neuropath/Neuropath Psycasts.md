@@ -37,6 +37,3 @@ aliases:
 	- .
 - 5th Level:
 	- .
-Neuro Illusion - Implant Fake Memories
-Neuro Empath - Link all self effect spells to nearby allies
-Neuro War - Spellslinger deadlock

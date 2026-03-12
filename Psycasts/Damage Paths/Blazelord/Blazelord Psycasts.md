@@ -30,12 +30,10 @@ aliases:
 	- You cast [[Fireball]] centered on yourself. You automatically fail the saving throw.
 ## Crosspath Psycasts
 - 2nd Level:
-	- [[Unknown Fire Gravity Psycast]] ([[Gravitor Psycasts|Gravitor]])
+	- .
 - 3rd Level:
 	- .
 - 4th Level:
 	- [[Thermite Spray]] ([[Chemlord Psycasts|Chemlord]])
 - 5th Level:
 	- .
-Fire Chrono - make fire burn faster
-Fire Water - Steam cartoon like attack (Thomas gets to name)

@@ -32,11 +32,10 @@ aliases:
 		- On a success, nothing happens.
 ## Crosspath Psycasts
 - 2nd Level:
-	- [[Unknown Fire Gravity Psycast]] ([[Blazelord Psycasts|Blazelord]])
+	- .
 - 3rd Level:
-	- [[Force Barrier Psycast]] ([[Tegopath Psycasts|Tegopath]])
+	- .
 - 4th Level:
 	- .
 - 5th Level:
 	- .
-Skip Gravity - Volatile Space from weird wood wand
