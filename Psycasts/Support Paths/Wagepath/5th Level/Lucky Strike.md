@@ -15,21 +15,23 @@ tags:
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- A weapon within range.
+	- A weapon within range that is used as the focus.
 - **Components**:
 	- Focus (Weapon).
 - **Duration**:
-	- 3 turns.
+	- 3 turns. (+1 turn)
 - **Effects**:
-	- You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting critical areas and dealing extra damage.
-	- You touch a weapon within range, for the duration of this psycast, the weapon has the following effects:
-		- The number needed to roll a critical hit while attacking with the weapon is reduced by 1.
-			- This effect can stack with similar effects.
-		- Whenever an attack is made with this weapon, the user may roll 1d4-1 before rolling for damage. Then they may increase that many damage dice by 2 sides.
-			- This may not increase the sides of a dice above 12.
-			- The same dice can be chosen multiple times for this increase.
-			- Increasing the sides of a dice only increase it for one instance of damage.
-				- For example, if a weapon deals damage to multiple targets and the result was a 1, only one creature who is taking damage will roll damage from the larger dice.
+	- *You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting critical areas and dealing extra damage.*
+	- For the duration of this psycast, the target weapon has the following effects:
+		- When the weapon is used in an attack, the attacker's [[Criticals#Critical Successes|Critical Success Threshold]] is reduced.
+		- When the weapon hits, the attacker may roll a dice before rolling for damage to determine how many damage dice get their sides increased. Then, if they did roll, the attacker chooses dice equal to the result to get their sides increased by a set amount. The dice are that size for a single roll of damage.
+			- This may not increase the sides of a dice above a certain amount.
+			- The same dice may be chosen multiple times for this increase.
 			- For example, an attack dealing 1d12 slashing damage, 1d8 fire damage, and 1d4 piercing damage could instead deal 1d12 slashing damage, 1d12 fire damage, and 1d6 piercing damage if the result was a 3.
+- **Stats**:
+	- -1 [[Criticals#Critical Successes|Critical Success Threshold]] while Attacking with the Weapon.
+	- 1d4 - 1 Number of Dice that get a Side Increase.
+	- 2 Additional Dice Sides.
+	- 12 Max Dice Sides.
 - **Upcasting**:
 	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.
