@@ -22,9 +22,9 @@ tags:
 	- Concentration, up to 3 turns.
 - **Effects**
 	- *You instill a creature with temporary immortality, allowing them to survive anything short of a black hole. The immortality is short lived and can be dispelled if you lose concentration.*
-	- For the duration of this psycast, the target creature's health cannot drop below a minimum percent of their maximum health.
+	- For the duration of this psycast, the target creature's health cannot drop below a threshold.
 		- The target creature still deals with the effects of taking damage such as making concentration rolls.
 - **Stats**:
-	- 10% of Max Health Min Health.
+	- 10% Health Threshold.
 - **Upcasting**:
 	- You cannot upcast this psycast.
