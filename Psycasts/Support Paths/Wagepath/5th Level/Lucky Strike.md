@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 3 turns. (+1 turn)
 - **Effects**:
-	- *You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting critical areas and dealing extra damage.*
+	- *You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting criticals and increasing the size of its damage dice.*
 	- For the duration of this psycast, the target weapon has the following effects:
 		- When the weapon is used in an attack, the attacker's [[Criticals#Critical Successes|Critical Success Threshold]] is reduced.
 		- When the weapon hits, the attacker may roll a dice before rolling for damage to determine how many damage dice get their sides increased. Then, if they did roll, the attacker chooses dice equal to the result to get their sides increased by a set amount. The dice are that size for a single roll of damage.
