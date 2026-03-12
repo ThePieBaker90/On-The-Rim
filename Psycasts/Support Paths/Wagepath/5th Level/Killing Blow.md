@@ -21,10 +21,13 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You lunge towards an enemy, dealing a devastating wound that can instantly kill low health enemies.
+	- *You lunge towards an enemy, dealing a devastating wound that can instantly kill low health enemies.*
 	- You lunge towards a creature in range, moving adjacent to them and forcing them to make a dexterity saving throw.
-		- On a failure, if they are at or below 20% health (rounded up), they instantly die, otherwise they take 10% of their maximum health as slashing damage (rounded up).
+		- On a failure, if they are at or below a health percentage, they instantly die. Otherwise they take 10% of their maximum health as slashing damage (rounded up).
 		- On a success, they take 2d10 slashing damage or 10% of their maximum health as slashing damage (rounded up), whichever is lower.
 	- If you kill a creature with this psycast, you may use this psycast again before the end of your next turn with its [[Neural Heat]] cost reduced by 30.
+- **Stats**:
+	- 20% Instant Kill Health Threshold.
+	- 10% of Max Health as Slashing Damage on Slas`
 - **Upcasting**:
 	- You cannot upcast this psycast.
