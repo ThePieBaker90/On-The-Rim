@@ -21,7 +21,10 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
+	- **
 	- This psycast is used as a reaction to a target creature making an ability check.
 	- You give the target creature advantage on the ability check.
+- **Stats**:
+	- None.
 - **Upcasting:**
 	- You cannot upcast this psycast.
