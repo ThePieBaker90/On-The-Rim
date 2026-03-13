@@ -13,15 +13,15 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- **
+	- *You guide the randomness of an event towards a favorable outcome.*
 	- This psycast is used as a reaction to a target creature making an ability check.
 	- You give the target creature advantage on the ability check.
 - **Stats**:
