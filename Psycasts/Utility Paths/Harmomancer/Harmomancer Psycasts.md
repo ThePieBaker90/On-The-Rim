@@ -12,8 +12,8 @@ aliases:
 	- [[Blessing of Good Luck]] (22, 0)
 	- [[Curse of Bad Luck]] (22, 0)
 - 2nd Level:
-	- [[Entropy Exchange]] (2, 14)
-	- [[Life Link]] (2, 14)
+	- [[Entropy Transfer]] (2, 14)
+	- [[Entropy Link]] (2, 14)
 - 3rd Level:
 	- [[Entropy Balance]] (12, 26)
 	- [[Location Swap]] (6, 30)

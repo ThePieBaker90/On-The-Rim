@@ -27,4 +27,4 @@ tags:
 	- 2d4 Health Lost from Entropy. (+2d4 Health Lost)
 	- 1:1 Health Lost to Health Healed Ratio.
 - **Upcasting:**
-	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, You lose 2d4 more health.
+	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you lose 2d4 more health.

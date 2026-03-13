@@ -977,8 +977,6 @@
   "Psycasts/Utility Paths/Harmomancer/4th Level/Entropy Absorption.md": "LiSparkles",
   "Psycasts/Utility Paths/Harmomancer/3rd Level/Location Swap.md": "LiSparkles",
   "Psycasts/Utility Paths/Harmomancer/3rd Level/Entropy Balance.md": "LiSparkles",
-  "Psycasts/Utility Paths/Harmomancer/2nd Level/Entropy Exchange.md": "LiSparkles",
-  "Psycasts/Utility Paths/Harmomancer/2nd Level/Life Link.md": "LiSparkles",
   "Psycasts/Utility Paths/Harmomancer/1st Level/Curse of Bad Luck.md": "LiSparkles",
   "Psycasts/Utility Paths/Harmomancer/1st Level/Blessing of Good Luck.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer": "LiSparkles",
@@ -1251,5 +1249,7 @@
   "Psycasts/Support Paths/Mendopath/4th Level/Intensifying Healing.md": "LiSparkles",
   "Psycasts/Crosspath Psycasts/3rd Level/Carter's Neural Cooling.md": "LiSparkles",
   "Psycasts/Support Paths/Neuropath/2nd Level/Surge of Power.md": "LiSparkles",
-  "Conditions/Basic Conditions/Temporary Health.md": "FarSquareCaretUp"
+  "Conditions/Basic Conditions/Temporary Health.md": "FarSquareCaretUp",
+  "Psycasts/Utility Paths/Harmomancer/2nd Level/Entropy Transfer.md": "LiSparkles",
+  "Psycasts/Utility Paths/Harmomancer/2nd Level/Entropy Link.md": "LiSparkles"
 }
