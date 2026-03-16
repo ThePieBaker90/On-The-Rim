@@ -23,8 +23,11 @@ tags:
 - **Effects**:
 	- *You absorb some of a creature's entropy, transferring their injuries to you.*
 	- You lose health and heal the target creature scaling with the amount of health you lost.
+		- If the creature would gain health over its maximum, it gains levels in [[Temporary Health]] scaling with the health over its maximum.
+		- The health increase and decrease from this psycast cannot be amplified nor mitigated. 
 - **Stats**:
 	- 2d4 Health Lost from Entropy. (+2d4 Health Lost)
 	- 1:1 Health Lost to Health Healed Ratio.
+	- 1 Level of [[Temporary Health]] Applied per 1 Health over Max.
 - **Upcasting:**
 	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you lose 2d4 more health.

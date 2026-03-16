@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 3rd level [[Harmomancer Psycasts|Harmomancer Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
@@ -21,10 +21,11 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- **
-	- Your health and the target creature's health become the average of both of your healths.
+	- *You create a psychic link between you and a creature, using the connection to balance your built up entropy among each other. This effectively averages both of your health values together.*
+	- Your health and the target creature's health becomes the average of both health values.
+		- If a creature would gain health over its maximum, it gains levels in [[Temporary Health]] scaling with the health over its maximum.
 		- The health increase and decrease from this psycast cannot be amplified nor mitigated. 
 - **Stats**:
-	- TODO
+	- 1 Level of [[Temporary Health]] Applied per 1 Health over Max.
 - **Upcasting:**
 	- You cannot upcast this psycast. 
