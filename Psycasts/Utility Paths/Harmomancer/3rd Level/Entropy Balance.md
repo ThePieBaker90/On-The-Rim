@@ -13,16 +13,18 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 26
 - [[Range]]:
-	- 120ft
+	- 120ft.
 - **Target**:
-	- A creature within range.
+	- A willing creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You and a willing creature within range average each other's current health values. Both of your current health values then become this average. 
-		- If the creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
+	- **
+	- Your health and the target creature's health become the average of both of your healths.
 		- The health increase and decrease from this psycast cannot be amplified nor mitigated. 
+- **Stats**:
+	- TODO
 - **Upcasting:**
 	- You cannot upcast this psycast. 
