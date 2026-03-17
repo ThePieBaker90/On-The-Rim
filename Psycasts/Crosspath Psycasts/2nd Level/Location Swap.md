@@ -2,10 +2,11 @@
 tags:
   - Psycast
   - Harmomancer
-  - 3rd-Level
+  - 2nd-Level
+  - Skipmancer
 ---
 - **Path**:
-	- 3rd level [[Harmomancer Psycasts|Harmomancer Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
+	- 2nd level [[Harmomancer Psycasts|Harmomancer Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**

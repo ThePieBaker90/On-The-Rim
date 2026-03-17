@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- *.*
+	- .
+- **Stats**:
+	- .
+- **Upcasting:**
+	- .

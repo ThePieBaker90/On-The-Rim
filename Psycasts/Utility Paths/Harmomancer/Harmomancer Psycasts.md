@@ -16,7 +16,7 @@ aliases:
 	- [[Entropy Link]] (2, 14)
 - 3rd Level:
 	- [[Entropy Balance]] (12, 26)
-	- [[Location Swap]] (6, 30)
+	- [[Transfer Luck]] 
 - 4th Level:
 	- [[Entropy Absorption]] (3, 44)
 	- [[Mass Life Link]] (3, 44)
