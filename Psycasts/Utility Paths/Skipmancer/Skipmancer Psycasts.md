@@ -31,6 +31,7 @@ aliases:
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Darius' Dislocate]] (4, 28) ([[Abominator Psycasts|Abominator]]) 
+	- [[Location Swap]] (6, 30) ([[Harmomancer Psycasts|Harmomancer]])
 - 3rd Level:
 	- .
 - 4th Level:

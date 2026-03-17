@@ -38,7 +38,7 @@ aliases:
 		- 6 Corresponds to Charisma.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Location Swap]] (6, 30) ([[Skipmancer Psycasts|Skipmancer]]))
 - 3rd Level:
 	- .
 - 4th Level:
