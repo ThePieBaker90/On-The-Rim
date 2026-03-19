@@ -1,0 +1,42 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 7
+- **[[Neural Heat]] Generation:**
+	- 22 (22)
+- [[Range]]:
+	- 40ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Concentration, up to 5 turns.
+- **Effects**:
+	- *You create a psychic link between you and a creature, either giving them luck or taking luck from them. You can only give or take so much luck from the creature and if the link is broken any excess luck will spill over affecting you.*
+	- This psycast has a variable called stored luck, it starts at an initial value and is an integer.
+	- For the duration of this psycast, whenever the target creature makes an ability check, a roll to hit, or a saving throw; You may choose to apply one of the following effects:
+		- Good Luck - The target creature gains advantage on the roll and stored luck is reduced.
+		- Bad Luck - The target creature gains disadvantage on the roll and stored luck is increased.
+		- If the value in stored luck would become greater than its maximum or less than its minimum from an effect, you may not choose that effect.
+	- If this psycast ends with a non-zero value in stored luck, you gain advantage or disadvantage on an amount of ability checks, rolls to hit, or saving throws scaling with the value.
+		- The advantage or disadvantage applies to your next ability check, roll to hit, or saving throw.
+	- If the target creature leaves the range of this psycast, you lose concentration on this psycast.
+- **Stats**:
+	- 0 Initial Stored Luck.
+	- -2 Min Stored Luck Value. (-1 Min Value)
+	- 2 Max Stored Luck Value. (+1 Max Value)
+	- -1 Stored Luck on Good Luck.
+	- +1 Stored Luck on Bad Luck.
+	- +1 Roll With Disadvantage per Stored Luck Less than 0.
+	- +1 Roll With Advantage per Stored Luck Greater than 0.
+- **Upcasting:**
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the maximum stored luck value increases by 1 and the minimum stored luck value decreases by 1.
