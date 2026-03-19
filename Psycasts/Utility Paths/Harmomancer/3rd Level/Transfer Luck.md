@@ -15,14 +15,17 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Concentration, up to 5 turns.
 - **Effects**:
 	- *.*
-	- .
+	- When you cast this psycast, you choose whether you want to give or take luck.
+	- For the duration of this psycast, you have following effects occur:
+		- If you chose to give luck, you have disadvantage on all ability checks, skill checks, and
+	- every ability check builds poijnts that give adv or disadv
 - **Stats**:
 	- .
 - **Upcasting:**
