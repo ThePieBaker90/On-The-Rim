@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 5th-Level
+---
+- **Path**:
+	- 5th level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 60
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Day.
+- **Effects**:
+	- *You imbue your touch with natural randomness, applying aimless modifiers to a creature's ability scores.*
+	- When this psycast is cast, you generate a random modifier for each ability score the target creature has.
+		- The random modifier has a strength determined by a dice roll.
+		- You must determine the ability score that will be affected before you generate the random modifier.
+	- For the duration of this psycast, each of the target creature's ability scores has the corresponding random modifier added to it.
+		- The random modifier does not directly affect the corresponding ability score's modifier. Rather, it is a modifier for the ability score itself (which may change the ability score modifier).
+- **Stats**:
+	- 1d12 - 6 Random Modifier Strength.
+- **Upcasting:**
+	- You cannot upcast this psycast.
