@@ -21,7 +21,7 @@ aliases:
 	- [[Entropy Absorption]] (3, 44)
 	- [[Entropy Burst]] (3, 44)
 - 5th Level:
-	- [[Ability Discordance]] (70, 0)
+	- [[Ability Discordance]] (60, 0)
 	- [[Transmute Object]] (55, 0)
 ## Miscasts
 - Level 1 Miscast - Health Balance
