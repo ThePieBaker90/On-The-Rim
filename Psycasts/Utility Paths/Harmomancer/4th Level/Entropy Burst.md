@@ -21,14 +21,12 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**: 
-	- *You absorb the entropy of all friendly creatures around you, transferring their injuries to you.*
-	- You lose health and heal all friendly creatures in the target sphere health scaling with the amount of health you lost.
-		- If a creature would gain health over its maximum, it gains levels in [[Temporary Health]] scaling with the health over its maximum.
-		- The health loss and heal from this psycast cannot be amplified nor mitigated. 
+	- *You release built up entropy damaging all creatures around you. The rapid release of entropy deals some damage to you.*
+	- You lose health and deal true damage to all creatures in the target sphere scaling with the amount of health you lost.
+		- The health loss from this psycast cannot be amplified nor mitigated. 
 - **Stats**:
 	- 2d8 Health Lost from Entropy. (+2d8 Health Lost)
-	- 2:1 Health Lost to Health Healed Ratio.
-	- 1 Level of [[Temporary Health]] Applied per 1 Health over Max.
+	- 1:1 Health Lost to True Damage Ratio.
 	- 15ft Target Sphere Radius.
 - **Upcasting:**
 	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, you lose 2d8 more health.

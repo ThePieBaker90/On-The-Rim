@@ -23,8 +23,9 @@ tags:
 - **Effects**:
 	- *You briefly create a psychic link between you and a creature, using the brief connection to dump generated entropy onto them. Due to the rapid buildup of entropy required, you take some damage.*
 	- You lose health and deal true damage to the target creature scaling with the amount of health you lost.
+		- The health loss from this psycast cannot be amplified nor mitigated. 
 - **Stats**:
-	- 2d4 Health Lost from Linked Lives. (+2d4 Health Lost)
+	- 2d4 Health Lost from Entropy. (+2d4 Health Lost)
 	- 1:2 Health Lost to True Damage Ratio.
 - **Upcasting:**
 	- You may upcast this psycast. For every 3 psyfocus spent above the normal cost for this psycast, you lose 2d4 more health.

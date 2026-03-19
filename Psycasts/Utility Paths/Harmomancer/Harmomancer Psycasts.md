@@ -6,7 +6,7 @@ aliases:
   - Harmomancer
   - Harmomancer Psycast
 ---
-*Harmomancers specialize in manipulating luck and the balance of the universe. Most of their psycasts transform something, whether is be fate, health, items, or skills. Although a lot of their effects have to deal with the law of equivalent exchange, a skilled harmomancer knows how to use this to their advantage.*
+*Harmomancers specialize in manipulating the balance of the universe. Most of their psycasts transform something, whether it be luck, entropy, matter, or skills. Although a lot of their effects have to deal with the law of equivalent exchange, a skilled harmomancer knows how to use this to their advantage.*
 ## Core Psycasts
 - 1st Level:
 	- [[Blessing of Good Luck]] (22, 0)
@@ -19,7 +19,7 @@ aliases:
 	- [[Luck Transfer]] (7, 22)
 - 4th Level:
 	- [[Entropy Absorption]] (3, 44)
-	- [[Mass Life Link]] (3, 44)
+	- [[Entropy Burst]] (3, 44)
 - 5th Level:
 	- [[Score Roll]] (70, 0)
 	- [[Transmute Object]] (55, 0)
