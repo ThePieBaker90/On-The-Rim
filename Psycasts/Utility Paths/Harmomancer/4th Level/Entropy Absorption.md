@@ -13,16 +13,22 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 15ft sphere.
-- **Target**:
 	- Self.
+- **Target**:
+	- A sphere with its center within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**: 
-	- You lose 2d8 health, all friendly creatures within range of you gain half that much health (rounded up).
-		- The creatures always gain exactly half (rounded up) of the amount of health you lost.
-		- If the creature's health would go over its maximum health, the extra health is turned into temporary health that lasts until removed.
+	- *You absorb the entropy of all friendly creatures around you, transferring their injuries to you.*
+	- You lose health and heal all friendly creatures in the target sphere health scaling with the amount of health you lost.
+		- If a creature would gain health over its maximum, it gains levels in [[Temporary Health]] scaling with the health over its maximum.
+		- The health loss and heal from this psycast cannot be amplified nor mitigated. 
+- **Stats**:
+	- 2d8 Health Lost from Entropy. (+1d8 Health Lost)
+	- 2:1 Health Lost to Health Healed Ratio.
+	- 1 Level of [[Temporary Health]] Applied per 1 Health over Max.
+	- 15ft Target Sphere Radius.
 - **Upcasting:**
-	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, You lose 1d8 more health.
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, you lose 2d8 more health.
