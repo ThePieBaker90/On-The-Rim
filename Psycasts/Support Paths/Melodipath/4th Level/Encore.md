@@ -23,9 +23,11 @@ tags:
 - **Effects**:
 	- *You use a psychic shortcut to reduce the [[Neural Heat]] cost of repeatedly casting the same [[Melodipath Psycasts|Melodipath Psycast]].*
 	- This psycast has a variable called the encore modifier, it starts at an initial value and is an integer.
-	- For the duration of this psycast anytime you use a [[Melodipath Psycasts|Melodipath Psycast]], if it has the same name as a [[Melodipath Psycasts|Melodipath Psycast]] that ended this turn; the encore modifier increases, otherwise the encore modifier decreases.
-	- Anytime you use a [[Melodipath Psycasts|Melodipath Psycast]], the [[Neural Heat]] cost is reduced by the encore modifier.
-		- The encore modifier cannot reduce the [[Neural Heat]] cost of the psycast below 0.
+	- For the duration of this psycast, you have the following effects:
+		- When you use a [[Melodipath Psycasts|Melodipath Psycast]], the [[Neural Heat]] cost is reduced by the encore modifier.
+			- The encore modifier cannot reduce the [[Neural Heat]] cost of the psycast below 0.
+		- When you use a [[Melodipath Psycasts|Melodipath Psycast]] that has the same name as a [[Melodipath Psycasts|Melodipath Psycast]] that ended this turn; the encore modifier increases. 
+		- When you use a [[Melodipath Psycasts|Melodipath Psycast]] that does not have the same name as a [[Melodipath Psycasts|Melodipath Psycast]] that ended this turn; the encore modifier decreases. 
 	- This psycast cannot be copied by an amplifier.
 - **Stats**:
 	- 2 Initial Encore Modifier.

@@ -25,7 +25,7 @@ tags:
 	- For the duration of this psycast, when you begin your turn the target creature must make a Wisdom saving throw to break the psychic link. 
 		- On a failure, you steal health from them, dealing damage and healing yourself for the damage dealt.
 		- On a success, you lose concentration on this psycast.
-	- If the target creature leaves the range of the psycast, you lose concentration on this psycast.
+	- If the target creature leaves the range of this psycast, you lose concentration on this psycast.
 - **Stats**:
 	- 1d10 + 2 Necrotic Damage from Health Steal. (+1d10 Necrotic Damage)
 	- 1:1 Damage to Healing Ratio.

@@ -25,7 +25,7 @@ tags:
 	- As an additional cost to cast this psycast, you must pay the [[Neural Heat]] and [[Psyfocus]] cost of a psycast you choose.
 		- The psycast must start with "Word of"
 		- You do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if you would exceed your neural heat limit because of this cost.
-	- You cast the chosen psycast when this psycast is cast except it targets all creatures within the target sphere instead of its normal target.
+	- When this psycast is cast, you cast the chosen psycast except it targets all creatures within the target sphere instead of its normal target.
 		- You still must maintain concentration if the chosen psycast requires concentration. Your [[Neural Heat]] may not drop below that psycast's neural baseline.
 		- You still must channel the psycast if the chosen psycast must be channeled. The vocal component from this psycast can be ignored if the chosen psycast must be channeled.
 - **Stats**:
