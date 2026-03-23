@@ -21,10 +21,11 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You transmute an object, the resulting object depends on a lotta luck but usually ends in an item of similar value.*
+	- *You transmute an object, the resulting object depends on a whole lotta luck but usually ends in an item of similar value.*
 	- You transform the target object into another object, the relative value of the new object is determined by a dice roll.
 		- The object it turns into is determined by the GM.
 		- A result of 10 will result in an object of roughly equal value, a 1 will result in an object with much less value, a 20 will result in an object with much more value.
+		- The dice roll may not be modified by any effects outside of this psycast.
 - **Stats**:
 	- 1d20 Transformation Roll.
 	- +0 Roll Modifier. (+1)
