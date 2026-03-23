@@ -25,8 +25,8 @@ aliases:
 	- [[Transmute Object]] (55, 0)
 ## Miscasts
 - Level 1 Miscast - Health Balance
-	- You lose 1d20 health, a random hostile creature within 120ft gains the amount you lost.
-		- Extra health is added to the creature's temporary health, this temporary health lasts for 24 hours or until removed.
+	- You lose 1d20 health and a random hostile creature within 120ft of you heals the amount you lost.
+		- If the creature would gain health over its maximum, it gains levels in [[Temporary Health]] scaling with the health over its maximum.
 
 - Level 2 Miscast - Score Swap
 	- You roll 1d6 and reduce the ability score that corresponds to the result by 1. You then roll another 1d6 and increase the ability score that corresponds to the result by 1. This change is permanent.
