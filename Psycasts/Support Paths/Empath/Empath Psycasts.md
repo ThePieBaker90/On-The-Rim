@@ -31,7 +31,7 @@ aliases:
 	- You exhaust yourself, you gain [[Lethargic]] for 2 turns.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Word of Fear]] (4, 20) ([[Noctomancer Psycasts|Noctomancer]])
 - 3rd Level:
 	- [[Empathetic Shielding]] (5, 42) ([[Tegopath Psycasts|Tegopath]])
 	- [[Ritual of Wrath]] (90, 0) ([[Puppetmancer Psycasts|Puppetmancer]])
