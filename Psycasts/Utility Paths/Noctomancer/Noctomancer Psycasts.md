@@ -11,10 +11,10 @@ aliases:
 - 1st Level:
 	- [[Darkvision]] (12, 0)
 	- [[Snuff Light]] (5, 0)
-	- 
 - 2nd Level:
 	- [[Psychic Blindness]] (5, 21)
 	- [[Blinding Spray]] (6, 26)
+	- [[Frightening Visage]] 
 - 3rd Level:
 	- [[Shadow Stalk]] (6, 35)
 	- [[Void Shroud]] (20, 50)
