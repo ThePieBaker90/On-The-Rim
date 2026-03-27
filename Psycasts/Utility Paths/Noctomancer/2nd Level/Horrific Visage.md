@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Noctomancer
+---
+- **Path**:
+	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 23
+- [[Range]]:
+	- Self.
+- **Target**:
+	- An arc with the vertex between its two flat surfaces within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You psychically beam horrific images into several creatures' minds, attempting to [[Frightened|Frighten]] them.*
+	- All creatures in the target arc must make a Wisdom saving throw to resist the horror.
+		- On a failure, they are [[Frightened]].
+		- On a success, nothing happens.
+	- You are immune to all effects of this psycast.
+	- Creatures who are [[Blinded]] are immune to all effects of this psycast.
+- **Stats**:
+	- 1 Turn [[Frightened]] Duration.
+	- 30ft Target Arc Radius.
+	- 180 Degree Target Arc Angle.
+- **Upcasting**:
+	- You cannot upcast this psycast.

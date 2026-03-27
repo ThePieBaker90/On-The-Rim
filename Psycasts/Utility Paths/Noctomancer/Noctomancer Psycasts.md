@@ -14,7 +14,7 @@ aliases:
 - 2nd Level:
 	- [[Psychic Blindness]] (5, 21)
 	- [[Blinding Spray]] (6, 26)
-	- [[Frightening Visage]] 
+	- [[Horrific Visage]] (6, 23)
 - 3rd Level:
 	- [[Shadow Stalk]] (6, 35)
 	- [[Void Shroud]] (20, 50)

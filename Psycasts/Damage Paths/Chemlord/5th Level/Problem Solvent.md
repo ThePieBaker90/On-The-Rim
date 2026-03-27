@@ -31,7 +31,7 @@ tags:
 	- 6d10 Corrosion Damage from [[Matterbane]]. (+2d10 Corrosion Damage)
 	- 4 Levels of [[Armor Corrosion]] Applied.
 	- 3 Turn [[Chemical Burned]] Duration.
-	- 90 Degree Target Arc Radius.
+	- 90 Degree Target Arc Angle.
 	- 10ft Target Arc Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, this psycast deals 2d10 more damage.

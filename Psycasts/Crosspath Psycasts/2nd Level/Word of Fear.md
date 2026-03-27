@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You imbue psychic energy into a word of horror, directing it at a creature. The creature finds their bravery drained from them, becoming [[Frightened]] of you.*
 	- The target creature must make a Wisdom saving throw to resist the fear.
-		- On a failure, for the duration of this psycast, they are [[Frightened]].
+		- On a failure, they are [[Frightened]].
 		- On a success, nothing happens.
 - **Stats**:
 	- 2 Turn [[Frightened]] Duration.
