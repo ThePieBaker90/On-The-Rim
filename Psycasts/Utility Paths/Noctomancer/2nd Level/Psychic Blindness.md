@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action.
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**
-	- You attempt to psychically inflict a creature with blindness. 
+	- *You create psychic noise in a creature's vision centers, attempting to [[Blinded|Blind]] them.* 
 	- The target creature must make a Wisdom saving throw. 
 		- On a failure, they are [[Blinded]].
 		- On a success, nothing happens.
