@@ -1128,7 +1128,6 @@
   "Psycasts/Utility Paths/Noctomancer/1st Level/Snuff Light.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/1st Level/Darkvision.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/2nd Level": "TiHexagonNumber2",
-  "Psycasts/Utility Paths/Noctomancer/2nd Level/Blinding Spray.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/2nd Level/Psychic Blindness.md": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/4th Level": "TiHexagonNumber4",
   "Psycasts/Utility Paths/Noctomancer/3rd Level": "TiHexagonNumber3",
@@ -1253,5 +1252,6 @@
   "Psycasts/Utility Paths/Harmomancer/4th Level/Entropy Burst.md": "LiSparkles",
   "Psycasts/Utility Paths/Harmomancer/5th Level/Ability Discordance.md": "LiSparkles",
   "Psycasts/Crosspath Psycasts/2nd Level/Word of Fear.md": "LiSparkles",
-  "Psycasts/Utility Paths/Noctomancer/2nd Level/Horrific Visage.md": "LiSparkles"
+  "Psycasts/Utility Paths/Noctomancer/2nd Level/Horrific Visage.md": "LiSparkles",
+  "Psycasts/Utility Paths/Noctomancer/2nd Level/Gloom Spray.md": "LiSparkles"
 }

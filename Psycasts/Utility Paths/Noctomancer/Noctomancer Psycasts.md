@@ -13,7 +13,7 @@ aliases:
 	- [[Snuff Light]] (5, 0)
 - 2nd Level:
 	- [[Psychic Blindness]] (5, 21)
-	- [[Blinding Spray]] (6, 26)
+	- [[Gloom Spray]] (6, 26)
 	- [[Horrific Visage]] (6, 23)
 - 3rd Level:
 	- [[Shadow Stalk]] (6, 35)

@@ -13,16 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 26
 - [[Range]]:
-	- Self.
+	- Touch.
 - **Target**:
-	- A cone originating from the caster with a length of 15ft and a maximum width of 10ft.
+	- A cone with its apex within range.
 - **Components**:
 	- Gesture
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- A blinding spray shoots out of your hands in a cone towards the direction of your choosing. All creatures within the cone with [[Eyes]] must make a Dexterity saving throw. 
-		- On a failure, they are [[Blinded]] for 2 turns. 
+	- A blinding spray shoots out of your hands in a cone towards the direction of your choosing. 
+	- All creatures within the cone with [[Eyes]] must make a Dexterity saving throw. 
+		- On a failure, they are [[Blinded]].
 		- On a success, nothing happens.
+- **Stats**:
+	- 2 Turn [[Blinded]] Duration.
+	- 15ft Target Cone Length.
+	- 10ft Target Cone Max Width.
 - **Upcasting**:
 	- You cannot upcast this psycast.
