@@ -17,14 +17,16 @@ tags:
 - **Target**:
 	- A cone with its apex within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
 	- A blinding spray shoots out of your hands in a cone towards the direction of your choosing. 
-	- All creatures within the cone with [[Eyes]] must make a Dexterity saving throw. 
+	- *A dark mist sprays from your outstretched hands, blinding those caught in the spray.
+	- All creatures within the target cone must make a Dexterity saving throw. 
 		- On a failure, they are [[Blinded]].
 		- On a success, nothing happens.
+	- Creatures without [[Eyes]] are immune to the effects of this psycast.
 - **Stats**:
 	- 2 Turn [[Blinded]] Duration.
 	- 15ft Target Cone Length.
