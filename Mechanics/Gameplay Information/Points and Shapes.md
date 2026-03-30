@@ -6,6 +6,7 @@ aliases:
 TODO
 Grounded is on the ground, where gravity is pointing, not a wall. 
 We dont use originating anymore.
+Points must be in air on on ground, they cannot be inside of something such as inside a wall.
 Surface point is mentioned in [[Darius' Dislocate]]
 Stable surface is mentioned in [[Gooey Punch]].
 Sphere [[Healing Nova]]
