@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 1 minute. (+1 minute)
+	- Concentration, up to 1 Minute. (+1 Minute)
 - **Effects**:
 	- *A massive wall of ice rises out of the ground. The wall is thick and difficult to penetrate or destroy making it suitable as makeshift cover.*
 	- When you cast this psycast, you choose if the wall is made of transparent or opaque ice.

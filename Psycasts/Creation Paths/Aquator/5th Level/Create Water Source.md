@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 hour. (+10 hours)
+	- 1 Hour. (+10 Hours)
 - **Effects**:
 	- *You concentrate psyfocus into a point to absorb nearby moisture for an extended period of time. The absorbed moisture then flows out of the point like an invisible spout.*
 	- For the duration of this psycast, water generates out of the target point at a constant rate.

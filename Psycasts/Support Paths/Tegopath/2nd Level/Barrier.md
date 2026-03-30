@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**
 	- *You project a barrier to block incoming projectiles. The barrier can only absorb a certain amount of damage before breaking.*
 	- For the duration of this psycast, any ranged attacks passing through the target square are blocked by the barrier. The barrier may block up to its health in attacks.

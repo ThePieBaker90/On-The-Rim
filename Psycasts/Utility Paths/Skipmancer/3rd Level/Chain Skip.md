@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 4 turns.
+	- 4 Turns.
 - **Effects**:
 	- You grant the [[Skipping]] condition to a creature within range for the duration of this psycast. 
 - **Upcasting**:

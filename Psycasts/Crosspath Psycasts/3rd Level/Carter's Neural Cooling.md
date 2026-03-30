@@ -20,7 +20,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
 	- *You psychically cool your brain, increasing [[Neural Heat]] dissipation but requiring additional [[Psyfocus]] to cast psycasts.*
 	- For the duration of this psycast, you have the following effects:

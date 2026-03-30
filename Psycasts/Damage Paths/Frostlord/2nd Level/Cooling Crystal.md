@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Focus (A small rock).
 - **Duration**:
-	- 1 day.
+	- 1 Day.
 - **Effects**:
 	- *You touch a stone, turning into a semi-transparent light-blue crystal and causing it to cool down the surrounding area.*
 	- When you cast this psycast, you choose a chosen temperature for the crystal to cool to.

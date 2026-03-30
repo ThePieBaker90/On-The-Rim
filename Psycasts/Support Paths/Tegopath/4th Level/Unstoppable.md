@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**
 	- *Psychic energy surges through your body giving you [[Temporary Health]] and making you immune to negative conditions and certain statuses.*
 	- For the duration of this psycast, you have the following effects:

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *You create a psychic link between you and a creature, this link allows you to drain their health while healing your own. A faint green mystical line can be seen connecting your forehead to the creature's forehead.*
 	- For the duration of this psycast, when you begin your turn the target creature must make a Wisdom saving throw to break the psychic link. 

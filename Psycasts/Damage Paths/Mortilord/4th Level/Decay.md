@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns. (+1 turn)
+	- 3 Turns. (+1 Turn)
 - **Effects**:
 	- *You rot a creature from the inside, reducing their healing and damage outputs while inflicting them with damage over time.*
 	- The target creature must make a Constitution saving throw to avoid being rotted. 

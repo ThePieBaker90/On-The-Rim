@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *You release a burst of pure cold energy, plunging the temperature and dealing unavoidable cold damage to those nearby.*
 	- When this psycast is cast, all creatures within the target sphere must make a Constitution saving throw to resist the cold.

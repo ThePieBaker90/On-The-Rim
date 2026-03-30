@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Verbal.
 - **Duration**:
-	- 5 days. (+1 day)
+	- 5 Days. (+1 Day)
 - **Effects**:
 	- *You sing a psychic song to call rain.*
 	- For the duration of this psycast, rain falls in the target circle.

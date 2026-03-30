@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 5 minutes.
+	- 5 Minutes.
 - **Effects**:
 	- *You create an invisible area of altered gravity in a direction and with a strength of your choice.*
 	- While casting this psycast, choose a strength and direction of gravity for the psycast.

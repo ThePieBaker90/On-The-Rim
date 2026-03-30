@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
 	- *You create a small amorphous gravity field to float and manipulate small objects within.*
 	- For the duration of this psycast, there is a small gravity field at a target point. You can manipulate any objects fully encapsulated by the field in space freely 

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 5 turns. (+1 turn)
+	- 5 Turns. (+1 Turn)
 - **Effects**:
 	- *You go into an frenzy, flooding your body with endorphins and adrenaline, giving you superhuman speed and damage resilience.*
 	- This psycast may only be used while you are at or below a threshold of your max health (rounded up).

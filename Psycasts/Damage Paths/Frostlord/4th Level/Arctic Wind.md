@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *A frosty wind encircles you for several turns slowing and damaging creatures caught within.*
 	- The target sphere is centered on you at all times and follows you when you move. 

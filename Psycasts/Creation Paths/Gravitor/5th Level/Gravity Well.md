@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 3 turns. (+1 turn)
+	- 3 Turns. (+1 Turn)
 - **Effects**:
 	- *You manifest a strong gravity well, pulling anything and everything not bolted down to the singularity. Those pulled to the well find it nearly impossible to escape the strong forces.*
 	- When a creature begins their turn within the target sphere, they must make a Constitution saving throw to avoid being pulled into the well.

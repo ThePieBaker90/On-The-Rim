@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Verbal.
 - **Duration**:
-	- Concentration, up to 10 turns.
+	- Concentration, up to 10 Turns.
 - **Effects**:
 	- *You imbue psychic energy into a word of glee, directing it at a creature. The creature finds themselves in a pleasant, [[Joy|Joyful]] mood, causing all checks to have a flat positive modifier.*
 	- For the duration of this psycast, the target creature has [[Joy]].

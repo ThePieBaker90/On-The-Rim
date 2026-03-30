@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 1 turn.
+	- 1 Turn.
 - **Effects**:
 	- *You drastically increase the static electricity a creature generates. The amount
 	- For the duration of this psycast, the target creature is afflicted.

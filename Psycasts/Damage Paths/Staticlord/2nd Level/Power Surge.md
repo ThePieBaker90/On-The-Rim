@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Material (9V or Greater Battery)
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *Power surges through your ranged weapons causing your bullets to shock creatures near a target creature. This electrical shock deals very little damage but they can shock multiple creatures at a time and they cannot be avoided.
 	- For the duration of this psycast, when you hit a creature with a ranged attack, an electric spark arcs to each creature within electric spark range of the hit creature. The electric sparks deal very little damage but cannot be avoided.

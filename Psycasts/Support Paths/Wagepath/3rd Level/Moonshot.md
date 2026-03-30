@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Focus (Ranged Weapon).
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**:
 	- *You enchant a ranged weapon to give it additional range and accuracy until it hits an attack. There is a faint orange glow from the barrel of the weapon.*
 	- For the duration of this psycast, the target weapon has the following effects:

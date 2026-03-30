@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *You create a psychic amplifier to duplicate all of your [[Melodipath Psycasts]] at a different location.*
 	- You create a psychic amplifier at the target point which exists for the duration of this psycast. All [[Melodipath Psycasts]] you use are copied by the amplifier.

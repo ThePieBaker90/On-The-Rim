@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**
 	- *You lob a small ball of dark, when it impacts the ground it creates an area of pure [[Lighting#Void|Void]] and blinds those caught in its landing zone.*
 	- All creatures within the target sphere must make a Dexterity saving throw to avoid the darkness. 

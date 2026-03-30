@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- None.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
 	- *You use a neural shortcut to prepare another psycast you do not know so you may cast it later.*
 	- When you cast this psycast, you choose a psycast (referred to as the prepared psycast) that you know at least one prerequisite psycast for. 

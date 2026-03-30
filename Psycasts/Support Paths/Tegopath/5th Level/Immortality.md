@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**
 	- *You instill a creature with temporary immortality, allowing them to survive anything short of a black hole. The immortality is short lived and can be dispelled if you lose concentration.*
 	- For the duration of this psycast, the target creature's health cannot drop below a threshold.

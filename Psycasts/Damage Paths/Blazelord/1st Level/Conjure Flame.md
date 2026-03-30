@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Channeled, up to 10 turns.
+	- Channeled, up to 10 Turns.
 - **Effects**:
 	- *You conjure a small flame on your pointer finger, lighting up your surroundings as well as lighting any flammable objects that come into contact with it on fire.*
 	- You create a small flame on the pointer finger of the hand you are using you channel this psycast.

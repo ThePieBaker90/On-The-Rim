@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *Psychic power surges through you, making your psycasts more effective. While the power flows through you, your eyes and veins faintly glow purple.*
 	- For the duration of this psycast, your [[Psycasts#Psycast Save DC|Psycast Save DC]] is increased.

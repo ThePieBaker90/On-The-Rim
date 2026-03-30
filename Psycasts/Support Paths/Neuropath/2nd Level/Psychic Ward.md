@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *You place a psychic ward on an ally, causing any casters who target them to generate additional [[Neural Heat]].*
 	- You grant an ally within range [[Ward]] for the duration of this psycast.

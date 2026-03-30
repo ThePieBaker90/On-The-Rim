@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Concentration, up to 1 hour.
+	- Concentration, up to 1 Hour.
 - **Effects**:
 	- You create two portals, each taking up a 5ft circle within range and facing a direction of your choosing. These portals last for the psycast's duration. Upon entering a portal, you exit through the other portal.
 		- Anything can travel through the portals, attacks, objects, creatures, temperature, light, etc.

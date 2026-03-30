@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 minute. (+1 minute)
+	- 1 Minute. (+1 Minute)
 - **Effects**:
 	- *You spill [[Anti-Glue]] over all floors in an area, making traversal incredibly difficult.*
 	- All ground within the target sphere is coated in [[Anti-Glue]], it has the following effects:

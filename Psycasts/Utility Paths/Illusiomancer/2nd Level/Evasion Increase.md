@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns
+	- 3 Turns
 - **Effects**:
 	- For the duration of this psycast, the target creature gains +2 [[Evade Class]].
 - **Upcasting**:

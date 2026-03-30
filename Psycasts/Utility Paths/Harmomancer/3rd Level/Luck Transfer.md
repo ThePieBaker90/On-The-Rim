@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *You create a psychic link between you and a creature, either giving them luck or taking luck from them. You can only give or take so much luck from the creature and if the link is broken any excess luck will spill over affecting you.*
 	- This psycast has a variable called stored luck, it starts at an initial value and is an integer.

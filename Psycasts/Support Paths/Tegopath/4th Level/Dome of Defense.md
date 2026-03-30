@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**
 	- *You project a sphere shaped barrier around you. As it passes over creatures, they gain a thin blue shimmer which absorbs some damage.*
 	- For the duration of this psycast, any ranged attacks passing through the surface of the target sphere are blocked by the barrier. The barrier may block up to its health in attacks.

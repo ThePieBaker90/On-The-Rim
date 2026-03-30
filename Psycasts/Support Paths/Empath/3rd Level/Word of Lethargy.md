@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Verbal.
 - **Duration**:
-	- Concentration, up to 2 turns.
+	- Concentration, up to 2 Turns.
 - **Effects**:
 	- *You imbue psychic energy into a word of fatigue, directing it at a creature. The creature has their energy drained from them, dexterity actions performed by them are harder to perform and they lose an action.*
 	- The target creature must make a Wisdom saving throw to resist the exhausting word. 

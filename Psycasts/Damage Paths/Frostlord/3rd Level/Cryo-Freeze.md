@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *You freeze yourself in a chunk of ice, using the time in the ice to heal your injuries.*
 	- For the duration of this psycast, you suffer the following effects:

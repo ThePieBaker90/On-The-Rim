@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 1 minute.
+	- 1 Minute.
 - **Effects**
 	- *You have an aura of darkness, making all but the brightest lit areas shrouded in dark.*
 	- For duration of this psycast, areas within range of you have their light level reduced.

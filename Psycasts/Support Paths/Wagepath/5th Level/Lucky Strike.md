@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Focus (Weapon).
 - **Duration**:
-	- 3 turns. (+1 turn)
+	- 3 Turns. (+1 Turn)
 - **Effects**:
 	- *You enchant a weapon giving it a subtle golden glow. The weapon is luckier than usual, hitting criticals and increasing the size of its damage dice.*
 	- For the duration of this psycast, the target weapon has the following effects:

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns. (+2 turns)
+	- Concentration, up to 3 Turns. (+2 Turns)
 - **Effects**:
 	- *[[Arma Frágil]] forms over your armor or clothes causing any weapon that hits to you break and become unusable.*
 	- For the duration of this psycast, all successful attacks against the target creature apply [[Broken Weapon]] to the thing that hit the creature. 

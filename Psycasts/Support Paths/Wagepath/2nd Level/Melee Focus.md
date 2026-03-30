@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *You increase your melee abilities, allowing you to excel in melee combat. You that find your weapon hits enemies more often and harder.*
 	- For the duration of this psycast, you have the following effects:

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *You create a psychic link between you and a creature, this link allows you to steal their [[Psyfocus]]. A faint iridescent wave can be seen connecting your forehead to the creature's forehead.*
 	- For the duration of this psycast, when you begin your turn the target creature must make a Wisdom saving throw to break the psychic link. 

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns. (+2 turns)
+	- 3 Turns. (+2 Turns)
 - **Effects**
 	- *You grant a creature psychic armor making attacks more likely to deflect off of them. You can get the occasional glimpse of the knight-like psychic armor if the light is just right.*
 	- For the duration of this psycast, the target creature has additional [[Armor Class]].

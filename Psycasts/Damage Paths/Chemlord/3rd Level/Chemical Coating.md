@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Focus (Melee Weapon).
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *[[Stille Flammen]] soaks from your hands, spreading across the weapon. All attacks with the weapon apply [[Chemical Burned]], causing subsequent attacks to deal additional damage.*
 	- For the duration of this psycast, the target weapon has following effects:

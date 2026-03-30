@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**
 	- *As you hide or sneak, you blend into the shadows becoming harder to spot. Many expert assassins use this psycast in nearly every job.*
 	- This psycast is used as a reaction to you using the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 3 Turns. (+2 turns)
+	- 3 Turns. (+2 Turns)
 - **Effects**
 	- *You cause all nearby darkness to become volatile, slashing out at any creature who stands within. Ghostly figures can be seen moving around within the darkness, but looking directly at them reveals nothing there.*
 	- For the duration of this psycast, while any creature meets the following conditions, they are afflicted:

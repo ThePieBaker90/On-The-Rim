@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- Concentration, up to 10 turns.
+	- Concentration, up to 10 Turns.
 - **Effects**:
 	- You psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. 
 		- On a failure, for the duration of this psycast they are sent into a [[Berserk Rage]]. 

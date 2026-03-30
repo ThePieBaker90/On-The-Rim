@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *You summon a small freezing mote above several creatures heads. The mote shoots down after a short delay, anyone who fails to avoid it is frozen solid.*
 	- Each target creature must make a Dexterity saving throw to avoid the freezing motes. 

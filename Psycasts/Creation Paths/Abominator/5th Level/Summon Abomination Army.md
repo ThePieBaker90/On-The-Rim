@@ -7,19 +7,19 @@ tags:
 - **Path**:
 	- 5th Level [[Abominator Psycasts|Abominator Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 56
 - **[[Neural Heat]] Generation:**
 	- 18
 - [[Range]]:
-	- 15ft
+	- 15ft.
 - **Target**:
 	- 3 points within range.
 - **Components**:
-	- Gesture, Material (18kg of [[Abomination Matter]])
+	- Gesture, Material (18kg of [[Abomination Matter]]).
 - **Duration**:
-	- Channeled, up to 1 day
+	- Channeled, up to 1 Day.
 - **Effects**:
 	- *You summon 3 [[Abomination|Abominations]] to do your bidding. They can follow basic commands and take and deal damage.*
 	- You create three [[Abomination|Abominations]], one at each target point, which will follow single word commands you direct at them. 

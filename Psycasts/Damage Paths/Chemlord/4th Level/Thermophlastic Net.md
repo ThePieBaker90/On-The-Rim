@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 Turn. (+1 turn)
+	- 1 Turn. (+1 Turn)
 - **Effects**:
 	- *A [[Thermophlastic]] shoots from your outstretched hand, wrapping around any enemy it hits. This net makes it impossible to move or use your hands making it exceptional at catching targets running away.*
 	- The target creature must make a dexterity saving throw to avoid the net. 

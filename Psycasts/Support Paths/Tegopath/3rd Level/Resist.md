@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 2 turns.
+	- 2 Turns.
 - **Effects**
 	- *You manifest psychic energy to protect a creature from a specific damage type. The energy works to reduce damage of the chosen type.
 	- When you cast this psycast, you choose a damage type.

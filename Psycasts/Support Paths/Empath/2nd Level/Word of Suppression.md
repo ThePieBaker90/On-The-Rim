@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Verbal.
 - **Duration**:
-	- 1 minute.
+	- 1 Minute.
 - **Effects**:
 	- *You imbue psychic energy into a word of numbing, directing it at a creature. They are unable to feel emotions or pain, just feeling overwhelming numbness.*
 	- The target creature must make a Wisdom saving throw to resist the emotion numbing. 

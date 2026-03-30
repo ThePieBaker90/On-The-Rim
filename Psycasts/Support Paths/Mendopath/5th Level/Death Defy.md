@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 2 turns.
+	- Concentration, up to 2 Turns.
 - **Effects**
 	- *You use psychic energy to prevent a creature from dying for a short time. This death protection wont prevent an already mortally wounded creature from dying but will prevent a healthy creature from suffering a similar fate. Skilled casters of this psycast know that the most difficult part is this psycast's short duration, making timing everything.*
 	- For the duration of this psycast, if the target creature's health drops to 0, the following effects occur:

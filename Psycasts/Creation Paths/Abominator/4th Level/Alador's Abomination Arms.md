@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Material (4kg of [[Abomination Matter]])
 - **Duration**:
-	- Channeled, up to 5 turns. (+10 turns)
+	- Channeled, up to 5 Turns. (+10 Turns)
 - **Effects**:
 	- *You create two massive, stretchy arms out of [[Abomination Matter]] covering a creature's natural arms. These arms grant increased range and damage to melee attacks.*
 	- You grant the target creature the following effects: 

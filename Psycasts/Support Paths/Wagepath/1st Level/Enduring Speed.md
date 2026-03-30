@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns. (+3 turns)
+	- 3 Turns. (+3 Turns)
 - **Effects**:
 	- *You increase your adrenaline, enabling you to run further for longer.* 
 	- For the duration of this psycast, your [[Movement Speed]] is increased.

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**
 	- *You cast a damage barrier on a creature, using a neural shortcut to manifest it faster but costing more to cast.*
 	- This psycast is used as a reaction to a target creature getting hit.

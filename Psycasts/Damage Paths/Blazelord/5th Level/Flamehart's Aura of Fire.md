@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Channeled, up to 5 turns.
+	- Channeled, up to 5 Turns.
 - **Effects**:
 	- *You superheat the air in a large radius around you, causing most things to burst into flames.*
 	- The target sphere is centered on you at all times and follows you when you move. 

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**:
 	- You release a wave of darkness, 
 	- For the duration of this psycast, each target creature is afflicted.

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**
 	- *You create a temporary psychic feedback loop between your healing and this psycast. This causes all healing to heal more and more as the psycast goes on. The feedback loop is unstable and will break if you fail to actively heal anybody on your turn.*
 	- For the duration of this psycast, you gain the following effects:

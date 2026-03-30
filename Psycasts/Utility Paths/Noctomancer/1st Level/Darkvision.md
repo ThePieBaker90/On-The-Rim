@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
 	- *You touch a creature's eyelids granting them temporary darkvision.*
 	- For the duration of this psycast, the target creature has the following effects:

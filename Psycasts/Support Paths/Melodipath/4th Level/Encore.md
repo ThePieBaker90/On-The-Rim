@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Vocal.
 - **Duration**:
-	- Concentration, up to 6 turns.
+	- Concentration, up to 6 Turns.
 - **Effects**:
 	- *You use a psychic shortcut to reduce the [[Neural Heat]] cost of repeatedly casting the same [[Melodipath Psycasts|Melodipath Psycast]].*
 	- This psycast has a variable called the encore modifier, it starts at an initial value and is an integer.

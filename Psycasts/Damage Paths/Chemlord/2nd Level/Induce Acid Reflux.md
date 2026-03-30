@@ -13,13 +13,13 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 32 (22)
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns
+	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *You excite a creature's gastric acids, inducing extreme acid reflux. The acid reflux makes it incredibly hard for the creature to concentrate on tasks.*
 	- The target creature must make a Constitution saving throw to steel themselves from the reflux.

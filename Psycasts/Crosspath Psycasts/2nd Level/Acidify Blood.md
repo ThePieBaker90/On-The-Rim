@@ -20,7 +20,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- You make your blood highly acidic to damage attackers. Your blood applies [[Chemical Burned]] for 1 turn to creatures within 10ft of you who do any of the following.
 		- Deal piercing, slashing, or force damage to you.

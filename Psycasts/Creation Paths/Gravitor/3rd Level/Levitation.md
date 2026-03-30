@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
 	- *You create a field of controlled gravity around you allowing you to fly.*
 	- You are able to fly for the duration of this psycast.

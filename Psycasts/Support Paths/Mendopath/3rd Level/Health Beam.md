@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**
 	- *A green ray of healing connects you and a teammate healing you both. You can expend an action to increase the healing output to your teammate.*
 	- For the duration of this psycast, there is a healing beam connecting you and the target creature.

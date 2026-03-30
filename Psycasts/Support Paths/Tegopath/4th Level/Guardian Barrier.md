@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**
 	- *You project a sphere shaped barrier around you. The barrier does not block ranged attacks coming from within making it optimal for ranged engagements.*
 	- For the duration of this psycast, any ranged attacks entering the target sphere from the outside are blocked by the barrier. The barrier may block up to its health in attacks.

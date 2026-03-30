@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 minute.
+	- 1 Minute.
 - **Effects**:
 	- You charm a non-hostile creature within range to be temporarily friendly. 
 	- The target creature is afflicted for the psycast duration.

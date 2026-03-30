@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Concentration and Channeled, up to 3 turns.
+	- Concentration and Channeled, up to 3 Turns.
 - **Effects**:
 	- *You hit an electrifying stance, causing electricity to arc from your outstretched, raised arms to nearby creatures. This electricity can cause secondary shocks to creatures just standing near a shocked creature.*
 	- For the duration of this psycast, all creatures within range of you at the beginning and end of your turn must make a Dexterity saving throw to avoid being shocked. 
