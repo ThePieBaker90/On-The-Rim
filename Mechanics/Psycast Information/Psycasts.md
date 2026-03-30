@@ -100,6 +100,8 @@ aliases:
 	- An effect that refers to a "target" or "targets" can only affect things satisfied by the psycast's target property.
 		- Some effects refer to a "target creature" or "target point", these are equivalent to target and just specify the type of target for ease of reading.
 - A psycast's target does not follow the caster if the caster moves unless otherwise stated.
+	- For example, a psycast may target a sphere centered on the caster. If the caster moves, the sphere does not move unless the psycast states it follows the caster.
+- There may be a modifier in parenthesis after the targeting, this indicates the change in targets when the psycast is [[#Upcasting|Upcast]] to one degree.
 ## Psycast Components
 - All psycasts require components listed in that psycast's description, the components are as follows: Kinetic, Gesture, Verbal, Material, and Focus. 
 	- The components must be satisfied during the [[#Casting Time]] of the psycast, otherwise the psycast moves to the end phase.
@@ -157,7 +159,7 @@ aliases:
 ## Psycast Effects
 - A psycast's effects are the qualitative parts of a psycast, determining what a psycast does when used.
 - There are five types of psycast effects; immediate, recurring, passive, affliction and delayed. All effects will not occur if the psycast has ended.
-- Psycast effects that affect creatures affect all creatures, this includes the caster and their allies.
+- Psycast effects that affect creatures may affect all creatures, this includes the caster and their allies.
 - Italic lines in the psycast's effects do not have any tangible gameplay effect and only serve as flavor for the psycast.
 - Some lines in the psycast's effects do not correspond to any effect and instead affect the way other parts of the psycast work. These are always in effect and take priority over other parts of the psycast.
 - If a psycast has no ongoing effects or effects that are yet to trigger, it automatically ends. An ongoing effect is any effect that has triggered and there is a way it can be triggered again.

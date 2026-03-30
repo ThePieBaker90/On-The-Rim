@@ -7,29 +7,33 @@ tags:
 - **Path**:
 	- 5th Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	-  1 Action
+	-  1 Action.
 - **[[Psyfocus]] Cost:**
 	- 8
 - **[[Neural Heat]] Generation:**
 	- 45
 - [[Range]]:
-	- 100ft
+	- 100ft.
 - **Target**:
-	- Up to 5 creatures within range.
+	- Up to 5 creatures within range. (+5 Creatures)
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- 3 Turns.
 - **Effects**:
-	- You release a wave of darkness, 
-	- For the duration of this psycast, each target creature is afflicted.
+	- *A wave of darkness bursts from you, afflicting several creatures within range with reduced [[Movement Speed|Movement]], [[Short-Sighted|Short-Sightedness]], and additional damage when you attack. Many call this psycast the "killer's curse".*
+	- For the duration of this psycast, all target creatures are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They gain [[Short-Sighted]].
 		- They hear all sounds you make as if you surround them on all sides.
-		- Their [[Movement Speed]] is slowed by 10ft.
+		- Their [[Movement Speed]] is slowed.
 	- For the duration of this psycast, you have the following effects:
-		- Your [[Movement Speed]] is increased by 10ft.
-		- You can see the range of vision of afflicted creatures.
-		- You deal an additional 1d4 slashing damage to afflicted creatures.
+		- Your [[Movement Speed]] is increased.
+		- You know the range of vision of afflicted creatures.
+		- You deal additional slashing damage to afflicted creatures with all attacks.
+- **Stats**:
+	- 10ft [[Movement Speed]] Slow.
+	- 10ft [[Movement Speed]] Increase.
+	- +1d4 Slashing Damage with All Attacks Against Afflicted Creatures.
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, you may target an additional 5 creatures.
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, this psycast may target up to 5 more creatures.
