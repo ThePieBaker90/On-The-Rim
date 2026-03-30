@@ -13,18 +13,21 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
-	- 50ft
+	- 50ft. (+20ft)
 - **Target**:
 	- An object within range and a point within range of the object.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a target object within range of you to a point within range of the object. 
-		- You do not need line of sight to the point, the object does need line of sight to the point.
-		- Objects must not be alive and cannot be bigger than 15ft$^3$. 
-		- You cannot teleport parts of an object that would require breaking the object (You cannot teleport a chunk out of a building, you can teleport a screw out of a socket). Liquid is an exception to this. 
-			- You may teleport an object made out of multiple parts as long as the volume of all parts does not exceed 15ft$^3$.
+	- *You point at an object before dragging your finger to a target point, the object then skips to the new location.*
+	- The target object teleports to the target point.
+		- The target object must not be alive.
+		- The target object may be made out of multiple parts.
+		- The target object may not have parts of it teleported that would require breaking the object. (For example, you cannot teleport a chunk out of a building but you can teleport a screw out of a socket).
+			- Liquid is not broken when part of it is teleported.
+- **Stats**:
+	- 15ft$^3$ Max Target Object Volume.
 - **Upcasting**:
-	- You may upcast this psycast. For every 7 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.
+	- You may upcast this psycast. For every 7 psyfocus spent above the normal cost for this psycast, the range of this psycast increases by 20ft.
