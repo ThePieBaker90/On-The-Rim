@@ -21,11 +21,14 @@ tags:
 - **Duration**:
 	- 3 turns
 - **Effects**
-	- For the psycast duration, any creatures who meet both of the following conditions are afflicted:
+	- For the duration of this psycast, while any creature meets the following conditions, they are afflicted:
 		- They are within range of you.
 		- They are in [[Lighting#Darkness|Darkness]] or [[Lighting#Void|Void]].
-	- Afflicted creatures do the following at the beginning of their turn:
-		- Take 2d8 slashing damage.
-		- Their movement is slowed by 10ft.
+	- Afflicted creatures suffer the following effects:
+		- They take slashing damage from the shadows at the beginning of their turn.
+		- Their [[Movement Speed]] is slowed.
+- **Stats**:
+	- 2d8 Slashing Damage from Shadows.
+	- 10ft [[Movement Speed]] Slow from Shadows.
 - **Upcasting**:
 	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
