@@ -13,20 +13,20 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 24
 - [[Range]]:
-	- 50ft
+	- 50ft. (+20ft)
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a target creature within range of you to a random point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. 
-		- On a failure, they teleport to a random point in range. 
-		- On a success, nothing happens.
-		- The random point will be within range of the creature, the random point does not require line of sight.
-		- Creatures cannot be bigger than 7ft$^3$. 
-		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.
+	- *You point at a creature before splaying your hand open causing them to teleport to a random nearby location.*
+	- The target creature teleports to a random grounded point within range of them.
+		- The random grounded point is determined by the GM based off the result of a hidden dice roll.
+			- A result of 10 will result in a point of equal value compared to the creatures initial point. If an enemy is being teleported, a higher result will be a more perilous location and a lower result will be a safer location. If a teammate is being teleported, a higher result will be a safer location and a lower result will be a more perilous location.
 		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+- **Stats**:
+	- 1d20 Location Roll.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the range increases by 20ft.
