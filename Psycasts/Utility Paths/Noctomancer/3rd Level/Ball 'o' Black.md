@@ -13,18 +13,22 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 33
 - [[Range]]:
-	- 50ft
+	- 50ft.
 - **Target**:
-	- A point within range, may go over obstacles.
+	- A sphere with its center within range, may go over obstacles.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- 3 turns.
 - **Effects**
-	- You throw a ball of void at a point within range. Darkness expands from the ball blinding those nearby. All creatures within a 20ft sphere centered on this point must make a Dexterity saving throw. 
-		- On a failure, they are [[Blinded]] for 2 turns. 
+	- *You lob a small ball of dark, when it impacts the ground it creates an area of pure [[Lighting#Void|Void]] and blinds those caught in its landing zone.*
+	- All creatures within the target sphere must make a Dexterity saving throw to avoid the darkness. 
+		- On a failure, they are [[Blinded]].
 		- On a success, nothing happens.
-	- For the duration of this psycast, the 20ft sphere is [[Lighting#Void|Void]] and all lights in the area are extinguished.
-		- This area cannot be lit up or have its [[Lighting|Light Level]] changed by any means. 
+	- For the duration of this psycast, the target sphere's [[Lighting|Light Level]] is [[Lighting#Void|Void]].
+		- The target sphere cannot be lit up or have its [[Lighting|Light Level]] changed by any means. 
+- **Stats**:
+	- 2 Turn [[Blinded]] Duration.
+	- 20ft Target Sphere Radius. (+10ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the radium of the sphere increases by 10ft
+	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the radius of the sphere increases by 10ft
