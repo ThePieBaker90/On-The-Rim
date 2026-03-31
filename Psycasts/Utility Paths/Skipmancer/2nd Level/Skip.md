@@ -21,12 +21,13 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a target creature within range of you to a point within range of the creature. The creature may make a dexterity saving throw to avoid being teleported. 
-		- On a failure, they teleport to the point.
+	- 
+	- The target creature may make a dexterity saving throw to avoid being teleported.
+		- On a failure, they teleport to the target point.
 		- On a success, nothing happens.
-		- You do not need line of sight to the point, the creature does need line of sight to the point.
-		- Creatures cannot be bigger than 7ft$^3$. 
-		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 15ft$^3$ cannot be teleported.
 		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+		- Everything the target creature has equipped or stored on them teleports with them. 
+- **Stats**:
+	- 15ft$^3$ Max Target Creature Volume.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.
