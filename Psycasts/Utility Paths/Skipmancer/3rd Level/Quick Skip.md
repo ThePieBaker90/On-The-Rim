@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *.*
+	- *You buildup discrete psychic energy, allowing you to skip a creature without any hand gesture. The buildup releases itself has a high amount of [[Neural Heat]].*
 	- The target creature may make a dexterity saving throw to avoid being teleported.
 		- On a failure, they teleport to the target point.
 		- On a success, nothing happens.
@@ -30,4 +30,4 @@ tags:
 - **Stats**:
 	- 15ft$^3$ Max Target Creature Volume.
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the range of this psycast increases by 20ft.
