@@ -13,15 +13,15 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 30
 - [[Range]]:
-	- 50ft
+	- 50ft.
 - **Target**:
 	- A creature within range and a point within range of the creature.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- 
+	- *You point at a creature before aiming your hand at a target point, the creature then must resist skipping to the new location.*
 	- The target creature may make a dexterity saving throw to avoid being teleported.
 		- On a failure, they teleport to the target point.
 		- On a success, nothing happens.
