@@ -7,6 +7,20 @@ aliases:
 ## Psycast Overview
 - Psycasts are the equivalent to spells and are how magic is done in this universe. Psycasts can only be used by creatures with a [[NOR-1 My First Psylink|Psylink]] (called psycasters or casters), be it installed, natural, or some other form. You must learn a psycast before you can use it.
 - Psycasts all have several properties, they are: [[#Psycast Paths]], [[#Casting Time]], [[#Psycast Costs]], [[#Psycast Range]], [[#Psycast Targeting]], [[#Psycast Components]], [[#Psycast Duration, Concentration, and Channeling|Psycast Duration]], [[#Psycast Effects]], [[#Psycast Stats]] and [[#Upcasting]]. Each of these are detailed in their own section below.
+- A creature with a [[NOR-1 My First Psylink|Psylink]] may only use psycasts that they have learned. More info on learning psycasts in [[#Learning Psycasts]].
+## Learning Psycasts
+- A creature has known psycasts that they may use, you may learn new psycasts when prompted by an effect (typically a level up) to permanently add psycasts to your known psycasts.
+- When you learn a new psycast, you choose a psycast that you fulfill all of its conditions to learn. Different types of psycasts have different conditions but they can be put into three categories: Level 1 Psycasts, Upper-Level Psycasts, and Crosspath Psycasts.
+### Learning Level 1 Psycasts
+- Level 1 psycasts have no prerequisites to learn.
+### Learning Upper-Level Psycasts
+- If a psycast is above level 1, then you must know a psycast of 1 lower level from the same [[#Psycast Paths|Path of the Psycast Being Learned]].
+	- For example, learning a level 3 [[Aquator Psycasts|Aquator Psycast]] requires a level 2 [[Aquator Psycasts|Aquator Psycast]] to be known.
+### Learning Crosspath Psycasts
+- If a psycast is a [[#Crosspaths|Crosspath Psycast]], you must know a psycast of 1 lower level from any [[#Psycast Paths|Path of the Psycast Being Learned]]. You must also know a psycast (of any level) from every [[#Psycast Paths|Path of the Psycast Being Learned]].
+	- For example, learning a Level 4 [[Neuropath Psycasts|Neuropath]] [[Aquator Psycasts|Aquator]] Psycast requires either of the following to be learned:
+		- A level 3 [[Neuropath Psycasts|Neuropath Psycast]] and any level [[Aquator Psycasts|Aquator Psycast]] to be known 
+		- A level 3 [[Aquator Psycasts|Aquator Psycast]] and any level [[Neuropath Psycasts|Neuropath Psycast]] to be known.
 ## Psycast Phases
 - The psycast has an order of phases that it goes through when used. 
 - The order of phases is: Use -> Casting -> Cast -> Active -> End
@@ -29,10 +43,8 @@ aliases:
 - A psycaster's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. 
 	- All psycast saving throws without an explicit DC use the psycaster's psycast save DC as the save DC.
 ## Psycast Paths
-- Each path contains 10 core psycasts of varying levels. To be able to learn a psycast from a path, you must know a psycast from the same path that is 1 level lower (for example, learning a level 3 psycast requires knowledge of a level 2 psycast). 
-	- Level 1 is the lowest level for a psycast and has no prerequisites to learn. 
-	- Some psycasts may be part of multiple paths, a prerequisite psycast from all paths must be known to learn these psycasts.
-- All psycasts belong to a path or paths. Each path is part of an overarching category of paths.
+- Each path contains 10 core psycasts of varying levels which correspond the the path.
+- All psycasts belong to a path or paths. Each path is part of an overarching category, there are 4 categories; Creation, Damage, Support, and Utility.
 ### Creation Paths
 - [[Abominator Psycasts|Abominator]] - Summoning Abominations and Abomination Goo Manipulation
 - [[Aquator Psycasts|Aquator]] - Water Manipulation and Weather
@@ -64,6 +76,9 @@ aliases:
 - [[Puppetmancer Psycasts|Puppetmancer]] - Creature Commanding and Mind Meddling
 - [[Skipmancer Psycasts|Skipmancer]] - Teleportation and Portals
 - [[Wildemancer Psycasts|Wildemancer]] - Animal Commands and Tracking
+### Crosspath Psycasts
+- Some psycasts are part of two or more paths, these psycasts are called crosspath psycasts. These psycasts are affected by all effects relevant to either path and have different learning conditions.
+- See [[#Learning Crosspath Psycasts]].
 ## Casting Time
 - All psycasts have a casting time, there are two types of casting time; action based and time based. Each type of casting time details how the psycast is cast when used. 
 - If the caster is damaged during the casting time, they make a Wisdom saving throw. The DC is equal to 10 or half the damage received, whichever is higher. On a failure, the psycast is interrupted. On a success, nothing happens.
