@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 30
 - [[Range]]:
-	- 50ft.
+	- 50ft. (+20ft)
 - **Target**:
 	- A creature within range and a point within range of the creature.
 - **Components**:
