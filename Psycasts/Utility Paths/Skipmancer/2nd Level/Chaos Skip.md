@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You point at a creature before splaying your hand open causing them to teleport to a random nearby location.*
+	- *You point at a creature before splaying your hand open causing them to skip to a random nearby location.*
 	- The target creature teleports to a random grounded point within range of them.
 		- The random grounded point is determined by the GM based off the result of a hidden dice roll.
 			- A result of 10 will result in a point of equal value compared to the creatures initial point. If an enemy is being teleported, a higher result will be a more perilous location and a lower result will be a safer location. If a teammate is being teleported, a higher result will be a safer location and a lower result will be a more perilous location.

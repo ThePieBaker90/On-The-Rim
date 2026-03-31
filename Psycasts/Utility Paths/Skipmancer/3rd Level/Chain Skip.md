@@ -17,10 +17,13 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 4 Turns.
+	- 4 Turns. (+2 Turns)
 - **Effects**:
-	- You grant the [[Skipping]] condition to a creature within range for the duration of this psycast. 
+	- *You imbue your touch with discrete psychic energy, allowing the creature you touched to skip on each of their turns.*
+	- For the duration of this psycast, the target creature has [[Skipping]].
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the duration of this psycast is increased by 2 turns
