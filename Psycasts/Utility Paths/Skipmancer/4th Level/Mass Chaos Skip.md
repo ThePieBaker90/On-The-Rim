@@ -23,7 +23,8 @@ tags:
 - **Effects**:
 	- *You create psychic discordance at an area causing all creatures within to be skipped to random locations.*
 	- All creatures within the target sphere are teleported to a random grounded point within teleport range of them.
-		- Each creature teleports to a different random point.
+		- Each creature teleports to a different random grounded point.
+		- You and the creature do not need line of sight to the random grounded point.
 		- The random grounded point is determined by the GM based off the result of a hidden dice roll.
 			- A result of 10 will result in a point of equal value compared to the creatures initial point. If an enemy is being teleported, a higher result will be a more perilous location and a lower result will be a safer location. If a teammate is being teleported, a higher result will be a safer location and a lower result will be a more perilous location.
 		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
