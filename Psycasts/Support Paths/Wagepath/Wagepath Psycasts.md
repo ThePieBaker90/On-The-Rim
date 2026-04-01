@@ -10,6 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Enduring Speed]] (0, 18)
+	- [[Disarming Hex]] (3, 23)
 - 2nd Level:
 	- [[Melee Focus]] (6, 24)
 	- [[Ranged Focus]] (6, 24)
@@ -22,7 +23,6 @@ aliases:
 	- [[Frenzy]] (3, 44)
 - 5th Level:
 	- [[Killing Blow]] (10, 45)
-	- [[Lucky Strike]] (4, 27)
 ## Miscasts
 - Level 1 Miscast - Pain of Punishment
 	- For the next 3 turns, whenever you make an attack with a weapon, you take 1 psychic damage.
@@ -34,6 +34,6 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Lucky Strike]] (4, 27) ([[Harmomancer Psycasts|Harmomancer]])
 - 5th Level:
 	- .

@@ -2,10 +2,11 @@
 tags:
   - Psycast
   - Wagepath
-  - 5th-Level
+  - Harmomancer
+  - 4th-Level
 ---
 - **Path**:
-	- 5th Level [[Wagepath Psycasts|Wagepath Psycast]]
+	- 4th Level [[Wagepath Psycasts|Wagepath Psycast]] & [[Harmomancer Psycasts|Harmomancer Psycast]]
 - **Casting Time:**
 	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
