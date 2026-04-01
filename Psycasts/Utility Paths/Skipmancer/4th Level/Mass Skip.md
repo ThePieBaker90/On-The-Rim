@@ -13,20 +13,22 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 60ft
+	- 60ft. (+20ft)
 - **Target**:
-	- Several grounded points within range; one initial point and an ending point for each creature in the skip
+	- A sphere within range and a grounded point within range for each creature in the target sphere.
 - **Components**:
 	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a 15ft sphere centered on the initial point. Any creature within the sphere with enough remaining [[Movement Speed]] to reach the edge of the sphere may make a dexterity saving throw. 
-		- A creature is teleported on a failed save, or if they don't/can't attempt a save. 
-		- The creature is moved to the closest edge and is not teleported on a successful save.
-	- When teleported, a creature teleports to the ending point you chose for them.
-		- If a single part of a creature would be teleported, the entire creature is teleported along with it.
-		- Creatures cannot be bigger than 20ft$^3$. 
-		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 30ft$^3$ cannot be teleported.
+	- *You create discrete psychic energy at an area, attempting to skip every creature within to a unique location.*
+	- All creatures within the target sphere must make a Dexterity saving throw to avoid being teleported.
+		- On a failure, they are teleported to a target point.
+		- On a success, nothing happens.
+		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+		- Everything a creature has equipped or stored on them teleports with them. 
+- **Stats**:
+	- 20ft$^3$ Max Creature Volume.
+	- 15ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.
