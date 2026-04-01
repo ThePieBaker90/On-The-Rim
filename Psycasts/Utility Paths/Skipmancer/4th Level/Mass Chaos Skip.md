@@ -13,21 +13,24 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 90ft
+	- 90ft. (+40ft)
 - **Target**:
-	- A point within range.
+	- A sphere within range.
 - **Components**:
 	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You teleport a 15ft sphere centered on a point within range. Any creature within the sphere with enough remaining [[Movement Speed]] to reach the edge of the sphere may make a dexterity saving throw. 
-		- A creature is teleported on a failed save, or if they don't/can't attempt a save. 
-		- The creature is moved to the closest edge and is not teleported on a successful save.
-	- When teleported, a creature teleports to a random point within range.
-		- The random point will be within range of the creature, the random point does not require line of sight.
-		- If a single part of a creature would be teleported, the entire creature is teleported along with it.
-		- Creatures cannot be bigger than 20ft$^3$. 
-		- Everything a creature has equipped or stored on them teleports with them. Things bigger than 30ft$^3$ cannot be teleported.
+	- *You create psychic discordance at an area causing all creatures within to be skipped to random locations.*
+	- All creatures within the target sphere are teleported to a random grounded point within teleport range of them.
+		- Each creature teleports to a different random point.
+		- The random grounded point is determined by the GM based off the result of a hidden dice roll.
+			- A result of 10 will result in a point of equal value compared to the creatures initial point. If an enemy is being teleported, a higher result will be a more perilous location and a lower result will be a safer location. If a teammate is being teleported, a higher result will be a safer location and a lower result will be a more perilous location.
+		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+		- Everything a creature has equipped or stored on them teleports with them.
+- **Stats**:
+	- 50ft Teleport Range.
+	- 20ft$^3$ Max Creature Volume.
+	- 15ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 40ft.
