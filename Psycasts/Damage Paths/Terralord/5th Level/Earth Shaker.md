@@ -1,11 +1,11 @@
 ---
 tags:
   - Psycast
-  - 1st-Level
   - Terralord
+  - 5th-Level
 ---
 - **Path**:
-	- 1st Level [[Terralord Psycasts|Terralord Psycast]]
+	- 5th Level [[Terralord Psycasts|Terralord Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
