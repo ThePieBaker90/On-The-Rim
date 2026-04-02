@@ -21,7 +21,7 @@ aliases:
 	- [[Mass Chaos Skip]] (3 ,44)
 	- [[Mass Skip]] (3, 44)
 - 5th Level:
-	- [[Far Skip]] (70, 0)
+	- [[Far Skip]] (40, 0)
 	- [[Skip Portal]] (25, 40)
 ## Miscasts
 - Level 1 Miscast - Unwilling Chaos Skip
