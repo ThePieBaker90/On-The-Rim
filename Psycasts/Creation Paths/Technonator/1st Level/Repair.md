@@ -2,9 +2,10 @@
 tags:
   - Psycast
   - Technonator
+  - 1st-Level
 ---
 - **Path**:
-	- . Level [[Technonator Psycasts|Technonator Psycast]]
+	- 1st Level [[Technonator Psycasts|Technonator Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
