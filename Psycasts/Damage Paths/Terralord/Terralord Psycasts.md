@@ -10,19 +10,19 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Throwing Stones]] (2, 17)
-	- Pitfall
+	- [[Pitfall]]
+	- [[Prevent Mobility Actions]]
 - 2nd Level:
-	- Summon Walls
-	- - Sand Blast (Jam guns)
-	-  Immobilize
+	- [[Summon Stone Wall]]
+	- [[Sand Blast (Jam Guns)]]
+	- [[Immobilize]]
 - 3rd Level:
-	- BIIIIG projectile
-	- Burrow
+	- [[BIIIIIIG Projectile]]
+	- [[Burrow]]
 - 4th Level:
-	- Paige Sword
-	- Prevent Mobility Actions
+	- [[Paige Sword Immobilize]]
 - 5th Level:
-	- Earth Shaker
+	- [[Earth Shaker]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .
