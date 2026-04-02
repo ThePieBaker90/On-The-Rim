@@ -22,7 +22,7 @@ aliases:
 	- [[Mass Skip]] (3, 44)
 - 5th Level:
 	- [[Far Skip]] (40, 0)
-	- [[Skip Portal]] (25, 40)
+	- [[Skip Portal]] (30, 40)
 ## Miscasts
 - Level 1 Miscast - Unwilling Chaos Skip
 	- You and everything that you have equipped and stored on you teleports to a random grounded point within 50ft. You do not need line of sight to the point.
