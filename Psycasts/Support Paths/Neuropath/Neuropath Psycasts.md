@@ -9,15 +9,15 @@ aliases:
 *Neuropaths specialize in manipulating psycasts and psycasting abilities of others. Most of their psycasts affect neural heat and psyfocus. A subset of their psycasts are used to guide others or tempt them into a berserk rage.*
 ## Core Psycasts
 - 1st Level:
-	- [[Brain Spike]] (3, 32)
-	- [[Neural Heat Transfer]] (20, 0)
+	- [[Brain Spike]] (3, 28)
+	- [[Neural Heat Transfer]] (15, 0)
 - 2nd Level:
-	- [[Carter's Neural Cooling]] (10, 0)
 	- [[Countercast]] (4, 28)
 	- [[Psychic Ward]] (5, 22)
+	- [[Surge of Power]] (5, 25)
 - 3rd Level:
 	- [[Aggressive Neural Heat Transfer]] (30, 0)
-	- [[Anti-Psychic Wave]] (13, 36)
+	- [[Anti-Psychic Wave]] (20, 30)
 	- [[Siphon Psyfocus]] (5, 25)
 - 4th Level:
 	- [[Neural Overload]] (3, 44)
@@ -32,11 +32,8 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- .
+	-  [[Carter's Neural Cooling]] (10, 0) ([[Frostlord Psycasts|Frostlord]])
 - 4th Level:
 	- .
 - 5th Level:
 	- .
-Neuro Illusion - Implant Fake Memories
-Neuro Empath - Link all self effect spells to nearby allies
-Neuro War - Spellslinger deadlock

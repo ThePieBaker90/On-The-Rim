@@ -7,20 +7,26 @@ tags:
 - **Path**:
 	- 1st Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 12
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- Touch
+	- Touch.
 - **Target**:
 	- A willing creature within range.
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
-	- You touch a willing creature's eyelids, granting them temporary darkvision for the psycast duration. They can see in dim light within 45ft of them as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray. 
+	- *You touch a creature's eyelids granting them temporary darkvision.*
+	- For the duration of this psycast, the target creature has the following effects:
+		- They can see in dim light within darkvision range as if it was bright light.
+		- They can see in darkness within darkvision range as if it was dim light. 
+			- They cannot discern color in darkness, only shades of gray.
+- **Stats**:
+	- 45ft Darkvision Range.
 - **Upcasting**:
 	- You cannot upcast this psycast.

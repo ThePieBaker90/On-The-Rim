@@ -13,15 +13,18 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 20
 - [[Range]]:
-	- 50ft
+	- 50ft. (+20ft)
 - **Target**:
 	- A grounded point within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You and everything you have equipped or stored on you teleports to a grounded point within range. 
-		- Things bigger than 15ft$^3$ cannot be teleported.
+	- *You point at the target point before snapping your fingers, suddenly appearing at the new location.*
+	- You teleport to the target point.
+		- Everything you have equipped or stored on you teleports with you.
+- **Stats**:
+	- None.
 - **Upcasting**:
-	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 20ft.
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the range of this psycast increases by 20ft.

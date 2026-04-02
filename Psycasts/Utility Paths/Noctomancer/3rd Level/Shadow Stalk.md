@@ -7,25 +7,27 @@ tags:
 - **Path**:
 	- 3rd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Reaction, which you take when you use the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].
+	- 1 Reaction.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
 	- 35 (25)
 - [[Range]]:
-	- Self
+	- Self.
 - **Target**:
-	- Self
+	- Self.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**
-	- As you hide or sneak, you begin sink into the shadows. You have the following effects for the psycast duration:
-		- While in [[Lighting#Bright Light|Bright Light]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Dim Light|Dim Light]] instead.
-		- While in [[Lighting#Dim Light|Dim Light]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Darkness|Darkness]] instead.
-		- While in [[Lighting#Darkness|Darkness]], your [[Stealth and Hiding#Obscuration|Obscuration modifier]] is that of [[Lighting#Void|Void]] instead.
-		- When dealing damage while [[Stealth and Hiding#Hidden|Hidden]], [[Stealth and Hiding#Undetected|Undetected]], or [[Stealth and Hiding#Unnoticed|Unnoticed]]; you deal an additional 50% damage and can use the [[Stealth and Hiding#Hide Action|Hide Action]] for free this turn.
-			- You may only do this once per turn.
+	- *As you hide or sneak, you blend into the shadows becoming harder to spot. Many expert assassins use this psycast in nearly every job.*
+	- This psycast is used as a reaction to you using the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].
+	- For the duration of this psycast, you have the following effects:
+		- Your [[Stealth and Hiding#Obscuration|Obscuration modifier]] from light is as if you were in a darker light level.
+		- Once per turn, when you deal damage while [[Stealth and Hiding#Hidden|Hidden]], [[Stealth and Hiding#Undetected|Undetected]], or [[Stealth and Hiding#Unnoticed|Unnoticed]]; you deal additional damage and can use the [[Stealth and Hiding#Hide Action|Hide Action]] for free this turn.
+- **Stats**:
+	- -1 Light Level for [[Stealth and Hiding#Obscuration|Obscuration modifier]].
+	- 50% Additional Damage while [[Stealth and Hiding#Hidden|Hidden]], [[Stealth and Hiding#Undetected|Undetected]], or [[Stealth and Hiding#Unnoticed|Unnoticed]].
 - **Upcasting**:
 	- You cannot upcast this psycast.

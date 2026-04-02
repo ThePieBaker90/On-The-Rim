@@ -20,7 +20,7 @@ tags:
 - **Components**:
 	- Verbal
 - **Duration**:
-	- 3 days
+	- 3 Days
 - **Effects**:
 	- You call upon acid rains to fall on a circular area centered on you with a radius of 8 miles.
 		- Traversing in acid rain requires 1.25x as much [[Movement Speed]].

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *Water fills the room from the bottom as if the walls and floors are crying.*
 	- Water fills target room with a percent of its volume in water every turn for the duration of this psycast.

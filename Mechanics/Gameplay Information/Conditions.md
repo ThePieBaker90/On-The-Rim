@@ -11,6 +11,7 @@ aliases:
 - All conditions have a duration which may be measured in turns or may be indefinite.
 - When a creature ends its turn, the duration of all conditions on the creature decrease by 1 turn. Any conditions that have a duration of 0 turns are removed.
 	- Conditions with indefinite duration do not decrease their duration, they may only be removed by effects.
+- If a condition is not given a duration, it lasts until the effect that granted it ends or if the effect is immediate, it has an indefinite duration.
 ## Statuses
 - Statuses are a form of conditions that cannot be removed by most condition removing effects. They can only be removed in the following ways:
 	- Effects that explicitly affect statuses.

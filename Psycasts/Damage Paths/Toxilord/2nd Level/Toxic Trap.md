@@ -22,7 +22,7 @@ tags:
 	- 1 Hour.
 - **Effects**:
 	- *You create a psychic poison trap which cannot be seen unless a creature is looking for it. The trap releases poison when a creature comes close to it, poisoning everyone caught in the noxious blast.*
-	- The target point is a poison trap for the psycast duration. The trap has a detection range which will cause it to trigger when any creature unaware of the trap passes within that range of the trap.
+	- For the duration of this psycast, the target point is a poison trap. The trap has a detection range which will cause it to trigger when any creature unaware of the trap passes within that range of the trap.
 	- When the trap is triggered all creatures within the trap's range must make a Constitution saving throw. 
 		- Upon a failure, they take poison damage and gain many levels of [[Poison Buildup]].
 		- Upon a success, they take half as much damage and gain a few levels of [[Poison Buildup]].

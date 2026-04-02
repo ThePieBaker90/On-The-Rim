@@ -24,6 +24,6 @@ tags:
 	- *Your hands heal the injuries of a lucky creature you touch.*
 	- You heal the target creature some health.
 - **Stats**:
-	- 1d10 + 2 Health from Injuries Healing. (+1d10 Health)
+	- 1d10 + 2 Health Healed from Injuries Healing. (+1d10 Health Healed)
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, you heal the creature an additional 1d10 health.

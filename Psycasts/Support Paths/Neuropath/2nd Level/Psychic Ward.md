@@ -13,14 +13,17 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 22
 - [[Range]]:
-	- 15ft
+	- 15ft.
 - **Target**:
 	- An ally within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
-	- You grant an ally within range [[Ward]] for the duration of the psycast.
+	- *You place a psychic ward on an ally, causing any casters who target them to generate additional [[Neural Heat]].*
+	- You grant an ally within range [[Ward]] for the duration of this psycast.
+- **Stats**:
+	- None.
 - **Upcasting**:
 	- You cannot upcast this psycast.

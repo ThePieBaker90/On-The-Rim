@@ -37,6 +37,3 @@ aliases:
 	- .
 - 5th Level:
 	- [[Resurrect]] (85, 0) ([[Mendopath Psycasts|Mendopath]])
-Chrono Mortilord - Bring someone to the brink of death and bring back to paralyze temp
-Morti Terra - Graves grasping hands like, call it line in the sand or something
-Morti Tech - Graves jar of dead type shift.

@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Noctomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]] & [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 20
+- [[Range]]:
+	- 60ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You imbue psychic energy into a word of horror, directing it at a creature. The creature finds their bravery drained from them, becoming [[Frightened]] of you.*
+	- The target creature must make a Wisdom saving throw to resist the fear.
+		- On a failure, they are [[Frightened]].
+		- On a success, nothing happens.
+- **Stats**:
+	- 2 Turn [[Frightened]] Duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

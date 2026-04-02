@@ -19,7 +19,7 @@ aliases:
 	- [[Ritual of Restoration]] (40, 0)
 - 4th Level:
 	- [[Healing Nova]] (3, 44)
-	- [[Healing Tempo]] (40, 0)
+	- [[Intensifying Healing]] (40, 0)
 - 5th Level:
 	- [[Death Defy]] (25, 40)
 	- [[Restore]] (75, 45)
@@ -37,4 +37,3 @@ aliases:
 	- .
 - 5th Level:
 	- [[Resurrect]] (85, 0) ([[Mortilord Psycasts|Mortilord]])
-Mendo Tech - restorative locket type shift.

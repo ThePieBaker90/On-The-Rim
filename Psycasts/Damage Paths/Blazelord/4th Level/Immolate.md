@@ -19,11 +19,11 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 3 turns. (+1 turn)
+	- 3 Turns. (+1 Turn)
 - **Effects**:
 	- *You summon a fire mote above every creature you can see. The mote shoots down after a short delay, setting anyone who fails to get out of the way [[On Fire!]].*
 	- The target creatures must make a Dexterity saving throw to avoid the fire motes. 
-		- Upon a failure, they catch [[On Fire!]] for the psycast duration.
+		- Upon a failure, for the duration of this psycast, they catch [[On Fire!]].
 			- This instance of [[On Fire!]] cannot be removed by getting doused in water.
 		- Upon a success, nothing happens.
 	- You cannot be targeted by this psycast.

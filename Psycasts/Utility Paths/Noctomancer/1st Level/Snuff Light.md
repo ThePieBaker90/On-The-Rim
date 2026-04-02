@@ -7,13 +7,13 @@ tags:
 - **Path**:
 	- 1st Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 60ft
+	- 60ft.
 - **Target**:
 	- A light source within range.
 - **Components**:
@@ -21,7 +21,9 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You extinguish one source of light within range.
-		- The light source may have a maximum volume of 5ft$^3$.
+	- *You point at a light source causing it to suddenly cease.*
+	- You extinguish the target light.
+- **Stats**:
+	- 5ft$^3$ Max Light Source Volume.
 - **Upcasting**:
 	- You cannot upcast this psycast.

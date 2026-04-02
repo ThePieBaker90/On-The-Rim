@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play a rhythmic song on your instrument, inducing the irresistible need to dance for those nearby. Dancing makes most two-handed tasks impossible as well as negatively affecting dexterity for inexperienced dancers.*
-	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- For the duration of this psycast, all creatures within range of you are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They begin [[Dancing]] if not already doing so.
 		- They are unable to stop [[Dancing]].

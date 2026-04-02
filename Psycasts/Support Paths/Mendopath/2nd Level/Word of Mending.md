@@ -24,6 +24,6 @@ tags:
 	- *You imbue psychic energy into a word of health, directing it at a creature. The word mends the wounds of the creature, healing their health.* 
 	- You heal the target creature a bit of health.
 - **Stats**:
-	- 1d6 + 1 Health from Injuries Healing. (+1d6 Health)
+	- 1d6 + 1 Health Healed from Injuries Healing. (+1d6 Health Healed)
 - **Upcasting**:
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the target heals an additional 1d6 health.

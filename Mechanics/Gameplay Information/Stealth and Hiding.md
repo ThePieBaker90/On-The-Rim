@@ -16,10 +16,10 @@ tags:
 - You attempt to find an [[#Undetected]] creature. Choose either a 15ft sphere or a cone with a length of 30ft and a maximum width of 30ft. Then, make a Wisdom ([[Sight-Based Perception]]) check. For every creature in the area, compare this result to the DC. The DC is a Dexterity (stealth) saving throw from the creature + the [[#Obscuration]] base DC of the [[#Undetected]] creature $*(-1)$
 	- On success, you find the creature. They are [[#Observed]] by you if you can see them. Otherwise, they are [[#Hidden]] from you if you only know their location. 
 	- On a failure, nothing happens.
-## Obscuration
-- Obscuration is how hard or easy your environment makes you to spot. 
+## Obscurations
+- Obscurations are parts of the environment that make you harder or easier to spot. 
 - There are 3 types of obscurations; Cover, Light, and Effect obscurations.
-- The obscuration base DC is used to represent how difficult it is to hide in an environment. To find the obscuration base DC, simply add up the obscuration modifiers of all relevant obscurations.
+- The obscuration base DC is used to represent how difficult it is to hide in your environment. To find the obscuration base DC, simply add up the obscuration modifiers of all relevant obscurations.
 
 | Cover        | Obscuration Modifier | Light        | Obscuration Modifiers |
 | ------------ | -------------------- | ------------ | --------------------- |
@@ -32,6 +32,7 @@ tags:
 ### Cover
 - Cover is relevant for the [[#Hide Action]], the [[#Sneak Action]], and any [[Sight-Based Perception|Sight-Based]] [[#Seek Action|Seek Actions]].
 - There are 5 types of cover; No cover, light cover, medium cover, heavy cover, and full cover.
+- The percent a creature is behind cover is determined based off of the line of sight of the relevant creature. This is highly up to GM interpretation.
 #### No Cover
 - A creature has no cover when they are less than 10% behind cover.
 - This has an obscuration modifier of 10.

@@ -7,23 +7,23 @@ tags:
 - **Path**:
 	- 3rd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 20
 - **[[Neural Heat]] Generation:**
 	- 50
 - [[Range]]:
-	- 100ft.
+	- 100ft. (+50ft)
 - **Target**:
 	- Self.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
-	- 1 minute
+	- 1 Minute.
 - **Effects**
-	- You have an aura of darkness, making all but the brightest lit areas shrouded in dark. For the psycast duration, the following effects occur:
-		- All [[Lighting#Bright Light|Brightly Lit]] areas become [[Lighting#Dim Light|Dimly Lit]] while in range of you. You do not need line of sight to the area.
-		- All [[Lighting#Dim Light|Dimly Lit]]  areas become shrouded in [[Lighting#Darkness|Darkness]] while in range of you. You do not need line of sight to the area.
-		- All areas in [[Lighting#Darkness|Darkness]] become shrouded in [[Lighting#Void|Void]] while in range of you. You do not need line of sight to the area.
+	- *You have an aura of darkness, making all but the brightest lit areas shrouded in dark.*
+	- For duration of this psycast, areas within range of you have their light level reduced.
+- **Stats**:
+	- -1 Light Level.
 - **Upcasting**:
-	- You may upcast this psycast. For every 25 psyfocus spent above the normal cost for this psycast, the range of the psycast increases by 50ft.
+	- You may upcast this psycast. For every 25 psyfocus spent above the normal cost for this psycast, the range increases by 50ft.

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture
 - **Duration**:
-	- 10 turns.
+	- 10 Turns.
 - **Effects**:
 	- *Several orbs of [[OrganiX]] rise out of the ground, creating a green minefield of barely held together bubbles. Most disturbances will cause the orb to detonate dealing damage to those caught in the explosion.*
 	- You create orbs made of [[OrganiX]], one at each of the target points. 

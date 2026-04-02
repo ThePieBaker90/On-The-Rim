@@ -19,18 +19,18 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *You freeze yourself in a chunk of ice, using the time in the ice to heal your injuries.*
-	- For the psycast duration you suffer the following effects:
-		- You are [[Frozen Solid]] for the psycast duration.
+	- For the duration of this psycast, you suffer the following effects:
+		- You are [[Frozen Solid]].
 			- This ice only takes damage from fire damage.
 				- The ice is not vulnerable to fire damage.
 			- This ice has a special health.
 		- If you end your turn [[Frozen Solid]], you heal health.
 		- You may stop concentrating on this psycast while [[Frozen Solid]].
 - **Stats**:
-	- 2d10 + 4 Health per Turn from the Ice. (+1d10 Healing)
+	- 2d10 + 4 Health Healed per Turn from the Ice. (+1d10 Health Healed)
 	- 30 Ice Health.
 - **Upcasting**:
 	- You may upcast this psycast. For every 14 psyfocus spent above the normal cost for this psycast, the healing you receive from this psycast is increased by 2d10.

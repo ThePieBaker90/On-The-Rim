@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *You generate a ball of electricity around you before sending it forward to zap anything in front of you. The ball moves slowly but deals high damage and all except the center of the ball may move through surfaces. The high electricity disables electronics and automatically slows the ball when any creature is within its area.*
 	- The target sphere moves towards the target point with its [[Movement Speed]] at the beginning of your turn and when this psycast is cast. 

@@ -19,10 +19,10 @@ tags:
 - **Components**:
 	- Verbal.
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**:
 	- *You imbue psychic energy into a word of encouragement, directing it at a creature. The creature gains a bit of [[Inspiration]], allowing them to reroll a dice of their choice.*
-	- The target ally gains [[Inspiration]] for the psycast duration.
+	- For the duration of this psycast, the target ally has [[Inspiration]].
 - **Stats**:
 	- 1 Level of [[Inspiration]] Applied.
 - **Upcasting**:

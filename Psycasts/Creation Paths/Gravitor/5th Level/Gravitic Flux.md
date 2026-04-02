@@ -19,11 +19,11 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Channeled, up to 1 turn.
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You create a large area of inverted gravity, causing creatures to lift into the air before you invert the gravity, slamming them into the ground and dealing massive damage.
-	- All creatures within the target cylinder must make a Constitution saving throw when this psycast is cast. 
-		- On a failure, they are afflicted for the psycast duration.
+	- When this psycast is cast, all creatures within the target cylinder must make a Constitution saving throw.
+		- On a failure, for the duration of this psycast, they are afflicted.
 		- On a success, nothing happens. 
 	- Afflicted creatures suffer the following effects:
 		- They are levitated into the air.

@@ -13,22 +13,25 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 32
 - [[Range]]:
-	- 80ft
+	- 80ft. (+20ft)
 - **Target**:
-	- Self.
+	- A point within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You temporarily strengthen your leg muscles, using them to leap across a battlefield or up to high ground.
-	- You jump to a point within range and choose an "intent" for this leap: melee, ranged, nothing.
-		- If you chose a melee intent for this leap, you may make a melee opportunity attack on a creature within range of the melee weapon once you land.
-			- You must have a melee weapon equipped to choose this intent.
-		- If you chose a ranged intent for this leap, you use your ranged weapon while flying through the air. You have disadvantage on all ranged attacks you make until you land.
-			- You must have a ranged weapon equipped to choose this intent.
-		- If you chose to not have an intent for this leap, you recover 8 [[Neural Heat]] from this psycast.
-		- The path you take may follow any arc as long at the height of the arc is not greater than the range of this psycast but it greater than 5ft.
+	- *You temporarily strengthen your leg muscles, using them to leap across a battlefield or up to high ground.*
+	- When you cast this psycast, you choose an intent for the leap from the following types:
+		- Melee - When you land, you make an opportunity attack on a creature. The creature must be within your reach.
+		- Ranged - While flying through the air, you may use a ranged weapon. All attacks while flying through the air have disadvantage.
+		- Recovery - When you land, you recover some [[Neural Heat]].
+	- You jump to the target point and all effects of your intent occur.
+		- The path you take may follow any arc as long at the height of the arc is within bounds.
 		- This leap cannot break through ceilings except for those which would not be able to handle your weight.
+- **Stats**:
+	- 8 [[Neural Heat]] Recovered.
+	- 80ft Max Jump Height. (+20ft)
+	- 5ft Min Jump Height.
 - **Upcasting**:
-	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range increases by 20ft.
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the range and maximum jump height increases by 20ft.

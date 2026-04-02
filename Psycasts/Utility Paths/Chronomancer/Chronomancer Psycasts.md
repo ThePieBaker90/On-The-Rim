@@ -32,6 +32,3 @@ aliases:
 	- .
 - 5th Level:
 	- .
-Chrono Mortilord - Bring someone to the brink of death and bring back to paralyze temp
-Fire Chrono - make fire burn faster
-Poison Chrono - all poison stacks occur at once

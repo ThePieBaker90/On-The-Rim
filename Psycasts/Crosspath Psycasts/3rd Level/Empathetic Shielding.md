@@ -20,7 +20,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**
 	- You cast a temporary damage barrier on a creature within range. The creature gains 1d8 temporary health for each hostile creature within 15ft of them. This health goes away when the psycast ends.
 - **Upcasting**:

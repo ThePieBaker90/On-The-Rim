@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 5th level [[Harmomancer Psycasts|Harmomancer Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 55
 - **[[Neural Heat]] Generation:**
@@ -17,12 +17,17 @@ tags:
 - **Target**:
 	- An inanimate object within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You roll 1d20 and the object transforms into another object of the DM's choice.
-		- A 10 will result in an object of about equal value, a 1 will result in an object with much less value, a 20 will result in an object with much more value.
-		- This roll cannot be modified by any effects other than effects from this psycast.
+	- *You transmute an object, the resulting object depends on a whole lotta luck but usually ends in an item of similar value.*
+	- You transform the target object into another object, the relative value of the new object is determined by a dice roll.
+		- The object it turns into is determined by the GM.
+		- A result of 10 will result in an object of roughly equal value, a 1 will result in an object with much less value, a 20 will result in an object with much more value.
+		- The dice roll may not be modified by any effects outside of this psycast.
+- **Stats**:
+	- 1d20 Transformation Roll.
+	- +0 Roll Modifier. (+1)
 - **Upcasting:**
 	- You may upcast this psycast. For every 35 psyfocus spent above the normal cost for this psycast, your roll gets +1 to the result.

@@ -7,22 +7,25 @@ tags:
 - **Path**:
 	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
 	- 21
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- Instant.
 - **Effects**
-	- You attempt to psychically inflict a creature with blindness. They must make a Wisdom saving throw. 
-		- On a failure, they are [[Blinded]] for the psycast duration.
+	- *You create psychic noise in a creature's vision centers, attempting to [[Blinded|Blind]] them.* 
+	- The target creature must make a Wisdom saving throw. 
+		- On a failure, they are [[Blinded]].
 		- On a success, nothing happens.
+- **Stats**:
+	- 3 Turn [[Blinded]] Duration. (+1 Turn)
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
+	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the duration of [[Blinded]] is increased by 1 turn.

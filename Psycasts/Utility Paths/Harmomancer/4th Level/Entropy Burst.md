@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Harmomancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th level [[Harmomancer Psycasts|Harmomancer Psycast]]
+- **Casting Time**:
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A sphere with its center within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**: 
+	- *You release built up entropy damaging all creatures around you. The rapid release of entropy deals some damage to you.*
+	- You lose health and deal true damage to all creatures in the target sphere scaling with the amount of health you lost.
+		- The health loss from this psycast cannot be amplified nor mitigated. 
+- **Stats**:
+	- 2d8 Health Lost from Entropy. (+2d8 Health Lost)
+	- 1:1 Health Lost to True Damage Ratio.
+	- 15ft Target Sphere Radius.
+- **Upcasting:**
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, you lose 2d8 more health.

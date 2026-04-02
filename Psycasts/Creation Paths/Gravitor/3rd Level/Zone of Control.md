@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**:
 	- *You summon a zone of high gravity making traversal through the zone highly difficult and aiming through the zone nearly impossible.*
 	- The target cylinder has the following effects:

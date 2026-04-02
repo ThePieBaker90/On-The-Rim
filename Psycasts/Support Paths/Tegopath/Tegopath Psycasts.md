@@ -33,10 +33,7 @@ aliases:
 	- .
 - 3rd Level:
 	- [[Empathetic Shielding]] (5, 42) ([[Empath Psycasts|Empath]])
-	- [[Force Barrier Psycast]] ([[Gravitor Psycasts|Gravitor]])
 - 4th Level:
 	- .
 - 5th Level:
-	- Baptise lamp ([[Luzator Psycasts|Luzator]])
-Tego Melody- Lucio beat
-Tego War - Damage increases as you take damage
+	- .

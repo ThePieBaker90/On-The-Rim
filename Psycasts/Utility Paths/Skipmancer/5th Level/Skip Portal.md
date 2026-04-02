@@ -9,21 +9,25 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 25
+	- 30
 - **[[Neural Heat]] Generation:**
-	- 40 (10)
+	- 40
 - [[Range]]:
-	- 200ft
+	- 200ft. (+100ft)
 - **Target**:
-	- Two 5ft circles within range
+	- Two circles within range.
 - **Components**:
-	- Gesture.
+	- Kinetic.
 - **Duration**:
-	- Concentration, up to 1 hour.
+	- 1 Hour.
 - **Effects**:
-	- You create two portals, each taking up a 5ft circle within range and facing a direction of your choosing. These portals last for the psycast's duration. Upon entering a portal, you exit through the other portal.
+	- *You use discrete psychic energy to connect two points in space with portals. Anything passing through a portal will exit from the other portal.*
+	- For the duration of this psycast, each target circle is a portal. Anything entering a portal will exit the other portal relative to where it entered the portal.
+		- An object entering the front of a portal will exit from the front of the other portal. The back of each portal can be travelled through as well.
 		- Anything can travel through the portals, attacks, objects, creatures, temperature, light, etc.
-		- The portals cannot be moved.
-	- You may concentrate on multiple instances of this psycast.
+		- The portals cannot be moved and remain stationary relative to the ground.
+	- You may end this psycast at any time.
+- **Stats**:
+	- 5ft Target Circle Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the maximum range is increased by 100ft.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the range of this psycast increases by 100ft.

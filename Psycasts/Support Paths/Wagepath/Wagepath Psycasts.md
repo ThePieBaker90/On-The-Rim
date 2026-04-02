@@ -6,10 +6,11 @@ aliases:
   - Wagepath
   - Wagepath Psycast
 ---
-*todo.*
+*Wagepaths specialize in increasing their effectiveness in combat. Their psycasts augment their weapons and themselves allowing superhuman feats. Wagepaths tend to cast psycasts less than other paths as they are usually fighting with a weapon.*
 ## Core Psycasts
 - 1st Level:
 	- [[Enduring Speed]] (0, 18)
+	- [[Disarming Hex]] (3, 23)
 - 2nd Level:
 	- [[Melee Focus]] (6, 24)
 	- [[Ranged Focus]] (6, 24)
@@ -22,23 +23,17 @@ aliases:
 	- [[Frenzy]] (3, 44)
 - 5th Level:
 	- [[Killing Blow]] (10, 45)
-	- [[Lucky Strike]] (4, 27)
 ## Miscasts
 - Level 1 Miscast - Pain of Punishment
 	- For the next 3 turns, whenever you make an attack with a weapon, you take 1 psychic damage.
 - Level 2 Miscast - Sudden Pacifism
-	- You are [[Charmed]] by all creatures for 3 turns. A creature attacking you or using a harmful effect on you does not remove [[Charmed]] from them.
+	- You are [[Charmed]] by all creatures for 2 turns. A creature attacking you or using a harmful effect on you does not remove [[Charmed]] from them.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
 - 3rd Level:
 	- .
 - 4th Level:
-	- .
+	- [[Lucky Strike]] (4, 27) ([[Harmomancer Psycasts|Harmomancer]])
 - 5th Level:
 	- .
-Neuro War - Spellslinger deadlock
-Tego War - Damage increases as you take damage
-Melodi War - Reload on cast with psychic bullets music spell?
-Fire? War - They all fall like dominoes.
-Electric War - Extreme speed

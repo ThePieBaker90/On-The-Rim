@@ -9,20 +9,24 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 20
+	- 15
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
 	- Touch.
 - **Target**:
-	- An ally within range.
+	- A willing ally within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You dump your neural heat into a willing creature within range. The creature gains all of your neural heat and you lose all neural heat. The target creature also gains [[Psy Sapped]] for 1 turn.
+	- *You dump your neural heat into a willing ally you touch, the sudden shock of taking on the neural heat [[Psy Sapped|Psysaps]] your ally.* 
+	- You lose all generated [[Neural Heat]], the target ally gains [[Neural Heat]] scaling with the amount you lost and is [[Psy Sapped]].
 	- This psycast cannot be used while concentrating on another psycast.
 	- You cannot target yourself with this psycast
+- **Stats**:
+	- 1 Turn [[Psy Sapped]] Duration.
+	- 1:1 Neural Heat Lost to Neural Heat Given Ratio.
 - **Upcasting**:
 	- You cannot upcast this psycast.

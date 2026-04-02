@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- 25ft
+	- 25ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,8 +21,14 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You excite neural heat within a creature in range, the creature must make a Wisdom saving throw to steel themselves against the neural heat. 
-		- On a failure, the creature takes 1 psychic damage for each neural heat they have, they then lose all generated [[Neural Heat]]. 
-		- On a success, the creature takes half as much damage and loses half of their generated [[Neural Heat]].
+	- *You transmit very specific psychic waves at a creature, trying to excite neural heat buildup in their brain into a much more dangerous version.*
+	- The target creature must make a Wisdom saving throw to resist the neural excitement.
+		- On a failure, they lose all [[Neural Heat]] and take damage scaling with the amount lost.
+		- On a success, they lose a portion of their [[Neural Heat]] and take damage scaling with the amount lost.
+		- The neural heat lost is rounded up.
+- **Stats**:
+	- 1 Psychic Damage per Neural Heat Lost.
+	- 100% of Neural Heat Lost on Failed Save.
+	- 60% of Neural Heat Lost on Successful Save.
 - **Upcasting**:
 	- You cannot upcast this psycast.

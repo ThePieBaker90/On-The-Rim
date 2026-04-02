@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play a song full of passion, as the band stops for nothing. While playing, the music deals damage to those nearby and your band takes less damage from all sources.*
-	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- For the duration of this psycast, all creatures within range of you are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They must make a Constitution saving throw when any part of this psycast "triggers damage".
 			- On a failed save, they take a moderate amount of sonic damage

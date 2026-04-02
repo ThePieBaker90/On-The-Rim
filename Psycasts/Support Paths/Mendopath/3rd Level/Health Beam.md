@@ -19,16 +19,16 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 5 turns.
+	- Concentration, up to 5 Turns.
 - **Effects**
 	- *A green ray of healing connects you and a teammate healing you both. You can expend an action to increase the healing output to your teammate.*
-	- For the duration of the psycast, there is a healing beam connecting you and the target creature.
+	- For the duration of this psycast, there is a healing beam connecting you and the target creature.
 		- You and the target creature heal a small amount passively at the beginning of your turn.
 		- You may expend an action to burst heal the target creature.
 		- At any time, if the target creature goes beyond beam range from you or you lose line of sight to to the target creature, you lose concentration on this psycast.
 - **Stats**:
-	- 1d4 Health from Beam Passive Heal.
-	- 1d8 + 2 Health from Beam Burst Heal. (+1d8 Health)
+	- 1d4 Health Healed from Beam Passive Heal.
+	- 1d8 + 2 Health Healed from Beam Burst Heal. (+1d8 Health Healed)
 	- 30ft Beam Range.
 - **Upcasting**:
 	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the burst heal from the beam increases by 1d8 health.

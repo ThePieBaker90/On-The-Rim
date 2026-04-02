@@ -21,8 +21,8 @@ aliases:
 	- [[Mass Chaos Skip]] (3 ,44)
 	- [[Mass Skip]] (3, 44)
 - 5th Level:
-	- [[Far Skip]] (70, 0)
-	- [[Skip Portal]] (25, 40)
+	- [[Far Skip]] (40, 0)
+	- [[Skip Portal]] (30, 40)
 ## Miscasts
 - Level 1 Miscast - Unwilling Chaos Skip
 	- You and everything that you have equipped and stored on you teleports to a random grounded point within 50ft. You do not need line of sight to the point.
@@ -31,11 +31,10 @@ aliases:
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Darius' Dislocate]] (4, 28) ([[Abominator Psycasts|Abominator]]) 
+	- [[Location Swap]] (6, 30) ([[Harmomancer Psycasts|Harmomancer]])
 - 3rd Level:
 	- .
 - 4th Level:
 	- .
 - 5th Level:
 	- .
-Skip Gravity - Volatile Space from weird wood wand
-Tech Skip - Turn normal door into portal!

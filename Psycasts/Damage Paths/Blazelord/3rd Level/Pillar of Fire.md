@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns.
+	- 3 Turns.
 - **Effects**:
 	- *You summon a pillar of fire, dealing damage and igniting unlucky creatures caught within.*
 	- Creatures starting their turn within the target cylinder, entering the target cylinder for the first time this turn, or ending their turn within the target cylinder must make a Constitution saving throw. 

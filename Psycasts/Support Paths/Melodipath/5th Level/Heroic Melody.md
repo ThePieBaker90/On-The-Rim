@@ -22,11 +22,11 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play a heroic melody on your instrument, giving your nearby teammates several offensive buffs for battle and wavering the enemy morale.*
-	- For the duration of the psycast, all creatures within range of you are afflicted.
+	- For the duration of this psycast, all creatures within range of you are afflicted.
 	- Non-allied afflicted creatures suffer the following effects:
 		- When they are targeted by an attack, the attacker gains a positive modifier to hit.
 	- Allied afflicted creatures gain the following effects:
-		- When they roll to hit for an attack, their critical hit threshold is reduced.
+		- When they roll to hit for an attack, their [[Criticals#Critical Successes|Critical Success Threshold]] is reduced.
 		- When they are first afflicted, they gain Psychic [[Ammunition]] in their held weapon which scales with the weapon's ammo capacity. 
 			- Psychic ammo acts identically to normal bullets except they leave no casing behind.
 			- This may increase the weapon's stored [[Ammunition]] beyond its ammo capacity.

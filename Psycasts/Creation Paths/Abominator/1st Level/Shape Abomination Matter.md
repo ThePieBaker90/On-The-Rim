@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Material (Up to 1kg of [[Abomination Matter]]).
 - **Duration**:
-	- Channeled, up to 1 hour.
+	- Channeled, up to 1 Hour.
 - **Effects**:
 	- *You excite psycho-fluid particles in [[Abomination Matter]] causing it to take a shape, levitate, or harden.*
 	- You manipulate [[Abomination Matter]] in one of the following ways:

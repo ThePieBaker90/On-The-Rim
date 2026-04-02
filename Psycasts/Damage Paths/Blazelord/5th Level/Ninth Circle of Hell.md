@@ -19,10 +19,10 @@ tags:
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *You summon a ring of fire, preventing creatures caught in the inferno from leaving unscathed.*
-	- For the psycast duration, fire follows the curved edge of the target cylinder along the ground. While a creature is in contact with the fire, they are afflicted. 
+	- For the duration of this psycast, fire follows the curved edge of the target cylinder along the ground. While a creature is in contact with the fire, they are afflicted. 
 		- The fire has a thickness, the fire extends that far out of every single point on the curved edge of the target cylinder.
 		- The fire's height is the height of the target cylinder.
 		- The fire does not spread unless another effect causes it to.

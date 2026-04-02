@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Wagepath
+  - 5th-Level
+---
+- **Path**:
+	- 1st Level [[Wagepath Psycasts|Wagepath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 23
+- [[Range]]:
+	- 35ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You emit psychic signals of clumsiness to a creature causing them to subconsciously disarm themselves in a specific way.*
+	- When you cast this psycast, you choose a form of disarming from the following types:
+		- Knock - The weapon is knocked out of their hand, landing at a random point 10ft away.
+		- Jam - The weapon becomes [[Jammed]].
+		- Unload - The weapon loses all stored [[Ammunition]].
+	- The target creature must make a Wisdom saving throw to prevent your disarming effect.
+		- On a failure, all weapons they are holding suffer the chosen disarming effect (if possible).
+		- On a success, nothing happens.
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You cannot upcast this psycast.

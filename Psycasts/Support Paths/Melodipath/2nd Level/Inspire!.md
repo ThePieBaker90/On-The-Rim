@@ -22,8 +22,8 @@ tags:
 	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *You play an inspiring melody on your instrument, allowing nearby teammates to reroll dice and succeed more often on wisdom saving throws.*
-	- For the duration of the psycast, all allied creatures within range of you gain the following effects:
-		- They gain [[Inspiration]] for the psycast duration.
+	- For the duration of this psycast, all allied creatures within range of you gain the following effects:
+		- They gain [[Inspiration]].
 			- This may only happen once per turn.
 		- They have advantage on wisdom saving throws.
 - **Stats**:

@@ -1,0 +1,34 @@
+---
+tags:
+  - Psycast
+  - Mendopath
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Mendopath Psycasts|Mendopath Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 40
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 10 Turns.
+- **Effects**
+	- *You create a temporary psychic feedback loop between your healing and this psycast. This causes all healing to heal more and more as the psycast goes on. The feedback loop is unstable and will break if you fail to actively heal anybody on your turn.*
+	- For the duration of this psycast, you gain the following effects:
+		- All non-passive healing you do heals additional health scaling with the number of turns this psycast has been active.
+			- The turn this psycast is cast, it is considered to have been active for 1 turn. At the beginning of the caster's next turn it has been active for 2 turns.
+			- This extra healing applies to all creatures healed by the active healing.
+		- This psycast ends prematurely if you do not actively heal any creature on your turn. Passive healing does not extend this psycast.
+			- This is ignored on the turn this psycast is cast.
+- **Stats**:
+	- +1d4 Health Healed from all Active Healing per Turn this Psycast has been Active.
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- Concentration, up to 3 turns.
+	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *You leave a trail of fire where you run, damaging those who attempt to move through the flames.*
 	- You gain the following effects until the end of turn:

@@ -2,10 +2,11 @@
 tags:
   - Psycast
   - Harmomancer
-  - 3rd-Level
+  - 2nd-Level
+  - Skipmancer
 ---
 - **Path**:
-	- 3rd level [[Harmomancer Psycasts|Harmomancer Psycast]]
+	- 2nd level [[Harmomancer Psycasts|Harmomancer Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
 - **Casting Time**:
 	- 1 Action
 - **[[Psyfocus]] Cost:**
@@ -13,7 +14,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 30
 - [[Range]]:
-	- 180ft
+	- 180ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -21,6 +22,6 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You swap locations with a creature of your choice within range.
+	- You swap locations with the target creature. 
 - **Upcasting:**
 	- You cannot upcast this psycast.

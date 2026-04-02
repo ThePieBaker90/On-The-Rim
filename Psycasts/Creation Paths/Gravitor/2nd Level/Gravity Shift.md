@@ -19,11 +19,11 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 5 minutes.
+	- 5 Minutes.
 - **Effects**:
 	- *You create an invisible area of altered gravity in a direction and with a strength of your choice.*
 	- While casting this psycast, choose a strength and direction of gravity for the psycast.
-	- Gravity within the target cuboid is altered to a strength and direction you chose for the psycast duration.
+	- For the duration of this psycast, gravity within the target cuboid is altered to a strength and direction you chose.
 		- External sources of gravity are ignored within the cube.
 - **Stats**:
 	- 3g Max Gravity Strength.

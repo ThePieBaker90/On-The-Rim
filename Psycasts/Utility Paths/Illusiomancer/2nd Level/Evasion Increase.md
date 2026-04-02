@@ -19,8 +19,8 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 turns
+	- 3 Turns
 - **Effects**:
-	- You grant a creature in range +2 [[Evade Class]] for the psycast duration.
+	- For the duration of this psycast, the target creature gains +2 [[Evade Class]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

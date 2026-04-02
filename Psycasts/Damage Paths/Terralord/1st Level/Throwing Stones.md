@@ -26,7 +26,8 @@ tags:
 		- Bricks - Bludgeoning Damage.
 		- Discs - Slashing Damage.
 		- Spikes - Piercing Damage.
-	- Make a ranged attack roll for each stone, adding your psycasting ability modifier to each result. On a hit, a stone deals damage corresponding to its shape.
+	- Make a ranged attack roll for each stone, adding your psycasting ability modifier to each result. 
+		- On a hit, a stone deals damage corresponding to its shape.
 - **Stats**:
 	- 1d6 Bludgeoning Damage from Brick.
 	- 1d6 Slashing Damage from Disc.

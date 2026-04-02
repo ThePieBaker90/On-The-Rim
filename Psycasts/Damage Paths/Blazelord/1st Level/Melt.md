@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 turn.
+	- 1 Turn.
 - **Effects**:
 	- *You excite a metallic object, causing it to heat up to extreme temperatures over the course of a turn.*
 	- You heat up the target object to a temperature of your choice over the course of 1 turn. 

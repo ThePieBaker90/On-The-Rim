@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic, Material (6kg of [[Abomination Matter]]).
 - **Duration**:
-	- Channeled, up to 1 day.
+	- Channeled, up to 1 Day.
 - **Effects**:
 	- *You summon an [[Abomination]], a golem made of [[Abomination Matter]], which can fight, follow basic commands, and take a lot of damage.*
 	- You create an [[Abomination]] at a target point which will follow single word commands you direct at it.

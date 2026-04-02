@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic
 - **Duration**:
-	- 5 turns.
+	- 5 Turns.
 - **Effects**:
 	- *An orb of [[OrganiX]] rises out of the ground, floating in place. Its bright green surface bubbles, barely being held together. Most disturbances will cause the orb to detonate dealing damage to those caught in the explosion.*
 	- You create an orb made of [[OrganiX]] at the target point. 

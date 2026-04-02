@@ -22,8 +22,7 @@ tags:
 	- Instant.
 - **Effects**
 	- All creatures surrounding the target ritual circle heal health scaling with their maximum health.
-		- 
 - **Stats**:
-	- 2:1 Max Health to Healing Ratio.
+	- 2:1 Max Health to Health Healed Ratio.
 - **Upcasting**:
 	- You cannot upcast this psycast. 

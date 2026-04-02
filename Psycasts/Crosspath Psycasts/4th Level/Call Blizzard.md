@@ -20,7 +20,7 @@ tags:
 - **Components**:
 	- Verbal
 - **Duration**:
-	- 3 days
+	- 3 Days
 - **Effects**:
 	- You call upon a harsh blizzard to sweep a circular area centered on you with a radius of 8 miles.
 		- Traversing in a blizzard requires twice as much [[Movement Speed]].

@@ -22,7 +22,7 @@ tags:
 	- 24 Hours.
 - **Effects**:
 	- *You generate strong psychic poison to imbue into something another creature will consume. When the creature consumes it, they are struck with extreme [[Poison Buildup]]. The psychic poison's lifetime is long causing any poisoned thing to return to normal after about a day.*
-	- For the psycast duration, any creature who consumes at least 10% of the poisoned target food or liquid gains heavy [[Poison Buildup]].
+	- For the duration of this psycast, any creature who consumes at least 10% of the poisoned target food or liquid gains heavy [[Poison Buildup]].
 - **Stats**:
 	- 10 Levels of [[Poison Buildup]] Applied.
 	- 15L Max Liquid Purified. (+15L)

@@ -11,10 +11,10 @@ aliases:
 - 1st Level:
 	- [[Darkvision]] (12, 0)
 	- [[Snuff Light]] (5, 0)
-	- [[Word of Fear]] (6, 24)
 - 2nd Level:
 	- [[Psychic Blindness]] (5, 21)
-	- [[Blinding Spray]] (6, 26)
+	- [[Gloom Spray]] (6, 26)
+	- [[Horrific Visage]] (6, 23)
 - 3rd Level:
 	- [[Shadow Stalk]] (6, 35)
 	- [[Void Shroud]] (20, 50)
@@ -30,7 +30,7 @@ aliases:
 	- Darkness overflows within you, you become [[Blinded]] for 3 turns.
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Word of Fear]] (4, 20) ([[Empath Psycasts|Empath]])
 - 3rd Level:
 	- .
 - 4th Level:
