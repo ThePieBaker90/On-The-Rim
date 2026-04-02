@@ -9,15 +9,21 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Create Light]]
 - 2nd Level:
-	- .
+	- [[Blinding Light]]
+	- [[Detection Light]]
+	- [[Fireworks]]
+	- [[Identify]]
 - 3rd Level:
-	- .
+	- [[Beam Light Attack]]
+	- [[Execute Enemy]]
+	- [[Sanctuary Like]]
 - 4th Level:
-	- .
+	- [[Ball of Light]]
+	- [[Reflecting Light]]
 - 5th Level:
-	- .
+	- [[Prism Blast]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

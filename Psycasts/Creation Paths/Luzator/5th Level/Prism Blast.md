@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- *.*
+	- .
+- **Stats**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

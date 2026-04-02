@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHexagonNumber1",
       "LiListTodo",
       "TiHexagonNumber5",
       "TiHexagonNumber4",
-      "TiHexagonNumber3",
-      "TiHexagonNumber2"
+      "TiHexagonNumber3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1263,5 +1263,21 @@
   "Psycasts/Damage Paths/Terralord/3rd Level/BIIIIIIG Projectile.md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/3rd Level/Burrow.md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/4th Level/Paige Sword Immobilize.md": "LiListTodo",
-  "Psycasts/Damage Paths/Terralord/5th Level/Earth Shaker.md": "LiListTodo"
+  "Psycasts/Damage Paths/Terralord/5th Level/Earth Shaker.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/5th Level": "TiHexagonNumber5",
+  "Psycasts/Creation Paths/Luzator/4th Level": "TiHexagonNumber4",
+  "Psycasts/Creation Paths/Luzator/3rd Level": "TiHexagonNumber3",
+  "Psycasts/Creation Paths/Luzator/2nd Level": "TiHexagonNumber2",
+  "Psycasts/Creation Paths/Luzator/1st Level/Create Light.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/1st Level": "TiHexagonNumber1",
+  "Psycasts/Creation Paths/Luzator/2nd Level/Blinding Light.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/2nd Level/Detection Light.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/2nd Level/Fireworks.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/2nd Level/Identify.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/3rd Level/Beam Light Attack.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/3rd Level/Execute Enemy.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/3rd Level/Sanctuary Like.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/4th Level/Ball of Light.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/4th Level/Reflecting Light.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/5th Level/Prism Blast.md": "LiListTodo"
 }
