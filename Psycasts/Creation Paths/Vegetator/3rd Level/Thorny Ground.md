@@ -1,0 +1,28 @@
+---
+tags:
+  - Psycast
+  - Vegetator
+---
+- **Path**:
+	- . Level [[Vegetator Psycasts|Vegetator Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- *.*
+	- .hurts to use movement
+- **Stats**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

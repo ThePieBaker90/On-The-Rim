@@ -9,15 +9,19 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Plants to manipulate objects]]
+	- [[Vine Basic Attack]]
 - 2nd Level:
-	- .
+	- [[Conjure Ficus]]
+	- [[Local Flora]]
 - 3rd Level:
-	- .
+	- [[Rising Flower Platform]]
+	- [[Thorny Ground]]
+	- [[Tree Wall]]
 - 4th Level:
-	- .
+	- [[Ivy Kudzu Bomb]]
 - 5th Level:
-	- .
+	- [[Stylized Lifeweaver Grab]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .
