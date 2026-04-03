@@ -2,9 +2,10 @@
 tags:
   - Psycast
   - Vegetator
+  - 5th-Level
 ---
 - **Path**:
-	- . Level [[Vegetator Psycasts|Vegetator Psycast]]
+	- 3rd Level [[Vegetator Psycasts|Vegetator Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
