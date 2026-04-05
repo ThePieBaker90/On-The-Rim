@@ -1,10 +1,11 @@
 ---
 tags:
   - Psycast
-  - Vegetator
+  - Chronomancer
+  - 2nd-Level
 ---
 - **Path**:
-	- . Level [[Vegetator Psycasts|Vegetator Psycast]]
+	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
