@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHexagonNumber5",
       "TiHexagonNumber4",
       "TiHexagonNumber3",
       "TiHexagonNumber2",
-      "TiHexagonNumber1",
-      "LiListTodo"
+      "TiHexagonNumber1"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1314,5 +1314,9 @@
   "Psycasts/Utility Paths/Hemomancer/3rd Level/Blood Tribute.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/4th Level/Bleeding Sphere.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/5th Level/Blood Fury.md": "LiListTodo",
-  "Psycasts/Utility Paths/Hemomancer/5th Level/Mutate Limb.md": "LiListTodo"
+  "Psycasts/Utility Paths/Hemomancer/5th Level/Mutate Limb.md": "LiListTodo",
+  "Psycasts/Utility Paths/Illusiomancer/1st Level": "TiHexagonNumber1",
+  "Psycasts/Utility Paths/Illusiomancer/3rd Level": "TiHexagonNumber3",
+  "Psycasts/Utility Paths/Illusiomancer/4th Level": "TiHexagonNumber4",
+  "Psycasts/Utility Paths/Illusiomancer/5th Level": "TiHexagonNumber5"
 }

@@ -7,20 +7,23 @@ tags:
 - **Path**:
 	- 2nd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
 - **Casting Time:**
-	- 1 Bonus Action
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
 	- 7
 - **[[Neural Heat]] Generation:**
 	- 25
 - [[Range]]:
-	- 30ft
+	- 30ft.
 - **Target**:
 	- A creature within range.
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 3 Turns
+	- 3 Turns. (+2 Turns)
 - **Effects**:
+	- *.*
 	- For the duration of this psycast, the target creature gains +2 [[Evade Class]].
+- **Stats**:
+	- .
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

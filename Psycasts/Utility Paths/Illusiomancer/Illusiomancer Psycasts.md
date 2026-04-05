@@ -9,15 +9,20 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Simple Illusion]]
 - 2nd Level:
 	- [[Evasion Increase]]
+	- [[Invisibility]]
 - 3rd Level:
-	- .
+	- [[Clone of Self]]
+	- [[Disguise]]
+	- [[Illusion]]
 - 4th Level:
-	- .
+	- [[Greater Invisibility]]
+	- [[Persistent Illusion]]
 - 5th Level:
-	- .
+	- [[Complex Illusion]]
+	- [[False Visions]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .
