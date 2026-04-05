@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Hemomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- *.*
+	- .For some special effect, cleanse an enemy
+- **Stats**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
