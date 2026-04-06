@@ -11,7 +11,7 @@ tags:
 - **[[Psyfocus]] Cost:**
 	- 5
 - **[[Neural Heat]] Generation:**
-	- 24
+	- 19
 - [[Range]]:
 	- 30ft.
 - **Target**:
@@ -22,7 +22,9 @@ tags:
 	- 2 Turns.
 - **Effects**:
 	- *You imbue psychic energy into a word of restriction, directing it at a creature. The creature finds movement very difficult and that leaving the ground is nearly impossible. This also interrupts psycasting protocols in their psylink to do with movement.*
-	- For the duration of this psycast, the target creature is afflicted.
+	- The target creature must make a Wisdom saving throw to resist the restriction.
+		- On a failure, for the duration of this psycast, they are afflicted.
+		- On a success, nothing happens.
 	- Afflicted creatures suffer the following effects:
 		- Traversing requires additional [[Movement Speed]] per 1ft moved.
 		- They are unable to use [[Psycasts]] which change their position.
