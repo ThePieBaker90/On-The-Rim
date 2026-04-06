@@ -11,7 +11,7 @@ aliases:
 - 1st Level
 	- [[Pitfall]] (13, 0)
 	- [[Throwing Stones]] (2, 17)
-	- [[Word of Grounding]] (5, 19)
+	- [[Word of Slowing]] (5, 19)
 - 2nd Level:
 	- [[Summon Stone Wall]]
 	- [[Sand Blast (Jam Guns)]]
