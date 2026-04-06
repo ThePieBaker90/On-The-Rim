@@ -9,20 +9,20 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Fleeting Friendship]] (14, 0)
-	- [[Word of Command]] (3, 18)
+	- [[Entice]]
+	- [[Fleeting Friendship]]
 - 2nd Level:
-	- [[Berserk]] (8, 32)
-	- [[Read Thoughts]] (12, 15)
-	- [[Mind Control]]
+	- [[Read Thoughts]]
+	- [[Word of Command]]
 - 3rd Level:
-	- Subjugate
+	- [[Berserk]]
+	- [[Redirect]]
+	- [[Take Action]]
 - 4th Level:
-	- Take Turn
-	- Take Action
+	- [[Take Turn]]
 - 5th Level:
-	- Mind Swap
-	- Do (complex command)
+	- [[Do]]
+	- [[Mind Swap]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Puppetmancer
-  - 2nd-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 2nd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+	- 3rd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -21,9 +21,12 @@ tags:
 - **Duration**:
 	- Concentration, up to 10 Turns.
 - **Effects**:
+	- *.*
 	- You psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. 
 		- On a failure, for the duration of this psycast they are sent into a [[Berserk Rage]]. 
 		- On a success, the psycast ends.
 		- The target creature may repeat the saving throw at the beginning of each of your turns.
+- **Stats**:
+	- .
 - **Upcasting**:
 	- You cannot upcast this psycast.

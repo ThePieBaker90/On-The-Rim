@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "TiHexagonNumber5",
       "TiHexagonNumber4",
       "TiHexagonNumber3",
-      "TiHexagonNumber2",
-      "TiHexagonNumber1"
+      "TiHexagonNumber2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -979,11 +979,8 @@
   "Psycasts/Utility Paths/Noctomancer": "LiSparkles",
   "Psycasts/Utility Paths/Noctomancer/Noctomancer Psycasts.md": "LiInfo",
   "Psycasts/Utility Paths/Puppetmancer": "LiListTodo",
-  "Psycasts/Utility Paths/Puppetmancer/1st Level/Fleeting Friendship.md": "LiSparkles",
-  "Psycasts/Utility Paths/Puppetmancer/1st Level/Word of Command.md": "LiSparkles",
-  "Psycasts/Utility Paths/Puppetmancer/2nd Level/Berserk.md": "LiSparkles",
-  "Psycasts/Utility Paths/Puppetmancer/2nd Level/Mind Control.md": "LiListTodo",
-  "Psycasts/Utility Paths/Puppetmancer/2nd Level/Read Thoughts.md": "LiSparkles",
+  "Psycasts/Utility Paths/Puppetmancer/1st Level/Fleeting Friendship.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/2nd Level/Read Thoughts.md": "LiListTodo",
   "Psycasts/Utility Paths/Puppetmancer/Puppetmancer Psycasts.md": "LiListTodo",
   "Psycasts/Utility Paths/Skipmancer": "LiSparkles",
   "Psycasts/Utility Paths/Skipmancer/Skipmancer Psycasts.md": "LiInfo",
@@ -1318,5 +1315,16 @@
   "Psycasts/Utility Paths/Illusiomancer/1st Level": "TiHexagonNumber1",
   "Psycasts/Utility Paths/Illusiomancer/3rd Level": "TiHexagonNumber3",
   "Psycasts/Utility Paths/Illusiomancer/4th Level": "TiHexagonNumber4",
-  "Psycasts/Utility Paths/Illusiomancer/5th Level": "TiHexagonNumber5"
+  "Psycasts/Utility Paths/Illusiomancer/5th Level": "TiHexagonNumber5",
+  "Psycasts/Utility Paths/Puppetmancer/5th Level": "TiHexagonNumber5",
+  "Psycasts/Utility Paths/Puppetmancer/3rd Level": "TiHexagonNumber3",
+  "Psycasts/Utility Paths/Puppetmancer/4th Level": "TiHexagonNumber4",
+  "Psycasts/Utility Paths/Puppetmancer/3rd Level/Redirect.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/4th Level/Take Turn.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/5th Level/Do.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/5th Level/Mind Swap.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/2nd Level/Word of Command.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/3rd Level/Berserk.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/1st Level/Entice.md": "LiListTodo",
+  "Psycasts/Utility Paths/Puppetmancer/3rd Level/Take Action.md": "LiListTodo"
 }

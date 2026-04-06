@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Puppetmancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- *.*
+	- .As a reaction to a creature taking aim at a creature with a weapon or spell, you can attempt to force them to attack their ally instead (or miss)
+- **Stats**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

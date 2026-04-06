@@ -21,11 +21,14 @@ tags:
 - **Duration**:
 	- 1 Minute.
 - **Effects**:
+	- *.*
 	- You charm a non-hostile creature within range to be temporarily friendly. 
 	- The target creature is afflicted for the psycast duration.
 	- Afflicted creatures suffer the following:
 		- They are [[Charmed]] by you.
 		- They will act as if you are good friends. 
 		- When the psycast ends, they will know that you used this psycast on them and may retaliate.
+- **Stats**:
+	- .
 - **Upcasting**:
 	- You cannot upcast this psycast.
