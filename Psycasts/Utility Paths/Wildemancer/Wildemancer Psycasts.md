@@ -9,15 +9,20 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Rend]]
+	- [[Talk to Animals]]
 - 2nd Level:
-	- .
+	- [[Familiar]]
+	- [[Pounce]]
 - 3rd Level:
-	- .
+	- [[Animal Backup]]
+	- [[Crushing Bite]]
+	- [[Gain Animalistic Feature]]
+	- [[Transform into Rodent]]
 - 4th Level:
-	- .
+	- [[Transform into Animal]]
 - 5th Level:
-	- .
+	- [[Transform into Large Animal]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

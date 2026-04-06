@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHexagonNumber1",
       "LiListTodo",
       "TiHexagonNumber5",
       "TiHexagonNumber4",
-      "TiHexagonNumber3",
-      "TiHexagonNumber2"
+      "TiHexagonNumber3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1326,5 +1326,20 @@
   "Psycasts/Utility Paths/Puppetmancer/2nd Level/Word of Command.md": "LiListTodo",
   "Psycasts/Utility Paths/Puppetmancer/3rd Level/Berserk.md": "LiListTodo",
   "Psycasts/Utility Paths/Puppetmancer/1st Level/Entice.md": "LiListTodo",
-  "Psycasts/Utility Paths/Puppetmancer/3rd Level/Take Action.md": "LiListTodo"
+  "Psycasts/Utility Paths/Puppetmancer/3rd Level/Take Action.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/5th Level": "TiHexagonNumber5",
+  "Psycasts/Utility Paths/Wildemancer/4th Level": "TiHexagonNumber4",
+  "Psycasts/Utility Paths/Wildemancer/3rd Level": "TiHexagonNumber3",
+  "Psycasts/Utility Paths/Wildemancer/2nd Level": "TiHexagonNumber2",
+  "Psycasts/Utility Paths/Wildemancer/1st Level": "TiHexagonNumber1",
+  "Psycasts/Utility Paths/Wildemancer/5th Level/Transform into Large Animal.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/4th Level/Transform into Animal.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/3rd Level/Transform into Rodent.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/3rd Level/Crushing Bite.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/3rd Level/Gain Animalistic Feature.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/3rd Level/Animal Backup.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/2nd Level/Pounce.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/2nd Level/Familiar.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/1st Level/Talk to Animals.md": "LiListTodo",
+  "Psycasts/Utility Paths/Wildemancer/1st Level/Rend.md": "LiListTodo"
 }
