@@ -8,10 +8,10 @@ aliases:
 ---
 *todo.*
 ## Core Psycasts
-- 1st Level:
+- 1st Level
+	- [[Pitfall]] (13, 0)
+	- [[Grounding Hex]]
 	- [[Throwing Stones]] (2, 17)
-	- [[Pitfall]]
-	- [[Prevent Mobility Actions]]
 - 2nd Level:
 	- [[Summon Stone Wall]]
 	- [[Sand Blast (Jam Guns)]]
