@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**
 	- *You touch a creature cleansing them of all [[Conditions]] that they are suffering from. Positive conditions are unaffected.*
-	- All negative & mixed [[Conditions]]  are removed from the target creature.
+	- All negative & mixed [[Conditions]] are removed from the target creature.
 - **Stats**:
 	- None.
 - **Upcasting**:

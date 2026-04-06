@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Terralord
+---
+- **Path**:
+	- 1st Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal.
+- **Duration**:
+	- 2 Turns.
+- **Effects**:
+	- *You imbue psychic energy into a word of restriction, directing it at a creature. The creature finds movement very difficult and that leaving the ground is nearly impossible. This also interrupts psycasting protocols in their psylink to do with movement.*
+	- For the duration of this psycast, the target creature is afflicted.
+	- Afflicted creatures suffer the following effects:
+		- Traversing requires additional [[Movement Speed]] per 1ft moved.
+		- They are unable to use [[Psycasts]] which change their position.
+		- They are [[Grounded]].
+- **Stats**:
+	- +1ft [[Movement Speed]] Required Per 1ft Moved.
+- **Upcasting**:
+	- You may upcast this psycast. For every  psyfocus spent above the normal cost for this psycast, .

@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level
 	- [[Pitfall]] (13, 0)
-	- [[Grounding Hex]]
+	- [[Word of Grounding]]
 	- [[Throwing Stones]] (2, 17)
 - 2nd Level:
 	- [[Summon Stone Wall]]

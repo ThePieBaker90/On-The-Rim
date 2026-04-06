@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretDown",
+      "LiSparkles",
       "TiHexagonNumber1",
       "LiListTodo",
-      "TiHexagonNumber5",
-      "TiHexagonNumber4",
-      "TiHexagonNumber3"
+      "TiHexagonNumber5"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1252,8 +1252,7 @@
   "Psycasts/Utility Paths/Noctomancer/2nd Level/Gloom Spray.md": "LiSparkles",
   "Psycasts/Crosspath Psycasts/4th Level/Lucky Strike.md": "LiSparkles",
   "Psycasts/Support Paths/Wagepath/1st Level/Disarming Hex.md": "LiSparkles",
-  "Psycasts/Damage Paths/Terralord/1st Level/Pitfall.md": "LiListTodo",
-  "Psycasts/Damage Paths/Terralord/1st Level/Prevent Mobility Actions.md": "LiListTodo",
+  "Psycasts/Damage Paths/Terralord/1st Level/Pitfall.md": "LiSparkles",
   "Psycasts/Damage Paths/Terralord/2nd Level/Immobilize.md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/2nd Level/Sand Blast (Jam Guns).md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/2nd Level/Summon Stone Wall.md": "LiListTodo",
@@ -1341,5 +1340,7 @@
   "Psycasts/Utility Paths/Wildemancer/2nd Level/Pounce.md": "LiListTodo",
   "Psycasts/Utility Paths/Wildemancer/2nd Level/Familiar.md": "LiListTodo",
   "Psycasts/Utility Paths/Wildemancer/1st Level/Talk to Animals.md": "LiListTodo",
-  "Psycasts/Utility Paths/Wildemancer/1st Level/Rend.md": "LiListTodo"
+  "Psycasts/Utility Paths/Wildemancer/1st Level/Rend.md": "LiListTodo",
+  "Conditions/Basic Conditions/Grounded.md": "FarSquareCaretDown",
+  "Psycasts/Damage Paths/Terralord/1st Level/Word of Grounding.md": "LiSparkles"
 }
