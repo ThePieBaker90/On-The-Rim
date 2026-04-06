@@ -13,17 +13,17 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 10ft.
 - **Target**:
-	- .
+	- A grounded cuboid normal to the ground with the center of its base within range.
 - **Components**:
 	- .
 - **Duration**:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- For the duration of this psycast
 - **Stats**:
-	- .
+	- . Rock Wall Health.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
