@@ -12,9 +12,9 @@ aliases:
 	- [[Pitfall]] (13, 0)
 	- [[Throwing Stones]] (2, 17)
 - 2nd Level:
-	- [[Summon Stone Wall]]
-	- [[Sand Blast]]
+	- [[Jamming Sand]] (4, 30)
 	- [[Word of Slowing]] (5, 19)
+	- [[Summon Stone Wall]]
 - 3rd Level:
 	- [[BIIIIIIG Projectile]]
 	- [[Burrow]]
