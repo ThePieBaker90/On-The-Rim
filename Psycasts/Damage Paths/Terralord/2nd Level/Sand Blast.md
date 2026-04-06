@@ -13,17 +13,18 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
-	- .
+	- A cone with its apex within range.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
 	- .
 - **Stats**:
-	- .
+	- ft Target Cone Length.
+	- ft Target Cone Max Width.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

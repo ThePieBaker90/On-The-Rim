@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Verbal.
 - **Duration**:
-	- 2 Turns.
+	- 2 Turns. (+1 Turn)
 - **Effects**:
 	- *You imbue psychic energy into a word of restriction, directing it at a creature. The creature finds movement very difficult and that leaving the ground is nearly impossible. This also interrupts psycasting protocols in their psylink to do with movement.*
 	- The target creature must make a Wisdom saving throw to resist the restriction.
@@ -32,4 +32,4 @@ tags:
 - **Stats**:
 	- +1ft [[Movement Speed]] Required Per 1ft Moved.
 - **Upcasting**:
-	- You may upcast this psycast. For every  psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.

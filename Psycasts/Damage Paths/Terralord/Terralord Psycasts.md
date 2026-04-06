@@ -13,7 +13,7 @@ aliases:
 	- [[Throwing Stones]] (2, 17)
 - 2nd Level:
 	- [[Summon Stone Wall]]
-	- [[Sand Blast (Jam Guns)]]
+	- [[Sand Blast]]
 	- [[Word of Slowing]] (5, 19)
 - 3rd Level:
 	- [[BIIIIIIG Projectile]]
