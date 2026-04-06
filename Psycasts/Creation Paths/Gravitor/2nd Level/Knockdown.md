@@ -25,7 +25,7 @@ tags:
 	- The target creature must make a Constitution saving throw to stand their ground. 
 		- On a failure, they are knocked [[Prone]] and [[Stunned]].
 		- On a success, nothing happens.
-		- Airborne creatures automatically fail the Dexterity saving throw and are [[Prone]] and [[Stunned]] for longer.
+		- Airborne creatures automatically fail the Constitution saving throw and are [[Prone]] and [[Stunned]] for longer.
 - **Stats**:
 	- 1 Turn [[Stunned]] Duration.
 	- +1 Turn [[Stunned]] Duration For Airborne Creatures.
