@@ -10,8 +10,8 @@ aliases:
 ## Core Psycasts
 - 1st Level
 	- [[Pitfall]] (13, 0)
-	- [[Word of Grounding]]
 	- [[Throwing Stones]] (2, 17)
+	- [[Word of Grounding]] (5, 24)
 - 2nd Level:
 	- [[Summon Stone Wall]]
 	- [[Sand Blast (Jam Guns)]]
