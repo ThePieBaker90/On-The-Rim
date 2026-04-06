@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Terralord
-  - 2nd-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 2nd Level [[Terralord Psycasts|Terralord Psycast]]
+	- 3rd Level [[Terralord Psycasts|Terralord Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -15,15 +15,17 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A creature within range on the ground.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
-	- .
+	- The target creature must make a Dexterity saving throw to avoid immobilization.
+		- On a failure, they are [[Immobilized]].
+		- On a success, nothing happens.
 - **Stats**:
-	- .
+	- 1 Turn [[Immobilized]] Duration.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

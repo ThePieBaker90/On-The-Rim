@@ -11,14 +11,14 @@ aliases:
 - 1st Level
 	- [[Pitfall]] (13, 0)
 	- [[Throwing Stones]] (2, 17)
-	- [[Word of Slowing]] (5, 19)
 - 2nd Level:
 	- [[Summon Stone Wall]]
 	- [[Sand Blast (Jam Guns)]]
-	- [[Immobilize]]
+	- [[Word of Slowing]] (5, 19)
 - 3rd Level:
 	- [[BIIIIIIG Projectile]]
 	- [[Burrow]]
+	- [[Immobilize]]
 - 4th Level:
 	- [[Paige Sword Immobilize]]
 - 5th Level:

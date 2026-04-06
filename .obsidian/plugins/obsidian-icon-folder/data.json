@@ -1253,7 +1253,6 @@
   "Psycasts/Crosspath Psycasts/4th Level/Lucky Strike.md": "LiSparkles",
   "Psycasts/Support Paths/Wagepath/1st Level/Disarming Hex.md": "LiSparkles",
   "Psycasts/Damage Paths/Terralord/1st Level/Pitfall.md": "LiSparkles",
-  "Psycasts/Damage Paths/Terralord/2nd Level/Immobilize.md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/2nd Level/Sand Blast (Jam Guns).md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/2nd Level/Summon Stone Wall.md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/3rd Level/BIIIIIIG Projectile.md": "LiListTodo",
@@ -1342,5 +1341,6 @@
   "Psycasts/Utility Paths/Wildemancer/1st Level/Talk to Animals.md": "LiListTodo",
   "Psycasts/Utility Paths/Wildemancer/1st Level/Rend.md": "LiListTodo",
   "Conditions/Basic Conditions/Grounded.md": "FarSquareCaretDown",
-  "Psycasts/Damage Paths/Terralord/1st Level/Word of Slowing.md": "LiSparkles"
+  "Psycasts/Damage Paths/Terralord/2nd Level/Word of Slowing.md": "LiSparkles",
+  "Psycasts/Damage Paths/Terralord/3rd Level/Immobilize.md": "LiListTodo"
 }
