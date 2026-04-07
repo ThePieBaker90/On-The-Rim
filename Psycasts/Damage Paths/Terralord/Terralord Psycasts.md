@@ -14,7 +14,7 @@ aliases:
 - 2nd Level:
 	- [[Jamming Sand]] (4, 30)
 	- [[Word of Slowing]] (5, 19)
-	- [[Rock Wall]]
+	- [[Rock Wall]] (10, 32)
 - 3rd Level:
 	- [[BIIIIIIG Projectile]]
 	- [[Burrow]]
