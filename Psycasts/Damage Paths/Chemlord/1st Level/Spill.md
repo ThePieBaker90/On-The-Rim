@@ -24,7 +24,7 @@ tags:
 	- *You spill [[Anti-Glue]] over all floors in an area, making traversal incredibly difficult.*
 	- For the duration of this psycast, all ground within the target sphere is coated in [[Anti-Glue]].
 	- [[Anti-Glue]] has the following effects:
-		- Traversing through it requires more [[Movement Speed]] per 1ft moved.
+		- Traversing through it requires additional [[Movement Speed]] per 1ft moved.
 		- Creatures moving through it for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
 			- On a failure, they fall [[Prone]].
 			- On a success, nothing happens.

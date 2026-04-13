@@ -9,6 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level
+	- [[Floorshatter]] (3, 10)
 	- [[Pitfall]] (13, 0)
 	- [[Throwing Stones]] (2, 17)
 - 2nd Level:
