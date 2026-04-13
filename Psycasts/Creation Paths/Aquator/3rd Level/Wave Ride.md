@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 3 Turns. (+1 Turn)
 - **Effects**:
 	- *Water pools at your feet before lifting you in a small wave enhancing your movement abilities and pushing nearby creatures away.*
-	- You gain the following effects for the duration of this psycast:
+	- For the duration of this psycast, you have the following effects:
 		- Your [[Movement Speed]] increases.
 		- You may not dash.
 		- Creatures you attempt to move through must make a dexterity saving throw. 
