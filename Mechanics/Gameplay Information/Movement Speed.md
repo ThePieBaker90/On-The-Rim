@@ -6,17 +6,24 @@ aliases:
   - Movement
 ---
 ## Movement Speed Overview
-- All creatures have a movement speed (also called speed or movement), speed is used when moving in battle and it determines how far a creature can travel in 1 turn (6 seconds). 
-	- The base movement speed most creatures have is 30ft.
-	- Movement speed is a resource measured in feet that can be increased or decreased.
+- All creatures have a movement speed. Movement speed is used when moving in battle and it determines how far a creature can travel in 1 turn (6 seconds). 
+	- Most creature's base movement speed is 30ft.
+	- Movement speed is a resource that can be increased or decreased.
 		- Unspent movement speed is lost when you begin your next turn.
 	- Movement speed is measured in feet, when converting to other distances 5 feet = 1.524 meters.
-- Moving 1 foot requires 1ft of movement speed. Moving 1 tile requires 5ft of movement speed. Certain effects can make it so moving 1 foot costs more than 1ft of movement speed.
-- At the beginning of your turn, you determine your speed for the turn. To do this simply take your movement speed and apply all [[#Movement Speed Effects]] in order. The result is the amount of speed you have that turn.
+- Moving 1 foot of distance requires 1ft of movement speed. Moving 1 tile of distance requires 5ft of movement speed. 
+	- Certain effects can make it so moving 1 foot of distance costs a different amount of movement speed.
+- At the beginning of each of your turns, you determine your movement speed for the turn. 
+	- To do this simply take your base movement speed and apply all [[#Movement Speed Effects]] in order. The result is the amount of movement speed you have until the beginning of your next turn.
 - Movement speed only pertains to movement in battle, for movement over long distances see [[Travel]].
 ## Movement Speed Effects
-- Your movement speed can be modified by other effects, there are 4 types of effects: Increasing, Slowing, Multiplier, and Constant. 
-- Effects on a creature's movement speed are calculated in order of Increasing -> Slowing -> Multiplier -> Constant.
+- Your movement speed can be modified by other effects, there are 4 types of effects: 
+	- Increasing, Slowing, Multiplier, and Constant. 
+- Effects on a creature's movement speed are calculated the the following order: 
+	- Increasing -> Slowing -> Multiplier -> Constant.
+- When a movement speed effect is initially applied, it affects the creature's current movement speed immediately. 
+	- These effects obey the effect laid out above.
+	- For example, if a creature is affected a slowing effect, their current movement speed is decreased by the slowing effect immediately, not waiting to the beginning of their next turn.
 ### Increasing Effects
 - These effects increase a creature's movement speed by a flat amount.
 	- For example, [[Energizing Beat]] increases allied afflicted creature's movement speed by a flat 10ft.
