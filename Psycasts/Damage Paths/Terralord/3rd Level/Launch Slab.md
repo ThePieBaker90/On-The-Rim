@@ -21,8 +21,8 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You psychically create and throw a massive stone brick, causing immense damage and creating rubble wherever it lands.*
-	- All creatures within the target cuboid must make a Dexterity saving throw to dodge the stone brick.
+	- *You psychically create and throw a massive stone slab, causing immense damage and creating rubble wherever it lands.*
+	- All creatures within the target cuboid must make a Dexterity saving throw to dodge the stone slab.
 		- On a failure, they take massive damage from the stone and become [[Paralyzed]] in the rubble.
 		- On a success, they move to a location outside of, but within 5ft, of the target cuboid.
 		- If a creature in the target cuboid has enough remaining [[Movement Speed]] to leave the target cuboid, they gain advantage on the saving throw.
@@ -30,7 +30,7 @@ tags:
 		- When the rubble is reduced to 0 health, it is destroyed and all creatures [[Paralyzed]] by the rubble lose the condition.
 		- The rubble may be climbed with relative ease.
 - **Stats**:
-	- 4d20 Bludgeoning Damage from Stone Brick.
+	- 4d20 Bludgeoning Damage from Stone Slab.
 	- 35 Rubble Health.
 	- 10ft Target Cuboid Length. (+5ft)
 	- 10ft Target Cuboid Width. (+5ft)

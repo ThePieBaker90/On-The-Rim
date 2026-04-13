@@ -16,7 +16,7 @@ aliases:
 	- [[Word of Slowing]] (5, 19)
 	- [[Rock Wall]] (10, 32)
 - 3rd Level:
-	- [[BIIIIIIG Projectile]]
+	- [[Launch Slab]]
 	- [[Burrow]]
 	- [[Immobilize]]
 - 4th Level:
