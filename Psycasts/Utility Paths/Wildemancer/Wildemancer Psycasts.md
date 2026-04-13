@@ -30,7 +30,7 @@ aliases:
 	- .
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Burrow]] (,) ([[Terralord Psycasts|Terralord]])
 - 3rd Level:
 	- .
 - 4th Level:

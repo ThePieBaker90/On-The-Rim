@@ -17,7 +17,7 @@ aliases:
 	- [[Rock Wall]] (10, 32)
 - 3rd Level:
 	- [[Launch Slab]] (14, 34)
-	- [[Burrow]]
+	- 
 	- [[Immobilize]]
 - 4th Level:
 	- [[Paige Sword Immobilize]]
@@ -30,7 +30,7 @@ aliases:
 	- .
 ## Crosspath Psycasts
 - 2nd Level:
-	- .
+	- [[Burrow]] (,) ([[Wildemancer Psycasts|Wildemancer]])
 - 3rd Level:
 	- .
 - 4th Level:
