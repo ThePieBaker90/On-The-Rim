@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- A creature within range on the ground.
+	- A creature within range.
 - **Components**:
 	- .
 - **Duration**:
