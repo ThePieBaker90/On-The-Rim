@@ -2,16 +2,16 @@
 tags:
   - Psycast
   - Terralord
-  - 2nd-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 2nd Level [[Terralord Psycasts|Terralord Psycast]]
+	- 3rd Level [[Terralord Psycasts|Terralord Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 10
 - **[[Neural Heat]] Generation:**
-	- 32
+	- 30
 - [[Range]]:
 	- 10ft.
 - **Target**:
@@ -33,4 +33,4 @@ tags:
 	- 20ft Target Cuboid Width.
 	- 20ft Target Cuboid Height.
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional minute and the rock wall's health increases by 25.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional minute and the rock wall's health increases by 25.

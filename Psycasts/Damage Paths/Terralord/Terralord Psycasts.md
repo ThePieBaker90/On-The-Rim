@@ -14,11 +14,11 @@ aliases:
 	- [[Throwing Stones]] (2, 17)
 - 2nd Level:
 	- [[Jamming Sand]] (4, 30)
+	- [[Rock Gauntlet]]
 	- [[Word of Slowing]] (5, 19)
-	- [[Rock Wall]] (10, 32)
 - 3rd Level:
 	- [[Launch Slab]] (14, 34)
-	- [[Rock Gauntlet]]
+	- [[Rock Wall]] (10, 32)
 - 4th Level:
 	- [[Paige Sword Immobilize]]
 - 5th Level:

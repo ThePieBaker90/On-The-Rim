@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Terralord
-  - 3rd-Level
+  - 2nd-Level
 ---
 - **Path**:
-	- 3rd Level [[Terralord Psycasts|Terralord Psycast]]
+	- 2nd Level [[Terralord Psycasts|Terralord Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
 	- A creature within range.
 - **Components**:
@@ -22,9 +22,8 @@ tags:
 	- Instant.
 - **Effects**:
 	- *.*
-	- The target creature must make a Dexterity saving throw to avoid immobilization.
-		- On a failure, they are [[Immobilized]].
-		- On a success, nothing happens.
+	- Make a melee attack roll against the target creature, adding your psycasting ability modifier and your strength to the result.
+		- 
 - **Stats**:
 	- 1 Turn [[Immobilized]] Duration.
 - **Upcasting**:
