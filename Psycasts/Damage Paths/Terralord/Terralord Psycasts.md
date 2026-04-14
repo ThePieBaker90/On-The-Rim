@@ -14,7 +14,7 @@ aliases:
 	- [[Throwing Stones]] (2, 17)
 - 2nd Level:
 	- [[Jamming Sand]] (4, 30)
-	- [[Rock Gauntlet]]
+	- [[Rock Gauntlet]] (2, 18)
 	- [[Word of Slowing]] (5, 19)
 - 3rd Level:
 	- [[Launch Slab]] (14, 34)
