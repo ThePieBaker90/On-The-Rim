@@ -28,7 +28,7 @@ tags:
 	- You are immune to the effects of this psycast.
 - **Stats**:
 	- 3d4 Bludgeoning Damage from Rock Punch.
-	- 2 Piercing Damage from Gauntlet Shrapnel.
+	- 2 Piercing Damage from Gauntlet Shrapnel. (+2 Piercing Damage)
 	- 10ft Shatter Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the gauntlet shrapnel deals an additional 2 piercing damage.
