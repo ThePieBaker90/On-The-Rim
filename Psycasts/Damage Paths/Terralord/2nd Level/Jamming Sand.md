@@ -29,4 +29,4 @@ tags:
 	- 20ft Target Cone Length.
 	- 30ft Target Cone Max Width.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.
