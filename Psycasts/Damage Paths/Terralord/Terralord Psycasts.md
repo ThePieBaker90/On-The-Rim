@@ -31,6 +31,7 @@ aliases:
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Burrow]] (,) ([[Wildemancer Psycasts|Wildemancer]])
+	- [[Word of Binding]] (,) ([[Empath Psycasts|Empath]])
 - 3rd Level:
 	- .
 - 4th Level:
