@@ -18,7 +18,7 @@ aliases:
 	- [[Rock Wall]] (10, 32)
 - 3rd Level:
 	- [[Launch Slab]] (14, 34)
-	- [[Immobilize]]
+	- [[Rock Gauntlet]]
 - 4th Level:
 	- [[Paige Sword Immobilize]]
 - 5th Level:
