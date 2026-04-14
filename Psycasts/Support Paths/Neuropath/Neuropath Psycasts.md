@@ -6,7 +6,7 @@ aliases:
   - Neuropath
   - Neuropath Psycast
 ---
-- [ ] *Neuropaths specialize in manipulating psycasts and psycasting abilities of others. Most of their psycasts affect neural heat and psyfocus. A subset of their psycasts are used to guide others or tempt them into a berserk rage.*
+- *Neuropaths specialize in manipulating psycasts and psycasting abilities of others. Most of their psycasts affect neural heat and psyfocus. A subset of their psycasts are used to guide others or tempt them into a berserk rage.*
 ## Core Psycasts
 - 1st Level:
 	- [[Brain Spike]] (3, 28)
