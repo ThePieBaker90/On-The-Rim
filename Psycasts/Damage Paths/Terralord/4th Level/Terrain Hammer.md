@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 50ft.
+- **Target**:
+	- A grounded sphere with its center within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Turn.
+- **Effects**:
+	- *You psychically raise a large chunk of stone from the ground before releasing it. The resulting shockwave causes jagged rocks to [[Immobilized|Immobilize]] nearby creatures.*
+	- At the beginning of your next turn, all creatures in the target sphere are forced to the ground, [[Immobilized]], and take bludgeoning damage.
+- **Stats**:
+	- 1 Turn [[Immobilized]] Duration.
+	- 3d10 Bludgeoning Damage from Shockwave.
+	- 20ft Target Sphere Radius.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 5ft.

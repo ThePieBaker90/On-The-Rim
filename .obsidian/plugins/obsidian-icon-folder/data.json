@@ -1253,7 +1253,6 @@
   "Psycasts/Crosspath Psycasts/4th Level/Lucky Strike.md": "LiSparkles",
   "Psycasts/Support Paths/Wagepath/1st Level/Disarming Hex.md": "LiSparkles",
   "Psycasts/Damage Paths/Terralord/1st Level/Pitfall.md": "LiSparkles",
-  "Psycasts/Damage Paths/Terralord/4th Level/Paige Sword Immobilize.md": "LiListTodo",
   "Psycasts/Creation Paths/Luzator/5th Level": "TiHexagonNumber5",
   "Psycasts/Creation Paths/Luzator/4th Level": "TiHexagonNumber4",
   "Psycasts/Creation Paths/Luzator/3rd Level": "TiHexagonNumber3",
@@ -1344,5 +1343,6 @@
   "Psycasts/Damage Paths/Terralord/1st Level/Floor-shatter.md": "LiSparkles",
   "Psycasts/Crosspath Psycasts/2nd Level/Word of Binding.md": "LiListTodo",
   "Psycasts/Damage Paths/Terralord/2nd Level/Rock Gauntlet.md": "LiSparkles",
-  "Psycasts/Damage Paths/Terralord/3rd Level/Rock Wall.md": "LiSparkles"
+  "Psycasts/Damage Paths/Terralord/3rd Level/Rock Wall.md": "LiSparkles",
+  "Psycasts/Damage Paths/Terralord/4th Level/Terrain Hammer.md": "LiListTodo"
 }
