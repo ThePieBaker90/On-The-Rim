@@ -20,7 +20,7 @@ aliases:
 	- [[Launch Slab]] (14, 34)
 	- [[Rock Wall]] (10, 32)
 - 4th Level:
-	- [[Terrain Hammer]]
+	- [[Terrain Hammer]] (3, 44)
 - 5th Level:
 	- [[Earth Fracture]]
 ## Miscasts
