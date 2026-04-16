@@ -15,14 +15,16 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- Self.
 - **Components**:
 	- .
 - **Duration**:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- For the duration of this psycast, you have the following effects:
+		- TODO when you move 5ft deal damage to creatures in range.
+		- TODO when creature in range for first time, creature rolls to avoid going prone.
 - **Stats**:
 	- .
 - **Upcasting**:

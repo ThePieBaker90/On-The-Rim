@@ -22,7 +22,7 @@ aliases:
 - 4th Level:
 	- [[Terrain Hammer]] (3, 44)
 - 5th Level:
-	- [[Earth Fracture]]
+	- [[Earthshaker]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .
