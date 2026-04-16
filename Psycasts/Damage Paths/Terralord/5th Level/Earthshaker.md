@@ -13,19 +13,28 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 20ft.
 - **Target**:
 	- Self.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Concentration, up to . Turns.
 - **Effects**:
 	- *.*
 	- For the duration of this psycast, you have the following effects:
-		- TODO when you move 5ft deal damage to creatures in range.
-		- TODO when creature in range for first time, creature rolls to avoid going prone.
+		- When you use [[Movement Speed]] to move, you cause a minor tremor dealing bludgeoning damage to all creatures within range of you.
+			- This occurs once the [[Movement Speed]] needed has been expended in the movement and you have moved that far. 
+			- This effect may happen multiple times in one movement, breaking up the movement in intervals to trigger the effect.
+		- Your [[Movement Speed]] is slowed.
+	- When a creature takes damage from this psycast, they must make a Dexterity saving throw to stand their ground.
+		- On a failure, they are knocked [[Prone]].
+		- On a success, nothing happens.
+		- This effect may only happen to a creature once on each of their turns.
+	- You are immune to damage from this psycast.
 - **Stats**:
-	- .
+	- 5ft of [[Movement Speed]] Needed to Cause Tremor.
+	- 3 Bludgeoning Damage from Tremor.
+	- 10ft [[Movement Speed]] Slow.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
