@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 Turn.
 - **Effects**:
-	- *You psychically raise a large chunk of stone from the ground before releasing it. The resulting shockwave causes jagged rocks to [[Immobilized|Immobilize]] nearby creatures.*
+	- *You psychically raise a large chunk of stone from the ground before letting it drop. The resulting shockwave causes jagged rocks to [[Immobilized|Immobilize]] and damage nearby creatures.*
 	- At the beginning of your next turn, all creatures in the target sphere are forced to the ground, [[Immobilized]], and take bludgeoning damage.
 - **Stats**:
 	- 1 Turn [[Immobilized]] Duration.
