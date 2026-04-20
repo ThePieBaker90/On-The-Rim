@@ -12,6 +12,7 @@ aliases:
 		- Unspent movement speed is lost when you begin your next turn.
 	- Movement speed is measured in feet, when converting to other distances 5 feet = 1.524 meters.
 - Moving 1 foot of distance requires 1ft of movement speed. Moving 1 tile of distance requires 5ft of movement speed. 
+	- Moving this way is called "Ordinary Movement".
 	- Certain effects can make it so moving 1 foot of distance costs a different amount of movement speed.
 - At the beginning of each of your turns, you determine your movement speed for the turn. 
 	- To do this simply take your base movement speed and apply all [[#Movement Speed Effects]] in order. The result is the amount of movement speed you have until the beginning of your next turn.
