@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 12 Hours.
 - **Effects**:
-	- *You concentrate stray photons to form a ball of light.*
+	- *You concentrate stray photons to form a ball of light which can be easily moved. The light lasts half a day and supplies enough light to comfortably see.*
 	- You summon an orb of light at the target point.
 		- The orb creates [[Lighting#Normal Light|Normal Light]] within strong light range of it. 
 		- The orb creates [[Lighting#Dim Light|Dim Light]] within weak light range of it. 
