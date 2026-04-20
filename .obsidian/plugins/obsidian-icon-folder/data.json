@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
       "FarSquareCaretDown",
       "LiSparkles",
       "TiHexagonNumber1",
-      "LiListTodo",
-      "TiHexagonNumber5"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -904,7 +904,7 @@
   "Psycasts/Damage Paths/Staticlord/1st Level/Zap.md": "LiSparkles",
   "Psycasts/Damage Paths/Staticlord/1st Level/Bolt.md": "LiSparkles",
   "Psycasts/Damage Paths/Terralord": "LiListTodo",
-  "Psycasts/Damage Paths/Terralord/Terralord Psycasts.md": "LiListTodo",
+  "Psycasts/Damage Paths/Terralord/Terralord Psycasts.md": "LiInfo",
   "Psycasts/Damage Paths/Toxilord": "LiSparkles",
   "Psycasts/Damage Paths/Toxilord/Toxilord Psycasts.md": "LiInfo",
   "Psycasts/Damage Paths/Toxilord/5th Level/Toxin Duplication.md": "LiSparkles",
