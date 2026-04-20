@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Create Light]] (3, 0)
 - 2nd Level:
-	- [[Blinding Light]]
+	- [[Create Daylight]] (15, 0)
 	- [[Detection Light]]
 	- [[Fireworks]]
 	- [[Identify]]

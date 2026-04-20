@@ -42,4 +42,4 @@ aliases:
 	- They have disadvantage on attack rolls.
 
 ## UV Light
-- TODO, light may be UV and it may trigger effects.
+- TODO, light may be UV and it may trigger effects. See [[Create Daylight]]

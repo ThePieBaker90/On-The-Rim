@@ -7,22 +7,22 @@ tags:
 - **Path**:
 	- 2nd Level [[Luzator Psycasts|Luzator Psycast]]
 - **Casting Time:**
-	- .
+	- 6 Seconds.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- When you cast this psycast, you choose
 - **Stats**:
 	- .
 - **Upcasting**:

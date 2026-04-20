@@ -21,12 +21,13 @@ tags:
 - **Duration**:
 	- 12 Hours.
 - **Effects**:
-	- *You concentrate stray photons to form a ball of light which can be easily moved. The light lasts half a day and supplies enough light to comfortably see.*
-	- You summon an orb of light at the target point.
+	- *You concentrate stray photons to form an orb of light which can be easily moved. The orb lasts half a day and supplies enough light to comfortably see.*
+	- You summon an orb of light at the target point. 
+	- For the duration of this psycast, the orb has the following effects:
 		- The orb creates [[Lighting#Normal Light|Normal Light]] within strong light range of it. 
 		- The orb creates [[Lighting#Dim Light|Dim Light]] within weak light range of it. 
 		- The orb floats and can be moved very easily.
-		- The orb lasts for the duration of this psycast.
+		- The orb cannot be damaged.
 - **Stats**:
 	- 20ft Strong Light Range.
 	- 40ft Weak Light Range.
