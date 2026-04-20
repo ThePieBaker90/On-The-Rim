@@ -30,10 +30,16 @@ aliases:
 ## Darkness
 - Darkness is created when light is absent from an area. 
 - Typically, creatures cannot see at all into darkness.
-	- .
-- Creatures with [[Darkvision]] can see into this as if it was [[#Dim Light]].
+	- They automatically fail all [[Sight-Based Perception]] checks into dim light.
+	- Attack rolls on them have advantage.
+	- They have disadvantage on attack rolls.
+- Creatures with [[Darkvision (30ft)|Darkvision Genes]] can see into this as if it was monochromatic [[#Dim Light]].
 ## Void
-- Void is created by very few effects, one such effect  is [[Void Shroud]] or [[Ball 'o' Black]].
+- Void is created by very few effects such as [[Void Shroud]] or [[Ball 'o' Black]].
+- With the exception of  a few creatures, all creatures cannot see at all into void.
+	- They automatically fail all [[Sight-Based Perception]] checks into dim light.
+	- Attack rolls on them have advantage.
+	- They have disadvantage on attack rolls.
 
 ## UV Light
 - TODO, light may be UV and it may trigger effects.
