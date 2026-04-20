@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Create Light]]
+	- [[Create Light]] (3, 0)
 - 2nd Level:
 	- [[Blinding Light]]
 	- [[Detection Light]]

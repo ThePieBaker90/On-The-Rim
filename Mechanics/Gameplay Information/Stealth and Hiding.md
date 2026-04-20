@@ -23,11 +23,11 @@ tags:
 
 | Cover        | Obscuration Modifier | Light        | Obscuration Modifiers |
 | ------------ | -------------------- | ------------ | --------------------- |
-| No Cover     | 10                   | Bright Light | 10                    |
-| Light Cover  | 8                    | Dim Light    | 4                     |
-| Medium Cover | 3                    | Darkness     | 0                     |
-| Heavy Cover  | 0                    | Void         | -20                   |
-| Full Cover   | -3                   |              |                       |
+| No Cover     | 10                   | Bright Light | 15                    |
+| Light Cover  | 8                    | Normal Light | 8                     |
+| Medium Cover | 3                    | Dim Light    | 4                     |
+| Heavy Cover  | 0                    | Darkness     | 0                     |
+| Full Cover   | -3                   | Void         | -20                   |
 
 ### Cover
 - Cover is relevant for the [[#Hide Action]], the [[#Sneak Action]], and any [[Sight-Based Perception|Sight-Based]] [[#Seek Action|Seek Actions]].
@@ -50,11 +50,15 @@ tags:
 - This has an obscuration modifier of -3.
 ### Light
 - Light is relevant for the [[#Hide Action]], the [[#Sneak Action]], and any [[Sight-Based Perception|Sight-Based]] [[#Seek Action|Seek Actions]].
-- There are 5 types of light; Bright light, dim light, darkness, and void.
+- There are 5 types of light; Bright light, normal light, dim light, darkness, and void.
 #### Bright Light
 - A creature is brightly lit while in [[Lighting#Bright Light|Bright Light]].
-- This has an obscuration modifier of 10.
+- This has an obscuration modifier of 15.
 - See [[Lighting#Bright Light|Bright Light]]
+#### Normal Light
+- A creature is brightly lit while in [[Lighting#Normal Light|Normal Light]].
+- This has an obscuration modifier of 8.
+- See [[Lighting#Normal Light|Normal Light]].
 #### Dim Light
 - A creature is dimly lit while in [[Lighting#Dim Light|Dim Light]].
 - This has an obscuration modifier of 4.
