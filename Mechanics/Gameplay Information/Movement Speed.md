@@ -6,13 +6,14 @@ aliases:
   - Movement
 ---
 ## Movement Speed Overview
-- All creatures have a movement speed. Movement speed is used when moving in battle and it determines how far a creature can travel in 1 turn (6 seconds). 
+- All creatures have a movement speed. Movement speed is used when moving in battle and it determines how far a creature can move in 1 turn (6 seconds). 
 	- Most creature's base movement speed is 30ft.
 	- Movement speed is a resource that can be increased or decreased.
 		- Unspent movement speed is lost when you begin your next turn.
 	- Movement speed is measured in feet, when converting to other distances 5 feet = 1.524 meters.
 - Moving 1 foot of distance requires 1ft of movement speed. Moving 1 tile of distance requires 5ft of movement speed. 
-	- Moving this way is called "Ordinary Movement".
+	- Moving this way is called "Ordinary Movement" and may be referred to as "Ordinarily Moving".
+		- An effect that triggers on 5ft of Ordinary Movement triggers when the creature moves 5 feet rather than spending 5ft of movement speed.
 	- Certain effects can make it so moving 1 foot of distance costs a different amount of movement speed.
 - At the beginning of each of your turns, you determine your movement speed for the turn. 
 	- To do this simply take your base movement speed and apply all [[#Movement Speed Effects]] in order. The result is the amount of movement speed you have until the beginning of your next turn.
