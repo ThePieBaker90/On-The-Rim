@@ -38,4 +38,4 @@ tags:
 	- 120ft Max Detection Range.
 	- 10ft Light Range.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the psycast lasts an additional hour.
+	- You may upcast this psycast. For every 5 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional hour.
