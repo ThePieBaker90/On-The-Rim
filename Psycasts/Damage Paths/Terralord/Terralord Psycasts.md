@@ -6,7 +6,7 @@ aliases:
   - Terralord
   - Terralord Psycast
 ---
-*todo.*
+*Terralords specialize in wielding rocks and earth. Most of their psycasts slow, [[Immobilized|Immobilize]], or [[Prone|Knock Prone]] creatures. Their attacks tend to deal high damage at the cost of speed.*
 ## Core Psycasts
 - 1st Level
 	- [[Floor-shatter]] (3, 10)
@@ -24,10 +24,10 @@ aliases:
 - 5th Level:
 	- [[Earthshaker]] (6, 36)
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Self Immobilize
+	- Rocks spike up around your feet preventing you from moving. You are [[Immobilized]] for 3 turns.
+- Level 2 Miscast - Unfortunate Pitfall
+	- You cast [[Pitfall]] on the ground below yourself which you immediately trigger.
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Burrow]] (,) ([[Wildemancer Psycasts|Wildemancer]])
