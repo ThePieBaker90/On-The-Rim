@@ -6,7 +6,7 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -4
 - **Effects:**
-	- Carriers of this gene can see in dim light within 120ft of them as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray. 
+	- Carriers of this gene can see in [[Lighting#Dim Light|Dim Light]] within 120ft of them as if it were [[Lighting#Normal Light|Normal Light]], and in [[Lighting#Darkness|Darkness]] as if it were monochrome [[Lighting#Dim Light|Dim Light]].
 - **[[Genes#Gene Incompatibility|Incompatibilities]]**
 	- [[Darkvision (30ft)]]
 	- [[Darkvision (60ft)]]

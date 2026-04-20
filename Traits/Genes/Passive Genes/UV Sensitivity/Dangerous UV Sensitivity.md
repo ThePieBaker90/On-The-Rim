@@ -6,11 +6,11 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 7
 - **Effects:**
-	- Carriers of this gene suffer from the following while in direct UV light:
+	- Carriers of this gene suffer from the following while in [[Lighting#UV Light|UV Light]]:
 		- They have -5 to all ability checks
 		- They have disadvantage on all ability checks
 		- They take 1 radiant damage at the beginning of their turn
-		- Their [[Movement Speed]] costs twice as much to move 1ft.
+		- Their [[Movement Speed]] costs an additional 1ft to move 1ft.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
 	- [[Mild UV Sensitivity]]
 	- [[Minor UV Sensitivity]]

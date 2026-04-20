@@ -23,8 +23,8 @@ tags:
 - **Effects**:
 	- *You touch a creature's eyelids granting them temporary darkvision.*
 	- For the duration of this psycast, the target creature has the following effects:
-		- They can see in dim light within darkvision range as if it was bright light.
-		- They can see in darkness within darkvision range as if it was dim light. 
+		- They can see in [[Lighting#Dim Light|Dim Light]] within darkvision range as if it was [[Lighting#Normal Light|Normal Light]].
+		- They can see in [[Lighting#Darkness|Darkness]] within darkvision range as if it was [[Lighting#Dim Light|Dim Light]]. 
 			- They cannot discern color in darkness, only shades of gray.
 - **Stats**:
 	- 45ft Darkvision Range.

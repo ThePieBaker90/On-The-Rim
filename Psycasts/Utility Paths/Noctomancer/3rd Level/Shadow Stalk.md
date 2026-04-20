@@ -24,10 +24,10 @@ tags:
 	- *As you hide or sneak, you blend into the shadows becoming harder to spot. Many expert assassins use this psycast in nearly every job.*
 	- This psycast is used as a reaction to you using the [[Stealth and Hiding#Hide Action|Hide Action]] or [[Stealth and Hiding#Sneak Action|Sneak Action]].
 	- For the duration of this psycast, you have the following effects:
-		- Your [[Stealth and Hiding#Obscuration|Obscuration modifier]] from light is as if you were in a darker light level.
+		- Your [[Stealth and Hiding#Obscuration|Obscuration modifier]] from light is as if you were in a darker [[Lighting#Light Levels|Light Level]].
 		- Once per turn, when you deal damage while [[Stealth and Hiding#Hidden|Hidden]], [[Stealth and Hiding#Undetected|Undetected]], or [[Stealth and Hiding#Unnoticed|Unnoticed]]; you deal additional damage and can use the [[Stealth and Hiding#Hide Action|Hide Action]] for free this turn.
 - **Stats**:
-	- -1 Light Level for [[Stealth and Hiding#Obscuration|Obscuration modifier]].
+	- -1 [[Lighting|Light Level]] for [[Stealth and Hiding#Obscuration|Obscuration modifier]].
 	- 50% Additional Damage while [[Stealth and Hiding#Hidden|Hidden]], [[Stealth and Hiding#Undetected|Undetected]], or [[Stealth and Hiding#Unnoticed|Unnoticed]].
 - **Upcasting**:
 	- You cannot upcast this psycast.

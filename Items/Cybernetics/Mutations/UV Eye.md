@@ -16,6 +16,6 @@ tags:
 - **[[Cybercost]]:**
 	- 0.5
 - **Abilities:**
-	- User can only see UV-Light.
+	- User can only see [[Lighting#UV Light|UV Light]].
 - **Looks:**
 	- The eye has a purple sclera with a yellow iris around two black pupils.

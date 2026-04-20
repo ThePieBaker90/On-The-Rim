@@ -3,10 +3,10 @@ tags:
   - Trait
   - Darkness-Proficiency
 ---
-- A creature with the Darkness Proficiency trait gains the following while not in any light:
+- A creature with the Darkness Proficiency trait gains the following while [[Lighting#Darkness|Darkness]] or [[Lighting#Void|Void]]:
 	- +20 ft speed
 	- +2 AC
 	- -1d6 damage from all sources
-- The creature gains 60 ft of Darkvision if it doesn't already have it.
-- The creature can see in unnatural darkness as if it was dim light for 60 ft in front of them.
-- The creature does not take damage from being in an unnaturally dark area.
+- The creature can see in [[Lighting#Dim Light|Dim Light]] as if it was [[Lighting#Normal Light|Normal Light]] within 60ft of them.
+- The creature can see in [[Lighting#Darkness|Darkness]] as if it was [[Lighting#Dim Light|Dim Light]] within 60ft of them. 
+- The creature can see in [[Lighting#Void|Void]] as if it was [[Lighting#Dim Light|Dim Light]] within 60ft of them. 

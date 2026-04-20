@@ -6,6 +6,7 @@ tags:
 ---
 - Voidsight always has a 1 day duration.
 - When a creature has the Voidsight condition, they have the following effects:
-	- They can see in dim light and darkness as if it was bright light.
-	- They may see in void as if it was dim light.
+	-  They can see in [[Lighting#Dim Light|Dim Light]] as if it was [[Lighting#Normal Light|Normal Light]].
+	- They can see in [[Lighting#Darkness|Darkness]] as if it was [[Lighting#Dim Light|Dim Light]]. 
+	- They can see in [[Lighting#Void|Void]] as if it was [[Lighting#Dim Light|Dim Light]].
 	- Their eyes become completely black.
