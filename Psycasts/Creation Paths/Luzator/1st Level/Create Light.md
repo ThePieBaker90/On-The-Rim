@@ -23,10 +23,12 @@ tags:
 - **Effects**:
 	- *You concentrate stray photons to form a ball of light.*
 	- You summon an orb of light at the target point.
-		- The orb creates [[Lighting#Normal Light|Normal Light]] within light range of it. 
+		- The orb creates [[Lighting#Normal Light|Normal Light]] within strong light range of it. 
+		- The orb creates [[Lighting#Dim Light|Dim Light]] within weak light range of it. 
 		- The orb floats and can be moved very easily.
 		- The orb lasts for the duration of this psycast.
 - **Stats**:
-	- 20ft Light Range.
+	- 20ft Strong Light Range.
+	- 40ft Weak Light Range.
 - **Upcasting**:
 	- You cannot upcast this psycast.
