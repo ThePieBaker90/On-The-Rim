@@ -7,23 +7,26 @@ tags:
 - **Path**:
 	- 1st Level [[Luzator Psycasts|Luzator Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Bonus Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- 20ft.
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- 12 Hours.
 - **Effects**:
-	- *.*
-	- .
+	- *You concentrate stray photons to form a ball of light.*
+	- You summon an orb of light at the target point.
+		- The orb creates [[Lighting#Bright Light|Bright Light]] within light range of it. 
+		- The orb floats and can be moved very easily.
+		- The orb lasts for the duration of this psycast.
 - **Stats**:
-	- .
+	- 20ft Light Range.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

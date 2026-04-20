@@ -58,7 +58,7 @@ aliases:
 - [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
 - [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Debuffs
 - [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electricity Creation
-- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping
+- [[Terralord Psycasts|Terralord]] - Slow But High Damage and Earth Shaping
 - [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 ### Support Paths
 - [[Empath Psycasts|Empath]] - Emotions and Feelings
