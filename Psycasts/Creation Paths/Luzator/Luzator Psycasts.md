@@ -12,7 +12,7 @@ aliases:
 	- [[Create Light]] (3, 0)
 - 2nd Level:
 	- [[Create Daylight]] (15, 0)
-	- [[Detection Light]]
+	- [[Detection Light]] (10, 0)
 	- [[Fireworks]]
 	- [[Identify]]
 - 3rd Level:

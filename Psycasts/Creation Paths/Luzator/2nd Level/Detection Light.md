@@ -9,21 +9,33 @@ tags:
 - **Casting Time:**
 	- 6 Seconds.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 10
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- .
+	- 20ft.
 - **Target**:
 	- A point within range.
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- .
+	- 1 Hour. (+1 Hour)
 - **Effects**:
-	- *.*
-	- When you cast this psycast, you choose
+	- *You concentrate stray photons to form a weak orb of light. The orb doesn't provide much light but can change colors based off of conditions becoming satisfied. You choose the conditions when you cast this psycast.*
+	- When you cast this psycast, you choose any number of conditions and a corresponding color for each condition. You also choose a detection area.
+	- You summon a detection orb at the target point.
+	- For the duration of this psycast, the orb has the following effects:
+		- When any chosen condition is satisfied, the orb becomes the color corresponding to the condition.
+			- If multiple conditions are satisfied, the most recent condition to be satisfied determines the color of the orb.
+				- For example, if an orb turns green when a frog is in the area and red when a toad is in the area and a frog enters the area, the orb becomes green. If a toad were to then enter, the orb would turn red. If another frog were to enter, it would become green again. If all frogs leave the area, the orb becomes red.
+			- The orb can only detect conditions within the chosen detection area, it does not need line of sight to know if a condition is satisfied.
+		- When no condition is satisfied, the orb becomes colored white.
+		- The orb creates [[Lighting#Dim Light|Dim Light]] of its current color within light range of it.
+		- The orb floats and can be moved very easily.
+		- The orb cannot be damaged.
+
 - **Stats**:
-	- .
+	- 120ft Max Detection Range.
+	- 10ft Light Range.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the psycast lasts an additional hour.
