@@ -1260,7 +1260,6 @@
   "Psycasts/Creation Paths/Luzator/1st Level/Create Light.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/1st Level": "TiHexagonNumber1",
   "Psycasts/Creation Paths/Luzator/2nd Level/Detection Light.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/2nd Level/Identify.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/3rd Level/Beam Light Attack.md": "LiListTodo",
   "Psycasts/Creation Paths/Luzator/3rd Level/Execute Enemy.md": "LiListTodo",
   "Psycasts/Creation Paths/Luzator/3rd Level/Sanctuary Like.md": "LiListTodo",
@@ -1344,5 +1343,6 @@
   "Psycasts/Damage Paths/Terralord/4th Level/Terrain Hammer.md": "LiSparkles",
   "Psycasts/Damage Paths/Terralord/5th Level/Earthshaker.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/2nd Level/Create Daylight.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/5th Level/Starlight.md": "LiListTodo"
+  "Psycasts/Creation Paths/Luzator/5th Level/Starlight.md": "LiListTodo",
+  "Psycasts/Creation Paths/Luzator/2nd Level/Identification.md": "LiSparkles"
 }

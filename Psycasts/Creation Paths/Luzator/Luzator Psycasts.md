@@ -13,7 +13,7 @@ aliases:
 - 2nd Level:
 	- [[Create Daylight]] (15, 0)
 	- [[Detection Light]] (10, 0)
-	- [[Identify]] (10, 0)
+	- [[Identification]] (10, 0)
 - 3rd Level:
 	- [[Beam Light Attack]]
 	- [[Execute Enemy]]
