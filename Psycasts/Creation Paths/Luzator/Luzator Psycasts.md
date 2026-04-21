@@ -13,7 +13,6 @@ aliases:
 - 2nd Level:
 	- [[Create Daylight]] (15, 0)
 	- [[Detection Light]] (10, 0)
-	- [[Fireworks]]
 	- [[Identify]]
 - 3rd Level:
 	- [[Beam Light Attack]]
@@ -24,6 +23,7 @@ aliases:
 	- [[Reflecting Light]]
 - 5th Level:
 	- [[Prism Blast]]
+	- [[Starlight]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

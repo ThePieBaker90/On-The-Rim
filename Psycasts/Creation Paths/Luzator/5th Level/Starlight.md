@@ -2,12 +2,12 @@
 tags:
   - Psycast
   - Luzator
-  - 2nd-Level
+  - 5th-Level
 ---
 - **Path**:
-	- 2nd Level [[Luzator Psycasts|Luzator Psycast]]
+	- 5th Level [[Luzator Psycasts|Luzator Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
