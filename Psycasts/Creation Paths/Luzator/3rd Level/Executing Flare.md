@@ -15,11 +15,11 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
 	- .
