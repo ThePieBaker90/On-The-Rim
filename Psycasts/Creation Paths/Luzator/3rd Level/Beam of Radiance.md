@@ -1,0 +1,44 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 33
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A line with one endpoint within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Channeled, up to 5 Turns.
+- **Effects**:
+	- *You press both wrists of your outstretched hands together, forming a harsh beam of light which damages anything caught within. The beam's target can be changed after this psycast has been cast, albeit slowly.*
+	- For the duration of this psycast, the target line has the following effects:
+		- A creature entering the target line or starting their turn within the target line must make a Constitution saving throw.
+			- On a failure, they take radiant damage from the light beam.
+			- On a success, they take half as much damage from the light beam.
+		- The target line creates a [[Lighting#Bright Light|Bright Light]] within itself and within light range of its edges.
+	- For the duration of this psycast, you have the following effects:
+		- As an action, you may change the target line of this psycast.
+			- The endpoint of the new target line that is not within range of you must be within maximum movement range of the old target line's endpoint position.
+			- The old target line takes a direct path to transform into the new target line, any creatures caught in this path are considered to be entering the target line.
+		- Your [[Movement Speed]] is slowed.
+		- The end point of the target line that is within range of you follows you at all times.
+- **Stats**:
+	- 2d8 Radiant Damage from Light Beam.
+	- 10ft Light Range.
+	- 20ft Max Target Line Far Endpoint Movement Range.
+	- 15ft [[Movement Speed]] Slow.
+	- 120ft Target Line Length.
+	- 10ft Target Line Thickness.
+- **Upcasting**:
+	- You cannot upcast this psycast.

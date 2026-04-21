@@ -13,6 +13,7 @@ aliases:
 	- 3 - [[#Dim Light]]
 	- 2 - [[#Darkness]]
 	- 1 - [[#Void]]
+- If an area has two light sources affecting it, the light level is determined by the light source with the highest light level after modifiers.
 ## Bright Light
 - Bright light is created by very powerful sources such as a planet's nearby star, flares, or other things which create light but should not be directly looked at.
 - Typically, creatures can see into and within bright light clearly. 

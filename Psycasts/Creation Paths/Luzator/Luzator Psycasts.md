@@ -15,7 +15,7 @@ aliases:
 	- [[Detection Light]] (10, 0)
 	- [[Identification]] (10, 0)
 - 3rd Level:
-	- [[Beam Light Attack]]
+	- [[Beam of Radiance]] (3, 33)
 	- [[Execute Enemy]]
 	- [[Sanctuary Like]]
 - 4th Level:
