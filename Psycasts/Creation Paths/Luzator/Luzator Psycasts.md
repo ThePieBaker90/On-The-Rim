@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Beam of Radiance]] (3, 33)
 	- [[Executing Flash]]
-	- [[Sanctuary Like]]
+	- [[Disarming Light]] (5, 25)
 - 4th Level:
 	- [[Ball of Light]]
 	- [[Reflecting Light]]

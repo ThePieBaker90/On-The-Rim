@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 25 (25)
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Concentration, up to 5 Turns.
+- **Effects**:
+	- *You emit a soft, comforting light causing creatures to be unable to attack you. The light immediately dissipates if you attack or use any harmful effect.*
+	- For the duration of this psycast, you have the following effects:
+		- All creatures you have line of sight to are [[Charmed]] by you.
+		- If you attack or use a harmful effect on another creature, this psycast ends.
+			- [[Charmed]] is not considered harmful for this effect.
+		- You create [[Lighting#Normal Light|Normal Light]] within strong light range of you. 
+		- You create  [[Lighting#Dim Light|Dim Light]] within weak light range of you. 
+- **Stats**:
+	- 5ft Strong Light Range.
+	- 10ft Weak Light Range.
+- **Upcasting**:
+	- You cannot upcast this psycast.
