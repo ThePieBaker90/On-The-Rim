@@ -16,7 +16,7 @@ aliases:
 	- [[Identification]] (10, 0)
 - 3rd Level:
 	- [[Beam of Radiance]] (3, 33)
-	- [[Execute Enemy]]
+	- [[Executing Flash]]
 	- [[Sanctuary Like]]
 - 4th Level:
 	- [[Ball of Light]]

@@ -23,10 +23,10 @@ tags:
 - **Effects**:
 	- *You lunge towards an enemy, dealing a devastating wound that can instantly kill low health enemies.*
 	- You lunge to a spot adjacent to the target creature and make a melee attack roll against the target creature, adding your psycasting ability modifier to the result.
-		- On a hit, if they are below a health threshold, you instantly kill them. Otherwise they take a percent of their maximum health as slashing damage.
+		- On a hit, if they are below a health threshold in relation to their maximum health, you instantly kill them. Otherwise they take a percent of their maximum health as slashing damage.
 	- If a creature dies as a result of this psycast, you may use this psycast again before the end of your next turn with its [[Neural Heat]] cost reduced.
 - **Stats**:
-	- 20% Instant Kill Health Threshold.
+	- 20% of Max Health Instant Kill Health Threshold.
 	- 10% of Max Health as Slashing Damage from Failed Instant Kill.
 	- 30 [[Neural Heat]] Cost Reduction on Reuse.
 - **Upcasting**:

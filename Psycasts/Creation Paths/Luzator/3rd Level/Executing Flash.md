@@ -15,7 +15,7 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A creature
 - **Components**:
 	- .
 - **Duration**:
