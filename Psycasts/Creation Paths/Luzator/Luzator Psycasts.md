@@ -16,8 +16,8 @@ aliases:
 	- [[Identification]] (10, 0)
 - 3rd Level:
 	- [[Beam of Radiance]] (3, 33)
-	- [[Executing Flash]]
 	- [[Disarming Light]] (5, 25)
+	- [[Executing Flash]]
 - 4th Level:
 	- [[Ball of Light]]
 	- [[Reflecting Light]]
