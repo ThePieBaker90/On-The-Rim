@@ -1,7 +1,7 @@
 ## Description
 What is this specific bullet? Describe briefly how it works and any distinguishing visual characteristics
 
-# Effects
+## Effects
 - A bulleted list of what the ammo does
 - Could be as simple as "no special effect" for the base ammo model
 - Also include any restrictions for the use of this bullet, e.g. additional weapon or magazine restrictions not shared by the cartridge as a whole
