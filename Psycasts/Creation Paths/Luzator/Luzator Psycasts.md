@@ -17,7 +17,7 @@ aliases:
 - 3rd Level:
 	- [[Beam of Radiance]] (3, 33)
 	- [[Disarming Light]] (5, 25)
-	- [[Executing Flare]]
+	- [[Lux Carnificus]] (8, 38)
 - 4th Level:
 	- [[Ball of Light]]
 	- [[Reflecting Light]]
