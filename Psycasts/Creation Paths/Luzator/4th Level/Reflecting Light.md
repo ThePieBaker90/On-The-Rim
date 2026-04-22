@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
 	- .
