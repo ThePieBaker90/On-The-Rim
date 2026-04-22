@@ -4,5 +4,8 @@ Here would be a short ~3 sentence description of the cartridge. What it's used f
 ## Visual Description
 What in general does the ammunition look like? This could be as simple as the IRL inspiration, or if it's more unusual or fantastical a longer explanation of the cartridge's appearance. 
 
+## Damage Die
+What die size does this cartridge use? This information is also included in the weapon page with the weapon's damage.
+
 ## Weapons List
 - A bulleted list of the weapons that use this cartridge, links to their page.
