@@ -1,0 +1,43 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- 45ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 10 Turns.
+- **Effects**:
+	- *You twirl and create a beaming ball of light on the tip of your outstretched hand before throwing it at an enemy. The ball bounces between enemies dealing radiant damage.*
+	- The target creature must make a Dexterity saving throw to avoid the ball of light.
+		- On a failure, they become afflicted.
+		- On a success, nothing happens.
+	- Afflicted creatures suffer the following effects:
+		- The ball is attached to them and will immediately bounce to any creature who comes within bounce range of them. 
+			- When the ball bounces to another creature, this creature loses affliction and that creature gains affliction.
+			- The ball will not bounce to creatures who have been afflicted by this psycast since the beginning of this turn.
+			- The ball may only bounce a certain number of times before this psycast ends. 
+				- The initial throw at the target creature is considered the 1st bounce.
+		- When they become afflicted, they take radiant damage from the ball impact.
+		- When they start their turn, if they have been continuously afflicted since the end of their last turn, they lose affliction.
+	- If no creatures are afflicted by this psycast, this psycast ends.
+	- Allied creatures are immune to the effects of this psycast.
+- **Stats**:
+	- 2d8 Radiant Damage from Ball Impact.
+	- 25ft Bounce Range.
+	- 8 Max Bounces. (+4 Max Bounces)
+- **Upcasting**:
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the maximum bounces increases by 4.

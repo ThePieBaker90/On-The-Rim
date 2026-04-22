@@ -19,7 +19,7 @@ aliases:
 	- [[Disarming Light]] (5, 25)
 	- [[Lux Carnificus]] (8, 38)
 - 4th Level:
-	- [[Ball of Light]]
+	- [[Beaming Ball]]
 	- [[Reflecting Light]]
 - 5th Level:
 	- [[Prism Blast]]

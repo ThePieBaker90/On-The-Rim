@@ -24,7 +24,7 @@ tags:
 	- *.*
 	- You psychically drive a creature within range into a violent madness, the creature must make a Wisdom saving throw. 
 		- On a failure, for the duration of this psycast they are sent into a [[Berserk Rage]]. 
-		- On a success, the psycast ends.
+		- On a success, this psycast ends.
 		- The target creature may repeat the saving throw at the beginning of each of your turns.
 - **Stats**:
 	- .
