@@ -1,7 +1,7 @@
 ## An index of the cartridges. Use this to browse for what you're looking for!
 | Cartridge | Damage Die | Typical Weapon Types | Other Notes |
 |---|---|---|---|
-| [9x21mm Mars](Items/Weapons and Ammunition/Ranged/Ammunition/9x21mm Mars) | D4 | Pistols, Revolvers, SMGs |  |
+| [9x21mm Mars](./9x21mm Mars) | D4 | Pistols, Revolvers, SMGs |  |
 | 5.56x14mm Nano | D4 | Carbines, Pistols, SMGs | Stealthy subsonic rounds available |
 | 32-gauge | D4 | Shotguns | |
 | 11.3x32mm Bronco | D6 | Pistols, Revolvers | |
