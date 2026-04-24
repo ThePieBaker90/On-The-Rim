@@ -5,7 +5,7 @@
 | [9x21mm Mars](./9x21mm%20Mars)| D4 | Pistols, Revolvers, SMGs |  |
 | [5.56x14mm Nano](./5.56x14mm%20Nano) | D4 | Carbines, Pistols, SMGs | Stealthy subsonic rounds available |
 | [32-gauge](./32-Gauge) | D4 | Shotguns | |
-| Accelerated Ballistics MicroMissile | D4 | Rocket Pistols, Rocket Rifles | Accelerated Ballistics proprietary cartridge | 
+| Accelerated Ballistics MicroRocket | D4 | Rocket Pistols, Rocket Rifles | Accelerated Ballistics proprietary cartridge | 
 | [11.3x32mm Bronco](./11.3x32mm%20Bronco) | D6 | Pistols, Revolvers | |
 | [5.45x42mm Empire](./5.45x42mm%20Empire) | D6 | Carbines, Assault Rifles, Light Machine Guns | |
 | [20-gauge](./20-Gauge) | D6 | Shotguns | |
@@ -20,6 +20,7 @@
 | 20x105mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | 35x220mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | 90x540mm Empire | D12 | Cannnons | Highly varied ammunition w/ various effects | 
-| 40x57mm Empire | Variable, see ammo and/or weapon for infromation | Grenade Launchers | Launcher grenades w/ various effects |
+| 107x280mm RR | D12 | Recoilless Rifles | Recoilless rifle munitions w/ various effects |
+| 40x57mm Empire | Variable, see ammo and/or weapon for infromation | Grenade Launchers | Launcher grenades  w/ various effects |
 | 60x250mm mortar | Variable, see ammo and/or weapon for information | Mortars | Mortar bombs w/ various effects |
 | 4.5x25mm Needle | Variable, see ammo and/or weapon for information | Railguns | |
