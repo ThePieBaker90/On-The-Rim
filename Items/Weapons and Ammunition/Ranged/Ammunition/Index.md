@@ -20,7 +20,7 @@
 | 20x105mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | 35x220mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | 90x540mm Empire | D12 | Cannons | Highly varied ammunition w/ various effects | 
-| 107x280mm RR | D12 | Recoilless Rifles | Recoilless rifle munitions w/ various effects |
+| 107x280mm RCL | D12 | Recoilless Rifles | Recoilless rifle munitions w/ various effects |
 | 40x57mm Empire | Variable, see ammo and/or weapon for infromation | Grenade Launchers | Launcher grenades  w/ various effects |
 | 60x250mm mortar | Variable, see ammo and/or weapon for information | Mortars | Mortar bombs w/ various effects |
 | 4.5x25mm Needle | Variable, see ammo and/or weapon for information | Railguns | |
