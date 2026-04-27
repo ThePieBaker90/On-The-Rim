@@ -20,7 +20,7 @@ aliases:
 	- [[Lux Carnificus]] (8, 38)
 - 4th Level:
 	- [[Beaming Ball]] (3, 44)
-	- [[Discovery]]
+	- [[Truevision]] (40, 0)
 - 5th Level:
 	- [[Prism Blast]]
 	- [[Starlight]]

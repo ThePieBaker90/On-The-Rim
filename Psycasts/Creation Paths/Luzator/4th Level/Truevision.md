@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 40
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A willing creature within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 10 Turns.
+- **Effects**:
+	- *You touch a creature's eyelids granting them temporary truevision. Both of their eyes glow like a marble of light.*
+	- For the duration of this psycast, the target creature have the following effects:
+		- They know the location and current action of everything within sight range of them.
+		- They perceive all areas within sight range of them as if they were in [[Lighting#Bright Light|Bright Light]].
+		- They know when anything enters or leaves sight range of them.
+- **Stats**:
+	- 50ft Sight Range. (+25ft)
+- **Upcasting**:
+	- You may upcast this psycast. For every 30 psyfocus spent above the normal cost for this psycast, the sight range increases by 25ft.
