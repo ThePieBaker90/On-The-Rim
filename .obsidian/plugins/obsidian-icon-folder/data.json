@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareSquare",
       "LiInfo",
       "FarSquareCaretDown",
       "LiSparkles",
-      "TiHexagonNumber1",
-      "LiListTodo"
+      "TiHexagonNumber1"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1344,5 +1344,7 @@
   "Psycasts/Creation Paths/Luzator/3rd Level/Lux Carnificus.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/4th Level/Beaming Ball.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/3rd Level/Beam of Radiance.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/4th Level/Truevision.md": "LiSparkles"
+  "Psycasts/Creation Paths/Luzator/4th Level/Truevision.md": "LiSparkles",
+  "Conditions/Statuses/Invincible.md": "LiSquareSquare",
+  "Conditions/Statuses/Intangible.md": "LiSquareSquare"
 }

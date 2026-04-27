@@ -15,14 +15,15 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- Self.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Channeled, up to 1 Turn.
 - **Effects**:
 	- *.*
-	- .
+	- For the duration of this psycast, you have the following effects:
+		- You are
 - **Stats**:
 	- .
 - **Upcasting**:
