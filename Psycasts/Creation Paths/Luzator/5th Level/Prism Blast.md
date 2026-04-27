@@ -13,18 +13,23 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 120ft.
 - **Target**:
 	- Self.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- Channeled, up to 1 Turn.
+	- 1 Turn.
 - **Effects**:
 	- *.*
 	- For the duration of this psycast, you have the following effects:
-		- You are
+		- You are [[Intangible]].
+		- You are [[Immobilized]].
+		- Taking any action immediately ends this psycast.
+		- All creatures within range of you at the beginning or end of their turn must make a Constitution saving throw.
+			- On a failure,
+			- On a success,
 - **Stats**:
-	- .
+	- . Radiant Damage from Blast
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
