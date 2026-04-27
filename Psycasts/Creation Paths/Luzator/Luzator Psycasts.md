@@ -15,12 +15,12 @@ aliases:
 	- [[Detection Light]] (10, 0)
 	- [[Identification]] (10, 0)
 - 3rd Level:
-	- [[Beam of Radiance]] (3, 33)
 	- [[Disarming Light]] (5, 25)
 	- [[Lux Carnificus]] (8, 38)
-- 4th Level:
-	- [[Beaming Ball]] (3, 44)
 	- [[Reflecting Light]]
+- 4th Level:
+	- [[Beam of Radiance]] (3, 44)
+	- [[Beaming Ball]] (3, 44)
 - 5th Level:
 	- [[Prism Blast]]
 	- [[Starlight]]

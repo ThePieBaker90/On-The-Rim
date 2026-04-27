@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Luzator
-  - 4th-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 4th Level [[Luzator Psycasts|Luzator Psycast]]
+	- 3rd Level [[Luzator Psycasts|Luzator Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**

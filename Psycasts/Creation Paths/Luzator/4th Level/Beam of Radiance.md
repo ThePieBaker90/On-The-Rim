@@ -2,16 +2,16 @@
 tags:
   - Psycast
   - Luzator
-  - 3rd-Level
+  - 4th-Level
 ---
 - **Path**:
-	- 3rd Level [[Luzator Psycasts|Luzator Psycast]]
+	- 4th Level [[Luzator Psycasts|Luzator Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 3
 - **[[Neural Heat]] Generation:**
-	- 33
+	- 44
 - [[Range]]:
 	- Touch.
 - **Target**:
@@ -34,7 +34,7 @@ tags:
 		- Your [[Movement Speed]] is slowed.
 		- The end point of the target line that is within range of you follows you at all times.
 - **Stats**:
-	- 2d8 Radiant Damage from Light Beam.
+	- 2d10 Radiant Damage from Light Beam.
 	- 10ft Light Range.
 	- 20ft Max Target Line Far Endpoint Movement Range.
 	- 15ft [[Movement Speed]] Slow.

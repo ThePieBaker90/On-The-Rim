@@ -1260,7 +1260,6 @@
   "Psycasts/Creation Paths/Luzator/1st Level/Create Light.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/1st Level": "TiHexagonNumber1",
   "Psycasts/Creation Paths/Luzator/2nd Level/Detection Light.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/4th Level/Reflecting Light.md": "LiListTodo",
   "Psycasts/Creation Paths/Luzator/5th Level/Prism Blast.md": "LiListTodo",
   "Psycasts/Creation Paths/Technonator/1st Level": "TiHexagonNumber1",
   "Psycasts/Creation Paths/Technonator/3rd Level": "TiHexagonNumber3",
@@ -1341,8 +1340,9 @@
   "Psycasts/Creation Paths/Luzator/2nd Level/Create Daylight.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/5th Level/Starlight.md": "LiListTodo",
   "Psycasts/Creation Paths/Luzator/2nd Level/Identification.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/3rd Level/Beam of Radiance.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/3rd Level/Disarming Light.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/3rd Level/Lux Carnificus.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/4th Level/Beaming Ball.md": "LiSparkles"
+  "Psycasts/Creation Paths/Luzator/4th Level/Beaming Ball.md": "LiSparkles",
+  "Psycasts/Creation Paths/Luzator/4th Level/Beam of Radiance.md": "LiSparkles",
+  "Psycasts/Creation Paths/Luzator/3rd Level/Reflecting Light.md": "LiListTodo"
 }
