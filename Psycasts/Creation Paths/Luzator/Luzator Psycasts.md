@@ -18,10 +18,9 @@ aliases:
 	- [[Beam of Radiance]] (3, 33)
 	- [[Disarming Light]] (5, 25)
 	- [[Lux Carnificus]] (8, 38)
-	- [[Glittering Veil]]
 - 4th Level:
-
 	- [[Beaming Ball]] (3, 44)
+	- [[Discovery]]
 - 5th Level:
 	- [[Prism Blast]]
 	- [[Starlight]]
