@@ -27,9 +27,9 @@ tags:
 		- On a success, nothing happens.
 	- Afflicted creatures suffer the following effects:
 		- The ball is attached to them and will immediately bounce to any creature who comes within bounce range of them. 
-			- When the ball bounces to another creature, this creature loses affliction and that creature gains affliction.
+			- When the ball bounces to another creature, this creature loses affliction and the creature in bounce range gains affliction.
 			- The ball will not bounce to creatures who have been afflicted by this psycast since the beginning of this turn.
-			- The ball may only bounce a certain number of times before this psycast ends. 
+			- The ball may only bounce a certain number of times before it stops bouncing to other creatures.
 				- The initial throw at the target creature is considered the 1st bounce.
 		- When they become afflicted, they take radiant damage from the ball impact.
 		- When they start their turn, if they have been continuously afflicted since the end of their last turn, they lose affliction.
