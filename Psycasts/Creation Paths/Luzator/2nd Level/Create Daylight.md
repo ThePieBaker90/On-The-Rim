@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 Minute.
 - **Effects**:
-	- *You concentrate and amplify photons to form a powerful or of daylight. The orb is short-lived and susceptible to damage due to its extreme light output.*
+	- *You concentrate and amplify photons to form a powerful orb of daylight. The orb is short-lived and susceptible to damage due to its extreme light output.*
 	- You summon an orb of [[Lighting#UV Light|UV Light]] at the target point. 
 	- For the duration of this psycast, the orb has the following effects:
 		- The orb creates [[Lighting#Bright Light|Bright UV Light]] within strong light range of it.
@@ -34,6 +34,6 @@ tags:
 	- 60ft Moderate Light Range.
 	- 90ft Weak Light Range.
 	- 15 Orb Health.
-	  1 Turn [[Blinded]] Duration.
+	- 1 Turn [[Blinded]] Duration.
 - **Upcasting**:
 	- You cannot upcast this psycast.

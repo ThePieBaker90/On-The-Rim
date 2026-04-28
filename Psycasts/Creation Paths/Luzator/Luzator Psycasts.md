@@ -13,6 +13,7 @@ aliases:
 - 2nd Level:
 	- [[Create Daylight]] (15, 0)
 	- [[Detection Light]] (10, 0)
+	- [[Exposing Light]] (10, 30)
 	- [[Identification]] (10, 0)
 - 3rd Level:
 	- [[Beam of Radiance]] (3, 33)
@@ -23,7 +24,7 @@ aliases:
 	- [[Truevision]] (40, 0)
 - 5th Level:
 	- [[Prism Blast]] (10, 43)
-	- [[Starbeam]]
+
 ## Miscasts
 - Level 1 Miscast - .
 	- .
