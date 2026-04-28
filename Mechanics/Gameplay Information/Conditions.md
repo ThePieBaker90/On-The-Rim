@@ -7,6 +7,8 @@ aliases:
 ## Condition Overview
 - Conditions are effects that affect a creature. A creature may have an unlimited amount of conditions affecting them, although all non-[[#Stacking Conditions]] cannot have multiple instances on that creature. 
 - All (non-status) conditions are either positive, negative, or mixed. This determines what effects interact with the condition.
+- If a condition would be applied to a creature who already has that condition, the duration of the condition becomes whichever duration is longer.
+	- For example, if a creature has 2 turns of [[On Fire!]] remaining and 3 turns of [[On Fire!]] is applied, the duration of the [[On Fire!]] that they have becomes 3 turns.
 ## Duration
 - All conditions have a duration which may be measured in turns or may be indefinite.
 - When a creature ends its turn, the duration of all conditions on the creature decrease by 1 turn. Any conditions that have a duration of 0 turns are removed.
