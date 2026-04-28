@@ -108,8 +108,10 @@ aliases:
 	- "Self" refers to the caster.
 	- "A creature" refers to 1 creature of the caster's choice. This includes allied creatures and the caster.
 	- "A point" refers to 1 point in space, this doesn't need to be grounded unless explicitly stated.
-	- "Within range" means the target's distance to the caster must be under the psycast's range through the cast phase.
-	- A shape of any kind means it targets everything in the shape. A shape in range can be arbitrarily placed by the caster anywhere as long as every point in the shape is within range.
+	- "Within range" means the target's distance to the caster must be under the psycast's range through the cast phase. It must also be in line of sight.
+	- A shape of any kind means it targets everything in the shape. 
+		- A shape in range can be arbitrarily placed by the caster anywhere as long as every point in the shape is within range.
+		- If a shape has a specific point that must be in range, only parts that are in line of sight of the point and within the shape are targeted.
 	- A target that is "grounded" is touching the floor.
 	- A "surface" target is touching some stable surface such as a wall, floor, ceiling.
 - A psycast's target doesn't have an inherent effect on the psycast and instead is referred to by other properties of the psycast.

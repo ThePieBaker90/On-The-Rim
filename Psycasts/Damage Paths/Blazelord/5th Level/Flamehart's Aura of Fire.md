@@ -30,7 +30,7 @@ tags:
 		- They catch [[On Fire!]] at the end of their turn.
 			- If they already have [[On Fire!]], the duration of it increases instead of decreasing.
 		- They cannot be doused to remove [[On Fire!]], if they are doused in a liquid they take moderate damage from the searing temperature. 
-	- The temperature within the target sphere rises dramatically, boiling water and heating metal within the target sphere.
+	- For the duration of this psycast, the temperature within the target sphere rises dramatically, boiling water and heating metal within the target sphere.
 	- You cannot be afflicted by this psycast.
 - **Stats**:
 	- 1d4 + 2 Fire Damage from Heat.

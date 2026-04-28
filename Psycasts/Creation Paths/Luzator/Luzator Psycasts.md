@@ -22,7 +22,7 @@ aliases:
 	- [[Beaming Ball]] (3, 44)
 	- [[Truevision]] (40, 0)
 - 5th Level:
-	- [[Prism Blast]]
+	- [[Prism Blast]] (10, 43)
 	- [[Starlight]]
 ## Miscasts
 - Level 1 Miscast - .

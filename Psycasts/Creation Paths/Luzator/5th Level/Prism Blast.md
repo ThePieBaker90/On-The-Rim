@@ -7,29 +7,30 @@ tags:
 - **Path**:
 	- 5th Level [[Luzator Psycasts|Luzator Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 10
 - **[[Neural Heat]] Generation:**
-	- .
+	- 43
 - [[Range]]:
-	- 120ft.
-- **Target**:
 	- Self.
+- **Target**:
+	- A sphere with its center within range, does not require line of sight.
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 1 Turn.
+	- Instant.
 - **Effects**:
-	- *.*
-	- For the duration of this psycast, you have the following effects:
-		- You are [[Intangible]].
-		- You are [[Immobilized]].
-		- Taking any action immediately ends this psycast.
-		- All creatures within range of you at the beginning or end of their turn must make a Constitution saving throw.
-			- On a failure,
-			- On a success,
+	- *Multicolored light blasts outwards in every direction from you. The blast goes through walls, deals heavy radiant damage, and [[Exposed|Exposes]] creatures. The blast takes so much energy that you cannot use any other actions this turn.*
+	- This psycast may only be used as the first action or bonus action on your turn.
+	- All creatures within the target sphere take heavy damage from the blast and become [[Exposed]].
+		- You are immune to this effect.
+	- For 1 turn after this psycast is cast, the the following effects occur:
+		- The target sphere creates [[Lighting#Bright Light|Bright Light]] within it.
+		- You are [[Incapacitated]] until the end of your turn.
 - **Stats**:
-	- . Radiant Damage from Blast
+	- 3d10 Radiant Damage from Blast.
+	- 3 Turn [[Exposed]] Duration.
+	- 40ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.
