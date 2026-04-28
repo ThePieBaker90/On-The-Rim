@@ -23,7 +23,7 @@ aliases:
 	- [[Truevision]] (40, 0)
 - 5th Level:
 	- [[Prism Blast]] (10, 43)
-	- [[Starlight]]
+	- [[Starbeam]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

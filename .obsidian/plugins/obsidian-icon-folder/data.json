@@ -1338,7 +1338,6 @@
   "Psycasts/Damage Paths/Terralord/4th Level/Terrain Hammer.md": "LiSparkles",
   "Psycasts/Damage Paths/Terralord/5th Level/Earthshaker.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/2nd Level/Create Daylight.md": "LiSparkles",
-  "Psycasts/Creation Paths/Luzator/5th Level/Starlight.md": "LiListTodo",
   "Psycasts/Creation Paths/Luzator/2nd Level/Identification.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/3rd Level/Disarming Light.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/3rd Level/Lux Carnificus.md": "LiSparkles",
@@ -1346,5 +1345,6 @@
   "Psycasts/Creation Paths/Luzator/3rd Level/Beam of Radiance.md": "LiSparkles",
   "Psycasts/Creation Paths/Luzator/4th Level/Truevision.md": "LiSparkles",
   "Conditions/Statuses/Invincible.md": "LiSquareSquare",
-  "Conditions/Statuses/Intangible.md": "LiSquareSquare"
+  "Conditions/Statuses/Intangible.md": "LiSquareSquare",
+  "Psycasts/Creation Paths/Luzator/5th Level/Starbeam.md": "LiListTodo"
 }
