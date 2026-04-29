@@ -6,7 +6,7 @@ aliases:
   - Luzator
   - Luzator Psycast
 ---
-*todo.*
+*Luzators specialize in manipulating and creating light. Most of their psycasts center around manipulating stray photons into orbs of light or radiant attacks. Luzators excel at making decisive actions in battle and gleaming information others wouldn't find.*
 ## Core Psycasts
 - 1st Level:
 	- [[Create Light]] (3, 0)
@@ -26,10 +26,11 @@ aliases:
 	- [[Prism Blast]] (10, 43)
 
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Lights Out
+	- All light sources within 50ft of you immediately extinguish.
+		- A light source's volume must be smaller than 5ft$^3$ 
+- Level 2 Miscast - Radiant Overflow
+	- Light overflows within you, you become [[Exposed]] for 5 turns.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
