@@ -14,7 +14,7 @@ aliases:
 	- [[Apply Invisibility]] (14, 28)
 	- [[Evasive Image]] (7, 25)
 - 3rd Level:
-	- [[Clone of Self]]
+	- [[Lookalike Illusion]]
 	- [[Disguise]]
 	- [[Illusion]]
 - 4th Level:
