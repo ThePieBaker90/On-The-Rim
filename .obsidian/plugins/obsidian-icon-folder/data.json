@@ -1153,7 +1153,6 @@
   "Psycasts/Utility Paths/Illusiomancer": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/2nd Level": "TiHexagonNumber2",
   "Psycasts/Utility Paths/Illusiomancer/Illusiomancer Psycasts.md": "LiListTodo",
-  "Psycasts/Utility Paths/Illusiomancer/2nd Level/Evasion Increase.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/Hemomancer Psycasts.md": "LiListTodo",
   "Conditions/Special Conditions/Emotional Conditions/Inspiration.md": "FarSquareCaretUp",
@@ -1355,5 +1354,6 @@
   "Psycasts/Utility Paths/Illusiomancer/4th Level/Greater Invisibility.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/4th Level/Persistent Illusion.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/5th Level/Complex Illusion.md": "LiListTodo",
-  "Psycasts/Utility Paths/Illusiomancer/5th Level/False Visions.md": "LiListTodo"
+  "Psycasts/Utility Paths/Illusiomancer/5th Level/False Visions.md": "LiListTodo",
+  "Psycasts/Utility Paths/Illusiomancer/2nd Level/Evasive Image.md": "LiListTodo"
 }

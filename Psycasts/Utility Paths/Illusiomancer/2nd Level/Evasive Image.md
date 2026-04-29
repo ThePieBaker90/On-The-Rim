@@ -21,9 +21,9 @@ tags:
 - **Duration**:
 	- 3 Turns. (+2 Turns)
 - **Effects**:
-	- *.*
-	- For the duration of this psycast, the target creature gains +2 [[Evade Class]].
+	- *You grant a creature an evasive image making attacks more likely to miss. It is very difficult to discern where their body stops and starts among the smeared image.*
+	- For the duration of this psycast, the target creature has additional [[Evade Class]].
 - **Stats**:
-	- .
+	- +2 [[Evade Class]] Applied.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.

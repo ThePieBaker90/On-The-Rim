@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Simple Illusion]] (6, 0)
 - 2nd Level:
-	- [[Evasion Increase]]
+	- [[Evasive Image]] (7, 25)
 	- [[Invisibility]]
 - 3rd Level:
 	- [[Clone of Self]]
