@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 3 Turns. (+2 Turns)
 - **Effects**:
-	- *You grant a creature an evasive image making attacks more likely to miss. It is very difficult to discern where their body stops and starts among the smeared image.*
+	- *You grant a creature increased evasion by making them generate psychic waves which cause their image to become heavily blurred and smeared to observers..*
 	- For the duration of this psycast, the target creature has additional [[Evade Class]].
 - **Stats**:
 	- +2 [[Evade Class]] Applied.

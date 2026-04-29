@@ -6,7 +6,7 @@ aliases:
   - Illusiomancer
   - Illusiomancer Psycast
 ---
-*todo.*
+*Illusiomancers specialize in disrupting others perceptions. Their psycasts send out psychic waves which interrupt signals in creature's brains causing them to perceive false visions, sounds, feelings, smells, or other sensory inputs.*
 ## Core Psycasts
 - 1st Level:
 	- [[Simple Illusion]] (6, 0)
