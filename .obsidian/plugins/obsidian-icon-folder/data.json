@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkles",
       "FarSquareCaretUp",
       "LiListTodo",
       "LiSquareSquare",
-      "LiInfo",
-      "FarSquareCaretDown"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1347,7 +1347,6 @@
   "Conditions/Statuses/Intangible.md": "LiSquareSquare",
   "Psycasts/Creation Paths/Luzator/2nd Level/Exposing Light.md": "LiSparkles",
   "Psycasts/Utility Paths/Illusiomancer/1st Level/Simple Illusion.md": "LiSparkles",
-  "Psycasts/Utility Paths/Illusiomancer/2nd Level/Invisibility.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/3rd Level/Clone of Self.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/3rd Level/Disguise.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/3rd Level/Illusion.md": "LiListTodo",
@@ -1356,5 +1355,6 @@
   "Psycasts/Utility Paths/Illusiomancer/5th Level/Complex Illusion.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/5th Level/False Visions.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/2nd Level/Evasive Image.md": "LiSparkles",
-  "Conditions/Special Conditions/Invisible.md": "FarSquareCaretUp"
+  "Conditions/Special Conditions/Invisible.md": "FarSquareCaretUp",
+  "Psycasts/Utility Paths/Illusiomancer/2nd Level/Apply Invisibility.md": "LiSparkles"
 }
