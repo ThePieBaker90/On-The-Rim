@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Simple Illusion]]
+	- [[Simple Illusion]] (6, 0)
 - 2nd Level:
 	- [[Evasion Increase]]
 	- [[Invisibility]]

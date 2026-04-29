@@ -7,23 +7,33 @@ tags:
 - **Path**:
 	- 1st Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 6
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- 30ft.
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- 1 Minute.
 - **Effects**:
-	- *.*
-	- .
+	- *You transmit psychic waves to a creature, causing them to perceive a minor illusion. The illusion may only be a sound or an image and only the creature perceives it.*
+	- When you cast this psycast, you choose each of the following:
+		- Whether the illusion will be visual or auditory.
+		- What the illusion will be.
+		- Where the illusion will be perceived.
+	- For the duration of this psycast, the target creature is afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They perceive the chosen illusion. 
+		- They may make an Intelligence skill check on the illusion as an action to discern its legitimacy.
+			- On a failure, they continue believing the illusion is real.
+			- On a success, they discern that it is an illusion.
 - **Stats**:
-	- .
+	- 10ft$^3$ Max Visual Illusion Volume.
+	- 80dB Max Auditory Illusion Intensity.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

@@ -41,7 +41,7 @@ aliases:
 - A psycaster's psycasting ability modifier is determined by their class.
 ### Psycast Save DC
 - A psycaster's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. 
-	- All psycast saving throws without an explicit DC use the psycaster's psycast save DC as the save DC.
+	- All psycast saving throws and skill checks without an explicit DC use the psycaster's psycast save DC as the save DC.
 ## Psycast Paths
 - Each path contains 10 core psycasts of varying levels which correspond the the path.
 - All psycasts belong to a path or paths. Each path is part of an overarching category, there are 4 categories; Creation, Damage, Support, and Utility.
