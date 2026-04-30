@@ -22,7 +22,7 @@ tags:
 	- 10 Turns.
 - **Effects**:
 	- *You make a creature generate psychic waves which prevents others from seeing them. The [[Invisible|Invisibility]] dissipates if they attack or use any harmful effects.*
-	- For the duration of this psycast, the target creature has the following effects:
+	- For the duration of this psycast, the target creatures have the following effects:
 		- They are [[Invisible]].
 		- If they attack or use a harmful effect, this psycast immediately ends.
 - **Stats**:

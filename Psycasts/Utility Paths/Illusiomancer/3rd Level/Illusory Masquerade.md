@@ -1,0 +1,34 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 25
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range. (+1 Creature)
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Hour.
+- **Effects**:
+	- *You make a creature generate psychic waves which cause others to perceive them as a different creature. The disguise dissipates if they attack or use any harmful effects.*
+	- When you cast this psycast, you choose an illusory disguise for each target creature.
+		- The illusory disguise's visual component must be similar to the creature's volume.
+	- For the duration of this psycast, the target creatures have the following effects:
+		- They look like their chosen illusory disguise.
+		- Their voice sounds like their chosen illusory disguise.
+		- If they attack or use a harmful effect, this psycast immediately ends.
+- **Stats**:
+	- 5ft$^3$ Max Visual Illusion Volume Difference.
+- **Upcasting**:
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast may target an additional creature.

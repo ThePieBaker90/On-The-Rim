@@ -15,7 +15,7 @@ aliases:
 	- [[Evasive Image]] (7, 25)
 - 3rd Level:
 	- [[Lookalike Illusion]] (15, 0)
-	- [[Disguise]]
+	- [[Illusory Masquerade]]
 	- [[Illusion]]
 - 4th Level:
 	- [[Greater Invisibility]]
