@@ -2,39 +2,39 @@
 tags:
   - Psycast
   - Illusiomancer
-  - 1st-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 1st Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+	- 3rd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 20
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
 	- 30ft.
 - **Target**:
-	- A creature within range. (+1 Creature)
+	- Up to 4 creatures within range. (+4 Creatures)
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 Minute.
+	- 1 Hour.
 - **Effects**:
-	- *You transmit psychic waves to a creature, causing them to perceive a minor illusion. The illusion may only affect one sense and only the creature perceives it.*
+	- *You transmit psychic waves to several creatures, causing them to perceive an advanced illusion. The illusion may only affect two senses and only affected creatures perceive it.*
 	- When you cast this psycast, you choose each of the following:
 		- Which senses the illusion will affect out of sight, hearing, smell, taste, or touch.
 		- What the illusion will be.
 		- Where the illusion will be perceived.
-	- For the duration of this psycast, the target creature is afflicted.
+	- For the duration of this psycast, the target creatures are afflicted.
 	- Afflicted creatures suffer the following effects:
-		- They perceive the chosen illusion through the chosen sense. 
+		- They perceive the chosen illusion through the chosen senses.
 		- They may make an Intelligence skill check on the illusion as an action to discern its legitimacy.
 			- On a failure, they continue believing the illusion is real.
 			- On a success, they discern that it is an illusion.
 - **Stats**:
-	- 1 Max Senses Affected,
-	- 10ft$^3$ Max Visual Illusion Volume.
+	- 2 Max Senses Affected.
+	- 20ft$^3$ Max Visual Illusion Volume.
 	- 80dB Max Auditory Illusion Intensity.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast may target an additional creature.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast may target up to 4 more creatures.
