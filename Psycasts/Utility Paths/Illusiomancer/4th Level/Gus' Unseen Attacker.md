@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- 10ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Concentration, up to 5 Turns.
+- **Effects**:
+	- *You make a creature generate psychic waves which prevents others from seeing them. This [[Invisible|Invisibility]] is strong enough to persist through the user attacking.*
+	- For the duration of this psycast, the target creature is [[Invisible]].
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You cannot upcast this psycast. 

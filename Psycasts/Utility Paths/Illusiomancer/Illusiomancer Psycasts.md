@@ -18,7 +18,7 @@ aliases:
 	- [[Illusory Masquerade]] (25, 0)
 	- [[Advanced Illusion]] (20, 0)
 - 4th Level:
-	- [[Greater Invisibility]]
+	- [[Gus' Unseen Attacker]]
 	- [[Persistent Illusion]]
 - 5th Level:
 	- [[Complex Illusion]]
