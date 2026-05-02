@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44 (39)
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Concentration, up to 3 Turns. (+1 Turn)
+- **Effects**:
+	- *You emit psychic waves which causes observers to see false visions of your actions in combat, therefore making reacting to your real actions extremely difficult.*
+	- For the duration of this psycast, you have the following effects:
+		- Actions, bonus actions, and reactions you take cannot trigger reactions from hostile creatures.
+		- Your [[Movement Speed|Movement]] cannot trigger reactions from hostile creatures.
+		- When you are attacking, the defender's [[Evade Class|Effective Evade Class]] is reduced.
+		- When an action, bonus action, or reaction you take forces another creature to make a Dexterity saving throw, that creature gains disadvantage on the throw.
+- **Stats**:
+	- 50% Defender [[Evade Class|Effective Evade Class]].
+- **Upcasting**:
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

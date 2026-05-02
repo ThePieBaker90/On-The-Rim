@@ -19,7 +19,7 @@ aliases:
 	- [[Advanced Illusion]] (20, 0)
 - 4th Level:
 	- [[Gus' Unseen Attacker]] (20, 40)
-	- [[Persistent Illusion]]
+	- [[False Action]] 
 - 5th Level:
 	- [[Complex Illusion]]
 	- [[False Visions]]
