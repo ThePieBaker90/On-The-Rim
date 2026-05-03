@@ -34,7 +34,7 @@ tags:
 			- Creature uses all available movement to walk away from you. 
 		- Attack
 			- Creature makes one attack on the nearest creature to them.
-	- If the creature cannot follow your command or your command would be directly harmful to the creature, the psycast ends.
+	- If the creature cannot follow your command or your command would be directly harmful to the creature, this psycast ends.
 - **Stats**:
 	- .
 - **Upcasting**:

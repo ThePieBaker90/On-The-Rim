@@ -37,4 +37,4 @@ tags:
 	- +1ft [[Movement Speed]] Required Per 1ft Moved.
 	- x10 Weight.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

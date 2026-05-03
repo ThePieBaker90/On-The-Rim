@@ -28,9 +28,9 @@ tags:
 		- Creatures moving through it for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
 			- On a failure, they fall [[Prone]].
 			- On a success, nothing happens.
-		- It can be washed away with a cleaning agent (such as water), ending the psycast prematurely.
+		- It can be washed away with a cleaning agent (such as water), ending this psycast immediately.
 - **Stats**:
 	- +1ft of [[Movement Speed]] Required Per 1ft Moved Through [[Anti-Glue]].
 	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional minute.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional minute.

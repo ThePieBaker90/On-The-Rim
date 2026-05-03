@@ -22,6 +22,6 @@ tags:
 - **Duration**:
 	- 3 Turns.
 - **Effects**
-	- You cast a temporary damage barrier on a creature within range. The creature gains 1d8 temporary health for each hostile creature within 15ft of them. This health goes away when the psycast ends.
+	- You cast a temporary damage barrier on a creature within range. The creature gains 1d8 temporary health for each hostile creature within 15ft of them. This health goes away when this psycast ends.
 - **Upcasting**:
 	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the creature gains an additional 1d8 temporary health for each nearby hostile creature.

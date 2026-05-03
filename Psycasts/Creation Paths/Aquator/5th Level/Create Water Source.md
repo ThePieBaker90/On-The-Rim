@@ -27,5 +27,5 @@ tags:
 - **Stats**:
 	- 10L of Water Per Minute.
 - **Upcasting:**
-	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 10 hours.
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional 10 hours.
 

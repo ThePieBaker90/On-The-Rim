@@ -25,7 +25,7 @@ tags:
 	- You manipulate [[Abomination Matter]] in one of the following ways:
 		- You cause the [[Abomination Matter]] to form into a simple shape (square, cone, sphere, pyramid, etc.).
 		- You may freely levitate the [[Abomination Matter]] to a point (or points) in space.
-		- You cause [[Abomination Matter]] to harden. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after the psycast ends.
+		- You cause [[Abomination Matter]] to harden. This hardened [[Abomination Matter]] may not be levitated and immediately unhardens after this psycast ends.
 	- You can change the way you are manipulating [[Abomination Matter]] up to one time per turn at no cost. 
 	- The kinetic component of this psycast does not need to be satisfied during the cast and active phases to channel it.
 - **Stats**:

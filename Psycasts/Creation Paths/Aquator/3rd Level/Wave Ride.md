@@ -28,9 +28,9 @@ tags:
 		- Creatures you attempt to move through must make a dexterity saving throw. 
 			- On a failure, they are pushed away and are knocked [[Prone]]. 
 			- On a success, they are pushed away.
-		- Moving over a grate or a drain ends the psycast prematurely.
+		- Moving over a grate or a drain ends this psycast immediately.
 - **Stats**:
 	- x2 [[Movement Speed]] Modifier.
 	- 5ft Push Away Distance.
 - **Upcasting:**
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

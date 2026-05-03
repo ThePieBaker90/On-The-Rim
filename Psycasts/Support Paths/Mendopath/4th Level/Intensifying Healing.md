@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 10 Turns.
 - **Effects**
-	- *You create a temporary psychic feedback loop between your healing and this psycast. This causes all healing to heal more and more as the psycast goes on. The feedback loop is unstable and will break if you fail to actively heal anybody on your turn.*
+	- *You create a temporary psychic feedback loop between your healing and this psycast. This causes all healing to heal more and more as this psycast goes on. The feedback loop is unstable and will break if you fail to actively heal anybody on your turn.*
 	- For the duration of this psycast, you gain the following effects:
 		- All non-passive healing you do heals additional health scaling with the number of turns this psycast has been active.
 			- The turn this psycast is cast, it is considered to have been active for 1 turn. At the beginning of the caster's next turn it has been active for 2 turns.

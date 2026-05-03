@@ -23,7 +23,7 @@ tags:
 - **Effects**:
 	- *You create a psychic amplifier to duplicate all of your [[Melodipath Psycasts]] at a different location.*
 	- You create a psychic amplifier at the target point which exists for the duration of this psycast. All [[Melodipath Psycasts]] you use are copied by the amplifier.
-		- "You" refers to the amplifier when it copies the psycast.
+		- "You" refers to the amplifier in a psycast's effects for copied psycasts.
 		- Some [[Melodipath Psycasts]] cannot be copied by the amplifier, these are denoted in the psycast effects.
 		- The amplifier cannot move or be interacted with outside of interacting with this psycast.
 		- [[The Band Plays On!]] is not copied by the amplifier, instead the amplifier simply acts as a performing creature.

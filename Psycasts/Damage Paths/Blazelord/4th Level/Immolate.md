@@ -30,4 +30,4 @@ tags:
 - **Stats**:
 	- None.
 - **Upcasting:**
-	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

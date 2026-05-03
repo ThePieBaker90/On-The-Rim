@@ -28,4 +28,4 @@ tags:
 	- 15L Max Liquid Purified. (+15L)
 	- 3kg Max Food Purified. (+3kg)
 - **Upcasting**:
-	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the psycast purifies an additional 15L of liquid or an additional 3kg of food.
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, this psycast purifies an additional 15L of liquid or an additional 3kg of food.

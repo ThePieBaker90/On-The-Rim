@@ -31,7 +31,7 @@ tags:
 		- If they do not have a [[Movement Speed#Flying|Flying Speed]], they are [[Immobilized]]. 
 		- At the beginning of your next turn, they are slammed into the ground, taking heavy damage that scales with the height of the slam and being knocked [[Prone]] and [[Stunned]].
 			- Once this effect triggers, they lose affliction.
-	- If the psycast ends prematurely, all afflicted creatures fall taking damage scaling with the height of the fall.
+	- If this psycast ends prematurely, all afflicted creatures fall taking damage scaling with the height of the fall.
 - **Stats**:
 	- 1d12 Bludgeoning Damage per 10ft of Height from Gravity Slam.
 	- 1d6 Bludgeoning Damage per 10ft of Height from Falling
