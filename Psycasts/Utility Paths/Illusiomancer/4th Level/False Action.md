@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 3 Turns. (+1 Turn)
 - **Effects**:
-	- *You emit psychic waves which causes observers to see false visions of your actions in combat, therefore making reacting to your real actions extremely difficult.*
+	- *Over the course of the psycast, you emit psychic waves. These waves cause observers to see false visions of your actions in combat, making reacting to your real actions extremely difficult.*
 	- For the duration of this psycast, you have the following effects:
 		- Actions, bonus actions, and reactions you take cannot trigger reactions from hostile creatures.
 		- Your [[Movement Speed|Movement]] cannot trigger reactions from hostile creatures.
