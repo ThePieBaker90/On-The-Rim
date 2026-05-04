@@ -22,16 +22,15 @@ tags:
 	- 5 Minutes.
 - **Effects**:
 	- *You imbue psychic waves into a point in space. The waves disrupt creature's sensory centers and cause them to see and hear you as if you were at the point. The illusion can move and can copy your actions, although it cant physically affect anything.*
-	- You create an illusion of you at the target point.
-	- For the duration of this psycast, the self illusion has the following effects:
-		- It looks exactly like you and has your mannerisms.
+	- You create an [[Illusion]].
+		- The illusion affects sight and hearing.
+		- The illusion looks and sounds like you perfectly.
+		- The illusion is perceived at the target point.
+	- For the duration of this psycast, the [[Illusion]] has the following effects:
 		- You can psychically command it to do the following:
 			- Move - The illusion has your movement speed and can move through objects.
-			- Copy - The illusion can copy your current movements and actions. No effects can come of the illusion's actions.
+			- Copy - The illusion can copy your current movements and actions.
 		- It may not go beyond illusion range from you. If it does, this psycast ends.
-	- A creature can make an Intelligence skill check on the illusion as an action to discern its legitimacy.
-		- On a failure, they continue believing the illusion is real.
-		- On a success, they discern that it is an illusion.
 - **Stats**:
 	- 1 Self Illusion. (+1 Self Illusion)
 	- 120ft Illusion Range.

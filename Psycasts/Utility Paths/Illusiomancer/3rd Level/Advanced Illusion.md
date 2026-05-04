@@ -22,19 +22,12 @@ tags:
 	- 1 Hour.
 - **Effects**:
 	- *You transmit psychic waves to several creatures, causing them to perceive an advanced illusion. The illusion may only affect two senses and only affected creatures perceive it.*
-	- When you cast this psycast, you choose each of the following:
-		- Which senses the illusion will affect out of sight, hearing, smell, taste, or touch.
-		- What the illusion will be.
-		- Where the illusion will be perceived.
+	- You create an [[Illusion]].
 	- For the duration of this psycast, the target creatures are afflicted.
 	- Afflicted creatures suffer the following effects:
-		- They perceive the chosen illusion through the chosen senses.
-		- They may make an Intelligence skill check on the illusion as an action to discern its legitimacy.
-			- On a failure, they continue believing the illusion is real.
-			- On a success, they discern that it is an illusion.
+		- They perceive the created [[Illusion]].
+	- You can end this psycast at any time.
 - **Stats**:
 	- 2 Max Senses Affected.
-	- 20ft$^3$ Max Visual Illusion Volume.
-	- 80dB Max Auditory Illusion Intensity.
 - **Upcasting**:
 	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast may target up to 4 more creatures.

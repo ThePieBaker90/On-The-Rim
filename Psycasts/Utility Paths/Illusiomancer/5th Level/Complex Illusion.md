@@ -7,23 +7,28 @@ tags:
 - **Path**:
 	- 5th Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 60ft.
 - **Target**:
-	- .
+	- A sphere with its center within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- 1 Day.
 - **Effects**:
 	- *.*
-	- .
+	- You create an [[Illusion]].
+	- For the duration of this psycast, all creatures within the target sphere are afflicted. They do not lose affliction upon leaving the target sphere.
+	- Afflicted creatures suffer the following effects:
+		- They perceive the created [[Illusion]].
+	- You can end this psycast at any time.
 - **Stats**:
-	- .
+	- 4 Max Senses Affected.
+	- 30ft Target Sphere Radius. (+15ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 15ft.
