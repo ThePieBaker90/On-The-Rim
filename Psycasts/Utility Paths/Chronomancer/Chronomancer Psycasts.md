@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Paradoxical Hop]] (3, 18)
-	- [[Split Second]]
+	- [[Split Second]] (5, 0)
 - 2nd Level:
 	- [[Chronoshot]]
 	- [[Previous]]
