@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Forever to think
 - **Stats**:
 	- .
 - **Upcasting**:

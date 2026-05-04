@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
-  - 1st-Level
+  - 4th-Level
 ---
 - **Path**:
-	- 1st Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Mark down stats, in a certain num turns you go back to that location with those prev stats. Certain things can disable this.
 - **Stats**:
 	- .
 - **Upcasting**:

@@ -2,9 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
+  - 2nd-Level
 ---
 - **Path**:
-	- . Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -21,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Mark down stats, in a certain time you revert to those stats.
 - **Stats**:
 	- .
 - **Upcasting**:

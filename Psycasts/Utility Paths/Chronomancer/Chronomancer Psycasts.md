@@ -9,18 +9,20 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Pass Time]]
+	- [[Paradoxical Hop]]
 	- [[Split Second]]
 - 2nd Level:
-	- [[Extra Half-Turn]]
-	- [[Transfer Age]]
+	- [[Chronoshot]]
+	- [[Previous]]
 - 3rd Level:
-	- [[Steal Age]]
-- 4th Level:
-	- [[Localized Time Stop]]
+	- [[Split Future]]
 	- [[Time Attack]]
+- 4th Level:
+	- [[Chronological Rewind]]
+	- [[Temporal Stop]]
+	- [[Time Bomb]]
 - 5th Level:
-	- [[Freeze Time]]
+	- [[Extended Moment]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

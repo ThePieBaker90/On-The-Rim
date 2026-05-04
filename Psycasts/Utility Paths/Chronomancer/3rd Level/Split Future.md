@@ -2,9 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
+  - 3rd-Level
 ---
 - **Path**:
-	- . Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 3rd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -21,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Control a second you based off current stats, at a certain time you choose which you you take. Take all stats of the you you take.
 - **Stats**:
 	- .
 - **Upcasting**:

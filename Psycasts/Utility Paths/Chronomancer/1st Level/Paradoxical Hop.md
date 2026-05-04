@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
-  - 2nd-Level
+  - 1st-Level
 ---
 - **Path**:
-	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 1st Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Dynamo atom
 - **Stats**:
 	- .
 - **Upcasting**:

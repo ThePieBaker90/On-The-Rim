@@ -13,13 +13,14 @@ tags:
 	- On a success, you become [[#Undetected]] if you were [[#Hidden]], otherwise you remain [[#Undetected]] or [[#Unnoticed]]. 
 	- On a failure, you stay/become [[#Hidden]] or become [[#Observed]] if you failed critically.
 ## Seek Action
-- You attempt to find an [[#Undetected]] creature. Choose either a 15ft sphere or a cone with a length of 30ft and a maximum width of 30ft. Then, make a Wisdom ([[Sight-Based Perception]]) check. For every creature in the area, compare this result to the DC. The DC is a Dexterity (stealth) saving throw from the creature + the [[#Obscuration]] base DC of the [[#Undetected]] creature $*(-1)$
+- You attempt to find an [[#Undetected]] creature. Choose either a 15ft sphere or a cone with a length of 30ft and a maximum width of 30ft. Then, make a Wisdom ([[Sight-Based Perception]]) check. For every creature in the area, compare this result to the DC. The DC is a Dexterity (stealth) saving throw from the creature - the [[#Obscuration]] base DC of the [[#Undetected]] creature
 	- On success, you find the creature. They are [[#Observed]] by you if you can see them. Otherwise, they are [[#Hidden]] from you if you only know their location. 
 	- On a failure, nothing happens.
 ## Obscurations
 - Obscurations are parts of the environment that make you harder or easier to spot. 
 - There are 3 types of obscurations; Cover, Light, and Effect obscurations.
 - The obscuration base DC is used to represent how difficult it is to hide in your environment. To find the obscuration base DC, simply add up the obscuration modifiers of all relevant obscurations.
+	- A lower obscuration base DC means you are more difficult to find. A higher one means you are easier to find.
 
 | Cover        | Obscuration Modifier | Light        | Obscuration Modifiers |
 | ------------ | -------------------- | ------------ | --------------------- |

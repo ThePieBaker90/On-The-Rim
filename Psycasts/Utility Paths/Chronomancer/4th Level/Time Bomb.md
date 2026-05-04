@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
-  - 2nd-Level
+  - 4th-Level
 ---
 - **Path**:
-	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Paradox pulse grenade
 - **Stats**:
 	- .
 - **Upcasting**:

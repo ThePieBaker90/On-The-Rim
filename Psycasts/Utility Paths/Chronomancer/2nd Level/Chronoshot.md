@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
-  - 4th-Level
+  - 2nd-Level
 ---
 - **Path**:
-	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Paradox kinetic carbine
 - **Stats**:
 	- .
 - **Upcasting**:

@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
-  - 4th-Level
+  - 3rd-Level
 ---
 - **Path**:
-	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 3rd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Do thing before time otherwise take penalty
 - **Stats**:
 	- .
 - **Upcasting**:

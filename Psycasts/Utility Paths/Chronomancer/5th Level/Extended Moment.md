@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Local time stop.
 - **Stats**:
 	- .
 - **Upcasting**:

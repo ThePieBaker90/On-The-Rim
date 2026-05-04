@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Chronomancer
-  - 3rd-Level
+  - 4th-Level
 ---
 - **Path**:
-	- 3rd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**
@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- dynamo ult w/o damage
 - **Stats**:
 	- .
 - **Upcasting**:
