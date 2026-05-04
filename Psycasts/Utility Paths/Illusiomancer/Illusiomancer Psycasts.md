@@ -21,7 +21,7 @@ aliases:
 	- [[Gus' Unseen Attacker]] (20, 40)
 	- [[False Action]] (3, 44)
 - 5th Level:
-	- [[Complex Illusion]]
+	- [[Complex Illusion]] (35, 0)
 	- [[False Visions]]
 ## Miscasts
 - Level 1 Miscast - .

@@ -34,6 +34,5 @@ tags:
 - **Stats**:
 	- 1 Self Illusion. (+1 Self Illusion)
 	- 120ft Illusion Range.
-	- 5 Illusion Health.
 - **Upcasting**:
 	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, you create an additional illusion which you command separately.

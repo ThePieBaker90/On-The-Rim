@@ -9,9 +9,9 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 35
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
 	- 60ft.
 - **Target**:
@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 1 Day.
 - **Effects**:
-	- *.*
+	- *You imbue psychic waves to a point in space which disrupt creatures' sensory centers causing them to perceive an illusion. The illusion may affect four senses and only affected creatures perceive it.*
 	- You create an [[Illusion]].
 	- For the duration of this psycast, all creatures within the target sphere are afflicted. They do not lose affliction upon leaving the target sphere.
 	- Afflicted creatures suffer the following effects:
@@ -31,4 +31,4 @@ tags:
 	- 4 Max Senses Affected.
 	- 30ft Target Sphere Radius. (+15ft)
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 15ft.
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 15ft.
