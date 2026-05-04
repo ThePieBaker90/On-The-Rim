@@ -23,12 +23,11 @@ aliases:
 	- [[False Action]] (3, 44)
 - 5th Level:
 	- [[Complex Illusion]] (35, 0)
-
 ## Miscasts
-- Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+- Level 1 Miscast - Perfect Illusion
+	- You create an [[Illusion]] which affects all 5 senses in a form of the DM's choice. The [[Illusion]] lasts up to 1 hour and only you perceive it.
+- Level 2 Miscast - Sensory Shutdown
+	- You accidentally jam your own sensory centers, for 2 turns you are [[Blinded]] and  [[Deafened]].
 ## Crosspath Psycasts
 - 2nd Level:
 	- .
