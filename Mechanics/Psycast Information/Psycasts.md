@@ -68,7 +68,7 @@ aliases:
 - [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
 - [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases
 ### Utility Paths
-- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction
+- [[Chronomancer Psycasts|Chronomancer]] - Temporal Manipulation and Freezing
 - [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability
 - [[Hemomancer Psycasts|Hemomancer]] - Wound Manipulation and Bleeding 
 - [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling

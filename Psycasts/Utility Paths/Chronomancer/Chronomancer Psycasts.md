@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Paradoxical Hop]]
+	- [[Paradoxical Hop]] (3, 18)
 	- [[Split Second]]
 - 2nd Level:
 	- [[Chronoshot]]
