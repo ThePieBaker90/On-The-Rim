@@ -28,7 +28,7 @@ tags:
 		- The illusion is perceived where the associated creature is.
 		- The illusion copies the associated creature's actions, sounds, and movements to the best of its ability. 
 	- For the duration of this psycast, the target creatures have the following effects:
-		- To all creatures who perceive at them, they appear as their associated [[Illusion]].
+		- To all creatures who perceive them, they appear as their associated [[Illusion]].
 		- If they attack or use a harmful effect, this psycast immediately ends.
 - **Stats**:
 	- 5ft$^3$ Max Visual Illusion Volume Difference.

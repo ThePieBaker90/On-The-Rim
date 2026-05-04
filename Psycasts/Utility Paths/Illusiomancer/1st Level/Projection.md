@@ -9,25 +9,29 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 6
+	- 3
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
-	- 30ft.
+	- 30ft. (+120ft)
 - **Target**:
-	- A creature within range. (+1 Creature)
+	- Up to 5 creatures.
 - **Components**:
 	- Kinetic.
 - **Duration**:
 	- 1 Minute.
 - **Effects**:
-	- *You transmit psychic waves to a creature, causing them to perceive a minor illusion. The illusion may only affect one sense and only the creature perceives it.*
+	- *You create a very weak illusion in order to illustrate or communicate information. The illusion won't fool anybody but can be seen by many creatures.*
 	- You create an [[Illusion]].
+		- The illusion affects sight.
+		- The illusion is perceived at the target point.
+		- The illusion is automatically recognized as an illusion by all creatures.
 	- For the duration of this psycast, the target creatures are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They perceive the created [[Illusion]].
+	- You may change what the illusion's visual component at any time.
 	- You can end this psycast at any time.
 - **Stats**:
-	- 1 Max Senses Affected.
+	- None.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast may target an additional creature.
+	- You may upcast this psycast. For every 6 psyfocus spent above the normal cost for this psycast, the range of this psycast increases by 120ft.

@@ -1348,7 +1348,6 @@
   "Psycasts/Creation Paths/Luzator/2nd Level/Exposing Light.md": "LiSparkles",
   "Psycasts/Utility Paths/Illusiomancer/1st Level/Simple Illusion.md": "LiSparkles",
   "Psycasts/Utility Paths/Illusiomancer/5th Level/Complex Illusion.md": "LiSparkles",
-  "Psycasts/Utility Paths/Illusiomancer/5th Level/False Visions.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/2nd Level/Evasive Image.md": "LiSparkles",
   "Conditions/Special Conditions/Invisible.md": "FarSquareCaretUp",
   "Psycasts/Utility Paths/Illusiomancer/2nd Level/Apply Invisibility.md": "LiSparkles",
@@ -1357,5 +1356,6 @@
   "Psycasts/Utility Paths/Illusiomancer/3rd Level/Advanced Illusion.md": "LiSparkles",
   "Psycasts/Utility Paths/Illusiomancer/4th Level/Gus' Unseen Attacker.md": "LiSparkles",
   "Psycasts/Utility Paths/Illusiomancer/4th Level/False Action.md": "LiSparkles",
-  "Mechanics/Psycast Information/Illusion.md": "LiInfo"
+  "Mechanics/Psycast Information/Illusion.md": "LiInfo",
+  "Psycasts/Utility Paths/Illusiomancer/1st Level/Projection.md": "LiSparkles"
 }

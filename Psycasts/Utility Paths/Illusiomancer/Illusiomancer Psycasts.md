@@ -9,6 +9,7 @@ aliases:
 *Illusiomancers specialize in disrupting others perceptions. Their psycasts send out psychic waves which interrupt signals in creature's brains causing them to perceive false visions, sounds, feelings, smells, or other sensory inputs.*
 ## Core Psycasts
 - 1st Level:
+	- [[Projection]] (3, 0)
 	- [[Simple Illusion]] (6, 0)
 - 2nd Level:
 	- [[Apply Invisibility]] (14, 28)
@@ -22,7 +23,7 @@ aliases:
 	- [[False Action]] (3, 44)
 - 5th Level:
 	- [[Complex Illusion]] (35, 0)
-	- [[False Visions]]
+
 ## Miscasts
 - Level 1 Miscast - .
 	- .

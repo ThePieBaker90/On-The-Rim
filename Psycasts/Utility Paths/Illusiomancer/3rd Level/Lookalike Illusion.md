@@ -31,6 +31,7 @@ tags:
 			- Move - The illusion has your movement speed and can move through objects.
 			- Copy - The illusion can copy your current movements and actions.
 		- It may not go beyond illusion range from you. If it does, this psycast ends.
+		- All creatures perceive it.
 - **Stats**:
 	- 1 Self Illusion. (+1 Self Illusion)
 	- 120ft Illusion Range.
