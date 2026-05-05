@@ -13,7 +13,7 @@ aliases:
 	- [[Split Second]] (5, 0)
 - 2nd Level:
 	- [[Chronoshot]] (2, 24)
-	- [[Previous]]
+	- [[Previous]] (30, 0)
 - 3rd Level:
 	- [[Split Future]]
 	- [[Time Attack]]
