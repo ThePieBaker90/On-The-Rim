@@ -7,23 +7,32 @@ tags:
 - **Path**:
 	- 3rd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 30ft.
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- 3 Turns.
 - **Effects**:
 	- *.*
-	- .Do thing before time otherwise take penalty
+	- When you cast this psycast, you choose a timed goal from the following types:
+		- Damage -
+		- Movement -
+		- Health -
+	- For the duration of this psycast, the target creature is afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They must complete the chosen timed goal before this psycast ends.
+		- When this psycast ends, if they did not complete the chosen timed goal, they suffer the penalty effect laid out by the goal.
 - **Stats**:
-	- .
+	- . Damage Needed to Reach Damage Goal.
+	- .ft Movement Needed to Reach Movement Goal.
+	- . Health Change Needed to Reach Health Goal.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
