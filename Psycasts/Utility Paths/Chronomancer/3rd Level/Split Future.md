@@ -7,23 +7,42 @@ tags:
 - **Path**:
 	- 3rd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 30
 - **[[Neural Heat]] Generation:**
-	- .
+	- 25
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- .
+	- 3 Turns. (+1 Turn)
 - **Effects**:
-	- *.*
-	- .Control a second you based off current stats, at a certain time you choose which you you take. Take all stats of the you you take.
+	- *You split your future among two possible timelines. For the duration of this psycast, you also control a time clone which you may take the place of when this psycast ends.*
+	- When you cast this psycast, a time clone of you is created in your location. 
+		- It is a creature that looks identically to you.
+		- It has all of your abilities, equipment, and stats.
+			- The equipment is tied to the time clone and is removed along with it.
+		- It has your current [[Conditions]].
+		- It has your current health.
+		- It lasts for the duration of this psycast.
+		- Its turn is taken immediately after your turn.
+			- On its first turn, it has the [[Movement Speed]] and actions you had remaining when it was created.
+		- You control the time clone.
+		- You and the time clone cannot interact in any way.
+		- Anything you interact with cannot be interacted with by the clone and vice versa.
+			- This includes attacking and applying harmful effects to creatures, if you damage a creature your time clone cannot interact with that creature.
+	- When this psycast ends, you choose to either remain in place or swap to the time clone.
+		- If you remain in place, nothing happens.
+		- If you swap to the time clone, the following effects occur:
+			- You move to the time clone's position.
+			- Your health becomes the time clone's current health.
+			- The [[Conditions]] you are affected by are replaced by the ones the time clone is affected by. 
+				- This does not trigger [[Conditions|Condition]] removal effects.
 - **Stats**:
-	- .
+	- None.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the duration of this psycast is increased by 1 turn.

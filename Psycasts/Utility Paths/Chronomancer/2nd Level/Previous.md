@@ -21,15 +21,14 @@ tags:
 - **Duration**:
 	- 3 Turns. (+1 Turn)
 - **Effects**:
-	- *You psychically "store" your health and conditions, once this psycast ends your health and conditions revert to your "stored" health and conditions. This does not occur if you are [[Dying]] or dead..*
+	- *You psychically "store" your health and conditions, once this psycast ends your health and conditions revert to your "stored" health and conditions. This does not occur if you are [[Dying]] or dead.*
 	- When you cast this psycast, you note down the following:
 		- Your health (referred to as your initial health).
 		- All [[Conditions]] you are affected by (referred to as your initial conditions).
 	- When this psycast ends, if you are not [[Dying]] or dead, you suffer the following effects:
 		- Your health becomes your initial health.
-		- You remove all [[Conditions]] and [[Conditions#Statuses|Statuses]].
+		- The [[Conditions]] you are affected by are replaced by your initial conditions.
 			- This does not trigger [[Conditions|Condition]] removal effects.
-		- You gain all initial [[Conditions]].
 - **Stats**:
 	- None.
 - **Upcasting**:

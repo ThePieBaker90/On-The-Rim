@@ -22,7 +22,7 @@ tags:
 	- 1 Turn.
 - **Effects**:
 	- *You skip a short amount of time to appear at another location. From others' perspectives, it appears like you disappeared from reality before reappearing nearby. You cannot be affected by anything while gone.*
-	- When this psycast is cast, you suffer the following effects:
+	- When you cast this psycast, you suffer the following effects:
 		- You are [[Intangible]].
 		- You are [[Incapacitated]].
 		- You are [[Immobilized]].

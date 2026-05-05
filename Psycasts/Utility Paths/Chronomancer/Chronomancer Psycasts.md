@@ -15,7 +15,7 @@ aliases:
 	- [[Chronoshot]] (2, 24)
 	- [[Previous]] (30, 0)
 - 3rd Level:
-	- [[Split Future]]
+	- [[Split Future]] (30, 25)
 	- [[Time Attack]]
 - 4th Level:
 	- [[Chronological Rewind]]
