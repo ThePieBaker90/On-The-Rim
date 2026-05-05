@@ -12,7 +12,7 @@ aliases:
 	- [[Paradoxical Hop]] (3, 18)
 	- [[Split Second]] (5, 0)
 - 2nd Level:
-	- [[Chronoshot]]
+	- [[Chronoshot]] (2, 24)
 	- [[Previous]]
 - 3rd Level:
 	- [[Split Future]]
