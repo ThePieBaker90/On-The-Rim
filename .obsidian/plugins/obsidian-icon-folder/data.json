@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretDown",
       "LiSparkles",
       "FarSquareCaretUp",
       "LiListTodo",
-      "LiSquareSquare",
-      "LiInfo"
+      "LiSquareSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1357,5 +1357,6 @@
   "Psycasts/Utility Paths/Chronomancer/3rd Level/Split Future.md": "LiListTodo",
   "Psycasts/Utility Paths/Chronomancer/3rd Level/Time Attack.md": "LiListTodo",
   "Psycasts/Utility Paths/Chronomancer/2nd Level/Previous.md": "LiListTodo",
-  "Psycasts/Utility Paths/Chronomancer/4th Level/Chronological Rewind.md": "LiListTodo"
+  "Psycasts/Utility Paths/Chronomancer/4th Level/Chronological Rewind.md": "LiListTodo",
+  "Conditions/Special Conditions/Time-Stopped.md": "FarSquareCaretDown"
 }

@@ -7,23 +7,24 @@ tags:
 - **Path**:
 	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 2
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 120ft.
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
-	- .Paradox kinetic carbine
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result.
+		- On a hit, the shot deals moderate damage and the creature is [[Time-Stopped]] until the beginning of their turn.
 - **Stats**:
-	- .
+	- 2d6 Force Damage from the Shot.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
