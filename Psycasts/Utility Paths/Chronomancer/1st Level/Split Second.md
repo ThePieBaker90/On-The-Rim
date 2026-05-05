@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You slow your perception of time drastically, giving you near endless time to think. You can't take any actions or move while time is slowed.*
-	- When you cast this psycast, time stops moving forward for you and you have infinite time to think.
+	- When you cast this psycast, your perception of time slows, allowing you endless time to think.
 		- This psycast stays in the cast phase during this effect.
 	- You can end this psycast at any time.
 - **Stats**:
