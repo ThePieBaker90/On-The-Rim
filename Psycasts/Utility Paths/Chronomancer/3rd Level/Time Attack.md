@@ -17,22 +17,25 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
 	- 3 Turns.
 - **Effects**:
 	- *.*
 	- When you cast this psycast, you choose a timed goal from the following types:
-		- Damage -
-		- Movement -
-		- Health -
+		- Damage - They must deal a certain amount of damage to creatures, the damage can be accumulated over multiple turns. The penalty for failure is being inflicted with [[Weakness]].
+		- Movement - They must move a certain distance, the distance can be accumulated over multiple turns. The penalty for failure is becoming [[Immobilized]].
+		- Health - They must gain and/or lose a certain amount of health, the health loss/gain can be accumulated over multiple turns. The penalty for failure is being inflicted with [[Antiheal]].
 	- For the duration of this psycast, the target creature is afflicted.
 	- Afflicted creatures suffer the following effects:
-		- They must complete the chosen timed goal before this psycast ends.
+		- They psychically know they must complete the chosen timed goal before this psycast ends.
 		- When this psycast ends, if they did not complete the chosen timed goal, they suffer the penalty effect laid out by the goal.
 - **Stats**:
-	- . Damage Needed to Reach Damage Goal.
-	- .ft Movement Needed to Reach Movement Goal.
-	- . Health Change Needed to Reach Health Goal.
+	- 28 Damage Dealt Needed to Reach Damage Goal.
+	- 2 Turn [[Weakness]] Duration.
+	- 70ft Movement Needed to Reach Movement Goal.
+	- 2 Turn [[Immobilized]] Duration.
+	- 12 Health Change Needed to Reach Health Goal.
+	- 2 Turn [[Antiheal]] Duration.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.
