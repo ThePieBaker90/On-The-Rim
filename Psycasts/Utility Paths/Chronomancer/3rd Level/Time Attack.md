@@ -31,11 +31,11 @@ tags:
 		- They psychically know they must complete the chosen timed goal before this psycast ends.
 		- When this psycast ends, if they did not complete the chosen timed goal, they suffer the penalty effect laid out by the goal.
 - **Stats**:
-	- 28 Damage Dealt Needed to Reach Damage Goal.
+	- 36 Damage Dealt Needed to Reach Damage Goal.
 	- 2 Turn [[Weakness]] Duration.
-	- 70ft Movement Needed to Reach Movement Goal.
+	- 75ft Movement Needed to Reach Movement Goal.
 	- 2 Turn [[Immobilized]] Duration.
-	- 12 Health Change Needed to Reach Health Goal.
+	- 18 Health Change Needed to Reach Health Goal.
 	- 2 Turn [[Antiheal]] Duration.
 - **Upcasting**:
 	- You cannot upcast this psycast.
