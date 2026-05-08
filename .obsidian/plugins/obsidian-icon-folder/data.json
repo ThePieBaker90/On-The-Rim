@@ -102,7 +102,6 @@
   "Conditions/Special Conditions/Painblock.md": "FarSquareMinus",
   "Conditions/Special Conditions/Paralyzed.md": "FarSquareCaretDown",
   "Conditions/Special Conditions/Plasma Burned.md": "FarSquareCaretDown",
-  "Conditions/Special Conditions/Psy Sapped.md": "FarSquareCaretDown",
   "Conditions/Special Conditions/Skipping.md": "FarSquareCaretUp",
   "Conditions/Special Conditions/Sonic Stunned.md": "FarSquareCaretDown",
   "Conditions/Special Conditions/Ward.md": "FarSquareCaretUp",
@@ -1358,5 +1357,7 @@
   "Psycasts/Utility Paths/Chronomancer/3rd Level/Time Attack.md": "LiListTodo",
   "Psycasts/Utility Paths/Chronomancer/2nd Level/Previous.md": "LiSparkles",
   "Psycasts/Utility Paths/Chronomancer/4th Level/Chronological Rewind.md": "LiListTodo",
-  "Conditions/Special Conditions/Time-Stopped.md": "FarSquareCaretDown"
+  "Conditions/Special Conditions/Time-Stopped.md": "FarSquareCaretDown",
+  "Conditions/Basic Conditions/Psy Sapped.md": "FarSquareCaretDown",
+  "Conditions/Basic Conditions/Disarmed.md": "FarSquareCaretDown"
 }

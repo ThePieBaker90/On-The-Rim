@@ -23,13 +23,14 @@ tags:
 - **Effects**:
 	- *.*
 	- When you cast this psycast, you choose a timed goal from the following types:
-		- Damage - They must deal a certain amount of damage to creatures, the damage can be accumulated over multiple turns. The penalty for failure is being inflicted with [[Weakness]].
+		- Damage - They must deal a certain amount of damage to creatures, the damage can be accumulated over multiple turns. The penalty for failure is becoming [[Disarmed]].
 		- Movement - They must move a certain distance, the distance can be accumulated over multiple turns. The penalty for failure is becoming [[Immobilized]].
 		- Health - They must gain and/or lose a certain amount of health, the health loss/gain can be accumulated over multiple turns. The penalty for failure is being inflicted with [[Antiheal]].
 	- For the duration of this psycast, the target creature is afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They psychically know they must complete the chosen timed goal before this psycast ends.
-		- When this psycast ends, if they did not complete the chosen timed goal, they suffer the penalty effect laid out by the goal.
+		- If they complete their goal, they lose affliction.
+		- When this psycast ends, they suffer the penalty effect laid out by the goal.
 - **Stats**:
 	- 36 Damage Dealt Needed to Reach Damage Goal.
 	- 2 Turn [[Weakness]] Duration.
