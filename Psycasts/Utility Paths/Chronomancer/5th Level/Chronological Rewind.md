@@ -2,26 +2,26 @@
 tags:
   - Psycast
   - Chronomancer
-  - 4th-Level
+  - 5th-Level
 ---
 - **Path**:
-	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+	- 5th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 65
 - **[[Neural Heat]] Generation:**
-	- .
+	- 20
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- .
+	- 5 Turns. (+1 Turn)
 - **Effects**:
-	- *.*
+	- *You set a psychic "checkpoint" that you can return to when you die or when this psycast ends. Returning to the checkpoint reverts your health, conditions, location, actions, and [[Psyfocus]] among other stats.*
 	- When you cast this psycast, you note down the following:
 		- Your health (referred to as your initial health)
 		- All conditions you are affected by (referred to as your initial conditions).
@@ -29,7 +29,7 @@ tags:
 		- Your stored [[Psyfocus]] (referred to as your initial psyfocus).
 		- Your generated [[Neural Heat]] (referred to as your initial generated [[Neural Heat]]).
 		- All actions, bonus actions, and [[Movement Speed]] you have left (referred to as their initial action state).
-	- When this psycast ends, you suffer the following effects:
+	- When this psycast ends or you die, you may choose to suffer all of the following effects:
 		- Your health becomes your initial health.
 		- The [[Conditions]] you are affected by are replaced by your initial conditions.
 			- This does not trigger [[Conditions|Condition]] removal effects.
@@ -38,6 +38,6 @@ tags:
 		- Your generated [[Neural Heat]] becomes your initial generated [[Neural Heat]].
 		- All actions, bonus actions and [[Movement Speed]] you have revert to their initial action state).
 - **Stats**:
-	- .
+	- None.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 25 psyfocus spent above the normal cost for this psycast, the duration of this psycast is increased by 1 turn.

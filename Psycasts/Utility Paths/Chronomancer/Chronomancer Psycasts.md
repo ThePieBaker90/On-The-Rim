@@ -18,10 +18,10 @@ aliases:
 	- [[Split Future]] (30, 25)
 	- [[Time Attack]] (3, 28)
 - 4th Level:
-	- [[Chronological Rewind]]
 	- [[Temporal Stop]]
 	- [[Time Bomb]]
 - 5th Level:
+	- [[Chronological Rewind]]
 	- [[Extended Moment]]
 ## Miscasts
 - Level 1 Miscast - .
