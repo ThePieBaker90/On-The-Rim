@@ -21,7 +21,7 @@ aliases:
 	- [[Temporal Stop]]
 	- [[Time Bomb]]
 - 5th Level:
-	- [[Chronological Rewind]]
+	- [[Chronological Rewind]] (65, 20)
 	- [[Extended Moment]]
 ## Miscasts
 - Level 1 Miscast - .
