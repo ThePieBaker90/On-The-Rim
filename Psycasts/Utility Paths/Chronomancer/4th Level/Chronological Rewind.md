@@ -22,7 +22,21 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .Mark down stats, in a certain num turns you go back to that location with those prev stats. Certain things can disable this.
+	- When you cast this psycast, you note down the following:
+		- Your health (referred to as your initial health)
+		- All conditions you are affected by (referred to as your initial conditions).
+		- Your location (referred to as your initial location).
+		- Your stored [[Psyfocus]] (referred to as your initial psyfocus).
+		- Your generated [[Neural Heat]] (referred to as your initial generated [[Neural Heat]]).
+		- All actions, bonus actions, and [[Movement Speed]] you have left (referred to as their initial action state).
+	- When this psycast ends, you suffer the following effects:
+		- Your health becomes your initial health.
+		- The [[Conditions]] you are affected by are replaced by your initial conditions.
+			- This does not trigger [[Conditions|Condition]] removal effects.
+		- You move to your initial location.
+		- Your stored [[Psyfocus]] becomes your initial psyfocus.
+		- Your generated [[Neural Heat]] becomes your initial generated [[Neural Heat]].
+		- All actions, bonus actions and [[Movement Speed]] you have revert to their initial action state).
 - **Stats**:
 	- .
 - **Upcasting**:

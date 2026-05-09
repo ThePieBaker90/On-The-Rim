@@ -35,6 +35,8 @@ tags:
 		- You and the time clone cannot interact in any way.
 		- Anything you interact with cannot be interacted with by the clone and vice versa.
 			- This includes attacking and applying harmful effects to creatures, if you damage a creature your time clone cannot interact with that creature.
+		- Any [[Neural Heat]] it generates you generate an equal amount.
+		- Any [[Psyfocus]] it uses drains your stored [[Psyfocus]] by an equal amount.
 	- When this psycast ends, you choose to either remain in place or swap to the time clone.
 		- If you remain in place, nothing happens.
 		- If you swap to the time clone, the following effects occur:
