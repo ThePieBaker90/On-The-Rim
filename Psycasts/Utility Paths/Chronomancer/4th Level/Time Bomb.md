@@ -7,23 +7,29 @@ tags:
 - **Path**:
 	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 3
 - **[[Neural Heat]] Generation:**
-	- .
+	- 44
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A sphere with its center within range.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- .
+	- 5 Turns.
 - **Effects**:
 	- *.*
-	- .Paradox pulse grenade
+	- When you cast this psycast, a pulse occurs.
+	- For the duration of this psycast, a pulse occurs at the beginning of each of your turns.
+	- When a pulse occurs, the following effects occur in order:
+		- All creatures within the target sphere take damage from the pulse. 
+		- The target sphere's radius increases.
 - **Stats**:
-	- .
+	- 1d8 Force Damage from Pulse.
+	- 5ft Target Sphere Radius.
+	- +5ft Target Sphere Radius from Pulse.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

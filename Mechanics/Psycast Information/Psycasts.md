@@ -158,6 +158,7 @@ aliases:
 ### n Turn Duration
 - $n$ turn psycasts last until the start of the caster's $n$th turn from when the psycast was cast. The turn the psycast is cast is counted as the 0th turn.
 	- If the psycast is cast between that caster's turns, the caster's next turn is considered the 0th turn.
+	- Effects that occur at the beginning of the caster's turn happen before the duration can end.
 ### Time Based Duration
 - Time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
 ### Concentration
