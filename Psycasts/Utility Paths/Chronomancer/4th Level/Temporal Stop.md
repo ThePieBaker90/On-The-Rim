@@ -7,23 +7,29 @@ tags:
 - **Path**:
 	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Self
 - **Target**:
-	- .
+	- A sphere with its center within range.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- .
+	- 3 Turns.
 - **Effects**:
 	- *.*
-	- dynamo ult w/o damage
+	- For the duration of this psycast, you suffer the following effects:
+		- You are [[Immobilized]].
+		- You are [[Incapacitated]].
+	- For the duration of this psycast, all creatures within the target sphere suffer the following effects:
+		- They are [[Stunned]].
+	- You are not considered to be in the target sphere.
+	- You can end this psycast at any time.
 - **Stats**:
-	- .
+	- .ft Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
