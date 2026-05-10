@@ -19,7 +19,7 @@ aliases:
 	- [[Time Attack]] (3, 28)
 - 4th Level:
 	- [[Temporal Stop]]
-	- [[Time Bomb]]
+	- [[Time Bomb]] (3, 44)
 - 5th Level:
 	- [[Chronological Rewind]] (65, 20)
 	- [[Extended Moment]]

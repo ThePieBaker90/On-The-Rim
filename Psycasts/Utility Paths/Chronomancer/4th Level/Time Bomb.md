@@ -13,23 +13,23 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 44
 - [[Range]]:
-	- .
+	- 30ft.
 - **Target**:
-	- A sphere with its center within range.
+	- A sphere with its center within range, may go over obstacles.
 - **Components**:
 	- Gesture.
 - **Duration**:
-	- 5 Turns.
+	- 5 Turns. (+1 Turn)
 - **Effects**:
-	- *.*
-	- When you cast this psycast, a pulse occurs.
-	- For the duration of this psycast, a pulse occurs at the beginning of each of your turns.
-	- When a pulse occurs, the following effects occur in order:
+	- *You throw a pulsing time bomb which absorbs time before releasing it in the form of an explosion.  It absorbs and releases multiple times, growing its explosion radius every time.*
+	- When you cast this psycast, a pulse triggers.
+	- For the duration of this psycast, a pulse triggers at the beginning of each of your turns.
+	- When a pulse triggers, the following effects occur in order:
 		- All creatures within the target sphere take damage from the pulse. 
 		- The target sphere's radius increases.
 - **Stats**:
 	- 1d8 Force Damage from Pulse.
 	- 5ft Target Sphere Radius.
-	- +5ft Target Sphere Radius from Pulse.
+	- +5ft Target Sphere Radius Increase.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the duration of this psycast is increased by 1 turn.
