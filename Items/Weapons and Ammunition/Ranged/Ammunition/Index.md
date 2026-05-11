@@ -8,12 +8,12 @@
 | Accelerated Ballistics MicroRocket | D4 | Rocket Pistols, Rocket Rifles | Accelerated Ballistics proprietary cartridge | 
 | [11.3x32mm Bronco](./11.3x32mm%20Bronco) | D6 | Pistols, Revolvers | |
 | [5.45x42mm Empire](./5.45x42mm%20Empire) | D6 | Carbines, Assault Rifles, Small-Game Rifles, Hunstman Rifles, Light Machine Guns | |
-| 7.92x32mm Königs | D6 |  Carbines, Assault Rifles, Small-Game Rifles, Hunstman Rifles, Light Machine Gun | Königs Arms proprietary cartridge |
+| 7.62x32mm Königs | D6 |  Carbines, Assault Rifles, Small-Game Rifles, Hunstman Rifles, Light Machine Gun | Königs Arms proprietary cartridge |
 | 6.75x50mm Praetoria | D6 | Assault Rifles, Marksman Rifles, Light Machine Guns | Specialty cartridge of Imperial Guards units. High-performance |
 | [20-gauge](./20-Gauge) | D6 | Shotguns | |
 | 12x45mm Magnum | D8 | Hand Cannons, Revolvers | | 
-| [7.62x57mm Empire](./7.62x57mm%20Empire) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | |
-| 7.92x55mm Königs | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | Königs Arms proprietary cartridge |
+| [7.92x57mm Empire](./7.92x57mm%20Empire) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | |
+| 7.62x55mm Königs | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | Königs Arms proprietary cartridge |
 | 12-gauge | D8 | Shotugns | |
 | 8.6x72mm Brear | D10 | Breakthrough Rifles, Sniper Rifles, Big-Game Rifles, Magnum Rifles | |
 | 8-gauge | D10 | Shotguns | |
