@@ -13,7 +13,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 35
 - [[Range]]:
-	- Self
+	- Self.
 - **Target**:
 	- A sphere with its center within range.
 - **Components**:
