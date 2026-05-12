@@ -22,12 +22,15 @@ aliases:
 	- [[Time Bomb]] (3, 44)
 - 5th Level:
 	- [[Chronological Rewind]] (65, 20)
-	- [[Extended Moment]]
+	- [[Extended Moment]] (35, 15)
 ## Miscasts
 - Level 1 Miscast - .
-	- .
-- Level 2 Miscast - .
-	- .
+	- You cast [[Time Attack]] targeting yourself, the goal is determined by the result of a 1d6 roll.
+		- 1 & 2 Correspond to Damage.
+		- 3 & 4 Correspond to Movement.
+		- 5 & 6 Correspond to Health.
+- Level 2 Miscast - Frozen in Time
+	- You are [[Time-Stopped]] for 1 turn.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

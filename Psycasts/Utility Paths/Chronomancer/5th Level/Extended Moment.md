@@ -7,22 +7,22 @@ tags:
 - **Path**:
 	- 5th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 3 Turns.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 35
 - **[[Neural Heat]] Generation:**
-	- .
+	- 15
 - [[Range]]:
 	- Self.
 - **Target**:
 	- A sphere with its center within range.
 - **Components**:
-	- Kinetic.
+	- Gesture.
 - **Duration**:
 	- 3 Turns.
 - **Effects**:
-	- *.*
-	- When you cast this psycast, you permanently age several years.
+	- *You absorb time before releasing it causing time to stop near you for a short while. You may permanently age several years to ignore the casting time.*
+	- When you use this psycast, you may permanently age several years to ignore the casting time of this psycast.
 	- For the duration of this psycast, the target sphere has the following effects:
 		- Time is stopped within it.
 		- All creatures within are afflicted.
@@ -31,7 +31,7 @@ tags:
 		- They cannot take damage.
 	- You and your equipment are immune to the effects of this psycast.
 - **Stats**:
-	- 5 Year Age Cost.
-	- 20ft Target Sphere Radius.
+	- 10 Year Age Cost.
+	- 30ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.

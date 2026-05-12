@@ -26,7 +26,7 @@ tags:
 		- You are [[Immobilized]].
 		- You are [[Incapacitated]].
 	- For the duration of this psycast, all creatures within the target sphere suffer the following effects:
-		- They are [[Stunned]].
+		- They are [[Time-Stopped]].
 	- You are not considered to be in the target sphere.
 	- You can end this psycast at any time.
 - **Stats**:

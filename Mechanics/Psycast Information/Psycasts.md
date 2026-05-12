@@ -210,7 +210,7 @@ aliases:
 - Some psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 ## Miscasts
-- All psycast paths have 2 miscasts associated with them, one of first level and one of second level. Miscasts are psycasts although they cannot be learned or used like other psycasts, instead they are only used when another effect casts them. 
+- All psycast paths have 2 miscasts associated with them, one of first level and one of second level. Miscasts are psycasts although they cannot be learned or used like other psycasts, instead they are only cast when another effect casts them. 
 - The most common effect that will cast a miscast is rolling on the [[Exceeding the Neural Heat Limit|cast effect table]]. This has a chance of casting either a first or second level miscast.
 - When a miscast is cast, the effects occur immediately and last until all effects of the miscast are resolved. Miscasts cannot be interrupted in any way by actions from the caster of the miscast.
 ## Interrupting
