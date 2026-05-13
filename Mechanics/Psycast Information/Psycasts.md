@@ -27,12 +27,16 @@ aliases:
 - If an effect forces a psycast into a phase, the phases before are skipped and their effects do not occur.
 ### Use Phase (Pay neural costs and determine targeting)
 - This is the phase the psycast starts out in when it is initially used. During this phase you pay the [[Neural Heat]] and [[Psyfocus]] costs of the psycast and determine the [[#Psycast Targeting|Targets]] of the psycast. This phase passes instantly to the casting phase if there are no interruptions.
+- The caster may [[#Interrupting|Interrupt]] the use phase at any time.
 ### Casting Phase (Pay component and casting time costs)
 - This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
+- The caster may [[#Interrupting|Interrupt]] the casting phase at any time.
 ### Cast Phase (Immediate effects occur)
 - This phase happens immediately after the casting phase has passed, during this phase all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
+- The caster cannot [[#Interrupting|Interrupt]] the cast phase without external effects.
 ### Active Phase (Recurring, passive, afflicting and delayed effects occur)
 - This phase happens after the cast phase, during this phase all recurring, passive, afflicting, or delayed effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
+- The caster cannot [[#Interrupting|Interrupt]] the active phase without external effects.
 ### End Phase (End psycast effects)
 - This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
 ## Psycasting Modifier and Save DC
@@ -162,7 +166,7 @@ aliases:
 ### Time Based Duration
 - Time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
 ### Concentration
-- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free, which immediately moves the psycast to the end phase. 
+- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the caster at any time, [[#Interrupting]] the psycast.
 	- While concentrating on psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost. This is referred to as the neural baseline.
 	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. 
 		- On a failure, you lose concentration and the psycast immediately moves to the end phase. 
@@ -170,7 +174,7 @@ aliases:
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
 ### Channeling
 - Some psycasts may need to be channeled for their duration. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase (called channeling the psycast). If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both phases, the psycast moves to the end phase. 
-	- The caster may decide at any time to stop channeling the psycast, this immediately moves the psycast to the end step.
+	- The caster may decide at any time to stop channeling the psycast, [[#Interrupting]] the psycast.
 	- Each component has its specific interactions when channeled listed in the components section.
 		- When channeled, most components become unavailable to be used on other actions for the psycast duration.
 	- Some psycasts may specify that certain components needed in the casting phase are not required to channel the psycast.

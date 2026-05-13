@@ -7,23 +7,24 @@ tags:
 - **Path**:
 	- 1st Level [[Vegetator Psycasts|Vegetator Psycast]]
 - **Casting Time:**
-	- .
+	- 30 Seconds.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- A sphere with its center within range.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- While casting this psycast, you are [[Immobilized]].
+	- All plants within the target sphere grow to maturity.
 - **Stats**:
-	- .
+	- . Target Sphere Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
