@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
       "FarSquareCaretDown",
       "LiSparkles",
       "FarSquareCaretUp",
-      "LiListTodo",
-      "LiSquareSquare"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -967,7 +967,7 @@
   "Psycasts/Support Paths": "LiSparkles",
   "Psycasts/Utility Paths": "LiSparkles",
   "Psycasts/Utility Paths/Chronomancer": "LiListTodo",
-  "Psycasts/Utility Paths/Chronomancer/Chronomancer Psycasts.md": "LiListTodo",
+  "Psycasts/Utility Paths/Chronomancer/Chronomancer Psycasts.md": "LiInfo",
   "Psycasts/Utility Paths/Harmomancer": "LiSparkles",
   "Psycasts/Utility Paths/Harmomancer/Harmomancer Psycasts.md": "LiInfo",
   "Psycasts/Utility Paths/Harmomancer/5th Level/Transmute Object.md": "LiSparkles",
