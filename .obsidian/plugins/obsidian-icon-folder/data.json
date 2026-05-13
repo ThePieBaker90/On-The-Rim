@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkles",
       "LiListTodo",
       "TiHexagonNumber5",
       "TiHexagonNumber4",
-      "TiHexagonNumber3",
-      "TiHexagonNumber2"
+      "TiHexagonNumber3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1365,7 +1365,6 @@
   "Psycasts/Creation Paths/Vegetator/3rd Level": "TiHexagonNumber3",
   "Psycasts/Creation Paths/Vegetator/4th Level": "TiHexagonNumber4",
   "Psycasts/Creation Paths/Vegetator/5th Level": "TiHexagonNumber5",
-  "Psycasts/Creation Paths/Vegetator/1st Level/Increase Plant Growth.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/1st Level/Plants to manipulate objects.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/1st Level/Vine Basic Attack.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/2nd Level/Conjure Ficus.md": "LiListTodo",
@@ -1374,5 +1373,6 @@
   "Psycasts/Creation Paths/Vegetator/3rd Level/Thorny Ground.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/3rd Level/Tree Wall.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/4th Level/Ivy Kudzu Bomb.md": "LiListTodo",
-  "Psycasts/Creation Paths/Vegetator/5th Level/Stylized Lifeweaver Grab.md": "LiListTodo"
+  "Psycasts/Creation Paths/Vegetator/5th Level/Stylized Lifeweaver Grab.md": "LiListTodo",
+  "Psycasts/Creation Paths/Vegetator/1st Level/Ritual of Cultivation.md": "LiSparkles"
 }

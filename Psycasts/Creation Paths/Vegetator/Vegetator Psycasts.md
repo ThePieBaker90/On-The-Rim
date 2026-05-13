@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Increase Plant Growth]]
+	- [[Ritual of Cultivation]] (25, 0)
 	- [[Plants to manipulate objects]]
 	- [[Vine Basic Attack]]
 - 2nd Level:

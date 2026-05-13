@@ -29,7 +29,7 @@ aliases:
 - This is the phase the psycast starts out in when it is initially used. During this phase you pay the [[Neural Heat]] and [[Psyfocus]] costs of the psycast and determine the [[#Psycast Targeting|Targets]] of the psycast. This phase passes instantly to the casting phase if there are no interruptions.
 - The caster may [[#Interrupting|Interrupt]] the use phase at any time.
 ### Casting Phase (Pay component and casting time costs)
-- This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
+- This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]] at all times. Once the casting time has elapsed, the psycast moves to the cast phase.
 - The caster may [[#Interrupting|Interrupt]] the casting phase at any time.
 ### Cast Phase (Immediate effects occur)
 - This phase happens immediately after the casting phase has passed, during this phase all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
@@ -146,7 +146,7 @@ aliases:
 - When [[#Channeling]] a psycast with a material component, the caster must dedicate the material to channeling, they may not use the listed material for anything else until they stop channeling.
 	- Consumable materials do not need to be dedicated to channeling.
 ### Focus Component
-- Focus components require that the psycaster has the listed items held or equipped during casting, these items are not consumed unless explicitly stated.
+- Focus components require that the psycaster has the listed items held, equipped, or used during casting, these items are not consumed unless explicitly stated.
 	- When combined with a kinetic or gesture component, the caster's hand(s) are occupied with the focus during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. If an instrument is the focus, [[#Psycasts and Stealth|Stealth Casting]] is impossible.
 - When [[#Channeling]] a psycast with a focus component, the caster must dedicate the focus to channeling, they may not use the listed focus for anything else until they stop channeling.
