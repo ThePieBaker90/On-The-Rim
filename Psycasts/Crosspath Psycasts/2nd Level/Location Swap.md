@@ -8,7 +8,7 @@ tags:
 - **Path**:
 	- 2nd level [[Harmomancer Psycasts|Harmomancer Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
 - **Casting Time**:
-	- 1 Action
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- 6
 - **[[Neural Heat]] Generation:**
@@ -18,10 +18,17 @@ tags:
 - **Target**:
 	- A creature within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You swap locations with the target creature. 
+	- *You point at a creature who must resit swapping locations with you.*
+	- The target creature may make a dexterity saving throw to avoid being teleported.
+		- On a failure, they swap locations with you.
+		- On a success, nothing happens.
+		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)
+		- Everything the target creature has equipped or stored on them teleports with them. 
+- **Stats**:
+	- 15ft$^3$ Max Target Creature Volume.
 - **Upcasting:**
 	- You cannot upcast this psycast.
