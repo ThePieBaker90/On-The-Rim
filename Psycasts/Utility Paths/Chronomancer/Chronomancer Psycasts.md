@@ -6,7 +6,7 @@ aliases:
   - Chronomancer
   - Chronomancer Psycast
 ---
-*todo.*
+*Chronomancers specialize in time manipulation. Most of their psycasts inflict [[Time-Stopped]], create chronological paradoxes, or have some odd time effect. They are calculated tacticians who can disrupt most fights with their time manipulation.*
 ## Core Psycasts
 - 1st Level:
 	- [[Paradoxical Hop]] (3, 18)
@@ -24,7 +24,7 @@ aliases:
 	- [[Chronological Rewind]] (65, 20)
 	- [[Extended Moment]] (35, 15)
 ## Miscasts
-- Level 1 Miscast - .
+- Level 1 Miscast - Setting Goals
 	- You cast [[Time Attack]] targeting yourself, the goal is determined by the result of a 1d6 roll.
 		- 1 & 2 Correspond to Damage.
 		- 3 & 4 Correspond to Movement.
