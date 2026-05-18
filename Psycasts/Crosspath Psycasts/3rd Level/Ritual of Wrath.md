@@ -18,14 +18,12 @@ tags:
 - **Target**:
 	- A [[Ritual Circle]] within range that is used as the focus.
 - **Components**:
-	- Gesture, Verbal, Focus (A [[Ritual Circle]])
+	- Gesture, Verbal, Focus (A [[Ritual Circle]]).
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- All creatures within berserk range of the target [[Ritual Circle]] must make a Wisdom saving throw to avoid going into a [[Berserk Rage]].
-		- On a failure, the creature goes into a [[Berserk Rage]].
-		- On a success, nothing happens.
-	- All creatures within safe range of the target ritual circle are immune to the effects of this psycast.
+	- *Creatures within a large area around the circle enter a [[Berserk Rage]], attacking any creatures in sight. Creatures near the circle are safe from the effects of this.*
+	- All creatures within berserk range but not safe range of the target [[Ritual Circle]] go into a [[Berserk Rage]].
 - **Stats**:
 	- 360ft Berserk Range.
 	- 10ft Safe Range.

@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- A [[Ritual Circle]] within range that is used as the focus.
 - **Components**:
-	- Gesture, Verbal, Focus (A [[Ritual Circle]])
+	- Gesture, Verbal, Focus (A [[Ritual Circle]]).
 - **Duration**:
 	- Instant.
 - **Effects**
