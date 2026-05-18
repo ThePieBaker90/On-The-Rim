@@ -16,16 +16,21 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- Self.
+	- A circle with its center within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- 3 Days
+	- 3 Days. (+1 Day)
 - **Effects**:
-	- You call upon acid rains to fall on a circular area centered on you with a radius of 8 miles.
-		- Traversing in acid rain requires 1.25x as much [[Movement Speed]].
+	- *You sing a bitter psychic song to call acid rain.*
+	- For the duration of this psycast, acid rain falls in the target circle.		- 
+		- Traversing in acid rain requires more [[Movement Speed]] per 1ft moved.
 		- All ranged attacks made in the acid rain are made with disadvantage.
 		- All fires in the acid rain are extinguished unless otherwise stated.
-		- Creatures who are exposed to the acid rain and are unprotected take 1d12 corrosion damage every minute.
+		- Creatures who are exposed to the acid rain and are unprotected take corrosion damage every minute.
+- **Stats**:
+	- +0.25ft [[Movement Speed]] Required per 1ft Moved Through Acid Rain.
+	- 2d6 Corrosion Damage from Acid Rain.
+	- 12km Target Circle Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 6 psyfocus spent above the normal cost for this psycast, the acid rain lasts an additional day.
+	- You may upcast this psycast. For every 6 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional day.
