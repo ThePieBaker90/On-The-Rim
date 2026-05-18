@@ -21,7 +21,7 @@ tags:
 	- [[Iris Color]]
 		- Blacks, Blues, Whites, Gold, Silver
 	- [[Demonic Tail]]
-	- [[Traits/Genes/Cosmetic Genes/Horns/Horns|Horns]]
+	- [[Devilish Horns|Devilish Horns]]
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]

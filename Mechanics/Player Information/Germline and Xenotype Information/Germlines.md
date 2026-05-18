@@ -13,10 +13,10 @@ aliases:
 Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
 - Common Germlines
 	- [[Dwarf]]
-	- [[Elf]]
+	- [[Jangali]]
 	- [[Half-Foot]]
 	- [[Pure Human]]
-	- [[Witch]]
+	- [[Psytch]]
 - Uncommon Germlines
 	- [[Demon]]
 	- [[Drow]]

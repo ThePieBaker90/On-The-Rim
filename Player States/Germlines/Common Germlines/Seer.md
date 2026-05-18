@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Drows were created by combining [[Psytch]] DNA and [[Jangali]] DNA. They possess a natural ability for psycasting and also have a high dexterity. Originally created for planets with low sunlight, they have a superior darkvision but a slight sensitivity to sunlight.*
+- *.*TODO
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
@@ -10,28 +10,24 @@ tags:
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Elvish
+	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Blacks, Greys
+		- All natural colors
 	- [[Hair Color]]
-		- White
+		- All natural colors
 	- [[Body Type]]
-		- Average, Muscled, Thin
+		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
-		- Lilacs, Silver, Pinks, Reds, Blues
-	- [[Pointy Ears]]
+		- All natural colors
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- [[Natural Psycaster]]
+	- None.
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- [[Darkvision (120ft)]]
-	- [[Charm Resistant]]
-	- [[Minor UV Sensitivity]]
+	- None.
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Small Dexterity Increase]]
-	- [[Small Wisdom Increase]]
-	- [[Keen Senses]]
+	- [[Ability Score Increase]]
+	- [[Resilient]]
 

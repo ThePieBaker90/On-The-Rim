@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDna",
       "LiSparkles",
       "LiListTodo",
       "TiHexagonNumber5",
-      "TiHexagonNumber4",
-      "TiHexagonNumber3"
+      "TiHexagonNumber4"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -535,7 +535,6 @@
   "Traits/Genes/Cosmetic Genes/Head": "LiList",
   "Traits/Genes/Cosmetic Genes/Head/Wolf-Like Head.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Horns": "LiList",
-  "Traits/Genes/Cosmetic Genes/Horns/Horns.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Horns/Mini Horns.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Nose": "LiList",
   "Traits/Genes/Cosmetic Genes/Nose/Bunny Nose.md": "LiDna",
@@ -667,9 +666,7 @@
   "Player States/Xenotypes": "TiUserPentagon",
   "Player States/Germlines/Common Germlines": "LiCircleUserRound",
   "Player States/Germlines/Common Germlines/Dwarf.md": "LiCircleUserRound",
-  "Player States/Germlines/Common Germlines/Elf.md": "LiCircleUserRound",
   "Player States/Germlines/Common Germlines/Half-Foot.md": "LiCircleUserRound",
-  "Player States/Germlines/Common Germlines/Witch.md": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines/Bunkin.md": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines/Hylotl.md": "LiCircleUserRound",
@@ -1373,5 +1370,9 @@
   "Psycasts/Creation Paths/Vegetator/3rd Level/Tree Wall.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/4th Level/Ivy Kudzu Bomb.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/5th Level/Stylized Lifeweaver Grab.md": "LiListTodo",
-  "Psycasts/Creation Paths/Vegetator/1st Level/Ritual of Cultivation.md": "LiSparkles"
+  "Psycasts/Creation Paths/Vegetator/1st Level/Ritual of Cultivation.md": "LiSparkles",
+  "Player States/Germlines/Uncommon Germlines/Jangali.md": "LiCircleUserRound",
+  "Traits/Genes/Cosmetic Genes/Horns/Devilish Horns.md": "LiDna",
+  "Traits/Genes/Cosmetic Genes/Horns/Deer-Like Horns.md": "LiDna",
+  "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound"
 }

@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Elves evolved from humans on lush, hard to navigate planets. Their skin color and faster speed help them to navigate and live among the foliage.* (Lush moon of NGTS-34 b)
+- *Jangalis evolved from humans on lush, hard to navigate planets. Their skin color and faster speed help them to navigate and live among the foliage.* (Lush moon of NGTS-34 b)
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 6-7ft tall generally
@@ -21,6 +21,7 @@ tags:
 	- [[Iris Color]]
 		- Green, Brown, Hazel
 	- [[Pointy Ears]]
+	- [[Deer-Like Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Long Lifespan]]
 	- [[Omnivore]]
