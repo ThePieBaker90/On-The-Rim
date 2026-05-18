@@ -6,7 +6,7 @@ tags:
   - Skipmancer
 ---
 - **Path**:
-	- 2nd level [[Harmomancer Psycasts|Harmomancer Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
+	- 2nd Level [[Harmomancer Psycasts|Harmomancer Psycast]] & [[Skipmancer Psycasts|Skipmancer Psycast]]
 - **Casting Time**:
 	- 1 Action.
 - **[[Psyfocus]] Cost:**

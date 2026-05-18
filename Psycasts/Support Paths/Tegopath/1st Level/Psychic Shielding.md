@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 3 Turns.
 - **Effects**
-	- *You cast a temporary damage barrier on a creature, it appears as a faint blue shield wrapping over their body.*
+	- *You cast a temporary damage barrier on a creature, it appears as a faint purple shield wrapping over their body.*
 	- For the duration of this psycast, the target creature has [[Temporary Health]].
 - **Stats**:
 	- 2d8 Levels of [[Temporary Health]] Applied. (+2d8 Levels)

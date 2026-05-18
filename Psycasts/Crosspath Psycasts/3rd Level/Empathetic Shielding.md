@@ -22,6 +22,10 @@ tags:
 - **Duration**:
 	- 3 Turns.
 - **Effects**
-	- You cast a temporary damage barrier on a creature within range. The creature gains 1d8 temporary health for each hostile creature within 15ft of them. This health goes away when this psycast ends.
+	- *You cast a temporary damage barrier on a creature which scales with the number of enemies near them. It appears as a faint green shield wrapping over their body.*
+	- For the duration of this psycast, the target creature has [[Temporary Health]] scaling with the number of hostile creatures within shield range of the target creature when this psycast is cast.
+- **Stats**:
+	- 1d8 Levels of [[Temporary Health]] Applied per Hostile Creature within Shield Range. (+1d8 Levels)
+	- 15ft Shield Range.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, the creature gains an additional 1d8 temporary health for each nearby hostile creature.
+	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, target creature gains an additional 1d8 temporary health for each nearby hostile creature.
