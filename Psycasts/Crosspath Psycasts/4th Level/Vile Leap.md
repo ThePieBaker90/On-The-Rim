@@ -18,15 +18,19 @@ tags:
 - **Target**:
 	- A point within range, may go over obstacles.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- You take an empowered leap, releasing poisons to those you land nearby. 
-	- You jump to a point within range and release a burst of toxicity where you land. All creatures within a 15ft sphere of you must make a Constitution saving throw. 
-		- On a failure, they take 2d6 poison damage and gain 6 levels of [[Poison Buildup]]. 
-		- On a success, they take half damage and gain 3 levels of [[Poison Buildup]].
-		- You ignore the effects of this psycast.
+	- *You take an empowered leap, releasing a vile burst where you land which poisons anything caught in it.*
+	- You jump to the target point and all creatures within a 15ft sphere of where you landed must make a Constitution saving throw to resist the vile burst.
+		- On a failure, they take poison damage from the vile burst and gain several stacks of [[Poison Buildup]].
+		- On a success, they take half poison damage and a few stacks of [[Poison Buildup]].
+		- You ignore the effects of the vile burst.
 		- This jump follows the standard arc of the jump action.
+- **Stats**:
+	- 2d6 Poison Damage from Vile Burst.
+	- 6 Levels of [[Poison Buildup]] Applied on Failed Save. (+3 Levels)
+	- 3 Levels of [[Poison Buildup]] Applied on Successful Save.
 - **Upcasting**:
 	- You may upcast this psycast. For every 30 psyfocus spent above the normal cost for this psycast, the number of [[Poison Buildup]] levels applied on a failed saving throw in increased by 3.
