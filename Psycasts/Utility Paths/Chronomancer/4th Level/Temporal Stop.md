@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Chronomancer
+  - 4th-Level
+---
+- **Path**:+
+	- 4th Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 35
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A sphere with its center within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 3 Turns.
+- **Effects**:
+	- *Time whirls around you, [[Stunned|Stunning]] everything caught within. You cannot move and take actions for the duration of this psycast.*
+	- For the duration of this psycast, you suffer the following effects:
+		- You are [[Immobilized]].
+		- You are [[Incapacitated]].
+	- For the duration of this psycast, all creatures within the target sphere suffer the following effects:
+		- They are [[Time-Stopped]].
+	- You are not considered to be in the target sphere.
+	- You can end this psycast at any time.
+- **Stats**:
+	- 15ft Target Sphere Radius.
+- **Upcasting**:
+	- You cannot upcast this psycast.

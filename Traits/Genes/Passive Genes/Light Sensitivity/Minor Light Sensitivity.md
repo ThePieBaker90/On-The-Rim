@@ -8,5 +8,5 @@ tags:
 - **Effects:**
 	- Carriers of this gene suffer from the following:
 		- The [[Flashed]] condition lasts for 50% longer (rounded up)
-		- They gain the [[Flashed]] condition for 1 turn when they go from darkness to bright light suddenly. 
-			- This is not increased by other parts of this gene.
+		- They gain the [[Flashed]] condition for 1 turn when their [[Lighting#Light Levels|Light Level]] suddenly increases by 3 or more. 
+			- The duration of [[Flashed]] cannot be increased by other parts of this gene.

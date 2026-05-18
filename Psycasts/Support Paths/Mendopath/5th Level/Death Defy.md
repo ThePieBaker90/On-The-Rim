@@ -26,7 +26,7 @@ tags:
 		- They heal a moderate amount of health.
 			- This ignores healing reductions and negations.
 		- They ignore the effects of dropping to 0 hit points.
-		- The caster loses concentration on the psycast.
+		- The caster loses concentration on this psycast.
 - **Stats**:
 	- 2d12 Health Healed from Defying Death.
 - **Upcasting**:

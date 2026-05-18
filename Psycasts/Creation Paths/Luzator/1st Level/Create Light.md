@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Luzator
+---
+- **Path**:
+	- 1st Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 20ft.
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 12 Hours.
+- **Effects**:
+	- *You concentrate stray photons to form an orb of light which can be easily moved. The orb lasts half a day and supplies enough light to comfortably see.*
+	- You summon an orb of light at the target point. 
+	- For the duration of this psycast, the orb has the following effects:
+		- The orb creates [[Lighting#Normal Light|Normal Light]] within strong light range of it. 
+		- The orb creates [[Lighting#Dim Light|Dim Light]] within weak light range of it. 
+		- The orb floats and can be moved very easily.
+		- The orb cannot be damaged.
+- **Stats**:
+	- 20ft Strong Light Range.
+	- 40ft Weak Light Range.
+- **Upcasting**:
+	- You cannot upcast this psycast.

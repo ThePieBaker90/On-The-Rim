@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - 1st-Level
+  - Terralord
+---
+- **Path**:
+	- 1st Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 13
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A grounded point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 12 Hours.
+- **Effects**:
+	- *You draw a circle on the ground, imbuing it with psychic energy. When a creature steps into the circle, the ground within gives way causing the creature to become temporarily trapped.*
+	- At the beginning of your next turn, the target point is a pitfall trap. 
+		- The trap has a detection range which will cause it to trigger when any creature unaware of the trap passes within that range of the trap.
+		- The trap lasts for the duration of this psycast.
+	- When the trap is triggered, the creature who triggered it becomes [[Prone]], [[Immobilized]], and [[Incapacitated]].
+	- A creature can detect the trap with a successful [[Sight-Based Perception]] skill check. The trap can be disabled with a successful slight of hand skill check within touch range.
+		- The DC for both skill checks is the caster's psycast save DC. 
+- **Stats**:
+	- 1 Turn [[Immobilized]] Duration.
+	- 1 Turn [[Incapacitated]] Duration.
+	- 5ft Trap Detection Range.
+- **Upcasting**:
+	- You cannot upcast this psycast.

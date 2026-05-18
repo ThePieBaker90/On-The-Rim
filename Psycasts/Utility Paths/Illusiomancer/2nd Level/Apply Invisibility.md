@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 14
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range. (+1 Creature)
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 10 Turns.
+- **Effects**:
+	- *You make a creature generate psychic waves which prevents others from seeing them. The [[Invisible|Invisibility]] dissipates if they attack or use any harmful effects.*
+	- For the duration of this psycast, the target creatures have the following effects:
+		- They are [[Invisible]].
+		- If they attack or use a harmful effect, this psycast immediately ends.
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You may upcast this psycast. For every 28 psyfocus spent above the normal cost for this psycast, this psycast may target an additional creature.

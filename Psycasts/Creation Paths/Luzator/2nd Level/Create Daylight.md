@@ -1,0 +1,39 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 15
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 20ft.
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Minute.
+- **Effects**:
+	- *You concentrate and amplify photons to form a powerful orb of daylight. The orb is short-lived and susceptible to damage due to its extreme light output.*
+	- You summon an orb of [[Lighting#UV Light|UV Light]] at the target point. 
+	- For the duration of this psycast, the orb has the following effects:
+		- The orb creates [[Lighting#Bright Light|Bright UV Light]] within strong light range of it.
+		- The orb creates [[Lighting#Normal Light|Normal UV Light]] within moderate light range of it.
+		- The orb creates [[Lighting#Dim Light|Dim UV Light]] within weak light range of it.
+		- Creatures who look directly at the orb become [[Blinded]].
+		- The orb floats and can be moved very easily.
+- **Stats**:
+	- 30ft Strong Light Range.
+	- 60ft Moderate Light Range.
+	- 90ft Weak Light Range.
+	- 15 Orb Health.
+	- 1 Turn [[Blinded]] Duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

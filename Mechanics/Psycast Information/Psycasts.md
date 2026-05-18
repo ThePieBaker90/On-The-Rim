@@ -27,12 +27,16 @@ aliases:
 - If an effect forces a psycast into a phase, the phases before are skipped and their effects do not occur.
 ### Use Phase (Pay neural costs and determine targeting)
 - This is the phase the psycast starts out in when it is initially used. During this phase you pay the [[Neural Heat]] and [[Psyfocus]] costs of the psycast and determine the [[#Psycast Targeting|Targets]] of the psycast. This phase passes instantly to the casting phase if there are no interruptions.
+- The caster may [[#Interrupting|Interrupt]] the use phase at any time.
 ### Casting Phase (Pay component and casting time costs)
-- This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]]. Once the casting time has elapsed, the psycast moves to the cast phase.
+- This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]] at all times. Once the casting time has elapsed, the psycast moves to the cast phase.
+- The caster may [[#Interrupting|Interrupt]] the casting phase at any time.
 ### Cast Phase (Immediate effects occur)
 - This phase happens immediately after the casting phase has passed, during this phase all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
+- The caster cannot [[#Interrupting|Interrupt]] the cast phase without external effects.
 ### Active Phase (Recurring, passive, afflicting and delayed effects occur)
 - This phase happens after the cast phase, during this phase all recurring, passive, afflicting, or delayed effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
+- The caster cannot [[#Interrupting|Interrupt]] the active phase without external effects.
 ### End Phase (End psycast effects)
 - This phase happens after the active phase, during this phase all effects of the psycast end except effects that have their own duration. 
 ## Psycasting Modifier and Save DC
@@ -41,7 +45,7 @@ aliases:
 - A psycaster's psycasting ability modifier is determined by their class.
 ### Psycast Save DC
 - A psycaster's psycast save DC is 8 + their proficiency bonus + their psycasting ability modifier. 
-	- All psycast saving throws without an explicit DC use the psycaster's psycast save DC as the save DC.
+	- All psycast saving throws and skill checks without an explicit DC use the psycaster's psycast save DC as the save DC.
 ## Psycast Paths
 - Each path contains 10 core psycasts of varying levels which correspond the the path.
 - All psycasts belong to a path or paths. Each path is part of an overarching category, there are 4 categories; Creation, Damage, Support, and Utility.
@@ -58,7 +62,7 @@ aliases:
 - [[Frostlord Psycasts|Frostlord]] - Cold Damage and Freezing Anything
 - [[Mortilord Psycasts|Mortilord]] - Necrotic Damage and Debuffs
 - [[Staticlord Psycasts|Staticlord]] - Electrical Damage and Electricity Creation
-- [[Terralord Psycasts|Terralord]] - Bludgeoning Damage and Earth Shaping
+- [[Terralord Psycasts|Terralord]] - Slow But High Damage and Earth Shaping
 - [[Toxilord Psycasts|Toxilord]] - Poison Damage and Stacking Damage Over Time
 ### Support Paths
 - [[Empath Psycasts|Empath]] - Emotions and Feelings
@@ -68,7 +72,7 @@ aliases:
 - [[Tegopath Psycasts|Tegopath]] - Damage Mitigation and Damage Debuffs
 - [[Wagepath Psycasts|Wagepath]] - Damage Buffs and Accuracy Increases
 ### Utility Paths
-- [[Chronomancer Psycasts|Chronomancer]] - Time Manipulation and Prediction
+- [[Chronomancer Psycasts|Chronomancer]] - Temporal Manipulation and Freezing
 - [[Harmomancer Psycasts|Harmomancer]] - Balance and Probability
 - [[Hemomancer Psycasts|Hemomancer]] - Wound Manipulation and Bleeding 
 - [[Illusiomancer Psycasts|Illusiomancer]] - Illusion Creation and Sense Disabling
@@ -99,6 +103,7 @@ aliases:
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
 	- "Within range of you" in the psycast effects means you can draw a straight line from you to a relevant point within range that is equal to or less than the length specified within range.
 		- For ranges that are shapes, this means that a point encapsulated within the shape when the shape is centered on you is within range.
+		- Additionally, the point must be in line of sight of you.
 	- "Touch" means up to the caster's reach, for most creatures this is 5ft.
 	- "Self" in the range means the direct center of the caster.
 - There may be a modifier in parenthesis after the range, this indicates the change in range when the psycast is [[#Upcasting|Upcast]] to one degree.
@@ -107,8 +112,11 @@ aliases:
 	- "Self" refers to the caster.
 	- "A creature" refers to 1 creature of the caster's choice. This includes allied creatures and the caster.
 	- "A point" refers to 1 point in space, this doesn't need to be grounded unless explicitly stated.
-	- "Within range" means the target's distance to the caster must be under the psycast's range through the cast phase.
-	- A shape of any kind means it targets everything in the shape. A shape in range can be arbitrarily placed by the caster anywhere as long as every point in the shape is within range.
+	- "Within range" means the target's distance to the caster must be under the psycast's range through the cast phase. It must also be in line of sight.
+		- This is different from "within a unique range" as that refers to stats ranges and does not require line of sight unless specified.
+	- A shape of any kind means it targets everything in the shape. 
+		- A shape in range can be arbitrarily placed by the caster anywhere as long as every point in the shape is within range.
+		- If a shape has a specific point that must be in range, only parts that are in line of sight of the point and within the shape are targeted.
 	- A target that is "grounded" is touching the floor.
 	- A "surface" target is touching some stable surface such as a wall, floor, ceiling.
 - A psycast's target doesn't have an inherent effect on the psycast and instead is referred to by other properties of the psycast.
@@ -139,7 +147,7 @@ aliases:
 - When [[#Channeling]] a psycast with a material component, the caster must dedicate the material to channeling, they may not use the listed material for anything else until they stop channeling.
 	- Consumable materials do not need to be dedicated to channeling.
 ### Focus Component
-- Focus components require that the psycaster has the listed items held or equipped during casting, these items are not consumed unless explicitly stated.
+- Focus components require that the psycaster has the listed items held, equipped, or used during casting, these items are not consumed unless explicitly stated.
 	- When combined with a kinetic or gesture component, the caster's hand(s) are occupied with the focus during casting.
 - When [[#Psycasts and Stealth|Stealth Casting]], these psycasts require a dexterity (stealth) check against any relevant creatures' [[Sight-Based Perception]] to avoid being [[Stealth and Hiding#Observed|Observed]]. If an instrument is the focus, [[#Psycasts and Stealth|Stealth Casting]] is impossible.
 - When [[#Channeling]] a psycast with a focus component, the caster must dedicate the focus to channeling, they may not use the listed focus for anything else until they stop channeling.
@@ -155,10 +163,11 @@ aliases:
 ### n Turn Duration
 - $n$ turn psycasts last until the start of the caster's $n$th turn from when the psycast was cast. The turn the psycast is cast is counted as the 0th turn.
 	- If the psycast is cast between that caster's turns, the caster's next turn is considered the 0th turn.
+	- Effects that occur at the beginning of the caster's turn happen before the duration can end.`
 ### Time Based Duration
 - Time based psycasts last for the specified length of time from when the psycast was cast. If these are cast in combat, 6 seconds is equivalent to 1 turn.
 ### Concentration
-- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the psycaster at anytime for free, which immediately moves the psycast to the end phase. 
+- Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the caster at any time, [[#Interrupting]] the psycast.
 	- While concentrating on psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost. This is referred to as the neural baseline.
 	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. 
 		- On a failure, you lose concentration and the psycast immediately moves to the end phase. 
@@ -166,7 +175,7 @@ aliases:
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.
 ### Channeling
 - Some psycasts may need to be channeled for their duration. These psycasts require their [[#Psycast Components|Component]] costs be satisfied during the cast phase and active phase (called channeling the psycast). If the [[#Psycast Components|Component]] cost cannot be satisfied at all times during both phases, the psycast moves to the end phase. 
-	- The caster may decide at any time to stop channeling the psycast, this immediately moves the psycast to the end step.
+	- The caster may decide at any time to stop channeling the psycast, [[#Interrupting]] the psycast.
 	- Each component has its specific interactions when channeled listed in the components section.
 		- When channeled, most components become unavailable to be used on other actions for the psycast duration.
 	- Some psycasts may specify that certain components needed in the casting phase are not required to channel the psycast.
@@ -206,7 +215,7 @@ aliases:
 - Some psycasts may be upcast for an additional psyfocus cost specified in their description. The effects of upcasting are listed in each psycast's description.
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 ## Miscasts
-- All psycast paths have 2 miscasts associated with them, one of first level and one of second level. Miscasts are psycasts although they cannot be learned or used like other psycasts, instead they are only used when another effect casts them. 
+- All psycast paths have 2 miscasts associated with them, one of first level and one of second level. Miscasts are psycasts although they cannot be learned or used like other psycasts, instead they are only cast when another effect casts them. 
 - The most common effect that will cast a miscast is rolling on the [[Exceeding the Neural Heat Limit|cast effect table]]. This has a chance of casting either a first or second level miscast.
 - When a miscast is cast, the effects occur immediately and last until all effects of the miscast are resolved. Miscasts cannot be interrupted in any way by actions from the caster of the miscast.
 ## Interrupting

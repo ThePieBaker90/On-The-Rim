@@ -28,4 +28,4 @@ tags:
 - **Stats**:
 	- 1d8 + 2 Health Healed per Turn from Regeneration.
 - **Upcasting**:
-	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 8 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

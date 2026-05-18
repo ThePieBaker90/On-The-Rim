@@ -1,0 +1,40 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 36 (31)
+- [[Range]]:
+	- 20ft.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Concentration, up to 3 Turns. (+1 Turn)
+- **Effects**:
+	- *You greatly increase your lower-body density, causing minor tremors when you walk which damage and knock nearby enemies [[Prone]]. The increased density makes moving much harder.*
+	- For the duration of this psycast, you have the following effects:
+		- When you ordinarily move a distance, you cause a tremor dealing minor bludgeoning damage to all creatures within range of you.
+			- This effect may happen multiple times in one movement, breaking up the movement in intervals to trigger the effect.
+		- Traversing requires additional [[Movement Speed]] per 1ft moved.
+		- Your weight increases.
+	- The first time a creature takes damage from this psycast on each of your turns, they must make a Dexterity saving throw to stand their ground.
+		- On a failure, they are knocked [[Prone]].
+		- On a success, nothing happens.
+	- You are immune to damage from this psycast.
+- **Stats**:
+	- 5ft of Ordinary Movement Needed to Cause Tremor.
+	- 3 Bludgeoning Damage from Tremor.
+	- +1ft [[Movement Speed]] Required Per 1ft Moved.
+	- x10 Weight.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

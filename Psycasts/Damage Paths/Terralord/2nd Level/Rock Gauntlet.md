@@ -1,0 +1,34 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 18
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You create a fragile gauntlet of rock before slugging a nearby creature. If you land the hit, the gauntlet shatters into shrapnel dealing damage to those nearby.*
+	- Make a melee attack roll against the target creature, adding your psycasting ability modifier and your strength to the result.
+		- On a hit, the creature takes damage and the rock gauntlet shatters dealing damage to all creatures in a sphere.
+			- The sphere is centered on the creature.
+	- You are immune to the effects of this psycast.
+- **Stats**:
+	- 3d4 Bludgeoning Damage from Rock Punch.
+	- 2 Piercing Damage from Gauntlet Shrapnel. (+2 Piercing Damage)
+	- 10ft Shatter Sphere Radius.
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the gauntlet shrapnel deals an additional 2 piercing damage.

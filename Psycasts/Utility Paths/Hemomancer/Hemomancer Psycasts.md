@@ -9,15 +9,19 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- .
+	- [[Absorb Bleeding]]
+	- [[Inflict Bleed]]
 - 2nd Level:
-	- .
+	- [[Blood Spike Shotgun Attack]]
+	- [[Cleanse Bleed]]
+	- [[Weapon Lifesteal]]
 - 3rd Level:
-	- .
+	- [[Blood Spike Surround Attack]]
+	- [[Blood Tribute]]
 - 4th Level:
-	- .
+	- [[Bleeding Sphere]]
 - 5th Level:
-	- .
+	- [[Blood Fury]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

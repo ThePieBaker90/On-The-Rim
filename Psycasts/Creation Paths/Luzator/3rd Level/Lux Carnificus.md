@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 8
+- **[[Neural Heat]] Generation:**
+	- 38
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *A bright flare shoots from your outstretched hand towards a creature. When it impacts it deals heavy damage and instantly kills low health enemies.*
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result.
+		- On a hit, they take moderate radiant damage. If this damage would put them below a health threshold in relation to their maximum health, the flare instantly kills them.
+- **Stats**:
+	- 2d10 Radiant Damage from Flare
+	- 10% of Max Health Instant Kill Health Threshold.
+- **Upcasting**:
+	- You cannot upcast this psycast.

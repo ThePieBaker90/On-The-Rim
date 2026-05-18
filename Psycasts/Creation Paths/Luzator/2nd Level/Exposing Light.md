@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 30
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 5 Turns.
+- **Effects**:
+	- *You highly concentrate photons to create an orb of exposure. The orb creates light which causes creature's to become [[Exposed]]. The orb is fragile and short-lived due to the energy required.*
+	- You summon an orb of exposing light at the target point.
+	- For the duration of this psycast, the orb has the following effects:
+		- The orb creates [[Lighting#Normal Light|Normal Light]] within light range of it. 
+		- Creatures within light range of it become [[Exposed]].
+		- The orb floats and can be moved very easily.
+- **Stats**:
+	- 2 Turn [[Exposed]] Duration.
+	- 20ft Light Range.
+	- 20 Orb Health.
+- **Upcasting**:
+	- You cannot upcast this psycast.

@@ -27,7 +27,7 @@ aliases:
 - Level 1 Miscast - Pain of Punishment
 	- For the next 3 turns, whenever you make an attack with a weapon, you take 1 psychic damage.
 - Level 2 Miscast - Sudden Pacifism
-	- You are [[Charmed]] by all creatures for 2 turns. A creature attacking you or using a harmful effect on you does not remove [[Charmed]] from them.
+	- You are [[Disarmed]] for 2 turns.
 ## Crosspath Psycasts
 - 2nd Level:
 	- .

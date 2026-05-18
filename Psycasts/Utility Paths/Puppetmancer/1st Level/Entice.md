@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - Puppetmancer
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+- **Casting Time:**
+	- .
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- .
+- **Target**:
+	- .
+- **Components**:
+	- .
+- **Duration**:
+	- .
+- **Effects**:
+	- *.*
+	- .Make it so that going against a command has some detriment such as health or neural heat.
+- **Stats**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

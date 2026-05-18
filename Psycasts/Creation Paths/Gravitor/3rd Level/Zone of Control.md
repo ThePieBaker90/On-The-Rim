@@ -22,7 +22,7 @@ tags:
 	- 3 Turns.
 - **Effects**:
 	- *You summon a zone of high gravity making traversal through the zone highly difficult and aiming through the zone nearly impossible.*
-	- The target cylinder has the following effects:
+	- For the duration of this psycast, the target cylinder has the following effects:
 		- Any creatures inside the target cylinder are afflicted.
 		- Projectiles travelling through the target cylinder have double disadvantage to hit.
 	- Afflicted creatures suffer the following:

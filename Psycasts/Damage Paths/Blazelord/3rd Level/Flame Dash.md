@@ -22,13 +22,12 @@ tags:
 	- Concentration, up to 3 Turns.
 - **Effects**:
 	- *You leave a trail of fire where you run, damaging those who attempt to move through the flames.*
-	- You gain the following effects until the end of turn:
+	- Until the end of your turn, you have the following effects:
 		- Your [[Movement Speed]] increases.
 		- You may use dash as a bonus action.
-		- Floors you move over are ignited in a small circle around you. 
-			- The floor remains ignited until the psycast ends. 
+		- Floors you move over are ignited in a small circle around you for the duration of this psycast. 
 			- Fire will not spread from the floor unless another effect forces it to.
-			- You are not affected by the ignited floor.
+			- You are immune to the effects of the ignited floor.
 	- Creatures who start their turn on the ignited floor, end their turn on the ignited floor, or move through the ignited floor must make a Constitution saving throw. 
 		- On a failure, they take fire damage and become [[Burned]].
 		- On a success, they take half as much fire damage.

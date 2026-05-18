@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - Chronomancer
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 18
+- [[Range]]:
+	- 10ft.
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Turn.
+- **Effects**:
+	- *You skip a short amount of time to appear at another location. From others' perspectives, it appears like you disappeared from reality before reappearing nearby. You cannot be affected by anything while gone.*
+	- When you cast this psycast, you suffer the following effects:
+		- You are [[Intangible]].
+		- You are [[Incapacitated]].
+		- You are [[Immobilized]].
+		- You are [[Invisible]].
+		- Your current turn immediately ends.
+		- All effects that occur when you end your turn do not occur.
+	- At the beginning of your next turn, you are moved to the target point and this psycast ends.
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You cannot upcast this psycast.

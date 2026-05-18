@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 6
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range. (+1 Creature)
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Minute.
+- **Effects**:
+	- *You transmit psychic waves to a creature, causing them to perceive a minor illusion. The illusion may only affect one sense and only the creature perceives it.*
+	- You create an [[Illusion]].
+	- For the duration of this psycast, the target creatures are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They perceive the created [[Illusion]].
+	- You can end this psycast at any time.
+- **Stats**:
+	- 1 Max Senses Affected.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast may target an additional creature.

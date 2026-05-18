@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 30
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A cone with its apex within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You spray sand forwards, getting in every little crevice. Guns hit by the blast become [[Jammed]] and must be unjammed.*
+	- All creatures in the target must make a Dexterity saving throw to protect their weapons.
+		- On a failure, all weapons they are holding become [[Jammed]] (if possible).
+		- On a success, nothing happens.
+- **Stats**:
+	- 20ft Target Cone Length.
+	- 30ft Target Cone Max Width.
+- **Upcasting**:
+	- You cannot upcast this psycast.

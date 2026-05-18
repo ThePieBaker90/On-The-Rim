@@ -1,0 +1,33 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 20
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- Up to 4 creatures within range. (+4 Creatures)
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Hour.
+- **Effects**:
+	- *You transmit psychic waves to several creatures, causing them to perceive an advanced illusion. The illusion may only affect two senses and only affected creatures perceive it.*
+	- You create an [[Illusion]].
+	- For the duration of this psycast, the target creatures are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They perceive the created [[Illusion]].
+	- You can end this psycast at any time.
+- **Stats**:
+	- 2 Max Senses Affected.
+- **Upcasting**:
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast may target up to 4 more creatures.

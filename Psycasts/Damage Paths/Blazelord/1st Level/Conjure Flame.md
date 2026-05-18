@@ -23,11 +23,11 @@ tags:
 - **Effects**:
 	- *You conjure a small flame on your pointer finger, lighting up your surroundings as well as lighting any flammable objects that come into contact with it on fire.*
 	- You create a small flame on the pointer finger of the hand you are using you channel this psycast.
-		- The small flame lights up nearby objects in [[Lighting|Bright Light]].
+		- The small flame creates [[Lighting#Dim Light|Dim Light]] within light range of it.
 		- The small flame can be used to light nearby flammable objects on fire as a bonus action.
 			- The flame cannot light creatures [[On Fire!]] and does no damage to them.
 - **Stats**:
-	- 10ft Flame Bright Light Range.
+	- 10ft Light Range.
 	- 5ft Flame Ignition Range.
 - **Upcasting**:
 	- You cannot upcast this psycast.

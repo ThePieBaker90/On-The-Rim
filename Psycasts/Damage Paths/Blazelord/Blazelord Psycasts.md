@@ -34,6 +34,6 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- [[Thermite Spray]] ([[Chemlord Psycasts|Chemlord]])
+	- .
 - 5th Level:
 	- .

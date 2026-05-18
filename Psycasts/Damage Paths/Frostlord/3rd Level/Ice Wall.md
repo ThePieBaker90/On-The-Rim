@@ -24,7 +24,7 @@ tags:
 	- *A massive wall of ice rises out of the ground. The wall is thick and difficult to penetrate or destroy making it suitable as makeshift cover.*
 	- When you cast this psycast, you choose if the wall is made of transparent or opaque ice.
 	- For the duration of this psycast, a wall of ice takes up the target cuboid. The wall is impassible, has its own health, and is made of the type of ice you chose.
-		- If the ice wall is summoned on a creature, the creature is pushed up by the wall.
+		- If the ice wall is created on a creature, the creature is pushed up by the wall.
 			- If the ice wall is restricted by a wall or a ceiling, it will stop at the obstruction. 
 		- If the ice wall is reduced to 0 health, it is destroyed and this psycast ends.
 		- The ice wall takes additional damage from fire damage.

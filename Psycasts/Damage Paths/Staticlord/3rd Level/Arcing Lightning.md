@@ -26,7 +26,7 @@ tags:
 		- On a failure, they take damage and a copy of this psycast is cast from them for each creature within 10ft of them, each copy targeting a different creature. 
 			- This psycast copy uses the original psycast caster's [[Psycasts#Psycast Save DC|Psycast Save DC]].
 			- This psycast copy cannot target the creature who was targeted by its parent psycast (The psycast this copy was created by).
-				- This does not prevent the psycast from targeting creatures targeted by its grandparent psycast (the psycast the parent psycast was created by) or unrelated psycast copies.
+				- This does not prevent the psycast copy from targeting creatures targeted by its grandparent psycast (the parent of its parent psycast) or unrelated psycast copies.
 			- This psycast may only be recursed (copied by itself) a certain number of times. If it hits its maximum limit, the copies of this psycast are simply interrupted as soon as they are cast without their effects occurring.
 				- The initial cast is considered to be the 0th level of the recursion. Each copy increases this level by 1.
 		- On a success, nothing happens.

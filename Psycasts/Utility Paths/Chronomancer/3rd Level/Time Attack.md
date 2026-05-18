@@ -1,0 +1,43 @@
+---
+tags:
+  - Psycast
+  - Chronomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 28
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 3 Turns.
+- **Effects**:
+	- *You transmit psychic waves holding a chosen future to a creature, who then must complete a goal or face a harsh setback. The goal may be to deal a certain amount of damage, move a certain distance, or gain and/or lose a certain amount of health.*
+	- When you cast this psycast, you choose a timed goal from the following types:
+		- Damage - They must deal a certain amount of damage to creatures, the damage can be accumulated over multiple turns. The penalty for failure is becoming [[Disarmed]].
+		- Movement - They must move a certain distance, the distance can be accumulated over multiple turns. The penalty for failure is becoming [[Immobilized]].
+		- Health - They must gain and/or lose a certain amount of health, the health loss/gain can be accumulated over multiple turns. The penalty for failure is being inflicted with [[Antiheal]].
+			- Health does not need to be actually gained or lost for it to count towards this goal, for example, if a create heals 5 health while at full health, 5 health will still count towards the goal.
+	- For the duration of this psycast, the target creature is afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They psychically know they must complete the chosen timed goal before this psycast ends.
+		- If they complete their goal, they lose affliction.
+		- When this psycast ends, they suffer the penalty effect laid out by the goal.
+- **Stats**:
+	- 36 Damage Dealt Needed to Reach Damage Goal.
+	- 2 Turn [[Disarmed]] Duration.
+	- 75ft Movement Needed to Reach Movement Goal.
+	- 2 Turn [[Immobilized]] Duration.
+	- 18 Health Change Needed to Reach Health Goal.
+	- 2 Turn [[Antiheal]] Duration.
+- **Upcasting**:
+	- You cannot upcast this psycast.

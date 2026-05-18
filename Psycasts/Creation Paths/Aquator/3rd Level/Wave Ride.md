@@ -22,15 +22,15 @@ tags:
 	- Concentration, up to 3 Turns. (+1 Turn)
 - **Effects**:
 	- *Water pools at your feet before lifting you in a small wave enhancing your movement abilities and pushing nearby creatures away.*
-	- You gain the following effects for the duration of this psycast:
+	- For the duration of this psycast, you have the following effects:
 		- Your [[Movement Speed]] increases.
 		- You may not dash.
 		- Creatures you attempt to move through must make a dexterity saving throw. 
 			- On a failure, they are pushed away and are knocked [[Prone]]. 
 			- On a success, they are pushed away.
-		- Moving over a grate or a drain ends the psycast prematurely.
+		- Moving over a grate or a drain ends this psycast immediately.
 - **Stats**:
 	- x2 [[Movement Speed]] Modifier.
 	- 5ft Push Away Distance.
 - **Upcasting:**
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

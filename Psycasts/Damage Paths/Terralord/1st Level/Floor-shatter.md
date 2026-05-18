@@ -1,0 +1,32 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 10
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A sphere with its center within range.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 10 Turns.
+- **Effects**:
+	- *Floors around you shatter becoming significantly harder to traverse and preventing some movement abilities*
+	- For the duration of this psycast, all ground within the target sphere has the following effects:
+		- Traversing on the ground requires additional [[Movement Speed]] per 1ft moved.
+		- Jumping and any abilities where a creature jumps cannot be used while standing on the ground.
+- **Stats**:
+	- +1ft of [[Movement Speed]] Required Per 1ft Moved.
+	- 20ft Target Sphere Radius. (+5ft)
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 5ft.

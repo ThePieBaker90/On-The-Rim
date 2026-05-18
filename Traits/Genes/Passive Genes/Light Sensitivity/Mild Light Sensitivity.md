@@ -8,8 +8,7 @@ tags:
 - **Effects:**
 	- Carriers of this gene suffer from the following:
 		- The [[Flashed]] condition lasts for twice as long.
-		- -2 modifier to skill checks while in bright light.
-		- They gain the [[Flashed]] condition for 2 turns when they go from darkness to bright light suddenly. 
-			- This is not increased by other parts of this gene.
+		- -2 modifier to skill checks while in [[Lighting#Bright Light|Bright Light]].
+		- They gain the [[Flashed]] condition for 1 turn when their [[Lighting#Light Levels|Light Level]] suddenly increases by 3 or more. 
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
 	- [[Minor Light Sensitivity]]

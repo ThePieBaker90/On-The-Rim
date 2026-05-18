@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 19
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Verbal.
+- **Duration**:
+	- 2 Turns. (+1 Turn)
+- **Effects**:
+	- *You imbue psychic energy into a word of restriction, directing it at a creature. The creature finds movement very difficult and that leaving the ground is nearly impossible. This also interrupts psycasting protocols in their psylink to do with movement.*
+	- The target creature must make a Wisdom saving throw to resist the restriction.
+		- On a failure, for the duration of this psycast, they are afflicted.
+		- On a success, nothing happens.
+	- Afflicted creatures suffer the following effects:
+		- Traversing requires additional [[Movement Speed]] per 1ft moved.
+		- They are unable to use [[Psycasts]] which change their position.
+		- They are [[Grounded]].
+- **Stats**:
+	- +1ft [[Movement Speed]] Required Per 1ft Moved.
+- **Upcasting**:
+	- You may upcast this psycast. For every 11 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

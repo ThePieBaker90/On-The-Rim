@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Terralord Psycasts|Terralord Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 30
+- [[Range]]:
+	- 10ft.
+- **Target**:
+	- A cuboid with the center of its base within range and intersecting with a stable surface. The cuboid may intersect with the ground or walls.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 1 Minute. (+1 Minute)
+- **Effects**:
+	- *You create a wall of rock from the ground in a rotation of your choice. The wall is made of local rocks and is great for cover.*
+	- For the duration of this psycast, a wall of rock takes up the target cuboid. The wall is impassible, has its own health, and is made out of rocks that are plentiful in the area.
+		- If the rock wall is created on a creature, the creature is pushed away from the wall.
+			- If the rock wall is restricted by a wall or ceiling, it will stop at the obstruction.
+		- If the rock wall is reduced to 0 health, it is destroyed and this psycast ends.
+		- The rock wall can be climbed with relative ease.
+- **Stats**:
+	- 50 Rock Wall Health. (+25 Health)
+	- 5ft Target Cuboid Length.
+	- 20ft Target Cuboid Width.
+	- 20ft Target Cuboid Height.
+- **Upcasting**:
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional minute and the rock wall's health increases by 25.

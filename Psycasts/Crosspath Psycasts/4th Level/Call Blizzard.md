@@ -16,16 +16,22 @@ tags:
 - [[Range]]:
 	- Self.
 - **Target**:
-	- Self.
+	- A circle with its center within range.
 - **Components**:
-	- Verbal
+	- Verbal.
 - **Duration**:
-	- 3 Days
+	- 3 Days. (+1 Day.)
 - **Effects**:
+	- *You sing a melancholic psychic song to call a blizzard.*
 	- You call upon a harsh blizzard to sweep a circular area centered on you with a radius of 8 miles.
-		- Traversing in a blizzard requires twice as much [[Movement Speed]].
+	- For the duration of this psycast, a blizzard occurs in the target circle.
+		- Traversing in the blizzard requires more [[Movement Speed]] per 1ft moved.
 		- All ranged attacks made in the blizzard are made with disadvantage.
 		- All fires in the blizzard are extinguished unless otherwise stated.
-		- Creatures who are exposed to the blizzard and are unprotected take 1d10 cold damage every minute.
+		- Creatures who are exposed to the blizzard and are unprotected take cold damage every minute.
+- **Stats**:
+	- +1ft [[Movement Speed]] Required per 1ft Moved Through the Blizzard.
+	- 2d6 Cold Damage from the Blizzard.
+	- 12km Target Circle Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the blizzard lasts an additional day.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional day.

@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 5th-Level
+---
+- **Path**:
+	- 5th Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 43
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A sphere with its center within range, does not require line of sight.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *Multicolored light blasts outwards in every direction from you. The blast goes through walls, deals heavy radiant damage, and [[Exposed|Exposes]] creatures. The blast takes so much energy that you cannot use any other actions this turn.*
+	- This psycast may only be used as the first action or bonus action on your turn.
+	- All creatures within the target sphere take heavy damage from the blast and become [[Exposed]].
+		- You are immune to this effect.
+	- For 1 turn after this psycast is cast, the the following effects occur:
+		- The target sphere creates [[Lighting#Bright Light|Bright Light]] within it.
+		- You are [[Incapacitated]] until the end of your turn.
+- **Stats**:
+	- 3d10 Radiant Damage from Blast.
+	- 3 Turn [[Exposed]] Duration.
+	- 40ft Target Sphere Radius.
+- **Upcasting**:
+	- You cannot upcast this psycast.

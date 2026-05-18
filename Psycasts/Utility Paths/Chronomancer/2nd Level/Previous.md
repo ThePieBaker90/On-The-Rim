@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Chronomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+- **Casting Time:**
+	- 6 Seconds.
+- **[[Psyfocus]] Cost:**
+	- 30
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- 3 Turns. (+1 Turn)
+- **Effects**:
+	- *You psychically "store" your health and conditions, once this psycast ends your health and conditions revert to your "stored" health and conditions. This does not occur if you are [[Dying]] or dead.*
+	- When you cast this psycast, you note down the following:
+		- Your health (referred to as your initial health).
+		- All [[Conditions]] you are affected by (referred to as your initial conditions).
+	- When this psycast ends, if you are not [[Dying]] or dead, you suffer the following effects:
+		- Your health becomes your initial health.
+		- The [[Conditions]] you are affected by are replaced by your initial conditions.
+			- This does not trigger [[Conditions|Condition]] removal effects.
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the duration of this psycast is increased by 1 turn.

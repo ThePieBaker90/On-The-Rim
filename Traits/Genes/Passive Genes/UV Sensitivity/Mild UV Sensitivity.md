@@ -6,7 +6,7 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- 4
 - **Effects:**
-	- Carriers of this gene suffer from the following while in direct UV light:
+	- Carriers of this gene suffer from the following while in [[Lighting#UV Light|UV Light]]:
 		- They have -4 to all ability checks.
 		- Their [[Movement Speed]] is halved.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**

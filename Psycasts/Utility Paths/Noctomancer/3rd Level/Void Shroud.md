@@ -22,8 +22,8 @@ tags:
 	- 1 Minute.
 - **Effects**
 	- *You have an aura of darkness, making all but the brightest lit areas shrouded in dark.*
-	- For duration of this psycast, areas within range of you have their light level reduced.
+	- For duration of this psycast, areas within range of you have their [[Lighting|Light Level]] reduced.
 - **Stats**:
-	- -1 Light Level.
+	- -1 [[Lighting|Light Level]].
 - **Upcasting**:
 	- You may upcast this psycast. For every 25 psyfocus spent above the normal cost for this psycast, the range increases by 50ft.

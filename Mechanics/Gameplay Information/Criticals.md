@@ -17,7 +17,7 @@ tags:
 	- If the weapon used is a firearm it gains [[Jammed]].
 	- If the weapon used is a non-firearm weapon it hits a random allied creature that a miss could reasonably hit.
 ## Critical Effect Tables
-- You roll on a critical effect table when you make a critical hit. The critical effect table you roll on is determined by the leftmost damage type dealt by an attack's hit effects. If an attack does not deal damage on its hit effects, it does not roll on a hit effect table.
+- You roll on a critical effect table when you make a critical hit. The critical effect table you roll on is determined by the first damage type dealt by an attack's hit effects. If an attack does not deal damage on its hit effects, it does not roll on a hit effect table.
 	- Bludgeoning damage rolls on the [[Bludgeoning Critical Effect Table]].
 	- Cold damage rolls on the [[Cold Critical Effect Table]].
 	- Corrosion damage rolls on the [[Corrosion Critical Effect Table]].

@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 3rd-Level
+  - Wildemancer
+---
+- **Path**:
+	- 2nd Level [[Terralord Psycasts|Terralord Psycast]] & [[Wildemancer Psycasts|Wildemancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- .
+- **[[Neural Heat]] Generation:**
+	- .
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- Gesture.
+- **Duration**:
+	- Channeled, up to . Turns.
+- **Effects**:
+	- *You dive forward into the ground before burrowing beneath the floor. Anywhere you dig under becomes harder to traverse and when you pop out of the ground, nearby floors become unstable.*
+	- For the duration of this psycast, you have the following effects:
+		- You are in the ground.
+		- You ignore all negative effects of being inside the floor.
+		- You are immune to effects which cannot penetrate 5ft of ground.
+		- Your [[Movement Speed]] is slowed.
+		- When you move, you create a permanent tunnel, creating a tunnel costs additional [[Movement Speed]] and creates a raised ridge on the floor above the tunnel.
+- **Stats**:
+	- .
+- **Upcasting**:
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

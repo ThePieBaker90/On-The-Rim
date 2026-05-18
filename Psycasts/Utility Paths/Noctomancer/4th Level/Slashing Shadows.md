@@ -32,4 +32,4 @@ tags:
 	- 2d8 Slashing Damage from Shadows.
 	- 10ft [[Movement Speed]] Slow from Shadows.
 - **Upcasting**:
-	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional 2 turns.
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional 2 turns.

@@ -1,0 +1,30 @@
+---
+tags:
+  - Psycast
+  - Luzator
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Luzator Psycasts|Luzator Psycast]]
+- **Casting Time:**
+	- 1 Minute.
+- **[[Psyfocus]] Cost:**
+	- 10
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- An object within range that is used as the focus.
+- **Components**:
+	- Gesture, Focus (An object).
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You shine a unique light on an object, seeing small details to gather information on an object.*
+	- When you cast this psycast, you choose several pieces of information to find out about the target object.
+	- You learn all chosen pieces of information about the target object.
+- **Stats**:
+	- 5 Max Pieces of Information Learned. (+5 Max Pieces)
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, the maximum number of pieces of information you may learn increases by 5.

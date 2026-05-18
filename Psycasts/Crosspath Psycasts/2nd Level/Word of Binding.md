@@ -1,0 +1,35 @@
+---
+tags:
+  - Psycast
+  - Terralord
+  - 2nd-Level
+  - Empath
+---
+- **Path**:
+	- 2nd Level [[Terralord Psycasts|Terralord Psycast]] & [[Empath Psycasts|Empath Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 40ft.
+- **Target**:
+	- A grounded creature within range.
+- **Components**:
+	- Verbal.
+- **Duration**:
+	- 1 Turn.
+- **Effects**:
+	- *You imbue psychic energy into a word of immobilization, directing it at a creature. The creature must move away from their current location quickly or otherwise become [[Immobilized]].*
+	- When you cast this psycast, you note down the location of the target creature (referred to as their initial location).
+	- For the duration of this psycast, the target creature is afflicted.
+	- Afflicted creatures suffer the following effects:
+		- When this psycast ends, they are [[Immobilized]].
+		- If they leave binding range of their initial location, they lose affliction.
+- **Stats**:
+	- 20ft Binding Range. (+5ft)
+	- 2 Turn [[Immobilized]] Duration.
+- **Upcasting**:
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the binding range increases by 5ft.

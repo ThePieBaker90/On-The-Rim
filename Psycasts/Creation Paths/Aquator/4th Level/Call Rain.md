@@ -27,7 +27,7 @@ tags:
 		- All ranged attacks made in the rain are made with disadvantage.
 		- All fires in the rain are extinguished unless otherwise stated.
 - **Stats**:
-	- +0.25ft [[Movement Speed]] Required Per 1ft Moved Through Rain.
+	- +0.25ft [[Movement Speed]] Required per 1ft Moved Through Rain.
 	- 25km Target Circle Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional day.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional day.

@@ -22,14 +22,15 @@ tags:
 	- 1 Minute. (+1 Minute)
 - **Effects**:
 	- *You spill [[Anti-Glue]] over all floors in an area, making traversal incredibly difficult.*
-	- All ground within the target sphere is coated in [[Anti-Glue]], it has the following effects:
-		- Traversing through the [[Anti-Glue]] requires more [[Movement Speed]] per 1ft moved.
-		- Creatures moving through the [[Anti-Glue]] for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
+	- For the duration of this psycast, all ground within the target sphere is coated in [[Anti-Glue]].
+	- [[Anti-Glue]] has the following effects:
+		- Traversing through it requires additional [[Movement Speed]] per 1ft moved.
+		- Creatures moving through it for the first time on their turn must make a Dexterity saving throw to avoid slipping.  
 			- On a failure, they fall [[Prone]].
 			- On a success, nothing happens.
-		- The [[Anti-Glue]] can be washed away with a cleaning agent (such as water), ending the psycast prematurely.
+		- It can be washed away with a cleaning agent (such as water), ending this psycast immediately.
 - **Stats**:
 	- +1ft of [[Movement Speed]] Required Per 1ft Moved Through [[Anti-Glue]].
 	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional minute.
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional minute.

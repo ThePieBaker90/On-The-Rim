@@ -26,7 +26,7 @@ tags:
 		- On a failure, you drain some [[Psyfocus]] from them, gaining [[Psyfocus]] in the process.
 		- On a success, you lose concentration on this psycast.
 	- If the target creature has a low enough [[Psyfocus]], you lose concentration on this psycast.
-	- If the target creature leaves the range of the psycast, you lose concentration on this psycast.
+	- If the target creature leaves the range of this psycast, you lose concentration on this psycast.
 - **Stats**:
 	- 20 [[Psyfocus]] Drained.
 	- 1:1 [[Psyfocus]] Drained to [[Psyfocus]] Gained Ratio.

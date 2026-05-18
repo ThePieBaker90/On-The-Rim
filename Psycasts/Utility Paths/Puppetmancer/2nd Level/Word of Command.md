@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Puppetmancer
-  - 1st-Level
+  - 2nd-Level
 ---
 - **Path**:
-	- 1st Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
+	- 2nd Level [[Puppetmancer Psycasts|Puppetmancer Psycast]]
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
@@ -21,6 +21,7 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
+	- *.*
 	- You say a singular commanding word to order a creature within range to do some specific action. The creature must make a Wisdom saving throw. On a failure, the creature does a command of choice. On a success, nothing happens.
 	- The command you say must be a singular word, the following are some common commands, but the commands you can use are not limited to the following.
 		- Approach
@@ -33,6 +34,8 @@ tags:
 			- Creature uses all available movement to walk away from you. 
 		- Attack
 			- Creature makes one attack on the nearest creature to them.
-	- If the creature cannot follow your command or your command would be directly harmful to the creature, the psycast ends.
+	- If the creature cannot follow your command or your command would be directly harmful to the creature, this psycast ends.
+- **Stats**:
+	- .
 - **Upcasting**:
 	- You cannot upcast this psycast.

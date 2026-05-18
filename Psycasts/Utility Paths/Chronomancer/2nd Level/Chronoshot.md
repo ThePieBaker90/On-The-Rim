@@ -1,0 +1,39 @@
+---
+tags:
+  - Psycast
+  - Chronomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 24
+- [[Range]]:
+	- 120ft.
+- **Target**:
+	- Self.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Channeled, up to 4 Turns.
+- **Effects**:
+	- *You store time, using it to charge a an intense shot which deals deals damage scaling with your charged time. The shot also inflicts the creature with [[Time-Stopped]] until the beginning of their next turn. If you charge enough time, [[Time-Stopped]] lasts through their next turn.*
+	- This psycast has a variable called charged time, it starts at an initial value and is an integer.
+	- At the beginning of each of your turns, you increase your charged time.
+	- For the duration of this psycast, you may use an action or bonus action to make a ranged attack roll against a creature within range, adding your psycasting ability modifier to the result.
+		- On a hit, the shot deals damage scaling with charged time and the creature is [[Time-Stopped]] until the beginning of their turn. If charged time is at or above a value, the duration of [[Time-Stopped]] is extended.
+		- After this effect is resolved, this psycast ends.
+		- This effect may only be triggered if charged time is at or above a minimum value.
+- **Stats**:
+	- 0 Initial Charged Time.
+	- +1 Charged Time per Turn.
+	- 1 Min Charged Time to Shoot.
+	- 3 Min Charged Time to Inflict Extended [[Time-Stopped]].
+	- 1 Turn [[Time-Stopped]] Extended Duration.
+	- 2d6 Force Damage per Charged Time.
+- **Upcasting**:
+	- You cannot upcast this psycast.

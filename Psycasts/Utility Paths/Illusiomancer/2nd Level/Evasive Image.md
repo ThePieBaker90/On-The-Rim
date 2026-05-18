@@ -1,0 +1,29 @@
+---
+tags:
+  - Psycast
+  - 2nd-Level
+  - Illusiomancer
+---
+- **Path**:
+	- 2nd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Bonus Action.
+- **[[Psyfocus]] Cost:**
+	- 7
+- **[[Neural Heat]] Generation:**
+	- 25
+- [[Range]]:
+	- 30ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 3 Turns. (+2 Turns)
+- **Effects**:
+	- *You grant a creature increased evasion by making them generate psychic waves which cause their image to become heavily blurred and smeared to observers..*
+	- For the duration of this psycast, the target creature has additional [[Evade Class]].
+- **Stats**:
+	- +2 [[Evade Class]] Applied.
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional 2 turns.

@@ -1,0 +1,31 @@
+---
+tags:
+  - Psycast
+  - Chronomancer
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Chronomancer Psycasts|Chronomancer Psycast]]
+- **Casting Time:**
+	- None.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Self.
+- **Target**:
+	- Self.
+- **Components**:
+	- None.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You slow your perception of time drastically, giving you near endless time to think. You can't take any actions or move while time is slowed.*
+	- When you cast this psycast, your perception of time slows, allowing you endless time to think.
+		- This psycast stays in the cast phase during this effect.
+	- You can end this psycast at any time.
+- **Stats**:
+	- None.
+- **Upcasting**:
+	- You cannot upcast this psycast. 

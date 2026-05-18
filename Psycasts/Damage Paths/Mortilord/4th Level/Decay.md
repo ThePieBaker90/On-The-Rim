@@ -33,4 +33,4 @@ tags:
 - **Stats**:
 	- 1d6 + 2 Necrotic Damage Every Turn from Rot.
 - **Upcasting**:
-	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the psycast lasts an additional turn.
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.

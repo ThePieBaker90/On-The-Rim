@@ -1,0 +1,39 @@
+---
+tags:
+  - Psycast
+  - Illusiomancer
+  - 3rd-Level
+---
+- **Path**:
+	- 3rd Level [[Illusiomancer Psycasts|Illusiomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 15
+- **[[Neural Heat]] Generation:**
+	- 0
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 5 Minutes.
+- **Effects**:
+	- *You imbue psychic waves into a point in space. The waves disrupt creature's sensory centers and cause them to see and hear you as if you were at the point. The illusion can move and can copy your actions, although it cant physically affect anything.*
+	- You create an [[Illusion]].
+		- The illusion affects sight and hearing.
+		- The illusion looks and sounds like you perfectly.
+		- The illusion is perceived at the target point.
+	- For the duration of this psycast, the [[Illusion]] has the following effects:
+		- You can psychically command it to do the following:
+			- Move - The illusion has your movement speed and can move through objects.
+			- Copy - The illusion can copy your current movements and actions.
+		- It may not go beyond illusion range from you. If it does, this psycast ends.
+		- All creatures perceive it.
+- **Stats**:
+	- 1 Self Illusion. (+1 Self Illusion)
+	- 120ft Illusion Range.
+- **Upcasting**:
+	- You may upcast this psycast. For every 10 psyfocus spent above the normal cost for this psycast, you create an additional illusion which you command separately.
