@@ -18,14 +18,15 @@ tags:
 - **Target**:
 	- A container within range that is used as the focus.
 - **Components**:
-	- Kinetic, Focus (A container that can hold at least 250ml of liquid).
+	- Kinetic, Focus (A container that can hold liquid).
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- 250ml of healing water pours out of your pointer finger. If this liquid is drunk, it heals the creature who drank it.
+	- Healing water pours out of your pointer finger. If this liquid is drunk, it heals the creature who drank it.
 		- The water takes 1 action to drink.
 		- The healing water becomes normal water after 12 hours.
 - **Stats**:
-	- 2d6 Health Healed from Healing Water. (+2d6 Health Healed)
+	- 250mL of Healing Water Created. (+250mL)
+	- 2d6 Health Healed from Healing Water.
 - **Upcasting**:
-	- You may upcast this psycast. For every 33 psyfocus spent above the normal cost for this psycast, the water heals an additional 2d6 health.
+	- You may upcast this psycast. For every 33 psyfocus spent above the normal cost for this psycast, an additional 250mL of Healing Water is created.

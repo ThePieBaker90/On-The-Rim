@@ -3,6 +3,7 @@ tags:
   - Psycast
   - Noctomancer
   - 2nd-Level
+  - Empath
 ---
 - **Path**:
 	- 2nd Level [[Noctomancer Psycasts|Noctomancer Psycast]] & [[Empath Psycasts|Empath Psycast]]

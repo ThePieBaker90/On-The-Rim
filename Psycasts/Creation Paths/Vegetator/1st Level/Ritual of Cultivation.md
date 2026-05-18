@@ -17,12 +17,12 @@ tags:
 - **Target**:
 	- A [[Ritual Circle]] within range that is used as the focus.
 - **Components**:
-	- Gesture.
-- **Duration**:
 	- Gesture, Verbal, Focus (A [[Ritual Circle]]).
+- **Duration**:
+	- Instant.
 - **Effects**:
 	- *Plants flourish near the circle looking like a well tended garden. This doesn't create any new plants, just growing those already there.*
-	- All plants within growth range of the [[Ritual Circle]] grow to maturity.
+	- All plants within growth range of the target [[Ritual Circle]] grow to maturity.
 - **Stats**:
 	- 60ft Growth Range.
 - **Upcasting**:
