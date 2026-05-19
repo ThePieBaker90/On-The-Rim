@@ -1374,5 +1374,7 @@
   "Player States/Germlines/Uncommon Germlines/Jangali.md": "LiCircleUserRound",
   "Traits/Genes/Cosmetic Genes/Horns/Devilish Horns.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Horns/Deer-Like Horns.md": "LiDna",
-  "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound"
+  "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound",
+  "Player States/Germlines/Common Germlines/Seer.md": "LiListTodo",
+  "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna"
 }

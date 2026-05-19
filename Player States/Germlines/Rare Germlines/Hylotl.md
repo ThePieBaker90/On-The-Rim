@@ -21,7 +21,6 @@ tags:
 	- [[Sclera Color]]
 		- Matching iris color
 	- [[Hairless]]
-	- [[Third Eye]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]

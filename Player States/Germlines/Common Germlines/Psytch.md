@@ -31,5 +31,4 @@ tags:
 	- [[Increased Neural Heat Capacity]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Wisdom Increase]]
-	- [[Small Intelligence Increase]]
-	- [[Small Charisma Increase]] 
+	- [[Medium Intelligence Increase]]

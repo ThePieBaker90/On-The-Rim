@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *.*TODO
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- *.* TODO
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -8 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -13,21 +13,23 @@ tags:
 	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- All natural colors
+		- All colors
 	- [[Hair Color]]
-		- All natural colors
+		- All colors
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- All natural colors
+	- [[Third Eye]]
+	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- None.
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- None.
+	- [[Increased Neural Heat Dissipation]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Ability Score Increase]]
-	- [[Resilient]]
-
+	- [[Small Wisdom Increase]]
+	- [[Medium Charisma Increase]]
+	- [[Keen Senses]]
