@@ -2,15 +2,15 @@
 tags:
   - Germline
 ---
-- *Witches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability and have an easier time learning [[Psycasts]].*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
+- *Like [[Seer|Seers]], Psytches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability, have an easier time learning [[Psycasts]], and have a larger [[Neural Heat]] capacity.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Elvish
+	- Cetus
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors
@@ -27,7 +27,6 @@ tags:
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Natural Psycaster]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- [[Darkvision (30ft)]]
 	- [[Increased Neural Heat Capacity]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Wisdom Increase]]

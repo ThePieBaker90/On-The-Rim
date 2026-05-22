@@ -10,7 +10,7 @@ tags:
 	- 35ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Elvish
+	- Cetus
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors

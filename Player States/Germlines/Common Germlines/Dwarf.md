@@ -10,7 +10,7 @@ tags:
 	- 25ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Dwarvish
+	- Areonic
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors

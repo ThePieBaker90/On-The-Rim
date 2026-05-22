@@ -3,14 +3,14 @@ tags:
   - Germline
 ---
 - *Half-Foots were initially made for stealth and extraction missions with diluted [[Dwarf]] DNA. Although in recent times, they have found comfort living quiet lives on earth-like planets.*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -15 (130% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Small, 3-4ft generally
 - **[[Germlines#Speed|Speed:]]**
-	- 30ft
+	- 35ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Dwarvish
+	- Areonic
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All natural colors
@@ -28,8 +28,8 @@ tags:
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Brave]]
 	- [[Nimble]]
+	- [[Fast Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Charisma Increase]]
-	- [[Small Strength Increase]]
-	- [[Small Dexterity Increase]]
+	- [[Medium Dexterity Increase]]
 

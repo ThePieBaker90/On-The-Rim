@@ -2,15 +2,15 @@
 tags:
   - Germline
 ---
-- *.* TODO
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -8 (100% Hunger)
+- *Like [[Psytch|Psytches]], Seers were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability, have an easier time learning [[Psycasts]], and dissipate [[Neural Heat]] faster. Their extra eye helps with vision related tasks.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- One of choice
+	- Cetus
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- All colors
@@ -26,10 +26,12 @@ tags:
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- None.
+	- [[Natural Psycaster]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
+	- [[Darkvision (30ft)]]
 	- [[Increased Neural Heat Dissipation]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Small Wisdom Increase]]
+	- [[Medium Wisdom Increase]] 
 	- [[Medium Charisma Increase]]
+	- [[Small Constitution Decrease]]
 	- [[Keen Senses]]

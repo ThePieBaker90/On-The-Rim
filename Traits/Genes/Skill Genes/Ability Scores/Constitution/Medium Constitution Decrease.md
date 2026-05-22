@@ -4,7 +4,7 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- -4
+	- 4
 - **Effects:**
 	- Carriers of this gene have their constitution score decreased by 2.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircleUserRound",
       "LiDna",
       "LiSparkles",
       "LiListTodo",
-      "TiHexagonNumber5",
-      "TiHexagonNumber4"
+      "TiHexagonNumber5"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1375,6 +1375,6 @@
   "Traits/Genes/Cosmetic Genes/Horns/Devilish Horns.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Horns/Deer-Like Horns.md": "LiDna",
   "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound",
-  "Player States/Germlines/Common Germlines/Seer.md": "LiListTodo",
+  "Player States/Germlines/Common Germlines/Seer.md": "LiCircleUserRound",
   "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna"
 }

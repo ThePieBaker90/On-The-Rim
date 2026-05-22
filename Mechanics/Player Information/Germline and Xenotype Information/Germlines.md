@@ -12,13 +12,14 @@ aliases:
 ## List of Germlines
 Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
 - Common Germlines
-	- [[Dwarf]]
-	- [[Jangali]]
-	- [[Half-Foot]]
-	- [[Pure Human]]
-	- [[Psytch]]
+	- [[Dwarf]] - Higher constitution and strength, enhanced defensive attributes, slower than others.
+	- [[Half-Foot]] - Higher charisma and dexterity, enhanced movement attributes, high rate of hunger.
+	- [[Psytch]] - Higher wisdom and intelligence, enhanced psycasting attributes, lacks non-psycasting related traits.
+	- [[Pure Human]] - All ability scores mildly increased, resistant to death, lacks specialization.
+	- [[Seer]] - Higher wisdom and charisma, enhanced psycasting and vision attributes, reduced constitution.
 - Uncommon Germlines
 	- [[Demon]]
+	- [[Jangali]]
 	- [[Drow]]
 	- [[Gato]]
 	- [[Impid]]

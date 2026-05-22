@@ -10,7 +10,7 @@ tags:
 	- 35ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Impish
+	- Scorched
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- Oranges, Reds, Yellows, Warm-Greens

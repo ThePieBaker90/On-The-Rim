@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Demons evolved from humans in environments with intense cold. Their affinity with [[Blazelord Psycasts]] and stronger build allow them to hold their own in combat longer than others. (TRAPPIST-1e)*
+- *Demons evolved from humans in environments with intense cold. Their [[Fire Spew]] ability and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
@@ -10,7 +10,7 @@ tags:
 	- 30ft
 - **[[Germlines#Languages|Languages:]]**
 	- Common
-	- Demonic
+	- Ptolomic
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
 		- Blues, Violets, Purples
@@ -21,18 +21,18 @@ tags:
 	- [[Iris Color]]
 		- Blacks, Blues, Whites, Gold, Silver
 	- [[Demonic Tail]]
-	- [[Devilish Horns|Devilish Horns]]
+	- [[Devilish Horns]]
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Fire Spew]]
-	- [[Blazelord Psycast Affinity]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Darkvision (30ft)]]
 	- [[Cold Resistant]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Small Constitution Increase]]
 	- [[Small Strength Increase]]
+	- [[Small Intelligence Increase]]
 
