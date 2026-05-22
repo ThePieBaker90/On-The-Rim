@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *Demons evolved from humans in environments with intense cold. Their [[Fire Spew]] ability and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- *Demons evolved from humans in environments with intense cold. Their resistance to cold and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -17,7 +17,7 @@ tags:
 	- [[Hair Color]]
 		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
 	- [[Body Type]]
-		- Muscled, Thin
+		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- Blacks, Blues, Whites, Gold, Silver
 	- [[Demonic Tail]]
@@ -27,12 +27,13 @@ tags:
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- [[Fire Spew]]
+	- None.
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Darkvision (30ft)]]
 	- [[Cold Resistant]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Small Constitution Increase]]
-	- [[Small Strength Increase]]
-	- [[Small Intelligence Increase]]
+	- [[Medium Constitution Increase]]
+	- [[Small Dexterity Increase]]
+	- [[Medium Intelligence Increase]]
+	- [[Small Charisma Decrease]]
 

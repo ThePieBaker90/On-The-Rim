@@ -18,7 +18,7 @@ Certain germlines are more common than others, therefore germlines are split int
 	- [[Pure Human]] - All ability scores mildly increased, resistant to death, lacks specialization.
 	- [[Seer]] - Higher wisdom and charisma, enhanced psycasting and vision attributes, reduced constitution.
 - Uncommon Germlines
-	- [[Demon]]
+	- [[Demon]] - Higher constitution and intelligence, cold damage resistance and natural darkvision, reduced charisma.
 	- [[Jangali]]
 	- [[Drow]]
 	- [[Gato]]
