@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *Demons evolved from humans in environments with intense cold. Their resistance to cold and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (100% Hunger)
+- *Frostjaks evolved from [[Starjack|Starjacks]] on the dark side of a tidally locked planet. Their resistance to cold and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -20,11 +20,11 @@ tags:
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- Blacks, Blues, Whites, Gold, Silver
-	- [[Demonic Tail]]
+	- [[Arrow Tail]]
 	- [[Devilish Horns]]
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
-	- [[Average Lifespan]]
+	- [[Long Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- None.

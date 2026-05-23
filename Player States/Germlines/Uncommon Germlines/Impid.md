@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *Impids evolved from humans in environments with intense heat. Their dexterity and speed allow them to quickly navigate around the battlefield. (TRAPPIST-1e)*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
+- *Impids evolved from [[Starjack|Starjaks]] on the light side of a tidally locked planet. Their dexterity and speed allow them to quickly navigate around the battlefield while their fire resistance mitigates heat and fire damage. (TRAPPIST-1e)*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -22,8 +22,9 @@ tags:
 		- Blacks, Reds, Whites, Gold, Silver
 	- [[Thin Tail]]
 	- [[Mini Horns]]
+	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
-	- [[Average Lifespan]]
+	- [[Long Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Run 'n' Gun]]

@@ -548,7 +548,6 @@
   "Traits/Genes/Cosmetic Genes/Skin/Wolf-Like Fur.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Tails": "LiList",
   "Traits/Genes/Cosmetic Genes/Tails/Cat Tail.md": "LiDna",
-  "Traits/Genes/Cosmetic Genes/Tails/Demonic Tail.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Tails/Thin Tail.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Tails/Wolf Tail.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Teeth": "LiList",
@@ -672,7 +671,6 @@
   "Player States/Germlines/Rare Germlines/Hylotl.md": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines/Phytokin.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines": "LiCircleUserRound",
-  "Player States/Germlines/Uncommon Germlines/Demon.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Drow.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Gato.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Impid.md": "LiCircleUserRound",
@@ -1376,5 +1374,8 @@
   "Traits/Genes/Cosmetic Genes/Horns/Deer-Like Horns.md": "LiDna",
   "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound",
   "Player States/Germlines/Common Germlines/Seer.md": "LiCircleUserRound",
-  "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna"
+  "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna",
+  "Traits/Genes/Cosmetic Genes/Tails/Arrow Tail.md": "LiDna",
+  "Player States/Germlines/Common Germlines/Starjack.md": "LiListTodo",
+  "Player States/Germlines/Uncommon Germlines/Frostjack.md": "LiCircleUserRound"
 }

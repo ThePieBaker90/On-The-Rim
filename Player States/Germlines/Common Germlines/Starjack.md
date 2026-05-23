@@ -1,0 +1,35 @@
+---
+tags:
+  - Germline
+---
+- *TODO*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -7 (100% Hunger)
+- **[[Germlines#Proportions|Proportions:]]**
+	- Medium, around 6-7ft tall generally
+- **[[Germlines#Speed|Speed:]]**
+	- 30ft
+- **[[Germlines#Languages|Languages:]]**
+	- Common
+	- Ptolomic
+- **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
+	- [[Skin Color]]
+		- Whites, Grays, Grayish Purples, Purples
+	- [[Hair Color]]
+		- Darker than Skin Color
+	- [[Body Type]]
+		- Average, Muscled, Thin, Plus-Sized
+	- [[Iris Color]]
+		- All natural colors
+	- [[Pointy Ears]]
+- **[[Genes#Life Genes|Life Endogenes:]]**
+	- [[Long Lifespan]]
+	- [[Omnivore]]
+- **[[Genes#Ability Genes|Ability Endogenes:]]**
+	- None.
+- **[[Genes#Passive Genes|Passive Endogenes]]**
+	- None.
+- **[[Genes#Skill Genes|Skill Endogenes:]]**
+	- [[Medium Dexterity Increase]]
+	- [[Medium Intelligence Increase]]
+	- [[Small Strength Decrease]]
+
