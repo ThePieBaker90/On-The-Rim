@@ -21,6 +21,7 @@ tags:
 	- [[Iris Color]]
 		- All natural colors
 	- [[Pointy Ears]]
+	- [[Minor Tail]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Long Lifespan]]
 	- [[Omnivore]]
