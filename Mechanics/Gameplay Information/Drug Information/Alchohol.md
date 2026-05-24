@@ -1,0 +1,17 @@
+---
+tags:
+  - Drug
+  - Social-Drug
+---
+- **[[Drugs|Drug]] Category:**
+	- .
+- **[[Drugs#Drug Usage|Usage]] Effects:**
+	- .
+- **[[Drugs#Drug Tolerance|Drug Tolerance]]:**
+	- .
+- **[[Drugs#Minimum Safe Usage Intervals|Minimum Safe Usage Interval]]:**
+	- .
+- **[[Drugs#Addiction Threshold|Addiction Threshold]]:**
+	- 
+- **[[Drugs#Drug Addiction|Addiction]] Effects:**
+	- .

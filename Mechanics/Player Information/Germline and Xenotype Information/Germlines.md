@@ -15,9 +15,10 @@ Certain germlines are more common than others, therefore germlines are split int
 	- [[Dwarf]] - Higher constitution and strength, enhanced defensive attributes, slower than others.
 	- [[Half-Foot]] - Higher charisma and dexterity, enhanced movement attributes, high rate of hunger.
 	- [[Psytch]] - Higher wisdom and intelligence, enhanced psycasting attributes, lacks non-psycasting related traits.
-	- [[Pure Human]] - All ability scores mildly increased, resistant to death, lacks specialization.
+	- [[Pure Human]] - jack of all ability scores, resistant to death, lacks specialization.
 	- [[Seer]] - Higher wisdom and charisma, enhanced psycasting and vision attributes, reduced constitution.
 	- [[Starjack]] - 
+	- [[Hussar]] -
 - Uncommon Germlines
 	- [[Frostjack]] - Higher constitution and intelligence, cold damage resistance and natural darkvision, reduced charisma.
 	- [[Jangali]]

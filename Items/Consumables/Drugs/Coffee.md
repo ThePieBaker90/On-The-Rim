@@ -10,8 +10,8 @@ tags:
 - **Charges:**
 	- 1
 - **Value:**
-	- 10 Credits
+	- .
 - **[[Drugs|Drug]] Type:**
-	- [[Alchohol]]
+	- [[Caffeine]]
 - **Lore:**
-	- *Known colloquially as a "cold one."
+	- *"Get me a cup 'a' joe!"*
