@@ -11,7 +11,7 @@
 | [7.62x32mm Königs](./7.62x32mm%20Königs) | D6 |  Carbines, Assault Rifles, Small-Game Rifles, Hunstman Rifles, Light Machine Gun | Königs Arms proprietary cartridge |
 | [6.75x50mm Praetoria](./6.75x50mm%20Praetoria) | D6 | Assault Rifles, Marksman Rifles, Light Machine Guns | Specialty cartridge of Imperial Guards units. High-performance |
 | [20-gauge](./20-Gauge) | D6 | Shotguns | |
-| [13.5x45mm Magnum](./13.5x45mm%20Mule) | D8 | Hand Cannons, Revolvers | | 
+| [13.5x45mm Mule](./13.5x45mm%20Mule) | D8 | Hand Cannons, Revolvers | | 
 | [7.92x57mm Empire](./7.92x57mm%20Empire) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | |
 | 7.62x55mm Königs | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | Königs Arms proprietary cartridge |
 | 12-gauge | D8 | Shotugns | |
