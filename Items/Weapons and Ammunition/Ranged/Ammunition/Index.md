@@ -13,8 +13,8 @@
 | [20-gauge](./20-Gauge) | D6 | Shotguns | |
 | [13.5x45mm Mule](./13.5x45mm%20Mule) | D8 | Hand Cannons, Revolvers | | 
 | [7.92x57mm Empire](./7.92x57mm%20Empire) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | |
-| 7.62x55mm Königs | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | Königs Arms proprietary cartridge |
-| 12-gauge | D8 | Shotugns | |
+| [7.62x55mm Königs](./7.62x55mm%20Königs) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | Königs Arms proprietary cartridge |
+| [12-gauge](./12-Gauge) | D8 | Shotugns | |
 | 8.6x72mm Brear | D10 | Breakthrough Rifles, Sniper Rifles, Big-Game Rifles, Magnum Rifles | |
 | 8-gauge | D10 | Shotguns | |
 | 12.7x99mm Empire | D12 | Anti-Materiel Rifles, Magnum Rifles, Heavy Machine Guns | |
