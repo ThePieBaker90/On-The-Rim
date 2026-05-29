@@ -5,6 +5,8 @@ tags:
 ---
 - **[[Drugs|Drug]] Category:**
 	- Social Drug.
+- **High Duration:**
+	- .
 - **[[Drugs#Drug Usage|Usage]] Effects:**
 	- .
 - **[[Drugs#Drug Tolerance|Drug Tolerance]]:**
