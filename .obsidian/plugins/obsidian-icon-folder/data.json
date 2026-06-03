@@ -1382,7 +1382,8 @@
   "Mechanics/Gameplay Information/Critical Information/Slashing Critical Effect Table.md": "FasPersonFallingBurst",
   "Mechanics/Gameplay Information/Critical Information/Sonic Critical Effect Table.md": "FasPersonFallingBurst",
   "Mechanics/Gameplay Information/Critical Information/Criticals.md": "LiInfo",
-  "Mechanics/Gameplay Information/Drug Information/Caffeine.md": "LiListTodo",
-  "Mechanics/Gameplay Information/Drug Information/Alchohol.md": "LiListTodo",
+  "Materials/Substances": "TiSpiral",
+  "Materials/Substances/Alchohol.md": "LiListTodo",
+  "Materials/Substances/Caffeine.md": "LiListTodo",
   "Mechanics/Gameplay Information/Drug Information/Drugs.md": "LiListTodo"
 }
