@@ -12,6 +12,6 @@ tags:
 - **Value:**
 	- 10 Credits
 - **[[Drugs|Drug]] Type:**
-	- [[Alchohol]]
+	- [[Alcohol]]
 - **Lore:**
 	- *Known colloquially as a "cold one."

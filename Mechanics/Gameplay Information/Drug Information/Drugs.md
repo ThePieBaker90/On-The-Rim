@@ -39,17 +39,28 @@ aliases:
 - When a user uses a drug they do not have a drug addiction to, they make an [[#Addiction Roll]] to see if they create a drug addiction.
 - When a user has a drug addiction, they suffer the effects listed in the substances addiction effects field.
 ### Addiction Roll
+- Some effects may make a user make an addiction roll. Addiction rolls are to see if the user gets addicted to the drug on this use.
 - When a user makes an addiction roll, the following happens in order:
 	- They roll 1d100.
-	- All relevant effects are applied.
+	- All relevant effects are applied to the result.
 	- The result is compared to the [[#Addiction Threshold]] of the drug.
 		- If it is less than or equal to the threshold, they create a [[#Drug Addiction]] to the used drug.
 		- If it is greater than the threshold, nothing happens.
 ### Addiction Threshold
-- .
+- The addiction threshold of a drug is the highest result that can come from an [[#Addiction Roll]] which will cause the user to create a [[#Drug Addiction]].
+- This value can be modified by various effects.
+- An addiction threshold of 0 means the drug is non-addictive and cannot cause its user to create a [[#Drug Addiction]].
 ### Withdrawal
 - .
-## Overdosing
+## Overdose
 - .
 ### Overdose Roll
+- Some effects may make a user make an overdose roll. Addiction rolls are to see if the user overdoses on the drug on this use.
+- When a user makes an overdose roll, the following happens in order:
+	- They roll 1d100.
+	- All relevant effects are applied to the result.
+	- The result is compared to the [[#Overdose Threshold]] of the drug.
+		- If it is less than or equal to the threshold, ...
+		- If it is greater than the threshold, nothing happens.
+### Overdose Threshold
 - .

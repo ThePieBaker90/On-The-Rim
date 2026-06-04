@@ -6,20 +6,29 @@ tags:
 - **[[Drugs|Drug]] Category:**
 	- Social Drug.
 - **High Duration:**
-	- .
+	- 5 Hours.
 - **[[Drugs#Drug Usage|Usage]] Effects:**
-	- .
+	- You gain +2 to rolls for initiative.
+	- You have advantage on saving throws to avoid falling [[Asleep]]
+	- You gain +2 to all Dexterity based checks and saving throws.
+	- You gain +2 to all Strength based checks and saving throws.
+	- Your [[Movement Speed]] is increased by 5ft.
+	- You cannot rest.
+	- You have -1 on all [[Sight-Based Perception]] checks and saving throws.
 - **[[Drugs#Drug Tolerance|Drug Tolerance]]:**
 	- +5% on use.
 
-| Tolerance Threshold | Effect                                                                                   |
-| ------------------- | ---------------------------------------------------------------------------------------- |
-| <15%                | On use, the user does not make an [[Drugs#Addiction Roll\|Addiction Roll]].              |
-| <30%                | On use, the user does not make an [[Drugs#Overdose Roll\|Overdose Roll]].                |
-| >40%                | The [[Drugs#Addiction Threshold\|Addiction Threshold]] for this drug is multiplied by 5. |
-| >60%                | The [[Drugs#Addiction Threshold\|Addiction Threshold]] for this drug is multiplied by 3. |
+| Tolerance Threshold | Effect                                                                      |
+| ------------------- | --------------------------------------------------------------------------- |
+| At any %            | On use, the user does not make an [[Drugs#Addiction Roll\|Addiction Roll]]. |
+| <30%                | On use, the user does not make an [[Drugs#Overdose Roll\|Overdose Roll]].   |
 
 - **[[Drugs#Addiction Threshold|Addiction Threshold]]:**
-	- 1
+	- 0
 - **[[Drugs#Drug Addiction|Addiction]] Effects:**
+	- None.
+- **[[Drugs#Overdose Threshold|Overdose Threshold]]:**
+	- 1
+- **[[Drugs#Overdose|Overdose]] Effects:**
 	- .
+- **[[Drugs#Withdrawal|Withdrawal]] Effects:**
