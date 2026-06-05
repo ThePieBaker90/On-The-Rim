@@ -17,7 +17,7 @@
 | [12-gauge](./12-Gauge) | D8 | Shotguns, Combination Guns | |
 | [8.6x72mm Brear](./8.6x72mm%20Brear) | D10 | Breakthrough Rifles, Sniper Rifles, Big-Game Rifles, Magnum Rifles | |
 | [8-gauge](./8-gauge) | D10 | Shotguns, Combination Guns | |
-| 12.7x99mm Empire | D12 | Anti-Materiel Rifles, Magnum Rifles, Heavy Machine Guns | |
+| [12.7x99mm Empire](./12.7x99mm%20Empire) | D12 | Anti-Materiel Rifles, Magnum Rifles, Heavy Machine Guns | 12.7x108mm subcartridge |
 | 14.5x114mm Königs  | D12 | Anti-Materiel Rifles, Heavy Machine Guns | Königs Arms proprietary cartridge |
 | 2-bore | D12 | Punt Guns | |
 | 20x105mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
