@@ -20,7 +20,7 @@
 | [12.7x99mm Empire](./12.7x99mm%20Empire) | D12 | Anti-Materiel Rifles, Magnum Rifles, Heavy Machine Guns | 12.7x108mm subcartridge |
 | [14.5x114mm Königs](./14.5x114mm%20Königs)  | D12 | Anti-Materiel Rifles, Heavy Machine Guns | Königs Arms proprietary cartridge |
 | [2-bore](./2-bore) | D12 | Punt Guns | |
-| 20x105mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
+| [20x105mm Empire](./20x105mm%20Empire) | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | 35x220mm Empire | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | 90x540mm Empire | D12 | Cannons | Highly varied ammunition w/ various effects | 
 | 107x280mm RCL | D12 | Recoilless Rifles | Recoilless rifle munitions w/ various effects |
