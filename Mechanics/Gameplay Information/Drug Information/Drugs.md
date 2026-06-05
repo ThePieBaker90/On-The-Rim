@@ -22,9 +22,10 @@ aliases:
 	- The user makes an [[#Addiction Roll]]. (if applicable.)
 	- The user makes an [[#Overdose Roll]] (if applicable).
 ### Drug Effects
-- .
+- Drug effects are the effects that occur on the user for the [[#High Duration]]. 
 ### High Duration
-- .
+- The high duration of a substance is the duration the usage effects last on a user when at 0% tolerance.
+- The high duration is reduced by the user's [[#Drug Tolerance]].
 ## Drug Tolerance
 - Using certain drugs causes the user to build up a tolerance to the drug. Tolerance affects the length of the [[#High Duration]] from using a drug, tolerance increases when the drug is used and decreases when the user rests. 
 - The tracked tolerance number for each drug is measured as a percent from 0% to 75% with up to one decimal place. 
@@ -37,7 +38,8 @@ aliases:
 ## Drug Addiction
 - Using certain drugs can create a drug addiction, causing the user to have a need for the substance or go through the nasty process of [[#Withdrawal]]. 
 - When a user uses a drug they do not have a drug addiction to, they make an [[#Addiction Roll]] to see if they create a drug addiction.
-- When a user has a drug addiction, they suffer the effects listed in the substances addiction effects field.
+- When a user has a drug addiction, they suffer the effects listed in the substances addiction effects field. These effects include a need for the drug, which, if unfulfilled will cause the user to enter [[#Withdrawal]].
+- To remove a drug addiction, a user must complete [[#Withdrawal|Withdrawals]] for that drug.
 ### Addiction Roll
 - Some effects may make a user make an addiction roll. Addiction rolls are to see if the user gets addicted to the drug on this use.
 - When a user makes an addiction roll, the following happens in order:
@@ -51,9 +53,12 @@ aliases:
 - This value can be modified by various effects.
 - An addiction threshold of 0 means the drug is non-addictive and cannot cause its user to create a [[#Drug Addiction]].
 ### Withdrawal
-- .
+- When a user has a [[#Drug Addiction]] that they are not satisfying the drug needs of, they will enter withdrawals. Withdrawals are negative effects that persist until the [[#Drug Addiction]] is removed or the specific drug need is fulfilled.
+- Withdrawals are the path to removing a [[#Drug Addiction]]. In most drug's withdrawal effects, there will be a withdrawal completion percentage which the user tracks. As the user ignores their drug need, this percentage will increase. If the user uses the drug, the percentage will decrease. At 100% withdrawal completion percentage, the [[#Drug Addiction]] is removed and the user no longer suffers the withdrawal effects.
 ## Overdose
-- .
+- An overdose can randomly occur with certain drugs and signifies a bad high. The effects of an overdose can range from a mild annoyance to a deadly event.
+- An overdose is checked for every time a drug is used by performing an [[#Overdose Roll]].
+- When an overdose occurs with a drug, 1d100 is rolled on an overdose effects table held within the substance (This roll is not to be confused with the [[#Overdose Roll]]). The resulting effect is triggered.
 ### Overdose Roll
 - Some effects may make a user make an overdose roll. Addiction rolls are to see if the user overdoses on the drug on this use.
 - When a user makes an overdose roll, the following happens in order:
@@ -63,4 +68,6 @@ aliases:
 		- If it is less than or equal to the threshold, ...
 		- If it is greater than the threshold, nothing happens.
 ### Overdose Threshold
-- .
+- The overdose threshold of a drug is the highest result that can come from an [[#Overdose Roll]] which will cause the user to [[#Overdose]].
+- This value can be modified by various effects.
+- An overdose threshold of 0 means the drug cannot trigger an [[#Overdose]].

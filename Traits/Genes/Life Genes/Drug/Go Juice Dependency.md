@@ -1,0 +1,23 @@
+---
+tags:
+  - Life-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- 10
+- **Effects:**
+	- Carriers of this gene suffer the following effects:
+		- They have a permanent [[Drugs#Drug Addiction|Drug Addiction]] to [[Go Juice]].
+			- [[Drugs#Withdrawal|Withdrawals]] cannot remove the [[Drugs#Drug Addiction|Drug Addiction]].
+		- At certain thresholds of withdrawal completion percentage for go juice they suffer additional effects: 
+			- At >30%, they gain a level of [[Exhaustion]].
+			- At >40%, they gain a level of [[Exhaustion]].
+			- At >50%, they gain a level of [[Exhaustion]].
+			- At >60%, they gain a level of [[Exhaustion]].
+			- At >70%, they gain a level of [[Exhaustion]].
+			- At >80%, they gain a level of [[Exhaustion]].
+			- These effects cannot be removed or nullified other except by dropping the withdrawal completion percentage below the threshold.
+		- All withdrawal completion percentage is removed upon taking 1 dose of [[Go Juice]].
+		- They gain half as much [[Drugs#Drug Tolerance|Drug Tolerance]] from using [[Go Juice]].
+- **[[Genes#Gene Incompatibility|Incompatibilities]]**
+	- None.

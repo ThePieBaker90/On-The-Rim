@@ -30,5 +30,10 @@ tags:
 - **[[Drugs#Overdose Threshold|Overdose Threshold]]:**
 	- 1
 - **[[Drugs#Overdose|Overdose]] Effects:**
-	- .
+
+| 1d100 | Effect | % Chance |
+| ----- | ------ | -------- |
+|       |        |          |
+
 - **[[Drugs#Withdrawal|Withdrawal]] Effects:**
+	- .

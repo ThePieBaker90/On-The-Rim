@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDna",
+      "LiList",
       "TiSpiral",
       "LiListTodo",
-      "LiInfo",
-      "LiBeer",
-      "LiCircleUserRound"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1384,6 +1384,11 @@
   "Mechanics/Gameplay Information/Critical Information/Criticals.md": "LiInfo",
   "Materials/Substances": "TiSpiral",
   "Materials/Substances/Caffeine.md": "LiListTodo",
-  "Mechanics/Gameplay Information/Drug Information/Drugs.md": "LiListTodo",
-  "Materials/Substances/Alcohol.md": "LiListTodo"
+  "Mechanics/Gameplay Information/Drug Information/Drugs.md": "LiInfo",
+  "Materials/Substances/Alcohol.md": "LiListTodo",
+  "Traits/Genes/Life Genes/Drug": "LiList",
+  "Materials/Substances/Go Juice.md": "LiListTodo",
+  "Traits/Genes/Life Genes/Drug/Go Juice Dependency.md": "LiDna",
+  "Traits/Genes/Passive Genes/Armor Class": "LiList",
+  "Traits/Genes/Passive Genes/Armor Class/Increased Armor Class.md": "LiDna"
 }

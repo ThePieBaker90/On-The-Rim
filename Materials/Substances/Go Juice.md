@@ -4,26 +4,25 @@ tags:
   - Drug
 ---
 - **[[Drugs|Drug]] Category:**
-	- Social Drug.
+	- Hard Drug.
 - **High Duration:**
 	- .
 - **[[Drugs#Drug Usage|Usage]] Effects:**
 	- .
 - **[[Drugs#Drug Tolerance|Drug Tolerance]]:**
-	- +5% on use.
+	- +.% on use.
 
 | Tolerance Threshold | Effect                                                                                   |
 | ------------------- | ---------------------------------------------------------------------------------------- |
-| <15%                | On use, the user does not make an [[Drugs#Addiction Roll\|Addiction Roll]].              |
-| <25%                | On use, the user does not make an [[Drugs#Overdose Roll\|Overdose Roll]].                |
-| >40%                | The [[Drugs#Addiction Threshold\|Addiction Threshold]] for this drug is multiplied by 5. |
+| >20%                | The [[Drugs#Addiction Threshold\|Addiction Threshold]] for this drug is multiplied by 3. |
+| >40%                | The [[Drugs#Addiction Threshold\|Addiction Threshold]] for this drug is multiplied by 3. |
 | >60%                | The [[Drugs#Addiction Threshold\|Addiction Threshold]] for this drug is multiplied by 3. |
 
 - **[[Drugs#Addiction Threshold|Addiction Threshold]]:**
-	- 1
+	- 2
 - **[[Drugs#Drug Addiction|Addiction]] Effects:**
-	- You have an alcohol need.
-		- You need 1 dose of alcohol every day, if you rest without meeting this, you suffer [[Drugs#Withdrawal|Withdrawals]].
+	- You have a go juice need.
+		- You need 1 dose of go juice every day, if you rest without meeting this, you suffer [[Drugs#Withdrawal|Withdrawals]].
 - **[[Drugs#Overdose Threshold|Overdose Threshold]]:**
 	- .
 - **[[Drugs#Overdose|Overdose]] Effects:**
