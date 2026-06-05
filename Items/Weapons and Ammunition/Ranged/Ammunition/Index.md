@@ -10,13 +10,13 @@
 | [5.45x42mm Empire](./5.45x42mm%20Empire) | D6 | Carbines, Assault Rifles, Small-Game Rifles, Hunstman Rifles, Light Machine Guns | |
 | [7.62x32mm Königs](./7.62x32mm%20Königs) | D6 |  Carbines, Assault Rifles, Small-Game Rifles, Hunstman Rifles, Light Machine Gun | Königs Arms proprietary cartridge |
 | [6.75x50mm Praetoria](./6.75x50mm%20Praetoria) | D6 | Assault Rifles, Marksman Rifles, Light Machine Guns | Specialty cartridge of Imperial Guards units. High-performance |
-| [20-gauge](./20-Gauge) | D6 | Shotguns | |
+| [20-gauge](./20-Gauge) | D6 | Shotguns, Combination Guns | |
 | [13.5x45mm Mule](./13.5x45mm%20Mule) | D8 | Hand Cannons, Revolvers | | 
 | [7.92x57mm Empire](./7.92x57mm%20Empire) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | |
 | [7.62x55mm Königs](./7.62x55mm%20Königs) | D8 | Battle Rifles, Marksman Rifles, Hunstman Rifles, Big-Game Rifles, Medium Machine Guns | Königs Arms proprietary cartridge |
-| [12-gauge](./12-Gauge) | D8 | Shotugns | |
+| [12-gauge](./12-Gauge) | D8 | Shotguns, Combination Guns | |
 | [8.6x72mm Brear](./8.6x72mm%20Brear) | D10 | Breakthrough Rifles, Sniper Rifles, Big-Game Rifles, Magnum Rifles | |
-| 8-gauge | D10 | Shotguns | |
+| [8-gauge](./8-gauge) | D10 | Shotguns, Combination Guns | |
 | 12.7x99mm Empire | D12 | Anti-Materiel Rifles, Magnum Rifles, Heavy Machine Guns | |
 | 14.5x114mm Königs  | D12 | Anti-Materiel Rifles, Heavy Machine Guns | Königs Arms proprietary cartridge |
 | 2-bore | D12 | Punt Guns | |
