@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *TODO*
-	- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -10 (100% Hunger)
+	- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -15 (130% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 6-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -13,7 +13,7 @@ tags:
 	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- All natural colors
+		- Muted greys, greens, and other colors good for camoflague
 	- [[Hair Color]]
 		- All natural colors
 	- [[Body Type]]
@@ -25,11 +25,13 @@ tags:
 	- [[Omnivore]]
 	- [[Go Juice Dependency]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
-	- None.
+	- [[Longjump Legs]]
+	- [[Urban Crawler]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Increased Health]]
 	- [[Increased Armor Class]]
 	- [[Fast Speed]]
+	- [[Darkvision (30ft)]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Large Strength Increase]]
 	- [[Large Constitution Increase]]

@@ -1,0 +1,12 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -2
+- **Effects:**
+	- Carriers of this gene gain the mirror cast action. They may do this action once every hour and only as a reaction to a creature within 20ft of them casting a [[Psycasts|Psycast]].
+		- Mirror Cast - 1 Reaction
+			- As a reaction to a creature within 20ft of you that you can see casting a [[Psycasts|Psycast]], you copy that psycast to cast on your next turn.
+			- During your next turn you may use that psycast, paying all costs, but not needing to know the psycast. You may only cast the copied psycast once with this ability before needing to copy it again.

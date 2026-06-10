@@ -1364,7 +1364,6 @@
   "Player States/Germlines/Common Germlines/Starjack.md": "LiListTodo",
   "Player States/Germlines/Uncommon Germlines/Frostjack.md": "LiCircleUserRound",
   "Traits/Genes/Cosmetic Genes/Tails/Minor Tail.md": "LiDna",
-  "Player States/Germlines/Common Germlines/Hussar.md": "LiListTodo",
   "Items/Consumables/Drugs/Coffee.md": "LiBeer",
   "Mechanics/Gameplay Information/Drug Information": "TiSpiral",
   "Mechanics/Gameplay Information/Critical Information": "FasPersonFallingBurst",
@@ -1390,5 +1389,10 @@
   "Materials/Substances/Go Juice.md": "LiListTodo",
   "Traits/Genes/Life Genes/Drug/Go Juice Dependency.md": "LiDna",
   "Traits/Genes/Passive Genes/Armor Class": "LiList",
-  "Traits/Genes/Passive Genes/Armor Class/Increased Armor Class.md": "LiDna"
+  "Traits/Genes/Passive Genes/Armor Class/Increased Armor Class.md": "LiDna",
+  "Player States/Germlines/Uncommon Germlines/Hussar.md": "LiListTodo",
+  "Traits/Genes/Ability Genes/Stealth/Urban Crawler.md": "LiDna",
+  "Traits/Genes/Ability Genes/Psycasting/Empath Psycast Affinity.md": "LiDna",
+  "Traits/Genes/Ability Genes/Psycasting/Mirror Caster.md": "LiDna",
+  "Player States/Germlines/Rare Germlines/Reflek.md": "LiListTodo"
 }
