@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *TODO.* (Name in progress)
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -4 (100% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -8 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -27,6 +27,7 @@ tags:
 	- [[Empath Psycast Affinity]]
 	- [[Mirror Caster]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- .
+	- [[Medium Psycasting Modifier Increase]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- 
+	- [[Medium Charisma Increase]]
+	- [[Small Constitution Decrease]]

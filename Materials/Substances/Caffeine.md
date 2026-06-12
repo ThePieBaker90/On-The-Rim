@@ -30,10 +30,21 @@ tags:
 - **[[Drugs#Overdose Threshold|Overdose Threshold]]:**
 	- 1
 - **[[Drugs#Overdose|Overdose]] Effects:**
+	- 
 
-| 1d100 | Effect | % Chance |
-| ----- | ------ | -------- |
-|       |        |          |
+| 1d20    | Effect       | % Chance |
+| ------- | ------------ | -------- |
+| 1 - 2   |              |          |
+| 3 - 4   |              |          |
+| 5 - 6   |              |          |
+| 7 - 8   |              |          |
+| 9 - 10  |              |          |
+| 11 - 12 |              |          |
+| 13 - 14 |              |          |
+| 15 - 16 |              |          |
+| 17 - 18 |              |          |
+| 19      |              |          |
+| 20      | Heart Attack |          |
 
 - **[[Drugs#Withdrawal|Withdrawal]] Effects:**
 	- .

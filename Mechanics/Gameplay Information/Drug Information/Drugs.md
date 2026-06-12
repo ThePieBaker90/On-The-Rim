@@ -58,7 +58,7 @@ aliases:
 ## Overdose
 - An overdose can randomly occur with certain drugs and signifies a bad high. The effects of an overdose can range from a mild annoyance to a deadly event.
 - An overdose is checked for every time a drug is used by performing an [[#Overdose Roll]].
-- When an overdose occurs with a drug, 1d100 is rolled on an overdose effects table held within the substance (This roll is not to be confused with the [[#Overdose Roll]]). The resulting effect is triggered.
+- When an overdose occurs with a drug, 1d20 is rolled on an overdose effects table held within the substance (This roll is not to be confused with the [[#Overdose Roll]]). The resulting effect is triggered.
 ### Overdose Roll
 - Some effects may make a user make an overdose roll. Addiction rolls are to see if the user overdoses on the drug on this use.
 - When a user makes an overdose roll, the following happens in order:
