@@ -4,8 +4,9 @@ tags:
   - Gene
 ---
 - **[[Metabolic Efficiency]]:**
-	- -3
+	- -6
 - **Effects:**
-	- Carriers of this gene have their [[Psycasts#Psycasting Modifier|Psycasting Modifier]] increased by 2.
+	- Carriers of this gene have their [[Psycasts#Psycasting Modifier|Psycasting Modifier]] increased by 4.
 - **[[Genes#Obsolete Genes|Genes Rendered Obsolete:]]**
+	- [[Medium Psycasting Modifier Increase]]
 	- [[Small Psycasting Modifier Increase]]

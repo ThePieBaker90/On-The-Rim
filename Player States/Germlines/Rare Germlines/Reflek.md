@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *TODO.* (Name in progress)
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -8 (100% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -9 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
