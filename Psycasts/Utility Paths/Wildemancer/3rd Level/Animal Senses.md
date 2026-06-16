@@ -2,10 +2,10 @@
 tags:
   - Psycast
   - Wildemancer
-  - 3rd-Level
+  - 1st-Level
 ---
 - **Path**:
-	- 3rd Level [[Wildemancer Psycasts|Wildemancer Psycast]]
+	- 1st Level [[Wildemancer Psycasts|Wildemancer Psycast]]
 - **Casting Time:**
 	- .
 - **[[Psyfocus]] Cost:**

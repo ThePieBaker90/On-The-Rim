@@ -11,6 +11,7 @@ aliases:
 - 1st Level:
 	- [[Rend]]
 	- [[Talk to Animals]]
+	- [[Animal Senses]]
 - 2nd Level:
 	- [[Familiar]]
 	- [[Pounce]]
@@ -18,11 +19,10 @@ aliases:
 	- [[Animal Backup]]
 	- [[Crushing Bite]]
 	- [[Gain Animalistic Feature]]
-	- [[Transform into Rodent]]
 - 4th Level:
-	- [[Transform into Animal]]
+	- [[Summon Psychic Animal]]
 - 5th Level:
-	- [[Transform into Large Animal]]
+	- [[Summon Psychic Animal Army]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

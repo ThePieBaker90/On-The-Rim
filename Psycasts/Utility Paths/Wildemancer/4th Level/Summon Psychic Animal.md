@@ -22,7 +22,7 @@ tags:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- .Create psychic animal to help you in battle
 - **Stats**:
 	- .
 - **Upcasting**:
