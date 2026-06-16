@@ -1,0 +1,11 @@
+---
+tags:
+  - Ability-Gene
+  - Gene
+---
+- **[[Metabolic Efficiency]]:**
+	- -3
+- **Effects:**
+	- Carriers of this gene gain the score copy action. They may do this action once every hour.
+		- Score Copy - 1 Action.
+			- You touch a creature. For the next 10 minutes, on rolls which utilize an [[Ability Scores|Ability Score]] matching the creature's highest [[Ability Scores|Ability Score]], you use the creature's [[Ability Scores#Ability Modifiers|Ability Modifier]] instead of your own.

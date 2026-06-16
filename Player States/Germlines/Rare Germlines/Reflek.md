@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *TODO.* (Name in progress)
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -9 (100% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -14 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -13,19 +13,21 @@ tags:
 	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- All natural colors
+		- White
 	- [[Hair Color]]
 		- All natural colors
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- All natural colors
+	- [[Autochroma Skin]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]
 - **[[Genes#Ability Genes|Ability Endogenes:]]**
 	- [[Empath Psycast Affinity]]
 	- [[Mirror Caster]]
+	- [[Gemini Aspect]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Medium Psycasting Modifier Increase]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
