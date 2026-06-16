@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *TODO.* (Name in progress)
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -14 (100% Hunger)
+- *Refleks were made from [[Starjack|Starjacks]] and [[Psytch|Psytches]] as diplomats who could hold their own in battle with little training. They can recast psycasts another nearby creature has used without needing knowledge and can copy the strongest ability score of a creature temporarily.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -14 (120% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-6ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -13,7 +13,7 @@ tags:
 	- One of choice
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- White
+		- Whites, Light Grays
 	- [[Hair Color]]
 		- All natural colors
 	- [[Body Type]]
@@ -21,6 +21,10 @@ tags:
 	- [[Iris Color]]
 		- All natural colors
 	- [[Autochroma Skin]]
+	- [[Eternal Tears]]
+	- [[Pointy Ears]]
+	- [[Minor Tail]]
+	- [[Stub Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]

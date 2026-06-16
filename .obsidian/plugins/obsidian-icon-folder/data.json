@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiUserCircle",
+      "LiInfo",
       "LiSparkles",
       "LiDna",
-      "LiList",
-      "TiSpiral",
-      "LiListTodo"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1388,7 +1388,7 @@
   "Player States/Germlines/Uncommon Germlines/Hussar.md": "LiListTodo",
   "Traits/Genes/Ability Genes/Stealth/Urban Crawler.md": "LiDna",
   "Traits/Genes/Ability Genes/Psycasting/Empath Psycast Affinity.md": "LiDna",
-  "Player States/Germlines/Rare Germlines/Reflek.md": "LiListTodo",
+  "Player States/Germlines/Rare Germlines/Reflek.md": "LiUserCircle",
   "Traits/Genes/Passive Genes/Psycasting/Psycasting Modifier": "LiList",
   "Traits/Genes/Passive Genes/Psycasting/Psycasting Modifier/Medium Psycasting Modifier Increase.md": "LiDna",
   "Traits/Genes/Passive Genes/Psycasting/Psycasting Modifier/Small Psycasting Modifier Increase.md": "LiDna",
@@ -1402,5 +1402,8 @@
   "Traits/Genes/Ability Genes/Blood/Blood Actions/Toxbite.md": "LiDna",
   "Traits/Genes/Ability Genes/Blood/Blood Actions/Uncanny Coagulation.md": "LiDna",
   "Traits/Genes/Ability Genes/Actions/Gemini Aspect.md": "LiDna",
-  "Traits/Genes/Cosmetic Genes/Skin/Autochroma Skin.md": "LiDna"
+  "Traits/Genes/Cosmetic Genes/Skin/Autochroma Skin.md": "LiDna",
+  "Traits/Genes/Cosmetic Genes/Head/Eternal Tears.md": "LiDna",
+  "Mechanics/Weapon Information/Weapon Properties.md": "LiInfo",
+  "Traits/Genes/Cosmetic Genes/Horns/Stub Horns.md": "LiDna"
 }

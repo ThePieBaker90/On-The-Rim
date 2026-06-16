@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Frostjaks evolved from [[Starjack|Starjacks]] on the dark side of a tidally locked planet. Their resistance to cold and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
+- *Frostjacks evolved from [[Starjack|Starjacks]] on the dark side of a tidally locked planet. Their resistance to cold and more resilient build allow them to adapt to many situations. (TRAPPIST-1e)*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally

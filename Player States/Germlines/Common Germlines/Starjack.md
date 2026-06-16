@@ -22,6 +22,7 @@ tags:
 		- All natural colors
 	- [[Pointy Ears]]
 	- [[Minor Tail]]
+	- [[Mini Horns]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Long Lifespan]]
 	- [[Omnivore]]
