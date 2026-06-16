@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareSquare",
       "LiUserCircle",
       "LiInfo",
       "LiSparkles",
-      "LiDna",
-      "LiList"
+      "LiDna"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1336,7 +1336,6 @@
   "Psycasts/Creation Paths/Vegetator/3rd Level": "TiHexagonNumber3",
   "Psycasts/Creation Paths/Vegetator/4th Level": "TiHexagonNumber4",
   "Psycasts/Creation Paths/Vegetator/5th Level": "TiHexagonNumber5",
-  "Psycasts/Creation Paths/Vegetator/1st Level/Plants to manipulate objects.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/1st Level/Vine Basic Attack.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/2nd Level/Conjure Ficus.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/2nd Level/Local Flora.md": "LiListTodo",
@@ -1405,5 +1404,7 @@
   "Traits/Genes/Cosmetic Genes/Horns/Stub Horns.md": "LiDna",
   "Psycasts/Utility Paths/Wildemancer/3rd Level/Animal Senses.md": "LiListTodo",
   "Psycasts/Utility Paths/Wildemancer/4th Level/Summon Psychic Animal.md": "LiListTodo",
-  "Psycasts/Utility Paths/Wildemancer/5th Level/Summon Psychic Animal Army.md": "LiListTodo"
+  "Psycasts/Utility Paths/Wildemancer/5th Level/Summon Psychic Animal Army.md": "LiListTodo",
+  "Conditions/Statuses/Tethered.md": "LiSquareSquare",
+  "Psycasts/Creation Paths/Vegetator/1st Level/Grasping Vine.md": "LiSparkles"
 }

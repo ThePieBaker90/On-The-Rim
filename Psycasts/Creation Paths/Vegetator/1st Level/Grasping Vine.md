@@ -1,0 +1,39 @@
+---
+tags:
+  - Psycast
+  - Vegetator
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Vegetator Psycasts|Vegetator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 14
+- [[Range]]:
+	- 25ft.
+- **Target**:
+	- A grounded point within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- 10 Turns.
+- **Effects**:
+	- *You create a thick vine which you can control to manipulate objects or [[Tethered|Tether]] nearby creatures.*
+	- You create a thick vine at the target point. For the duration of this psycast, you may control the vine after your turn. 
+		- The vine has a maximum length which limits its range and how it may interact with objects.
+		- The vine has a maximum lifting strength which limits the objects it may pick up.
+		- The vine has actions and [[Movement Speed]] that it must consume to do actions or move.
+		- If the vine attempts to restrict a creature, the creature must make a strength saving throw.
+			- On a failure, they are [[Tethered]] by the vine with the origin being the target point and the tether range being the vine's length.
+			- On a success, nothing happens.
+			- Attempting to restrict a creature takes an action from the vine.
+- **Stats**:
+	- 25ft Vine Length.
+	- 30kg Max Vine Pickup Weight.
+	- 25ft Vine [[Movement Speed]].
+	- 1 Action for the Vine.
+- **Upcasting**:
+	- You cannot upcast this psycast.

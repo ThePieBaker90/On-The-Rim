@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Ritual of Cultivation]] (25, 0)
-	- [[Plants to manipulate objects]]
+	- [[Grasping Vine]] (2, 14)
 	- [[Vine Basic Attack]]
 - 2nd Level:
 	- [[Conjure Ficus]]
