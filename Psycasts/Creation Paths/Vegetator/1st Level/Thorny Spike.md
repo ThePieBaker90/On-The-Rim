@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - Vegetator
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Vegetator Psycasts|Vegetator Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 12
+- [[Range]]:
+	- 25ft.
+- **Target**:
+	- A point within range and a creature within thorny vine range of that point.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You use a thorny vine to attack a creature near its sprout. You can use a preexisting thorny vine or create a new one.*
+	- When you cast this psycast, you choose to either create a thorny vine or use an already created thorny vine.
+		- If you choose to create a thorny vine, the rest of this psycast carries out like normal. The thorny vine dies after its lifetime passes.
+		- If you choose to use an already created thorny vine, the vine must be within range of you, must have been created by you, and must still be alive. The target point becomes the chosen thorny vine and you lose some [[Neural Heat]]. The thorny vine has its lifetime refreshed.
+	- Make a ranged attack against the target creature, adding your psycast ability modifier to the result.
+		- On a hit, the thorny vine deals piercing damage.
+- **Stats**:
+	- 10ft Thorny Vine Range.
+	- 5 [[Neural Heat]] Loss on choosing Preexisting Thorny Vine.
+	- 1d10 Piercing Damage from Thorny Vine. (+1d10 Piercing Damage) 
+	- 10 Turn Thorny Vine Lifetime.
+- **Upcasting**:
+	- You may upcast this psycast. For every 12 psyfocus spent above the normal cost for this psycast, the thorny vine deals an additional 1d10 piercing damage.

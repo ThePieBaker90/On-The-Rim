@@ -11,7 +11,7 @@ aliases:
 - 1st Level:
 	- [[Ritual of Cultivation]] (25, 0)
 	- [[Grasping Vine]] (2, 14)
-	- [[Vine Basic Attack]]
+	- [[Thorny Spike]] (2, 12)
 - 2nd Level:
 	- [[Conjure Ficus]]
 	- [[Local Flora]]
