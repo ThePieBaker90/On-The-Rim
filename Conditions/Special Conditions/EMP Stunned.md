@@ -7,5 +7,5 @@ tags:
 - When a [[Humanoid Body|Body Part]] has the EMP Stunned condition, the [[Humanoid Body|Body Part]] suffers the following effects:
 	- It provides 0% efficiency and any special effects it has cannot be used.
 	- 10 minutes of work on the part with 10 credits worth of materials will remove this condition from it.
-	- If a part that is necessary to live gains this condition, the user falls unconscious for the duration of the condition.
+	- If a part that is necessary to live gains this condition, the user falls [[Unconscious]] for the duration of the condition.
 - When a creature has the EMP stunned condition, the creature is [[Stunned]].

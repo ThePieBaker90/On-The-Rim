@@ -14,5 +14,5 @@ tags:
 | 13-14 | Target is knocked back 10 feet, if they are knocked into a wall they take 1d6 bludgeoning damage and go prone  |
 | 15-16 | Target is knocked back 20 feet, if they are knocked into a wall they take 1d12 bludgeoning damage and go prone |
 | 17-19 | Target is stunned for 1 turn                                                                                   |
-| 20    | Target is knocked unconscious for 3 turns                                                                      |
+| 20    | Target is knocked [[Unconscious]] for 3 turns                                                                  |
 
