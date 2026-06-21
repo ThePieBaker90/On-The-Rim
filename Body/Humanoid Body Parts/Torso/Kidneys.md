@@ -7,13 +7,14 @@ tags:
 ---
 * Necessary to live:
 	* Only One.
-* [[Efficiency]] Effects:
-	* +Constitution
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Constitution.
 * Cost Multiplier:
-	* x1
-* [[Cybercost]] Multiplier:
-	* x1
+	* 1.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 1.
 * Nonexistent Versions:
-	* [[Advanced Bionic]], [[Archotech]]
+	* [[Advanced Bionic]].
+	* [[Archotech]].
 * Additional Info:
-	* Kidney efficiency is calculated based off the average efficiency between the two kidneys. Kidney efficiency is capped at 100%
+	* None.

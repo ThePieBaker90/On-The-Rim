@@ -7,13 +7,14 @@ tags:
 ---
 * Necessary to live:
 	* No.
-* [[Efficiency]] Effects:
-	* +Constitution
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Constitution.
 * Cost Multiplier:
-	* x0.5
-* [[Cybercost]] Multiplier:
-	* x0.5
+	* 1.5.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 1.
 * Nonexistent Versions:
-	* [[Advanced Bionic]], [[Archotech]]
+	* [[Advanced Bionic]].
+	* [[Archotech]].
 * Additional Info:
 	* None.

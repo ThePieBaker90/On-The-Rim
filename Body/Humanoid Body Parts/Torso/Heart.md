@@ -7,12 +7,12 @@ tags:
 ---
 * Necessary to live:
 	* Yes.
-* [[Efficiency]] Effects:
-	* +Constitution
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Constitution.
 * Cost Multiplier:
-	* x1.5
-* [[Cybercost]] Multiplier:
-	* x1.5
+	* 1.5.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 1.5.
 * Nonexistent Versions:
 	* None.
 * Additional Info:

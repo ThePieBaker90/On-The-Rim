@@ -34,7 +34,7 @@ aliases:
 		* Rarity depends on the specifics of the special part. Special parts are unique parts with unique abilities.
 ## Cyber Modifier
 - Each cybernetic has an associated cyber modifier which is applied to the cybernetic's [[#Affected Skills/Ability Scores]].
-- Anytime a skill or ability score is referenced, all relevant cyber modifiers are added as modifiers to the relevant check.
+- Anytime a skill or ability score is referenced or used, all relevant cyber modifiers are added as modifiers to the relevant check or reference.
 ## Affected Skills/Ability Scores
 - Each cybernetic has a list of affected skills/ability scores, these are the skills and ability scores that are affected by the cybernetic's [[#Cyber Modifier]]. 
 - Each item in the list has an associated multiplier indicated by a symbol before the skill/ability score. The [[#Cyber Modifier]] for that skill is multiplied by the value indicated in the following table:

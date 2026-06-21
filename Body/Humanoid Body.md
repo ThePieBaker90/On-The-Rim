@@ -12,6 +12,7 @@ tags:
 	- Upper-Body
 		- [[Arms]] (x2)
 		- [[Hands]] (x2)
+		- [[Shoulders]] (x2)
 	- Torso
 		- [[Heart]]
 		- [[Liver]]
