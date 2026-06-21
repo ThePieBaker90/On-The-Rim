@@ -7,7 +7,7 @@ aliases:
   - Psylink
 ---
 * Install Location:
-	* [[Brain]] (Psylink)
+	* [[Brain]] (Psylink).
 * Replaces the Part:
 	* No.
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
@@ -15,9 +15,9 @@ aliases:
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	- None.
 * Cost:
-	* 3000 credits
+	* 3000 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 1
+	* 1.
 * Abilities:
 	* Allows the user to cast psycasts that the psylink has embedded within.
 * Looks:
