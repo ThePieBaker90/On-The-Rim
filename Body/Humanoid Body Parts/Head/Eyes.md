@@ -15,5 +15,7 @@ tags:
 	* 1.
 * Nonexistent Versions:
 	* None.
+- [[Cybernetics#Cybernetic Slots|Part Slots]]:
+	- Tear Ducts.
 * Additional Info:
 	* None.

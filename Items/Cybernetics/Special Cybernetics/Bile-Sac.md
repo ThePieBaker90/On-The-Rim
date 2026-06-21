@@ -4,7 +4,7 @@ tags:
   - Heart
 ---
 - **Install Location:**
-	- [[Heart]] (Sac)
+	- [[Heart]] (Module)
 - **Replaces the Part:**
 	- No.
 - **[[Efficiency]]:**

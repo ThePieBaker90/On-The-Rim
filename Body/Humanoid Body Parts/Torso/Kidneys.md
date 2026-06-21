@@ -15,6 +15,8 @@ tags:
 	* 1.
 * Nonexistent Versions:
 	* [[Advanced Bionic]].
-	* [[Archotech]].
+	* [[Archotech]]
+- [[Cybernetics#Cybernetic Slots|Part Slots]]:
+	- Module.
 * Additional Info:
 	* None.

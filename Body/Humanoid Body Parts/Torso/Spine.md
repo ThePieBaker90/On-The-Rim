@@ -15,5 +15,7 @@ tags:
 	* 1.5.
 * Nonexistent Versions:
 	* None.
+- [[Cybernetics#Cybernetic Slots|Part Slots]]:
+	- Back.
 * Additional Info:
 	* None.

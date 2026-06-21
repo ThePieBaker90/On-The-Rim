@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHeartCog",
       "FasHatWizard",
       "TiTilde",
       "LiX",
-      "LiListTodo",
-      "LiSquareSquare"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -283,7 +283,7 @@
   "Items/Cybernetics/Special Cybernetics/Gunslinger.md": "TiHeartCog",
   "Items/Cybernetics/Special Cybernetics/Intelligence Enhancer.md": "TiHeartCog",
   "Items/Cybernetics/Special Cybernetics/Intelligence Enhancer+.md": "TiHeartCog",
-  "Items/Cybernetics/Special Cybernetics/Liberator Implant.md": "TiHeartCog",
+  "Items/Cybernetics/Special Cybernetics/Liberator Implant.md": "LiListTodo",
   "Items/Cybernetics/Special Cybernetics/Liberator Spine.md": "TiHeartCog",
   "Items/Cybernetics/Special Cybernetics/Netrunner Eye.md": "TiHeartCog",
   "Items/Cybernetics/Special Cybernetics/Netrunner Spine.md": "TiHeartCog",
@@ -1406,5 +1406,6 @@
   "Psycasts/Creation Paths/Vegetator/1st Level/Thorny Spike.md": "LiSparkles",
   "UnfinishedAndUnused": "TiTilde",
   "UnfinishedAndUnused/Psylinks": "FasHatWizard",
-  "Items/Cybernetics/Psylinks": "FasHatWizard"
+  "Items/Cybernetics/Psylinks": "FasHatWizard",
+  "Items/Cybernetics/Psylinks/NOR-1 My First Psylink.md": "TiHeartCog"
 }
