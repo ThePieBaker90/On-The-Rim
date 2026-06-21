@@ -15,7 +15,7 @@ tags:
 - Your base ability scores are determined when you create your character, these base values rarely change. To determine your ability score beyond the base value, you do the following in order:
 	1. Apply all effects that set your ability score to a constant number, most recent occurs last.
 	2. Apply effects that add or subtract to your ability score.
-	3. Apply [[Efficiency]] effects
+	3. Apply effects that multiply or divide your ability score.
 ## Ability Modifiers
 - To find the ability modifier from an ability score, subtract 10 from the score and divide the difference by 2 (rounded down). The resulting quotient is the modifier. The following is a table which can be used to easily find the modifier for some common ability scores.
 
@@ -40,9 +40,8 @@ tags:
 	4. Add any relevant skill proficiency or expertise.
 	5. Add or subtract any modifiers from conditions.
 	6. Add or subtract any modifiers from psycast effects.
-	7. Apply any multiplying effects.
-	8. Apply any dividing effects.
-	9. Apply any percent effects.
-- Most ability checks and saving throws will not have any modifiers beyond your ability modifier and skill proficiency bonus. 
+	7. Apply any multiplying and dividing effects.
+	8. Compare the end result to the DC to determine the outcome.
+	- Most ability checks and saving throws will not have any modifiers beyond your ability modifier and skill proficiency bonus. 
 ## Cybernetics and Ability Scores
 - See [[Efficiency]].
