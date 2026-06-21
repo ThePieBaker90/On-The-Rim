@@ -2,9 +2,9 @@
 tags:
   - Cybernetic
 ---
-- [[Efficiency]]:
-	- 120%
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	- +2
 - Base Cost:
 	- 1100 Credits
-- Base [[Cybercost]]:
+- Base [[Cybernetics#Cybercost|Cybercost]]:
 	- 2

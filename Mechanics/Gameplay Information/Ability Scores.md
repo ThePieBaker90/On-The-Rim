@@ -36,13 +36,13 @@ tags:
 	1. Roll 1d20.
 		- If you have advantage or disadvantage, roll the  relevant number of additional 20-sided-dice and take the highest or lowest result based off of if you had advantage or disadvantage.
 	2. Add or subtract the relevant ability modifier.
-		-  If you have a cybernetic that grants efficiency in the relevant skill, apply the efficiency to the relevant ability score, determine the modifier based off of that new score instead.
-	3. Add any relevant skill proficiency or expertise.
-	4. Add or subtract any modifiers from conditions.
-	5. Add or subtract any modifiers from psycast effects.
-	6. Apply any multiplying effects.
-	7. Apply any dividing effects.
-	8. Apply any percent effects.
+	3. Add or subtract the all relevant [[Cybernetics#Cyber Modifier|Cyber Modifiers]].
+	4. Add any relevant skill proficiency or expertise.
+	5. Add or subtract any modifiers from conditions.
+	6. Add or subtract any modifiers from psycast effects.
+	7. Apply any multiplying effects.
+	8. Apply any dividing effects.
+	9. Apply any percent effects.
 - Most ability checks and saving throws will not have any modifiers beyond your ability modifier and skill proficiency bonus. 
 ## Cybernetics and Ability Scores
 - See [[Efficiency]].

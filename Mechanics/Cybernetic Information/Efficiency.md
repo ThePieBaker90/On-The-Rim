@@ -2,6 +2,7 @@
 tags:
   - Info
 ---
+==OBSOLETE==
 ## Efficiency Overview
 - Efficiency affects the abilities and skills of a user and can either benefit or hinder natural scores. 
 	- Efficiency is represented as a percent with no upper cap and a lower cap of 0%. All basic [[Cybernetics]] (along with some special cybernetics) will have a skill/ability score associated with them. That cybernetic's efficiency will affect that skill/ability score. 

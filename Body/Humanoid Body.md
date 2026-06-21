@@ -28,4 +28,5 @@ tags:
 	- [[Skin]]
 - All parts are either an Internal Part, Big Part, Sensory Part, Limb, or Other Part. The type of part determines if certain attacks can target that part. If an attack says "part" or "body part" then it can be any body part regardless of type.
 	- An attack may target a terminal limb, this means that the target limb must not have any parts depending on it.
+- If a part is missing, the
 

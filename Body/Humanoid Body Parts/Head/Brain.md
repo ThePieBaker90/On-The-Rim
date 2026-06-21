@@ -7,13 +7,18 @@ tags:
 ---
 * Necessary to live:
 	* Yes.
-* [[Efficiency]] Effects:
-	* +Strength, +Constitution, +Dexterity, +Intelligence, +Wisdom, and +Charisma.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Strength.
+	* +Constitution.
+	* +Dexterity.
+	* +Intelligence.
+	* +Wisdom.
+	* +Charisma.
 * Cost Multiplier:
-	* x2
-* [[Cybercost]] Multiplier:
-	* x4
+	* x2.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* x4.
 * Nonexistent Versions:
-	* [[Prosthetic]]
+	* [[Prosthetic]].
 * Additional Info:
 	* Installation requires downloading of patient’s brain data which requires a special machine and 8 hours of uninterrupted downloading.

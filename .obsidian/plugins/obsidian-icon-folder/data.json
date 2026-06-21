@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiX",
       "LiListTodo",
       "LiSquareSquare",
       "LiUserCircle",
-      "LiInfo",
-      "LiSparkles"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -429,9 +429,9 @@
   "Items": "TiFrustum",
   "Mechanics/Gameplay Information/Conditions.md": "LiInfo",
   "Mechanics": "LiSettings",
-  "Mechanics/Cybernetic Information/Cybercost.md": "LiInfo",
+  "Mechanics/Cybernetic Information/Cybercost.md": "LiX",
   "Mechanics/Cybernetic Information/Cybernetics.md": "LiInfo",
-  "Mechanics/Cybernetic Information/Efficiency.md": "LiInfo",
+  "Mechanics/Cybernetic Information/Efficiency.md": "LiX",
   "Mechanics/Cybernetic Information/Surgery.md": "LiInfo",
   "Mechanics/Cybernetic Information": "LiInfo",
   "Mechanics/Gameplay Information": "LiInfo",

@@ -3,21 +3,21 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- Injury may stack, up to 10 levels.
+- Injury may stack.
 - Injury may only affect [[Humanoid Body|Body Parts]].
 - Injury dissipates according to the effect that granted it.
-- When a [[Humanoid Body|Body Part]] has one or more levels of injury, it suffers the effect listed in the following table:
+- When a [[Humanoid Body|Body Part]] has one or more levels of injury, they suffer the following effects:
+	- The part has -1 to its [[Cybernetics#Cyber Modifier|Cyber Modifier]] per level of injury it has.
+	- If a parts total [[Cybernetics#Cyber Modifier|Cyber Modifier]] of the part is -5 or less, the part is destroyed.
 
-| Injury Level | Effects                                   |
-| ------------ | ----------------------------------------- |
-| 1            | Part gives 90% of its base [[Efficiency]] |
-| 2            | Part gives 80% of its base [[Efficiency]] |
-| 3            | Part gives 70% of its base [[Efficiency]] |
-| 4            | Part gives 60% of its base [[Efficiency]] |
-| 5            | Part gives 50% of its base [[Efficiency]] |
-| 6            | Part gives 40% of its base [[Efficiency]] |
-| 7            | Part gives 30% of its base [[Efficiency]] |
-| 8            | Part gives 20% of its base [[Efficiency]] |
-| 9            | Part gives 10% of its base [[Efficiency]] |
-| 10           | Part is destroyed.                        |
+| Injury Level | Effects                                                                  |
+| ------------ | ------------------------------------------------------------------------ |
+| {Level}      | Part has -{Level} to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]]. |
+| 1            | Part has -1 to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]].       |
+| 2            | Part has -2 to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]].       |
+| 3            | Part has -3 to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]].       |
+| 4            | Part has -4 to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]].       |
+| 5            | Part has -5 to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]].       |
+| 6            | Part has -6 to its [[Cybernetics#Cyber Modifier\|Cyber Modifier]].       |
+
 
