@@ -43,5 +43,3 @@ tags:
 	7. Apply any multiplying and dividing effects.
 	8. Compare the end result to the DC to determine the outcome.
 	- Most ability checks and saving throws will not have any modifiers beyond your ability modifier and skill proficiency bonus. 
-## Cybernetics and Ability Scores
-- See [[Efficiency]].
