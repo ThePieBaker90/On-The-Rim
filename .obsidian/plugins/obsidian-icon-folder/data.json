@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHatWizard",
+      "TiTilde",
       "LiX",
       "LiListTodo",
-      "LiSquareSquare",
-      "LiUserCircle",
-      "LiInfo"
+      "LiSquareSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -267,7 +267,6 @@
   "Items/Cybernetics/Mutations/Tentacle Whip.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Tongue Foot.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/UV Eye.md": "TiHeartBroken",
-  "Items/Cybernetics/Psylinks": "FasHatWizard",
   "Items/Cybernetics/Special Cybernetics/Elemental Arms/Abomination Arm.md": "LiListTodo",
   "Items/Cybernetics/Special Cybernetics/Elemental Arms/Flame Fist.md": "LiListTodo",
   "Items/Cybernetics/Special Cybernetics/Elemental Arms/Frost Gauntlet.md": "LiListTodo",
@@ -1404,5 +1403,8 @@
   "Psycasts/Utility Paths/Wildemancer/5th Level/Summon Psychic Animal Army.md": "LiListTodo",
   "Conditions/Statuses/Tethered.md": "LiSquareSquare",
   "Psycasts/Creation Paths/Vegetator/1st Level/Grasping Vine.md": "LiSparkles",
-  "Psycasts/Creation Paths/Vegetator/1st Level/Thorny Spike.md": "LiSparkles"
+  "Psycasts/Creation Paths/Vegetator/1st Level/Thorny Spike.md": "LiSparkles",
+  "UnfinishedAndUnused": "TiTilde",
+  "UnfinishedAndUnused/Psylinks": "FasHatWizard",
+  "Items/Cybernetics/Psylinks": "FasHatWizard"
 }
