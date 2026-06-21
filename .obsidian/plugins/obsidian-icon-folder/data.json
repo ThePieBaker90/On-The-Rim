@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "LiSquareSquare",
       "LiUserCircle",
       "LiInfo",
-      "LiSparkles",
-      "LiDna"
+      "LiSparkles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -256,7 +256,7 @@
   "Items/Cybernetics/Mutations/Bonemass Spine.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Brain Stalks.md": "LiListTodo",
   "Items/Cybernetics/Mutations/Bulb-back.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Extreme Acid Stomach.md": "TiHeartBroken",
+  "Items/Cybernetics/Mutations/Extreme Acid Stomach.md": "LiListTodo",
   "Items/Cybernetics/Mutations/Fleshmass Heart.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Fleshmass Liver.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Fleshmass Lung.md": "TiHeartBroken",
