@@ -7,14 +7,13 @@ tags:
 ---
 * Necessary to live:
 	* No.
-* [[Efficiency]] Effects:
-	* +[[Lower-Body Strength and Dexterity]] *
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +[[Lower-Body Strength and Dexterity]].
 * Cost Multiplier:
-	* x1.2
-* [[Cybercost]] Multiplier:
-	* x0.5
+	* 1.6.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 1.
 * Nonexistent Versions:
 	* None.
 * Additional Info:
-	* Is inherently installed with a [[Feet|Foot]] of the same type.
-	* * The efficiency of this part does not directly affect stats, instead it is used in the efficiency calculation for the [[Lower-Body]].
+	* Comes installed with a [[Feet|Foot]] of the same type.

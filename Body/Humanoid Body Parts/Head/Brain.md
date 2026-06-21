@@ -15,9 +15,9 @@ tags:
 	* +Wisdom.
 	* +Charisma.
 * Cost Multiplier:
-	* x2.
+	* 2.
 * [[Cybernetics#Cybercost|Cybercost]] Multiplier:
-	* x4.
+	* 4.
 * Nonexistent Versions:
 	* [[Prosthetic]].
 * Additional Info:

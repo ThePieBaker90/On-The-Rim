@@ -7,13 +7,13 @@ tags:
 ---
 * Necessary to live:
 	* Yes.
-* [[Efficiency]] Effects:
-	* +Constitution
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Constitution.
 * Cost Multiplier:
-	* x1.25
-* [[Cybercost]] Multiplier:
-	* x1
+	* 1.25.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 1.
 * Nonexistent Versions:
-	* [[Prosthetic]]
+	* [[Prosthetic]].
 * Additional Info:
-	* Installation requires [[Skull Replacement Nanites]] to systematically replace the original skull with the new skull.
+	* Installation requires [[Skull Replacement Nanites]] to systematically replace the original skull with the new skull. The original skull is destroyed in this process.

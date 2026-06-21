@@ -6,7 +6,7 @@ tags:
 - **Consumable Type:**
 	- Miscellaneous
 - **Effects:**
-	- Replaces a creature's skull with a skull made for the same creature. Expended upon use, leaves behind the creature's original skull. Can only be used in surgery.
+	- Replaces a creature's skull with a skull made for the same creature. Expended upon use, destroys the creature's original skull. Can only be used in surgery.
 - **Charges:**
 	- 1
 - **Value:**

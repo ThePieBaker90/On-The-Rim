@@ -7,13 +7,13 @@ tags:
 ---
 * Necessary to live:
 	* No.
-* [[Efficiency]] Effects:
-	* +[[Sight-Based Perception]]
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +[[Sight-Based Perception]].
 * Cost Multiplier:
-	* x1.1
-* [[Cybercost]] Multiplier:
-	* x1
+	* 1.1.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 1.
 * Nonexistent Versions:
 	* None.
 * Additional Info:
-	* The total sight-based perception efficiency is the average between all of the eye's efficiencies with the most powerful eye being at a 300% weight.
+	* None.

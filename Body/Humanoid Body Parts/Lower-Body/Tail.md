@@ -7,13 +7,15 @@ tags:
 ---
 * Necessary to live:
 	* No.
-* [[Efficiency]] Effects:
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* None.
 * Cost Multiplier:
-	* x0.5
-* [[Cybercost]] Multiplier:
-	* x0.5
+	* 0.5.
+* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
+	* 0.
 * Nonexistent Versions:
-	* [[Bionic]], [[Advanced Bionic]], [[Archotech]]
+	* [[Bionic]].
+	* [[Advanced Bionic]].
+	* [[Archotech]].
 * Additional Info:
-	* Creatures by default do not have this part unless some effect gives it to them.
+	* Creatures by default do not have this part unless some effect gives it to them such as a [[Genes|Gene]] or the installation of a [[Cybernetics|Cybernetic]].

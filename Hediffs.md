@@ -2,6 +2,7 @@
 tags:
   - Info
 ---
+
 All players will get a hediff sheet. Hediff stands for (H)umanoid (E)quivalent (DIFF)erences. It is used to represent the differences between a humanoid and a perfectly healthy and normal humanoid equivalent.
 ****
 The hediff sheet takes the form of a table with 2 columns and as many rows that are needed. All hediffs that add a flat number should be at the top of the table. All hediffs that rely on efficiency should be under these. The following is an example hediff sheet:
