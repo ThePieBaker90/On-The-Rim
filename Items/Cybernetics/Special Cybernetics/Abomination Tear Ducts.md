@@ -4,7 +4,7 @@ tags:
   - Eyes
 ---
 - **Install Location:**
-	- 2 [[Eyes]] (Tear Ducts).
+	- [[Eyes|Eye]] (Tear Duct).
 - **Replaces the Part:**
 	- No.
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
@@ -19,4 +19,4 @@ tags:
 	- User does not need any components to cast psycasts that use [[Abomination Matter]] as a material (Unless a material component has a specified cost).
 	- Once per rest, the user may cast one psycast that uses [[Abomination Matter]] as a material without generating [[Neural Heat]] or consuming [[Psyfocus]].
 - **Looks:**
-	- Streaks of [[Abomination Matter]] descend from the tear ducts of each eye.
+	- Streaks of [[Abomination Matter]] descend from the tear ducts of the eye.
