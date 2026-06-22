@@ -56,3 +56,4 @@ aliases:
 - Each body part will have a cybercost multiplier associated with them which is applied to the base cybercost of each type.
 	- Special cybernetics explicitly state their exact cybercost and are not multiplied by the cybercost modifier for the relevant body part.
 	- Implied parts do not have their cybercost multiplier factored into the part they come with (ex: The [[Arms]] cybercost multiplier does not include the [[Hands]] cybercost multiplier)
+

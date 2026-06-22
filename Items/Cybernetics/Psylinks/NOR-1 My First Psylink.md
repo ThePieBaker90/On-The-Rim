@@ -8,8 +8,6 @@ aliases:
 ---
 * Install Location:
 	* [[Brain]] (Psylink).
-* Replaces the Part:
-	* No.
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

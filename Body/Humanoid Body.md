@@ -30,4 +30,5 @@ tags:
 - All parts are either an Internal Part, Big Part, Sensory Part, Limb, or Other Part. The type of part determines if certain attacks can target that part. If an attack says "part" or "body part" then it can be any body part regardless of type.
 	- An attack may target a terminal limb, this means that the target limb must not have any parts depending on it.
 - If a part is missing, the creature has -5 as the [[Cybernetics#Cyber Modifier|Cyber Modifier]] for all [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] for the part and the part cannot be used in actions.
+	- [[Eyes]], [[Ears]], and [[Kidneys]] only incur a -1 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of a set is missing.
 
