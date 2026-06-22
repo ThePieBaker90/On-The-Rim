@@ -4,17 +4,17 @@ tags:
   - Skull
 ---
 - **Install Location:**
-	- [[Skull]]
+	- [[Skull]].
 - **Replaces the Part:**
-	- No
-- **[[Efficiency]]:**
-	- N/A
-- **[[Efficiency]] Effects:**
-	- N/A
+	- No.
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	- 0.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	- 0.
 - **Cost:**
-	- N/A
+	- N/A.
 - **[[Cybercost]]:**
-	- 1
+	- 1.
 - **Abilities:**
 	- The user can headbutt with your antlers as a melee weapon attack dealing 1d8+STR bludgeoning damage to a target.
 	- The user cannot wear helmets that don't have antler holes.

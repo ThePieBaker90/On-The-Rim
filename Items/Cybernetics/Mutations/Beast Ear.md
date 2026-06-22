@@ -4,18 +4,18 @@ tags:
   - Ears
 ---
 - **Install Location:**
-	- [[Ears|Ear]]
+	- [[Ears|Ear]].
 - **Replaces the Part:**
-	- Yes
-- **[[Efficiency]]:**
-	- 110%
-- **[[Efficiency]] Effects:**
-	- +Charisma
-	- +[[Sound-Based Perception]]
+	- Yes.
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	- +1.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	- +Charisma.
+	- +[[Sound-Based Perception]].
 - **Cost:**
-	- N/A
-- **[[Cybercost]]:**
-	- 0.25
+	- N/A.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	- 0.25.
 - **Abilities:**
 	- You gain a vulnerability to sonic damage.
 	- You are deafened for twice as long from effects that deafen you.
