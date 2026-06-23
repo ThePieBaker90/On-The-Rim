@@ -3,14 +3,14 @@ tags:
   - Info
 ---
 ## Ability Score Overview
-- Ability scores are a creature's core stats; They measure a creature's physical power, agility, resilience, logic and reasoning, perceptiveness, and ability to engage in diplomacy. Each ability has an ability score associated with it, usually ranging from 5 to 20 but most of the time around 10 and 11. The higher your ability score for an ability, the higher your [[#Ability Modifiers|Ability Modifier]] for that ability.
+- Ability scores are a creature's core stats; They measure a creature's strength, dexterity, constitution, intelligence, wisdom, and charisma. Each ability has an ability score associated with it, usually ranging from 5 to 20 but most of the time around 10 and 11. The higher your ability score for an ability, the higher your [[#Ability Modifiers|Ability Modifier]] for that ability.
 ## Ability Score List
-- Strength
-- Dexterity
-- Constitution
-- Intelligence
-- Wisdom
-- Charisma
+- Strength - Physical Power
+- Dexterity - Agility and Manipulation
+- Constitution - Resilience and Endurance
+- Intelligence - Logic and Knowledge
+- Wisdom - Perceptiveness and Critical Thinking
+- Charisma - Diplomacy and Deception
 ## Determining Ability Scores
 - Your base ability scores are determined when you create your character, these base values rarely change. To determine your ability score beyond the base value, you do the following in order:
 	1. Apply all effects that set your ability score to a constant number, most recent occurs last.

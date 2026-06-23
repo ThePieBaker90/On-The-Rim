@@ -85,6 +85,6 @@ tags:
 ### Hidden
 - A creature you are hidden from knows the space you are in but cannot see you. Non-area of affect attacks on you by creatures you are hidden from have disadvantage to hit.
 ### Undetected
-- A creature you are undetected by knows you are in the general vicinity but not you exact whereabouts. Non-area of affect attacks on you by creatures you are undetected by have disadvantage to hit. Attacks against creatures you are undetected by have advantage to hit. Certain actions (such as attacking or casting psycasts) may make you [[#Observed]] or [[#Hidden]].
+- A creature you are undetected by knows you are in the general vicinity but not you exact whereabouts. Non-area of affect attacks on you by creatures you are undetected by have disadvantage to hit and you cannot directly be targeted by attacks. Attacks against creatures you are undetected by have advantage to hit. Certain actions (such as attacking or casting psycasts) may make you [[#Observed]] or [[#Hidden]].
 ### Unnoticed
 - A creature you are unnoticed by is completely unaware of you. Creatures you are unnoticed by will not make attacks on you or seek you out. Attacks against creatures you are unnoticed by have advantage to hit. Certain actions (such as attacking or casting psycasts) may make you [[#Observed]] or [[#Hidden]].
