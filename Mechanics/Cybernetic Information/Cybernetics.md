@@ -14,10 +14,12 @@ aliases:
 	- If installed by the user, the patient must make a DC 17 wisdom (medical) check and a DC 17 constitution check. 
 	- If a wisdom (medical) or constitution check fails, the body part is lost, and the patient must deal with the relevant penalties of having a body part removed
 ## Cybernetic Slots
-- Cybernetics only take up one part slot (unless otherwise stated), for example; installing an [[Archotech]] [[Arms|Arm]] does not replace both arms, only one arm.
-	- Cybernetics which do not replace a part may take up a slot on that part (such as enhancers or modules), indicated in parenthesis next to the part.
-		- Slots are determined by the base part.
-		- Some cybernetics may take up multiple slots or a choice of multiple slots.
+- Cybernetics only take up one part or part slot (unless otherwise stated).
+	- For example; installing an [[Archotech]] [[Arms|Arm]] does not replace both arms, only one arm.
+- Cybernetics which do not replace a part may take up a part slot which is attached to that part (such as enhancers or modules). This is indicated in parenthesis next to the part in the install location.
+	- The part slots are determined by the base part.
+	- Some cybernetics may take up multiple part slots or a choice of multiple part slots.
+- Some part slots are indicated as "shared",  this means that if one instance of that part slot is filled, all other instances of that part have the matching part slot filled by the filling cybernetic.
 ## Cybernetic Types
 - Cybernetics come in 6 types; [[Prosthetic]], [[Natural]], [[Bionic]], [[Advanced Bionic]], [[Archotech]], and special. Each type (except special) can be applied to any humanoid body part (respecting type exceptions of certain parts) to determine the stats of a cybernetic of that type and part. Special type cybernetics are detailed in their own pages.
 	* [[Prosthetic]]

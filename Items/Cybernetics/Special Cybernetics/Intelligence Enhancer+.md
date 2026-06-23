@@ -5,15 +5,13 @@ tags:
 ---
 * Install Location:
 	* [[Brain]] (Enhancer)
-* Replaces the Part:
-	* No.
-* [[Efficiency]]:
-	* 120%
-* [[Efficiency]] Effects:
-	* +Intelligence
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +2.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Intelligence.
 * Cost:
-	* 1000 credits
-* [[Cybercost]]:
-	* 2
+	* 1000 credits.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	* 2.
 * Looks:
 	* A small quantum computer which attaches to the user’s brain to assist them with intellectual tasks.
