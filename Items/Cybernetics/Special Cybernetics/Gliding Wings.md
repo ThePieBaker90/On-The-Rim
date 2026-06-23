@@ -5,16 +5,14 @@ tags:
 ---
 * Install Location:
 	* [[Spine]] (Back)
-* Replaces the Part:
-	* No.
-* [[Efficiency]]:
-	* 110%
-* [[Efficiency]] Effects:
-	* +Dexterity
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +1.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Dexterity.
 * Cost:
-	* 600 credits
-* [[Cybercost]]:
-	* 0
+	* 600 credits.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	* 0.
 * Abilities:
 	* The user has their [[Movement Speed#Flying|Flying Speed]] increased by 10ft. This does not give the user the ability to fly. 
 	* The user can glide when dropping from a height. This allows the user to travel 40ft for 5ft of elevation every turn.

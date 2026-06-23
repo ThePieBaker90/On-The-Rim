@@ -4,18 +4,18 @@ tags:
   - Eyes
 ---
 * Install Location:
-	* [[Eyes|Eye]]
-* Replaces the Part:
-	* Yes.
-* [[Efficiency]]:
-	* 125%
-* [[Efficiency]] Effects:
+	* [[Eyes|Eye]].
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +3.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +[[Sight-Based Perception]]
 * Cost:
 	* 1600 credits
-* [[Cybercost]]:
+* [[Cybernetics#Cybercost|Cybercost]]:
 	* 4
 * Abilities:
-	* The user gets 120 ft of Darkvision
+	* The user can see in [[Lighting#Dim Light|Dim Light]] within 120ft as if it was [[Lighting#Normal Light|Normal Light]].
+	* The user can see in [[Lighting#Darkness|Darkness]] within 120ft as if it was [[Lighting#Dim Light|Dim Light]]. 
+		* They cannot discern color in darkness, only shades of gray.
 * Looks:
 	* An eye with a black Sclera, orange iris and yellow pupil.
