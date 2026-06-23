@@ -1,6 +1,6 @@
 ---
 tags:
-- tags needed
+- tags_needed
 ---
 
 ## General Description
