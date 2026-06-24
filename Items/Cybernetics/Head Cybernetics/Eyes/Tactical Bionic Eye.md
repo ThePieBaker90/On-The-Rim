@@ -5,16 +5,14 @@ tags:
 ---
 * Install Location:
 	* [[Eyes|Eye]]
-* Replaces the Part:
-	* Yes.
-* [[Efficiency]]:
-	* 110%
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +1.
 * [[Efficiency]] Effects:
-	* +[[Sight-Based Perception]]
+	* +[[Sight-Based Perception]].
 * Cost:
-	* 900 credits
-* [[Cybercost]]:
-	* 1.5
+	* 900 credits.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	* 1.5.
 * Abilities:
 	* All ranged attacks made by the user get +1 to hit.
 * Looks:
