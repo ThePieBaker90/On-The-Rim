@@ -4,11 +4,9 @@ tags:
   - Skull
 ---
 - **Install Location:**
-	- [[Skull]]
-- **Replaces the Part:**
-	- No.
-- **[[Efficiency]]:**
-	- N/A
+	- [[Skull]] ()
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	- 0.
 - **[[Efficiency]] Effects:**
 	- N/A
 - **Cost:**

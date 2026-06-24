@@ -5,16 +5,14 @@ tags:
 ---
 * Install Location:
 	* [[Spine]]
-* Replaces the Part:
-	* Yes.
-* [[Efficiency]]:
-	* N/A.
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +1.
 * [[Efficiency]] Effects:
-	* None.
+	* +Constitution.
 * Cost:
-	* 650 credits
+	* 650 credits.
 * [[Cybercost]]:
-	* 0.5
+	* 1.5
 * Abilities:
 	* Allows the user to wear armor as if they had a strength of 16
 * Looks:

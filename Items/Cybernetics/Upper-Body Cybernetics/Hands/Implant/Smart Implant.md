@@ -4,17 +4,15 @@ tags:
   - Hands
 ---
 * Install Location:
-	* [[Hands|Hand]]
-* Replaces the Part:
-	* No.
-* [[Efficiency]]:
-	* N/A.
-* [[Efficiency]] Effects:
+	* [[Hands|Hand]] (Implant).
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* 0.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* None.
 * Cost:
-	* 200 credits
-* [[Cybercost]]:
-	* 0.5
+	* 200 credits.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	* 0.5.
 * Abilities:
 	* Allows the user to interface with [[Items/Weapons/Properties/Modifiers/Smart|Smart]] weapons.
 * Looks:

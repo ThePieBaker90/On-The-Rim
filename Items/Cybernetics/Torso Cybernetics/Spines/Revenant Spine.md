@@ -5,17 +5,15 @@ tags:
   - Psychically-Invisible
 ---
 * Install Location:
-	* [[Spine]]
-* Replaces the Part:
-	* Yes.
-* [[Efficiency]]:
-	* 110%
-* [[Efficiency]] Effects:
-	* +Constitution
+	* [[Spine]].
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +1.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Constitution.
 * Cost:
-	* N/A
-* [[Cybercost]]:
-	* 4
+	* N/A.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	* 4.
 * Abilities:
 	* The user gains the [[Psychically Invisible]] trait.
 * Looks:

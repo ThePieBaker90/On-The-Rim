@@ -4,17 +4,15 @@ tags:
   - Heart
 ---
 - **Install Location:**
-	- [[Heart]] (Module)
-- **Replaces the Part:**
-	- No
-- **[[Efficiency]]:**
-	- N/A
-- **[[Efficiency]] Effects:**
-	- N/A
+	- [[Heart]] (Module).
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	- 0.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	- None.
 - **Cost:**
-	- 1500 credits
-- **[[Cybercost]]:**
-	- 1 Cybercost
+	- 1500 credits.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	- 1.
 - **Abilities:**
 	- If the user dies, they immediately resurrect as if targeted by a [[Resurrector Mech Injection]]. This cybernetic then destroys itself.
 - **Looks:**

@@ -4,13 +4,11 @@ tags:
   - Spine
 ---
  * Install Location:
-	* [[Spine]]
-* Replaces the Part:
-	* Yes.
-* [[Efficiency]]:
-	* 100%
-* [[Efficiency]] Effects:
-	* N/A
+	* [[Spine]].
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	* +1.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
+	* +Constitution.
 * Cost:
 	* 750 credits
 * [[Cybercost]]:
