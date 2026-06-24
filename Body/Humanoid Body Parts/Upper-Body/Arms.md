@@ -16,6 +16,6 @@ tags:
 * Nonexistent Versions:
 	* None.
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Intramuscular - Shared
+	- Intramuscular Implant - Shared
 * Additional Info:
 	* Comes installed with a [[Hands|Hand]] of the same type.

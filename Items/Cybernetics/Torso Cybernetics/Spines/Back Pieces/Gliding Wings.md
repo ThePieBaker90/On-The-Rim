@@ -4,7 +4,7 @@ tags:
   - Spine
 ---
 * Install Location:
-	* [[Spine]] (Back)
+	* [[Spine]] (Back Piece)
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

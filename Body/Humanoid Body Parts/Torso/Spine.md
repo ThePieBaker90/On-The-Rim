@@ -16,6 +16,6 @@ tags:
 * Nonexistent Versions:
 	* None.
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Back.
+	- Back Piece.
 * Additional Info:
 	* None.
