@@ -10,7 +10,7 @@ tags:
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Constitution.
 * Cost Multiplier:
-	* 1.25.
+	* 1.3.
 * [[Cybernetics#Cybercost|Cybercost]] Multiplier:
 	* 1.
 * Nonexistent Versions:
