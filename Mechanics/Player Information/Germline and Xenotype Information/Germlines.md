@@ -8,7 +8,7 @@ aliases:
 - Germlines are equivalent to races or species. All germlines are variations on the [[Pure Human]] genome, some are artificial modifications and others are natural mutations brought on by the environment.
 - Germlines all have the following parameters: [[#Proportions]], [[#Speed]], [[#Languages]], and [[Endogenes]].
 - A person can only have one germline at any given time, germlines also cannot be changed.
-- All germlines are humanoid and therefore have all [[Humanoid Body]] parts. Some may have additional parts specified in their [[Endogenes]].
+- All germlines are humanoid and therefore have all [[Human Body]] parts. Some may have additional parts specified in their [[Endogenes]].
 ## List of Germlines
 Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
 - Common Germlines

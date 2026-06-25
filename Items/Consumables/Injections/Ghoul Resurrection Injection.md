@@ -9,7 +9,7 @@ tags:
 - **Effects:**
 	- When used as on a corpse with [[Ghoulish]] as an action, the corpse immediately resurrects.
 		- The creature will be [[Unconscious]] for 5 hours after use. 
-		- The creature resurrects with all negative & mixed [[Conditions]] removed, all missing [[Humanoid Body|Body Parts]] regenerated, and at maximum health. 
+		- The creature resurrects with all negative & mixed [[Conditions]] removed, all missing [[Human Body|Body Parts]] regenerated, and at maximum health. 
 - **Charges:**
 	- 1
 - **Value:**

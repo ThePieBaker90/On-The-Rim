@@ -3,8 +3,8 @@ tags:
   - Condition
   - Negative-Condition
 ---
-- EMP Stunned may affect constructs and non-prosthetic, non-natural [[Humanoid Body|Body Parts]].
-- When a [[Humanoid Body|Body Part]] has the EMP Stunned condition, the [[Humanoid Body|Body Part]] suffers the following effects:
+- EMP Stunned may affect constructs and non-prosthetic, non-natural [[Human Body|Body Parts]].
+- When a [[Human Body|Body Part]] has the EMP Stunned condition, the [[Human Body|Body Part]] suffers the following effects:
 	- It provides 0% efficiency and any special effects it has cannot be used.
 	- 10 minutes of work on the part with 10 credits worth of materials will remove this condition from it.
 	- If a part that is necessary to live gains this condition, the user falls [[Unconscious]] for the duration of the condition.

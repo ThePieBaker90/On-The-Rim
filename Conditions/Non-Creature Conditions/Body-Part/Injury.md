@@ -4,9 +4,9 @@ tags:
   - Negative-Condition
 ---
 - Injury may stack.
-- Injury may only affect [[Humanoid Body|Body Parts]].
+- Injury may only affect [[Human Body|Body Parts]].
 - Injury dissipates according to the effect that granted it.
-- When a [[Humanoid Body|Body Part]] has one or more levels of injury, they suffer the following effects:
+- When a [[Human Body|Body Part]] has one or more levels of injury, they suffer the following effects:
 	- The part has -1 to its [[Cybernetics#Cyber Modifier|Cyber Modifier]] per level of injury it has.
 	- If a parts total [[Cybernetics#Cyber Modifier|Cyber Modifier]] of the part is -5 or less, the part is destroyed.
 

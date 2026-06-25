@@ -9,7 +9,7 @@ Male Palisman - Chaotic Neutal
 - Light blue axolotl with pink external gills
 ****
 ## Palisman
-- He can turn into [[Humanoid Body|Limbs]], light blue with pink embelishments
+- He can turn into [[Human Body|Limbs]], light blue with pink embelishments
 ****
 ## Personality
 ### Personality Traits

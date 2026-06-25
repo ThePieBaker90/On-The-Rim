@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Body/Humanoid Body.md": "LiInfo",
   "Body/Humanoid Body Parts/Torso/Heart.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Head/Brain.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Head/Skull.md": "LiHeartPulse",
@@ -1437,5 +1436,6 @@
   "Items/Cybernetics/Unfinished/Volt Claw.md": "LiListTodo",
   "Items/Cybernetics/Unfinished/Frost Gauntlet.md": "LiListTodo",
   "Items/Cybernetics/Unfinished/Flame Fist.md": "LiListTodo",
-  "Items/Cybernetics/Unfinished/Abomination Arm.md": "LiListTodo"
+  "Items/Cybernetics/Unfinished/Abomination Arm.md": "LiListTodo",
+  "Body/Human Body.md": "LiInfo"
 }
