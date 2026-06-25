@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Brain
   - Body-Part
   - Internal-Part
@@ -24,4 +23,4 @@ tags:
 	- Psylink.
 	- Enhancer.
 * Additional Info:
-	* Installation requires downloading of patient’s brain data which requires a special machine and 8 hours of uninterrupted downloading.
+	* Installation of a cybernetic brain requires downloading of patient’s brain data which requires a special machine and 8 hours of uninterrupted downloading.

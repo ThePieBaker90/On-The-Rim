@@ -1437,5 +1437,9 @@
   "Items/Cybernetics/Unfinished/Frost Gauntlet.md": "LiListTodo",
   "Items/Cybernetics/Unfinished/Flame Fist.md": "LiListTodo",
   "Items/Cybernetics/Unfinished/Abomination Arm.md": "LiListTodo",
-  "Body/Human Body.md": "LiInfo"
+  "Body/Human Body.md": "LiInfo",
+  "Items/Cybernetics/Head Cybernetics/Brains/Natural Brain.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Brains/Bionic Brain.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Brains/Archotech Brain.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Brains/Advanced Bionic Brain.md": "TiHeartCog"
 }
