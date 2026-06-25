@@ -1,24 +1,19 @@
 ---
 tags:
   - Cybernetic
-  - Brain
-  - Advanced-Bionic
+  - Ears
+  - Prosthetic
 aliases:
 ---
 * Install Location:
-	* [[Brain]].
+	* [[Ears|Ear]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- +2.
+	- -1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  +Strength.
-	* +Constitution.
-	* +Dexterity.
-	* +Intelligence.
-	* +Wisdom.
-	* +Charisma.
+	* +[[Sound-Based Perception]].
 * Cost:
-	* 2200 credits.
+	* 100 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 8.
+	* 0.
 * Looks:
-	* .
+	* A cochlear implant which is installed in the inner ear, allows for basic hearing.

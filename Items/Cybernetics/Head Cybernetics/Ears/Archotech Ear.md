@@ -1,24 +1,19 @@
 ---
 tags:
   - Cybernetic
-  - Brain
-  - Advanced-Bionic
+  - Ears
+  - Archotech
 aliases:
 ---
 * Install Location:
-	* [[Brain]].
+	* [[Ears|Ear]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- +2.
+	- +5.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  +Strength.
-	* +Constitution.
-	* +Dexterity.
-	* +Intelligence.
-	* +Wisdom.
-	* +Charisma.
+	* +[[Sound-Based Perception]].
 * Cost:
-	* 2200 credits.
+	* 5500 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 8.
+	* 2.
 * Looks:
 	* .

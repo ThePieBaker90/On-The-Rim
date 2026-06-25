@@ -2,8 +2,8 @@
 tags:
   - Cybernetic
   - Brain
+  - Archotech
 aliases:
-  - Psylink
 ---
 * Install Location:
 	* [[Brain]].

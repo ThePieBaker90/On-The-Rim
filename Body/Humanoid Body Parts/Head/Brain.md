@@ -13,12 +13,6 @@ tags:
 	* +Intelligence.
 	* +Wisdom.
 	* +Charisma.
-* Cost Multiplier:
-	* 2.
-* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
-	* 4.
-* Nonexistent Versions:
-	* [[Prosthetic]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Psylink.
 	- Enhancer.

@@ -1,24 +1,19 @@
 ---
 tags:
   - Cybernetic
-  - Brain
-  - Advanced-Bionic
+  - Ears
+  - Natural
 aliases:
 ---
 * Install Location:
-	* [[Brain]].
+	* [[Ears|Ear]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- +2.
+	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  +Strength.
-	* +Constitution.
-	* +Dexterity.
-	* +Intelligence.
-	* +Wisdom.
-	* +Charisma.
+	* +[[Sound-Based Perception]].
 * Cost:
-	* 2200 credits.
+	* 400 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 8.
+	* 0.
 * Looks:
-	* .
+	* A regular ear.

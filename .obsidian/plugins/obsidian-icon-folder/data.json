@@ -1441,5 +1441,10 @@
   "Items/Cybernetics/Head Cybernetics/Brains/Natural Brain.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Brains/Bionic Brain.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Brains/Archotech Brain.md": "TiHeartCog",
-  "Items/Cybernetics/Head Cybernetics/Brains/Advanced Bionic Brain.md": "TiHeartCog"
+  "Items/Cybernetics/Head Cybernetics/Brains/Advanced Bionic Brain.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Ears/Advanced Bionic Ear.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Ears/Archotech Ear.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Ears/Bionic Ear.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Ears/Cochlear Implant.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Ears/Natural Ear.md": "TiHeartCog"
 }

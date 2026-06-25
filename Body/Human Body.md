@@ -42,7 +42,7 @@ tags:
 ## Missing Body Parts
 - All body part slots must be filled, if a slot is not filled, one of several things happen:
 	- If it is a part that is not needed to live, the creature has a -5 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
-		- [[Eyes]], [[Ears]], and [[Kidneys]] only incur a -1 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.
+		- [[Eyes]], [[Ears]], and [[Kidneys]] only incur a -2 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.
 	- If it is a part that is needed to live, the creature immediately dies.
 	- If it is a part that not all creatures have, the creature
 
