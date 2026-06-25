@@ -1,17 +1,19 @@
 ---
 tags:
   - Cybernetic
+  - Legs
+  - Prosthetic
 aliases:
 ---
 * Install Location:
-	* .
+	* [[Legs|Leg]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- 0.
+	- -1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	* +[[Lower-Body Strength and Dexterity]].
 * Cost:
-	* . Credits.
+	* 100 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
 	* .

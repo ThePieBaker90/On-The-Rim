@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHeartPulse",
       "LiListTodo",
       "LiList",
       "TiHeartCog",
-      "FasHatWizard",
-      "TiTilde"
+      "FasHatWizard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,7 +44,7 @@
   "Body/Humanoid Body Parts/Head/Nose.md": "LiHeart",
   "Body/Humanoid Body Parts/Lower-Body/Feet.md": "LiHeart",
   "Body/Humanoid Body Parts/Lower-Body/Legs.md": "LiHeart",
-  "Body/Humanoid Body Parts/Lower-Body/Pelvis.md": "LiHeart",
+  "Body/Humanoid Body Parts/Lower-Body/Pelvis.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Lower-Body/Tail.md": "LiHeartOff",
   "Body/Humanoid Body Parts/Torso/Kidneys.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Torso/Liver.md": "LiHeartPulse",
@@ -1057,7 +1057,6 @@
   "Templates/Adventurer NPC Template.md": "TiTemplate",
   "Templates/Armor Template.md": "TiTemplate",
   "Templates/Creature Template.md": "TiTemplate",
-  "Templates/Cybernetic Template.md": "TiTemplate",
   "Templates/Germline Template.md": "TiTemplate",
   "Templates/Incident Template.md": "TiTemplate",
   "Templates/Minimal NPC Template.md": "TiTemplate",
@@ -1463,5 +1462,20 @@
   "Items/Cybernetics/Head Cybernetics/Skulls/Natural Skull.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Skulls/Bionic Skull.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Skulls/Archotech Skull.md": "TiHeartCog",
-  "Items/Cybernetics/Head Cybernetics/Skulls/Advanced Bionic Skull.md": "TiHeartCog"
+  "Items/Cybernetics/Head Cybernetics/Skulls/Advanced Bionic Skull.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Advanced Bionic Foot.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Archotech Foot.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Bionic Foot.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Natural Foot.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Prosthetic Foot.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/Advanced Bionic Leg.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/Archotech Leg.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/Bionic Leg.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/Natural Leg.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/Prosthetic Leg.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Pelvises/Advanced Bionic Pelvis.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Pelvises/Archotech Pelvis.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Pelvises/Bionic Pelvis.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Pelvises/Natural Pelvis.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Pelvises/Prosthetic Pelvis.md": "TiHeartCog"
 }

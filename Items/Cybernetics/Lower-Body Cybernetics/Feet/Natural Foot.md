@@ -1,17 +1,19 @@
 ---
 tags:
   - Cybernetic
+  - Feet
+  - Natural
 aliases:
 ---
 * Install Location:
-	* .
+	* [[Feet|Foot]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	* +[[Lower-Body Strength and Dexterity]].
 * Cost:
-	* . Credits.
+	* 400 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
-	* .
+	* A human foot.

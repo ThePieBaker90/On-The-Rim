@@ -1,0 +1,23 @@
+---
+tags:
+  - Cybernetic
+---
+- **Install Location:**
+	- {{Install location}}
+- **Replaces the Part:**
+	- {{Yes|!No}}.
+- **[[Efficiency]]:**
+	- {{#efficiency}}%
+- **[[Efficiency]] Effects:**
+	- {{+|-}}{{Skill}}
+- **Cost:**
+	- {{#value}} credits
+- **[[Cybercost]]:**
+	- {{#cybercost}}
+- **Abilities:**
+	- {{\*Abilities}}
+	- |(Every ability should have its own bullet point)
+- **Looks:**
+	- {{Looks}}
+- **Lore:**
+	- *{{\*Lore}}*

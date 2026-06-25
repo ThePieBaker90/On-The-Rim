@@ -1,17 +1,19 @@
 ---
 tags:
   - Cybernetic
+  - Feet
+  - Archotech
 aliases:
 ---
 * Install Location:
-	* .
+	* [[Feet|Foot]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- 0.
+	- +5.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	* +[[Lower-Body Strength and Dexterity]].
 * Cost:
-	* . Credits.
+	* 5500 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 4.
 * Looks:
 	* .

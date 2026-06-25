@@ -1,17 +1,19 @@
 ---
 tags:
   - Cybernetic
+  - Pelvis
+  - Bionic
 aliases:
 ---
 * Install Location:
-	* .
+	* [[Pelvis]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- 0.
+	- +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	* +[[Lower-Body Strength and Dexterity]].
 * Cost:
-	* . Credits.
+	* 350 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 1.
 * Looks:
 	* .
