@@ -4,21 +4,19 @@ tags:
   - Legs
 ---
 - **Install Location:**
-	- [[Legs|Leg]]
-- **Replaces the Part:**
-	- Yes
-- **[[Efficiency]]:**
-	- 110%
-- **[[Efficiency]] Effects:**
+	- [[Legs|Leg]].
+- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+	- +1.
+* [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	- +[[Lower-Body Strength and Dexterity|Lower-Body Strength]]
 	- +Constitution
 	- -[[Lower-Body Strength and Dexterity|Lower-Body Dexterity]]
 - **Cost:**
-	- N/A
-- **[[Cybercost]]:**
-	- 1
+	- N/A.
+* [[Cybernetics#Cybercost|Cybercost]]:
+	- 1.
 - **Abilities:**
 	- The user has their [[Movement Speed]] slowed by 5ft.
-	- Cannot be removed through [[Criticals#Critical Effect Tables|Critical Effects]].
+	- This [[Cybernetics|Cybernetic]] cannot be removed through [[Criticals#Critical Effect Tables|Critical Effects]].
 - **Looks:**
 	- A solid mass of bone grows from the thigh as if it was a boney tree-stump. This growth has no joint to act as a knee.
