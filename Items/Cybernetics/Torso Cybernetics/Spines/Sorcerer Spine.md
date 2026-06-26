@@ -11,7 +11,7 @@ tags:
 	* +Constitution.
 * Cost:
 	* 750 credits
-* [[Cybercost]]:
+* [[Cybernetics#Cybercost|Cybercost]]:
 	* 2
 * Abilities:
 	* The user gets +1 to their psycasting ability modifier and psycast save DC.

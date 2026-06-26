@@ -11,7 +11,7 @@ tags:
 	* None.
 * Cost:
 	* 3500 credits.
-* [[Cybercost]]:
+* [[Cybernetics#Cybercost|Cybercost]]:
 	* 3.
 * Abilities:
 	* The user gains the Reflex Enhance action.

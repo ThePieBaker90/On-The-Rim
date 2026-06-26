@@ -12,7 +12,7 @@ tags:
 	- -Charisma.
 - **Cost:**
 	- N/A.
-- **[[Cybercost]]:**
+* [[Cybernetics#Cybercost|Cybercost]]:
 	- 0.2.
 - **Abilities:**
 	- The user cannot wear armor that hasn't been modified to fit the protruding rib.
