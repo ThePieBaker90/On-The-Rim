@@ -2,7 +2,7 @@
 tags:
   - Cybernetic
 ---
-- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
+3- [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +1
 - Base Cost:
 	- 350 Credits

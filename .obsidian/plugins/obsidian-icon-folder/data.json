@@ -238,12 +238,6 @@
   "Items/Consumables/Permanent/Psytrainer.md": "LiGlobeLock",
   "Items/Consumables/Permanent/Xenogerm.md": "LiGlobeLock",
   "Items/Cybernetics": "TiHeartCog",
-  "Items/Cybernetics/Basic Cybernetics": "TiHeartMinus",
-  "Items/Cybernetics/Basic Cybernetics/Advanced Bionic.md": "TiHeartUp",
-  "Items/Cybernetics/Basic Cybernetics/Archotech.md": "TiHeartUp",
-  "Items/Cybernetics/Basic Cybernetics/Bionic.md": "TiHeartUp",
-  "Items/Cybernetics/Basic Cybernetics/Natural.md": "TiHeartMinus",
-  "Items/Cybernetics/Basic Cybernetics/Prosthetic.md": "TiHeartDown",
   "Items/Magic Items": "TiCrystalBall",
   "Items/Magic Items/Bag of Storing.md": "TiCrystalBall",
   "Items/Magic Items/Concealment Stone.md": "TiCrystalBall",
@@ -1474,5 +1468,9 @@
   "UnfinishedAndUnused/Unfinished Cybernetics/Volt Claw.md": "LiListTodo",
   "UnfinishedAndUnused/Unfinished Cybernetics/Brain Stalks.md": "LiListTodo",
   "UnfinishedAndUnused/Unfinished Cybernetics/Extreme Acid Stomach.md": "LiListTodo",
-  "UnfinishedAndUnused/Unfinished Cybernetics/Psylinks": "FasHatWizard"
+  "UnfinishedAndUnused/Unfinished Cybernetics/Psylinks": "FasHatWizard",
+  "Items/Cybernetics/Skins/Natural Skin.md": "TiHearts",
+  "Items/Cybernetics/Skins/Bionic Skin.md": "TiHeartUp",
+  "Items/Cybernetics/Skins/Advanced Bionic Skin.md": "TiHeartUp",
+  "Items/Cybernetics/Skins/Archotech Skin.md": "TiHeartCode"
 }

@@ -20,20 +20,6 @@ aliases:
 	- The part slots are determined by the base part.
 	- Some cybernetics may take up multiple part slots or a choice of multiple part slots.
 - Some part slots are indicated as "shared",  this means that if one instance of that part slot is filled, all other instances of that part have the matching part slot filled by the filling cybernetic.
-## Cybernetic Types
-- Cybernetics come in 6 types; [[Prosthetic]], [[Natural]], [[Bionic]], [[Advanced Bionic]], [[Archotech]], and special. Each type (except special) can be applied to any humanoid body part (respecting type exceptions of certain parts) to determine the stats of a cybernetic of that type and part. Special type cybernetics are detailed in their own pages.
-	* [[Prosthetic]]
-		* Can be commonly found in medieval and modern societies.
-	* [[Natural]]
-		* Everyone is born with all natural parts.
-	* [[Bionic]]
-		* Rarely found in modern societies but common in spacer societies.
-	* [[Advanced Bionic]]
-		* Usually reserved for high ranking nobles and military officials.
-	* [[Archotech]]
-		* An extremely rare treasure which many spend their entire lives searching for
-	* Special
-		* Rarity depends on the specifics of the special part. Special parts are unique parts with unique abilities.
 ## Cyber Modifier
 - Each cybernetic has an associated cyber modifier which is applied to the cybernetic's [[#Affected Skills/Ability Scores]].
 - Anytime a skill or ability score is referenced or used, all relevant cyber modifiers are added as modifiers to the relevant check or reference.
@@ -51,11 +37,6 @@ aliases:
 ## Cybercost
 - All cybernetics have a cybercost associated with them which is tracked by the creature they are installed on. If the sum of all installed [[Cybernetics]]' cybercost exceeds the creature’s [[#Cyberlimit]], they suffer from [[Cyberpsychosis]] until their cybercost drops below their [[#Cyberlimit]].
 - Cybercost is a number which is rounded to 2 decimal places.
-- For [[Prosthetic]], [[Natural]], [[Bionic]], [[Advanced Bionic]], and [[Archotech]] type cybernetics, the base cybercost is changed by a [[#Cybercost Multiplier]] determined by the relevant body part.
 ### Cyberlimit
 - The cyberlimit of a creature is their constitution ability score + their level.
-### Cybercost Multiplier
-- Each body part will have a cybercost multiplier associated with them which is applied to the base cybercost of each type.
-	- Special cybernetics explicitly state their exact cybercost and are not multiplied by the cybercost modifier for the relevant body part.
-	- Implied parts do not have their cybercost multiplier factored into the part they come with (ex: The [[Arms]] cybercost multiplier does not include the [[Hands]] cybercost multiplier)
 

@@ -9,15 +9,6 @@ tags:
 	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* None.
-* Cost Multiplier:
-	* 1.
-* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
-	* 1.
-* Nonexistent Versions:
-	* [[Prosthetic]].
-	* [[Bionic]].
-	* [[Advanced Bionic]].
-	* [[Archotech]].
 * Additional Info:
 	* Humanoid creatures have 5000ml of blood. For every 500ml of blood lost, the creature will gain 1 level of [[Exhaustion]].
 	* Humanoid creatures will regenerate 500ml of blood when taking a rest.
