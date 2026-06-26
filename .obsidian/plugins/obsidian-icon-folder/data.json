@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiList",
       "TiHeartDown",
       "TiHearts",
       "TiHeartCode",
-      "TiHeartUp",
-      "LiHeartPulse"
+      "TiHeartUp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -246,16 +246,6 @@
   "Items/Cybernetics/Basic Cybernetics/Natural.md": "TiHeartMinus",
   "Items/Cybernetics/Basic Cybernetics/Prosthetic.md": "TiHeartDown",
   "Items/Cybernetics/Mutations": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Bonemass Spine.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Bulb-back.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Fleshmass Heart.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Fleshmass Liver.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Fleshmass Lung.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Musclemass Arm.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Musclemass Jaw.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Musclemass Leg.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Scarred Skin.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Spider-Eye.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Spine Shoulder.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Tentacle Whip.md": "TiHeartBroken",
   "Items/Cybernetics/Mutations/Tongue Foot.md": "TiHeartBroken",
@@ -1477,5 +1467,16 @@
   "Items/Cybernetics/Head Cybernetics/Ears/Beast Ear.md": "TiHeartBroken",
   "Items/Cybernetics/Head Cybernetics/Horns/Bone Antlers.md": "TiHeartBroken",
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Bonemass Leg.md": "TiHeartBroken",
-  "Items/Cybernetics/Torso Cybernetics/Ribs/Bonemass Rib.md": "TiHeartBroken"
+  "Items/Cybernetics/Torso Cybernetics/Ribs/Bonemass Rib.md": "TiHeartBroken",
+  "Items/Cybernetics/Torso Cybernetics/Spines/Bonemass Spine.md": "TiHeartBroken",
+  "Items/Cybernetics/Torso Cybernetics/Spines/Back Pieces/Bulb-back.md": "TiHeartBroken",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Fleshmass Heart.md": "TiHeartBroken",
+  "Items/Cybernetics/Torso Cybernetics/Livers/Fleshmass Liver.md": "TiHeartBroken",
+  "Items/Cybernetics/Torso Cybernetics/Lungs/Fleshmass Lung.md": "TiHeartBroken",
+  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Musclemass Arm.md": "TiHeartBroken",
+  "Items/Cybernetics/Head Cybernetics/Jaws/Musclemass Jaw.md": "TiHeartBroken",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/Musclemass Leg.md": "TiHeartBroken",
+  "Items/Cybernetics/Skins": "LiList",
+  "Items/Cybernetics/Skins/Scarred Skin.md": "TiHeartBroken",
+  "Items/Cybernetics/Mutations/Spider-Eyes.md": "TiHeartBroken"
 }

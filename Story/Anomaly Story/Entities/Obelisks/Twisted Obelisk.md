@@ -60,7 +60,7 @@ tags:
 | 13   | [[Bulb-back]]                |
 | 14   | [[Extreme Acid Stomach]]     |
 | 15   | [[Scarred Skin]]             |
-| 16   | [[Spider-Eye]]               |
+| 16   | [[Spider-Eyes]]               |
 | 17   | [[Spine Shoulder]]           |
 | 18   | [[Tentacle Whip]]            |
 | 19   | [[Tongue Foot]]              |
