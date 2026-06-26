@@ -245,11 +245,6 @@
   "Items/Cybernetics/Basic Cybernetics/Missing.md": "TiHeartDown",
   "Items/Cybernetics/Basic Cybernetics/Natural.md": "TiHeartMinus",
   "Items/Cybernetics/Basic Cybernetics/Prosthetic.md": "TiHeartDown",
-  "Items/Cybernetics/Mutations": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Spine Shoulder.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Tentacle Whip.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Tongue Foot.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/UV Eye.md": "TiHeartBroken",
   "Items/Magic Items": "TiCrystalBall",
   "Items/Magic Items/Bag of Storing.md": "TiCrystalBall",
   "Items/Magic Items/Concealment Stone.md": "TiCrystalBall",
@@ -1478,5 +1473,9 @@
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Musclemass Leg.md": "TiHeartBroken",
   "Items/Cybernetics/Skins": "LiList",
   "Items/Cybernetics/Skins/Scarred Skin.md": "TiHeartBroken",
-  "Items/Cybernetics/Mutations/Spider-Eyes.md": "TiHeartBroken"
+  "Items/Cybernetics/Head Cybernetics/Eyes/Spider-Eyes.md": "TiHeartBroken",
+  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Spine Shoulder.md": "TiHeartBroken",
+  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Tentacle Whip.md": "TiHeartBroken",
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Tongue Foot.md": "TiHeartBroken",
+  "Items/Cybernetics/Head Cybernetics/Eyes/UV Eye.md": "TiHeartBroken"
 }
