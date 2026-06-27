@@ -13,9 +13,6 @@ tags:
 	* 1.
 * [[Cybernetics#Cybercost|Cybercost]] Multiplier:
 	* 1.
-* Nonexistent Versions:
-	* [[Advanced Bionic]].
-	* [[Archotech]]
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Module.
 * Additional Info:

@@ -13,9 +13,5 @@ tags:
 	* 1.
 * [[Cybernetics#Cybercost|Cybercost]] Multiplier:
 	* 0.
-* Nonexistent Versions:
-	* [[Bionic]].
-	* [[Advanced Bionic]].
-	* [[Archotech]].
 * Additional Info:
 	* None.

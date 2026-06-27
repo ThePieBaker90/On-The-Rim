@@ -13,7 +13,5 @@ tags:
 	* 2.
 * [[Cybernetics#Cybercost|Cybercost]] Multiplier:
 	* 2.
-* Nonexistent Versions:
-	* [[Archotech]].
 * Additional Info:
 	* A creature with only one lung can hold their [[Breathing|Breath]] for only half the amount of time they usually would be able to.
