@@ -12,7 +12,7 @@ tags:
 	* +16
 * __[[Evade Class]]:__
 	* Max 3
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 17
 - __Properties__:
 	* [[Cumbersome]]

@@ -11,7 +11,7 @@ tags:
 	- You gain +2 to rolls for initiative.
 	- You have advantage on saving throws to avoid falling [[Asleep]]
 	- You gain +2 to all Dexterity based checks and saving throws.
-	- You gain +2 to all Strength based checks and saving throws.
+	- You gain +2 to all [[Strength]] based checks and saving throws.
 	- Your [[Movement Speed]] is increased by 5ft.
 	- You cannot rest.
 	- You have -1 on all [[Sight-Based Perception]] checks and saving throws.

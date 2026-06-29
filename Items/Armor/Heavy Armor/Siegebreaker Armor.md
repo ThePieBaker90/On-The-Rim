@@ -12,7 +12,7 @@ tags:
 	* +13
 * __[[Evade Class]]:__
 	* Max 4
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 16
 - __Properties__:
 	* [[Overshield]]

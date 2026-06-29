@@ -11,7 +11,7 @@ tags:
 	* +12
 * __[[Evade Class]]:__
 	* Max 6
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 16
 - __Properties__:
 	- [[Unstealthy]]

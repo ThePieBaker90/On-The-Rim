@@ -10,7 +10,7 @@ tags:
 	* 11 + DEX
 * __[[Evade Class]]:__
 	* 0
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* N/A
 - **Properties:**
 	- N/A

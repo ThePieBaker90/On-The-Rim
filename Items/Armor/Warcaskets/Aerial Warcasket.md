@@ -13,7 +13,7 @@ tags:
 	* 18
 * __[[Evade Class]]:__
 	* Max 0
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 0
 - __Properties__:
 	* [[Jump Pack Equipped]]

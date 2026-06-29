@@ -6,7 +6,7 @@ tags:
 	* {{Armor Type}}
 - __Armor Class__:
 	* {{#armorClass}} \[\*"+ " + Relevant Skill}}
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* {{#strNeeded}}
 - __Properties__:
 	* {{Properties}}

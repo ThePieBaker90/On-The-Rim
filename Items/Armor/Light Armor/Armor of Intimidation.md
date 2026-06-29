@@ -11,7 +11,7 @@ tags:
 	* +2
 * __[[Evade Class]]:__
 	* 0
-* __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 0
 * **Value:**
 	* 350 credits

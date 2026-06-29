@@ -8,9 +8,9 @@ tags:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	- +Strength.
-	- +Constitution.
-	- -Dexterity.
+	- +[[Strength]].
+	- +[[Constitution]].
+	- -[[Dexterity]].
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:

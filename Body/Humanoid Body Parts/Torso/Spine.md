@@ -7,8 +7,8 @@ tags:
 * Necessary to live:
 	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +Constitution.
-	* +Strength
+	- +[[Strength]].
+	- +[[Constitution]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Back Piece.
 * Additional Info:

@@ -7,12 +7,12 @@ tags:
 * Necessary to live:
 	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +Strength.
-	* +Constitution.
-	* +Dexterity.
-	* +Intelligence.
-	* +Wisdom.
-	* +Charisma.
+	- +[[Strength]].
+	- +[[Dexterity]].
+	- +[[Constitution]].
+	- +[[Intelligence]].
+	- +[[Wisdom]].
+	- +[[Charisma]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Psylink.
 	- Enhancer.

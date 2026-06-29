@@ -11,7 +11,7 @@ tags:
 	* +9
 * __[[Evade Class]]:__
 	* Max 8 or -2, whichever is lower
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 13
 - __Properties__:
 	* [[Telemetry]]

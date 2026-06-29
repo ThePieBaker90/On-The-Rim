@@ -11,7 +11,7 @@ tags:
 	* +7
 * __[[Evade Class]]:__
 	* Max 8 or -2, whichever is lower
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 0
 - __Properties__:
 	* [[Mechlord]]

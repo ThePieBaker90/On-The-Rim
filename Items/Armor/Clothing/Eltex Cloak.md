@@ -11,7 +11,7 @@ tags:
 	- 10 + DEX
 * __[[Evade Class]]:__
 	* 0
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	- N/A
 - __Properties__:
 	- [[Items/Armor/Properties/Eltex|Eltex]]

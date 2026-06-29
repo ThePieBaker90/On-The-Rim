@@ -8,8 +8,8 @@ tags:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +Constitution.
-	* +Strength.
+	- +[[Strength]].
+	- +[[Constitution]].
 * Cost:
 	* 1030 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:

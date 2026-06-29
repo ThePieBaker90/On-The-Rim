@@ -11,7 +11,7 @@ tags:
 	* +3
 * __[[Evade Class]]:__
 	* -1
-- __Strength Needed To Wear__:
+- __[[Strength]] Needed To Wear__:
 	* 0
 - __Properties__:
 	* [[Shooter]](Grenade)

@@ -10,8 +10,8 @@ aliases:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +5.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	- +Constitution.
-	- +Strength.
+	- +[[Strength]].
+	- +[[Constitution]].
 * Cost:
 	* 11000 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
