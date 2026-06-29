@@ -4,7 +4,7 @@ tags:
   - Ribs
 ---
 - **Install Location:**
-	- [[Ribs|Rib]].
+	- [[Rib|Rib]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

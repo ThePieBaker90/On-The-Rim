@@ -136,9 +136,9 @@ Female Half-Elf Cleric 10 (Nature Domain) - Chaotic Good
 - Dark Blue [[Flak Jacket]]
 - [[Valerie]] 
 ### Cybernetics
-- Bionic [[Legs|Leg]] (Right)
-- Bionic [[Feet|Foot]] (Right)
-- Advanced Bionic [[Hands|Hand]] (Right)
+- Bionic [[Leg|Leg]] (Right)
+- Bionic [[Foot|Foot]] (Right)
+- Advanced Bionic [[Hand|Hand]] (Right)
 - [[P-04 The Cleric]]
 ### Spell Slots
 - 1st - 4

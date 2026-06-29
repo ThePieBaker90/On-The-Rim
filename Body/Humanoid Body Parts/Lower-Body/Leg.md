@@ -3,6 +3,8 @@ tags:
   - Legs
   - Body-Part
   - Limb
+aliases:
+  - Legs
 ---
 * Necessary to live:
 	* No.

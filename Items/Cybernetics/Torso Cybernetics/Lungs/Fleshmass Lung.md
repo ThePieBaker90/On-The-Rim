@@ -4,7 +4,7 @@ tags:
   - Lungs
 ---
 - **Install Location:**
-	- [[Lungs|Lung]].
+	- [[Lung|Lung]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

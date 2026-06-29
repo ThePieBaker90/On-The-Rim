@@ -26,7 +26,7 @@ tags:
 	- All creatures within the target cone must make a Dexterity saving throw. 
 		- On a failure, they are [[Blinded]].
 		- On a success, nothing happens.
-	- Creatures without [[Eyes]] are immune to the effects of this psycast.
+	- Creatures without [[Eye|Eyes]] are immune to the effects of this psycast.
 - **Stats**:
 	- 2 Turn [[Blinded]] Duration.
 	- 15ft Target Cone Length.

@@ -4,7 +4,7 @@ tags:
   - Feet
 ---
 - **Install Location:**
-	- [[Feet|Foot]].
+	- [[Foot|Foot]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +1..
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

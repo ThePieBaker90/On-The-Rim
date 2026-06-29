@@ -1,13 +1,14 @@
 ---
 tags:
-  - Hands
+  - Lungs
   - Body-Part
-  - Limb
+  - Internal-Part
+aliases:
+  - Lungs
 ---
-
 * Necessary to live:
-	* No.
+	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +[[Upper-Body Strength and Dexterity]].
+	* +Constitution.
 * Additional Info:
 	* None.

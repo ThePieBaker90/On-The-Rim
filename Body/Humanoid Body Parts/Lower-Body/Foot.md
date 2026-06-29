@@ -3,6 +3,8 @@ tags:
   - Feet
   - Body-Part
   - Limb
+aliases:
+  - Feet
 ---
 * Necessary to live:
 	* No.

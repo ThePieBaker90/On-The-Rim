@@ -18,7 +18,7 @@ tags:
 - **Target**:
 	- A dead creature within range.
 - **Components**:
-	- Gesture, Material (One of the caster's [[Natural]] [[Hands|Fingers]] which is consumed).
+	- Gesture, Material (One of the caster's [[Natural]] [[Hand|Fingers]] which is consumed).
 		- The finger must be attached to the caster.
 		- The caster must have been born with the finger.
 - **Duration**:

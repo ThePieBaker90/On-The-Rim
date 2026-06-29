@@ -4,7 +4,7 @@ tags:
   - Eyes
 ---
 * Install Location:
-	* [[Eyes|Eye]].
+	* [[Eye]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* +3.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

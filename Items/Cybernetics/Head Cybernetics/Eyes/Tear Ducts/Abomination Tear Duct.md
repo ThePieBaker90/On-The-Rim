@@ -4,7 +4,7 @@ tags:
   - Eyes
 ---
 - **Install Location:**
-	- [[Eyes|Eye]] (Tear Duct).
+	- [[Eye]] (Tear Duct).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

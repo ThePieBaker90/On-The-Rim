@@ -132,11 +132,11 @@ Male High-Elf Artificer 13 (Armorer) - Chaotic Neutral
 ### Cybernetics
 - [[P-01 The Artificer]]
 - Advanced Bionic [[Shoulders|Shoulder]] (Right)
-- Advanced Bionic [[Arms|Arm]] (Right)
-- Advanced Bionic [[Hands|Hand]] (Right)
+- Advanced Bionic [[Arm|Arm]] (Right)
+- Advanced Bionic [[Hand|Hand]] (Right)
 - Advanced Bionic [[Shoulders|Shoulder]] (Left)
-- Advanced Bionic [[Arms|Arm]] (Left)
-- Advanced Bionic [[Hands|Hand]] (Left)
+- Advanced Bionic [[Arm|Arm]] (Left)
+- Advanced Bionic [[Hand|Hand]] (Left)
 ### Spell Slots
 - 1st - 4
 - 2nd - 3

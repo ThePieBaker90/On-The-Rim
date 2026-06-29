@@ -5,7 +5,7 @@ tags:
   - Elemental-Arm
 ---
 * Install Location:
-	* [[Arms|Arm]]
+	* [[Arm|Arm]]
 * Replaces the Part:
 	* Yes.
 * [[Efficiency]]:

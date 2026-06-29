@@ -12,9 +12,9 @@ The hediff sheet takes the form of a table with 2 columns and as many rows that 
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Base Stats                                     | 10 STR, 10 DEX, 10 CON, 10 INT, 10 WIS, 10 CHA.                                                                                               |
 | [[Sanguophage]]                                | TODO                                                                                                                                          |
-| Archotech [[Eyes\|Eye]] & Natural Eye          | [[Sight-Based Perception]] has an [[Efficiency]] of 137.5% causing sight-based perception to become +2.                                       |
-| [[Lower-Body]] due to Prosthetic [[Legs\|Leg]] | [[Lower-Body Strength and Dexterity]] has an efficiency of 96% causing lower-body strength and dexterity to become 13 DEX and stay at 12 STR. |
-| [[Upper-Body]] due to Missing [[Hands\|Hand]]  | [[Upper-Body Strength and Dexterity]] has an efficiency of 75% causing upper-body strength and dexterity to become 11 DEX and 9 STR.          |
+| Archotech [[Eye\|Eye]] & Natural Eye          | [[Sight-Based Perception]] has an [[Efficiency]] of 137.5% causing sight-based perception to become +2.                                       |
+| [[Lower-Body]] due to Prosthetic [[Leg\|Leg]] | [[Lower-Body Strength and Dexterity]] has an efficiency of 96% causing lower-body strength and dexterity to become 13 DEX and stay at 12 STR. |
+| [[Upper-Body]] due to Missing [[Hand\|Hand]]  | [[Upper-Body Strength and Dexterity]] has an efficiency of 75% causing upper-body strength and dexterity to become 11 DEX and 9 STR.          |
 The final ability scores/skills of the character end up being:
 12 Overall STR, 12 Lower-body STR, 9 Upper-body STR
 14 Overall DEX, 13 Lower-body DEX, 11 Upper-body DEX

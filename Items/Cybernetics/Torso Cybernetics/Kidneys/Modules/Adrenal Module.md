@@ -4,7 +4,7 @@ tags:
   - Kidneys
 ---
 * Install Location:
-	* [[Kidneys|Kidney]] (Module).
+	* [[Kidney|Kidney]] (Module).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

@@ -4,7 +4,7 @@ tags:
   - Skin
 ---
 * Install Location:
-	* [[Arms]] (Intramuscular Implant)
+	* [[Arm]] (Intramuscular Implant)
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

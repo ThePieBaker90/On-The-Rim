@@ -11,24 +11,24 @@ tags:
 		- [[Jaw]]
 		- [[Nose]]
 		- [[Horns]]
-		- [[Eyes]] (x2)
+		- [[Eye]] (x2)
 		- [[Ear]] (x2)
 	- Upper-Body
-		- [[Arms]] (x2)
-		- [[Hands]] (x2)
+		- [[Arm]] (x2)
+		- [[Hand]] (x2)
 		- [[Shoulders]] (x2)
 	- Torso
 		- [[Heart]]
 		- [[Liver]]
-		- [[Lungs]] (x2)
-		- [[Kidneys]] (x2)
-		- [[Ribs]] (x24)
+		- [[Lung]] (x2)
+		- [[Kidney]] (x2)
+		- [[Rib]] (x24)
 		- [[Spine]]
 		- [[Stomach]]
 	- Lower-Body
 		- [[Pelvis]]
-		- [[Legs]] (x2)
-		- [[Feet]] (x2)
+		- [[Leg]] (x2)
+		- [[Foot]] (x2)
 	- [[Body/Humanoid Body Parts/Blood|Blood]] (5000mL)
 	- [[Skin]]
 - Some body parts such as [[Horns]] and [[Tail|Tails]] only naturally appear on certain [[Germlines]], although all humans can fill those body part slots with appropriate [[Cybernetics]].
@@ -50,10 +50,10 @@ tags:
 - All body part slots must be filled for a creature to be healthy, if a slot is not filled, one of several things happen depending on which part is missing:
 	- If it is a part that is not needed to live:
 		- The creature has a -5 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
-			- [[Eyes]], [[Ear|Ears]], and [[Kidneys]] only incur a -2 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.
+			- [[Eye|Eyes]], [[Ear|Ears]], and [[Kidney|Kidneys]] only incur a -2 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.
 	- If it is a part that is needed to live and the creature has another copy of that part filled:
 		- The creature has a -3 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
-			- A missing [[Lungs|Lung]] causes the creature to only be able hold their [[Breathing|Breath]] for only half the amount of time they usually would be able to.
+			- A missing [[Lung|Lung]] causes the creature to only be able hold their [[Breathing|Breath]] for only half the amount of time they usually would be able to.
 	- If it is a part that is needed to live and the creature does not have another copy of that part filled:
 		- The creature immediately dies.
 	- If it is a part that not all creatures have:

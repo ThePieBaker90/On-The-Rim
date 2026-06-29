@@ -5,7 +5,7 @@ tags:
   - Archotech
 ---
  * Install Location:
-	* [[Eyes|Eye]].
+	* [[Eye]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* +5.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

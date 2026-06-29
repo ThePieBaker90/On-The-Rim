@@ -14,7 +14,7 @@ tags:
 | 15-16 | Attacker's next attack deals an extra 1d10 radiant damage. |
 | 17-18 | Target is [[Flashed]] for 1 turn                           |
 | 19    | Target is [[Flashed]] for 2 turns                          |
-| 20    | Target's [[Eyes]] are destroyed.                           |
+| 20    | Target's [[Eye\|Eyes]] are destroyed.                      |
 
 
 

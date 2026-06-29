@@ -1,14 +1,14 @@
 ---
 tags:
-  - Eyes
+  - Ribs
   - Body-Part
-  - Sensory-Part
+  - Internal-Part
+aliases:
+  - Ribs
 ---
 * Necessary to live:
 	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +[[Sight-Based Perception]].
-- [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Tear Duct.
+	* None.
 * Additional Info:
 	* None.

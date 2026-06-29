@@ -1,14 +1,16 @@
 ---
 tags:
-  - Kidneys
+  - Eyes
   - Body-Part
-  - Internal-Part
+  - Sensory-Part
+aliases:
+  - Eyes
 ---
 * Necessary to live:
-	* Yes.
+	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +Constitution.
+	* +[[Sight-Based Perception]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Module.
+	- Tear Duct.
 * Additional Info:
 	* None.

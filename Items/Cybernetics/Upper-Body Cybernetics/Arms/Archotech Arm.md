@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 * Install Location:
-	* [[Arms]].
+	* [[Arm]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +5.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

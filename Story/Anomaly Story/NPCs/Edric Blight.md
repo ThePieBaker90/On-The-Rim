@@ -156,8 +156,8 @@ Male High-Elf Druid 4 (Circle of the Stars) Rogue 3 (Arcane Trickster) Artificer
 - [[P-10 The Rogue]]
 - [[P-01 The Artificer]]
 - Advanced Bionic [[Shoulders|Shoulder]] (Left)
-- Advanced Bionic [[Arms|Arm]] (Left)
-- Advanced Bionic [[Hands|Hand]] (Left)
+- Advanced Bionic [[Arm|Arm]] (Left)
+- Advanced Bionic [[Hand|Hand]] (Left)
 - [[Tactical Advanced Bionic Eye]] (Right)
 ### Spell Slots
 - 1st - 4

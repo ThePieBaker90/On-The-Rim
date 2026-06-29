@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 * Install Location:
-	* [[Kidneys|Kidney]].
+	* [[Kidney|Kidney]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

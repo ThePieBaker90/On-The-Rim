@@ -4,7 +4,7 @@ tags:
   - Natural
 ---
  * Install Location:
-	* [[Eyes|Eye]].
+	* [[Eye]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
