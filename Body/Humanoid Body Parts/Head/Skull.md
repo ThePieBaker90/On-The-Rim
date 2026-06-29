@@ -6,7 +6,7 @@ tags:
   - Big-Part
 ---
 * Necessary to live:
-	* Yes.
+	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Constitution.
 * Additional Info:

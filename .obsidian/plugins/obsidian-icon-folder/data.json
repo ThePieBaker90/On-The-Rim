@@ -1486,5 +1486,6 @@
   "Body/Humanoid Body Parts/Head/Ear.md": "LiHeart",
   "Items/Cybernetics/Torso Cybernetics/Lungs/Natural Lung.md": "TiHearts",
   "Items/Cybernetics/Torso Cybernetics/Lungs/Surrogate Lung.md": "TiHeartDown",
-  "Items/Cybernetics/Torso Cybernetics/Lungs/Synthetic Lung.md": "TiHeartUp"
+  "Items/Cybernetics/Torso Cybernetics/Lungs/Synthetic Lung.md": "TiHeartUp",
+  "Items/Cybernetics/Torso Cybernetics/Ribs/Natural Rib.md": "TiHearts"
 }
