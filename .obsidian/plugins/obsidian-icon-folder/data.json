@@ -1492,5 +1492,8 @@
   "Items/Cybernetics/Torso Cybernetics/Spines/Archotech Spine.md": "TiHeartCode",
   "Items/Cybernetics/Torso Cybernetics/Spines/Bionic Spine.md": "TiHeartUp",
   "Items/Cybernetics/Torso Cybernetics/Spines/Natural Spine.md": "TiHearts",
-  "Items/Cybernetics/Torso Cybernetics/Spines/Prosthetic Spine.md": "TiHeartDown"
+  "Items/Cybernetics/Torso Cybernetics/Spines/Prosthetic Spine.md": "TiHeartDown",
+  "Items/Cybernetics/Torso Cybernetics/Stomachs/Natural Stomach.md": "TiHearts",
+  "Items/Cybernetics/Torso Cybernetics/Stomachs/Surrogate Stomach.md": "TiHeartDown",
+  "Items/Cybernetics/Torso Cybernetics/Stomachs/Synthetic Stomach.md": "TiHeartUp"
 }

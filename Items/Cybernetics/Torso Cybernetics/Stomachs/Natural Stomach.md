@@ -9,10 +9,10 @@ aliases:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	-  +Constitution.
 * Cost:
-	* . Credits.
+	* 600 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
-	* .
+	* A human stomach.

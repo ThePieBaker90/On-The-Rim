@@ -2,17 +2,18 @@
 tags:
   - Cybernetic
   - Stomach
+  - Prosthetic
 aliases:
 ---
 * Install Location:
 	* [[Stomach]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- 0.
+	- -1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	- +Constitution.
 * Cost:
-	* . Credits.
+	* 150 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
 	* .
