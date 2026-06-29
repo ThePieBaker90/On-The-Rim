@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHand",
       "TiHeartCog",
       "LiListTodo",
       "LiRatio",
-      "LiList",
-      "TiHeartDown"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1520,5 +1520,7 @@
   "Mechanics/Gameplay Information/Ability Score Information/Dexterity.md": "LiListTodo",
   "Mechanics/Gameplay Information/Ability Score Information/Intelligence.md": "LiListTodo",
   "Mechanics/Gameplay Information/Ability Score Information/Wisdom.md": "LiListTodo",
-  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Rocket Foot.md": "TiHeartCog"
+  "Items/Cybernetics/Lower-Body Cybernetics/Feet/Rocket Foot.md": "TiHeartCog",
+  "Mechanics/Gameplay Information/Action Information": "LiHand",
+  "Mechanics/Gameplay Information/Action Information/Jumping.md": "LiListTodo"
 }
