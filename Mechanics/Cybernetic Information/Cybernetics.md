@@ -6,7 +6,7 @@ aliases:
   - Cybernetic
 ---
 ## Cybernetic Overview
-- Cybernetics replace body parts of living creatures in order to enhance their abilities beyond natural limits. They can also be installed to remedy missing limbs or organs.
+- Cybernetics are artificial/non-natural body parts that can be installed in living creatures in order to enhance their abilities beyond natural limits. They can also be installed to remedy missing limbs or organs.
 ## Cybernetic Installation
 - Cybernetics are installed on creatures (called the patient) by another creature (called the installer) or themselves. They have permanent effects which can only be removed if the cybernetic is disabled or uninstalled.
 	- If installed by another creature and the installer is experienced in installing cybernetics, the surgeon has advantage on a DC 13 wisdom (medical) check to install the part. 
@@ -15,7 +15,7 @@ aliases:
 	- If a wisdom (medical) or constitution check fails, the body part is lost, and the patient must deal with the relevant penalties of having a body part removed
 ## Cybernetic Slots
 - Cybernetics only take up one part or part slot (unless otherwise stated).
-	- For example; installing an [[Archotech]] [[Arms|Arm]] does not replace both arms, only one arm.
+	- For example; installing an [[Archotech Leg]] does not replace both [[Legs|Legs]], only one [[Legs]].
 - Cybernetics which do not replace a part may take up a part slot which is attached to that part (such as enhancers or modules). This is indicated in parenthesis next to the part in the install location.
 	- The part slots are determined by the base part.
 	- Some cybernetics may take up multiple part slots or a choice of multiple part slots.
