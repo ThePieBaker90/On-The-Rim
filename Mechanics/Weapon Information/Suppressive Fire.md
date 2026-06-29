@@ -13,7 +13,7 @@ Suppressive fire is a special [fire mode](/Mechanics/Weapon%20Information/Fire%2
   	- This zone lasts until the next turn of the creator.
 - Any creature, character, etc. within the zone of fire and not in sufficiently hard cover makes a tiered dex save.
  	 - Before the roll, they may move to cover within half their movement speed. The dex roll is then made with disadvantage, but with the obscuration modifier from the cover.
-  	- Targets with AV greater than or equal to the weapon's AP make the roll with advantage.
+  	- Targets with AV greater than the weapon's AP make the roll with advantage.
   	- Targets with AV greater than or equal to double the weapon's AP do not make this roll and are not affected by the zone of suppression.
   	- Targets inside vehicles do not make this roll and are not affected by the zone of suppression.
 - The tiered dex save has the following result levels. The specific roll threshold for each level will be specified by the weapon.
