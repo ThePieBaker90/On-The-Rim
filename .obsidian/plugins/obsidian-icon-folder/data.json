@@ -1496,5 +1496,7 @@
   "Items/Cybernetics/Torso Cybernetics/Stomachs/Natural Stomach.md": "TiHearts",
   "Items/Cybernetics/Torso Cybernetics/Stomachs/Surrogate Stomach.md": "TiHeartDown",
   "Items/Cybernetics/Torso Cybernetics/Stomachs/Synthetic Stomach.md": "TiHeartUp",
-  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Natural Arm.md": "TiHearts"
+  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Natural Arm.md": "TiHearts",
+  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Natural Hand.md": "TiHearts",
+  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Natural Shoulder.md": "TiHearts"
 }
