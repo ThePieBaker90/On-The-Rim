@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiRatio",
       "LiList",
       "TiHeartDown",
-      "TiHearts",
-      "TiHeartCode",
-      "TiHeartUp"
+      "TiHearts"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -360,7 +360,6 @@
   "Mechanics/Cybernetic Information/Surgery.md": "LiInfo",
   "Mechanics/Cybernetic Information": "LiInfo",
   "Mechanics/Gameplay Information": "LiInfo",
-  "Mechanics/Gameplay Information/Ability Scores.md": "LiInfo",
   "Mechanics/Gameplay Information/Breathing.md": "LiInfo",
   "Mechanics/Gameplay Information/Hunger.md": "LiInfo",
   "Mechanics/Gameplay Information/Rolling to Hit.md": "LiInfo",
@@ -1512,5 +1511,13 @@
   "Body/Humanoid Body Parts/Torso/Rib.md": "LiHeart",
   "Body/Humanoid Body Parts/Upper-Body/Arm.md": "LiHeart",
   "Body/Humanoid Body Parts/Upper-Body/Hand.md": "LiHeart",
-  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Implants/Smart Implant.md": "TiHeartCog"
+  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Implants/Smart Implant.md": "TiHeartCog",
+  "Mechanics/Gameplay Information/Ability Score Information": "LiRatio",
+  "Mechanics/Gameplay Information/Ability Score Information/Ability Scores.md": "LiInfo",
+  "Mechanics/Gameplay Information/Ability Score Information/Strength.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Ability Score Information/Charisma.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Ability Score Information/Constitution.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Ability Score Information/Dexterity.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Ability Score Information/Intelligence.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Ability Score Information/Wisdom.md": "LiListTodo"
 }
