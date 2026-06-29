@@ -1483,5 +1483,8 @@
   "Items/Cybernetics/Torso Cybernetics/Livers/Natural Liver.md": "TiHearts",
   "Items/Cybernetics/Torso Cybernetics/Livers/Surrogate Liver.md": "TiHeartDown",
   "Items/Cybernetics/Torso Cybernetics/Livers/Synthetic Liver.md": "TiHeartUp",
-  "Body/Humanoid Body Parts/Head/Ear.md": "LiHeart"
+  "Body/Humanoid Body Parts/Head/Ear.md": "LiHeart",
+  "Items/Cybernetics/Torso Cybernetics/Lungs/Natural Lung.md": "TiHearts",
+  "Items/Cybernetics/Torso Cybernetics/Lungs/Surrogate Lung.md": "TiHeartDown",
+  "Items/Cybernetics/Torso Cybernetics/Lungs/Synthetic Lung.md": "TiHeartUp"
 }
