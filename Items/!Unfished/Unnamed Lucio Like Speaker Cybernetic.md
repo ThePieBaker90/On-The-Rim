@@ -13,7 +13,7 @@ tags:
 	- \\\[+|-]\[Skill]
 - **Cost:**
 	- \\\[value] \[Currency]
-- **[[Cybercost]]:**
+* [[Cybernetics#Cybercost|Cybercost]]:
 	- \[cybercost]
 - \\\[\***Abilities:**]
 	- CLEANUP

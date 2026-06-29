@@ -15,7 +15,7 @@ tags:
 	- None.
 * Cost:
 	* 700 credits
-* [[Cybercost]]:
+* [[Cybernetics#Cybercost|Cybercost]]:
 	* 1
 * Abilities:
 	* Allows the user to rage and gain benefits from the Barbarian class as well as the Path of the Giant subclass.

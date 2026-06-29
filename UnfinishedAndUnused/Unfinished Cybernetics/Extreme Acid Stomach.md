@@ -13,7 +13,7 @@ tags:
 	- N/A
 - **Cost:**
 	- N/A
-- **[[Cybercost]]:**
+* [[Cybernetics#Cybercost|Cybercost]]:
 	- 0.25
 - **Abilities:**
 	- The user can spit stomach acid as a ranged weapon attack dealing 1d6+CON Corrosion damage to a target.

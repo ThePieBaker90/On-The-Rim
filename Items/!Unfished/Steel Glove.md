@@ -14,7 +14,7 @@ tags:
 	* +[[Upper-Body Strength and Dexterity]]*
 * Cost:
 	* 900 credits
-* [[Cybercost]]:
+* [[Cybernetics#Cybercost|Cybercost]]:
 	* 2
 * Abilities:
 	* The user may cast Mold Earth (XGtE 162/163) at will without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the spell.

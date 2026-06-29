@@ -18,7 +18,7 @@ tags:
 	- +Constitution
 - **Cost:**
 	- N/A
-- **[[Cybercost]]:**
+* [[Cybernetics#Cybercost|Cybercost]]:
 	- 2
 - **Abilities:**
 	- User has horrifying nightmares preventing a productive long rest, all long rests only give the benefits of short rests.

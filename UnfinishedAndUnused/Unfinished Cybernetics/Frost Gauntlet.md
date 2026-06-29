@@ -14,7 +14,7 @@ tags:
 	* +[[Upper-Body Strength and Dexterity]]*
 * Cost:
 	* 900 credits
-* [[Cybercost]]:
+* [[Cybernetics#Cybercost|Cybercost]]:
 	* 2
 * Abilities:
 	* The user may cast Ray of Frost at will without any need for a [[NOR-1 My First Psylink|Psylink]] or knowledge of the spell. This does not require a verbal component.

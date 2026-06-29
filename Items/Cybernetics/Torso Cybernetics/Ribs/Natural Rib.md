@@ -2,6 +2,7 @@
 tags:
   - Cybernetic
   - Ribs
+  - Natural
 aliases:
 ---
 * Install Location:
@@ -9,10 +10,10 @@ aliases:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	-  None.
 * Cost:
-	* . Credits.
+	* 200 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
-	* .
+	* A single human rib.

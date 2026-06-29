@@ -11,7 +11,7 @@ tags:
 	- N/A
 - **Cost:**
 	- 400 credits
-- **[[Cybercost]]:**
+* [[Cybernetics#Cybercost|Cybercost]]:
 	- 1
 - **Abilities:**
 	- The user gains the Skul-Gun action.
