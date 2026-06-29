@@ -4,7 +4,7 @@ tags:
   - Ears
 ---
 - **Install Location:**
-	- [[Ears|Ear]].
+	- [[Ear]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:

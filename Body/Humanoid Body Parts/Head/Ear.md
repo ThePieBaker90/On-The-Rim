@@ -4,6 +4,8 @@ tags:
   - Ears
   - Body-Part
   - Sensory-Part
+aliases:
+  - Ears
 ---
 * Necessary to live:
 	* No.

@@ -63,7 +63,7 @@ Female High-Elf Cleric 7 (Life Domain) Rogue 3 (Arcane Trickster) - Chaotic Neut
 - 1 [[Glitterworld Medicine]]
 - 19 [[Herbal Medicine]]
 ### Cybernetics
-- Advanced Bionic [[Ears|Ear]] (Right)
+- Advanced Bionic [[Ear|Ear]] (Right)
 - [[P-04 The Cleric]]
 - [[P-10 The Rogue]]
 - Advanced Bionic [[Heart]]

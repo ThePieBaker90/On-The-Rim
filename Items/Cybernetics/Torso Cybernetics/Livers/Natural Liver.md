@@ -2,6 +2,7 @@
 tags:
   - Cybernetic
   - Liver
+  - Natural
 aliases:
 ---
 * Install Location:
@@ -9,10 +10,10 @@ aliases:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	-  +Constitution.
 * Cost:
-	* . Credits.
+	* 400 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
-	* .
+	* Liver.

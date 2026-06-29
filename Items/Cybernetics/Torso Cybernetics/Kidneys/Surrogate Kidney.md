@@ -2,17 +2,18 @@
 tags:
   - Cybernetic
   - Kidneys
+  - Prosthetic
 aliases:
 ---
 * Install Location:
 	* [[Kidneys|Kidney]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- 0.
+	- -1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	-  +Constitution.
 * Cost:
-	* . Credits.
+	* 100 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 0.
 * Looks:
 	* .

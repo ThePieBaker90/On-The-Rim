@@ -13,7 +13,7 @@ tags:
 | 11-13 | Target has their held item knocked out of their hands.<br> |
 | 14-16 | Target gains [[Sonic Stunned]] for 1 turn                  |
 | 17-19 | Target gains [[Sonic Stunned]] for 2 turns                 |
-| 20    | Target's [[Ears]] are destroyed                            |
+| 20    | Target's [[Ear\|Ears]] are destroyed                       |
 
 
 

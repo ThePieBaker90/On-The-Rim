@@ -37,7 +37,6 @@
   "Body/Humanoid Body Parts/Torso/Heart.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Head/Brain.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Head/Skull.md": "LiHeartPulse",
-  "Body/Humanoid Body Parts/Head/Ears.md": "LiHeart",
   "Body/Humanoid Body Parts/Head/Eyes.md": "LiHeart",
   "Body/Humanoid Body Parts/Head/Horns.md": "LiHeartOff",
   "Body/Humanoid Body Parts/Head/Jaw.md": "LiHeart",
@@ -1472,5 +1471,17 @@
   "Items/Cybernetics/Skins/Natural Skin.md": "TiHearts",
   "Items/Cybernetics/Skins/Bionic Skin.md": "TiHeartUp",
   "Items/Cybernetics/Skins/Advanced Bionic Skin.md": "TiHeartUp",
-  "Items/Cybernetics/Skins/Archotech Skin.md": "TiHeartCode"
+  "Items/Cybernetics/Skins/Archotech Skin.md": "TiHeartCode",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Natural Heart.md": "TiHearts",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Surrogate Heart.md": "TiHeartDown",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Synthetic Heart.md": "TiHeartUp",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Advanced Synthetic Heart.md": "TiHeartUp",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Archotech Heart.md": "TiHeartCode",
+  "Items/Cybernetics/Torso Cybernetics/Kidneys/Natural Kidney.md": "TiHearts",
+  "Items/Cybernetics/Torso Cybernetics/Kidneys/Surrogate Kidney.md": "TiHeartDown",
+  "Items/Cybernetics/Torso Cybernetics/Kidneys/Synthetic Kidney.md": "TiHeartUp",
+  "Items/Cybernetics/Torso Cybernetics/Livers/Natural Liver.md": "TiHearts",
+  "Items/Cybernetics/Torso Cybernetics/Livers/Surrogate Liver.md": "TiHeartDown",
+  "Items/Cybernetics/Torso Cybernetics/Livers/Synthetic Liver.md": "TiHeartUp",
+  "Body/Humanoid Body Parts/Head/Ear.md": "LiHeart"
 }

@@ -1,19 +1,18 @@
 ---
 tags:
   - Cybernetic
-  - Ears
-  - Advanced-Bionic
+  - Stomach
 aliases:
 ---
 * Install Location:
-	* [[Ear]].
+	* [[Stomach]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- +2.
+	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +[[Sound-Based Perception]].
+	-  .
 * Cost:
-	* 1100 credits.
+	* . Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 1.
+	* .
 * Looks:
 	* .

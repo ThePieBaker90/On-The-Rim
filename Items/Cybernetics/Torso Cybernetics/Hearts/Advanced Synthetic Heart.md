@@ -1,19 +1,19 @@
 ---
 tags:
   - Cybernetic
-  - Ears
+  - Heart
   - Advanced-Bionic
 aliases:
 ---
 * Install Location:
-	* [[Ear]].
+	* [[Heart]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +2.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +[[Sound-Based Perception]].
+	-  +Constitution.
 * Cost:
-	* 1100 credits.
+	* 1650 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 1.
+	* 2.
 * Looks:
 	* .
