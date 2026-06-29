@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Liver
   - Body-Part
   - Internal-Part

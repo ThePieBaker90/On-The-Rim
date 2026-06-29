@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Spine
   - Body-Part
   - Big-Part

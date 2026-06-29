@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Skull
   - Body-Part
   - Big-Part

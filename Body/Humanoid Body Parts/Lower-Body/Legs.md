@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Legs
   - Body-Part
   - Limb

@@ -1,7 +1,6 @@
 ---
 tags:
   - Body-Part
-  - Cybernetic
   - Other-Part
   - Skin
 ---

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Kidneys
   - Body-Part
   - Internal-Part

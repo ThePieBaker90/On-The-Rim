@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Jaw
   - Body-Part
   - Sensory-Part

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Heart
   - Body-Part
   - Internal-Part

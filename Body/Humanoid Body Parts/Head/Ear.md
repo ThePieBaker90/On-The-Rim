@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Ears
   - Body-Part
   - Sensory-Part

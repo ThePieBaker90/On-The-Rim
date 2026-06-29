@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Body-Part
   - Limb
   - Shoulders

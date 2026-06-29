@@ -2,7 +2,6 @@
 tags:
   - Body-Part
   - Blood
-  - Cybernetic
   - Other-Part
 ---
 * Necessary to live:

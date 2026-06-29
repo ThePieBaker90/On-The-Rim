@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Ribs
   - Body-Part
   - Internal-Part

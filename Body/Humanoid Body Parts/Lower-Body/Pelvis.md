@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Pelvis
   - Body-Part
   - Big-Part

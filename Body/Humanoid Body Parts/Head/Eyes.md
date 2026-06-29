@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Eyes
   - Body-Part
   - Sensory-Part
