@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Kidneys
   - Natural
 aliases:

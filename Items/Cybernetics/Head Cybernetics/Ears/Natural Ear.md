@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Ears
   - Natural
 aliases:

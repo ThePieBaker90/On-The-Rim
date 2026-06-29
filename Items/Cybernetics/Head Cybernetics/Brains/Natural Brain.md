@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Brain
   - Natural
 aliases:

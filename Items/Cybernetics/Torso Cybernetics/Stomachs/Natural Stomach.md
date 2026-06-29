@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Stomach
+  - Natural
 aliases:
 ---
 * Install Location:

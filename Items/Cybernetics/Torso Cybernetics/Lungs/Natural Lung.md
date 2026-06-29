@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Lungs
   - Natural
 aliases:

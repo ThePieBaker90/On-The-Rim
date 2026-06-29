@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Nose
   - Natural
 ---

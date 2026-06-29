@@ -44,7 +44,8 @@ tags:
 - Unmodified creatures have all natural body parts, these all have a [[Cybernetics#Cyber Modifier|Cyber Modifier]] of 0, and a [[Cybernetics|Cybercost]] of 0. They naturally fill their respective body part slot.
 - Natural parts cannot have their only connection to the rest of the body be through a [[Cybernetics|Cybernetic]].
 	- For example, a [[Natural Foot]] cannot be connected to an [[Advanced Bionic Leg]].
-- Natural parts are not considered [[Cybernetics]] although they are stored in the [[Cybernetics]] folder and a
+- Natural parts are not considered [[Cybernetics]] although they are stored in the [[Cybernetics]] folder.
+	- They can be installed according to the same rules as [[Cybernetics]].
 ## Missing Body Parts
 - All body part slots must be filled for a creature to be healthy, if a slot is not filled, one of several things happen depending on which part is missing:
 	- If it is a part that is not needed to live:

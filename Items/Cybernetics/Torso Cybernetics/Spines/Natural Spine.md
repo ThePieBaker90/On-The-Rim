@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Spine
+  - Natural
 aliases:
 ---
 * Install Location:

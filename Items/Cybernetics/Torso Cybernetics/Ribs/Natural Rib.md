@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Ribs
   - Natural
 aliases:

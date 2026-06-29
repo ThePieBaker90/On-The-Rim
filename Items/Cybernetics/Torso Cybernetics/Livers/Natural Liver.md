@@ -1,6 +1,5 @@
 ---
 tags:
-  - Cybernetic
   - Liver
   - Natural
 aliases:
