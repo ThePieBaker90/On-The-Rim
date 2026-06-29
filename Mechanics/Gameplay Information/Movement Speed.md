@@ -40,5 +40,6 @@ aliases:
 	- For example, [[Immobilized]] sets a creature's movement speed to 0.
 ## Other Types of Movement Speed
 ### Flying Movement
+- TODO, having flying speed does not allow you to fly. You must be given flight by an effect.
 ### Swimming Movement
 ## Movement Travel Overview
