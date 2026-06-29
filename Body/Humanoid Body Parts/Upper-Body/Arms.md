@@ -8,13 +8,7 @@ tags:
 	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +[[Upper-Body Strength and Dexterity]].
-* Cost Multiplier:
-	* 1.6.
-* [[Cybernetics#Cybercost|Cybercost]] Multiplier:
-	* 1.
-* Nonexistent Versions:
-	* None.
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Intramuscular Implant - Shared
 * Additional Info:
-	* Comes installed with a [[Hands|Hand]] of the same type.
+	* None.
