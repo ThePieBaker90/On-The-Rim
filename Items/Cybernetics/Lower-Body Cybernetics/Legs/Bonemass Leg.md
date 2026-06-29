@@ -4,7 +4,7 @@ tags:
   - Legs
 ---
 - **Install Location:**
-	- [[Leg|Leg]].
+	* [[Leg]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
