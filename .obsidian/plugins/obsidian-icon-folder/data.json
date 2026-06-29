@@ -1507,5 +1507,8 @@
   "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Archotech Shoulder.md": "TiHeartCode",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Bionic Arm.md": "TiHeartUp",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Bionic Hand.md": "TiHeartUp",
-  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Bionic Shoulder.md": "TiHeartUp"
+  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Bionic Shoulder.md": "TiHeartUp",
+  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Prosthetic Arm.md": "TiHeartDown",
+  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Prosthetic Hand.md": "TiHeartDown",
+  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Prosthetic Shoulder.md": "TiHeartDown"
 }
