@@ -33,6 +33,7 @@ tags:
 	- Ability checks are used to determine the outcome of an uncertain action on the roller's part.
 	- Saving throws are used to determine the outcome of an uncertain situation that the roller is in.
 - There are some core differences between ability checks and saving throws. Ability checks can be failed at will, can be backed out of before rolling, and may have an associated skill. Saving throws cannot be failed at will, cannot be backed out of, and are limited to abilities. 
+	- Some effects say a creature "may make a saving throw", a creature can opt to not perform the saving throw and automatically all fail effects.
 - To perform an ability check or saving throw of these you do the following steps in order:
 	1. Roll 1d20.
 		- If you have advantage or disadvantage, roll the  relevant number of additional 20-sided-dice and take the highest or lowest result based off of if you had advantage or disadvantage.

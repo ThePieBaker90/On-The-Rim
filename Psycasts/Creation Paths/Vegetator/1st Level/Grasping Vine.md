@@ -26,7 +26,7 @@ tags:
 		- The vine has a maximum length which limits its range and how it may interact with objects.
 		- The vine has a maximum lifting strength which limits the objects it may pick up.
 		- The vine has actions and [[Movement Speed]] that it must consume to do actions or move.
-		- If the vine attempts to restrict a creature, the creature must make a strength saving throw.
+		- If the vine attempts to restrict a creature, the creature must make a [[Strength]] saving throw.
 			- On a failure, they are [[Tethered]] by the vine with the origin being the target point and the tether range being the vine's length. They may reattempt the saving throw at the beginning of each of their turns.
 			- On a success, nothing happens or they lose [[Tethered]] if they were restricted by the vine.
 			- Attempting to restrict a creature takes an action from the vine.

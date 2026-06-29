@@ -2,6 +2,7 @@
 tags:
   - Trait
   - Ghoulish
+  - TODO
 ---
 - A creature with the Ghoulish trait gains the following effects:
 	- Can have [[Ghoul]] specific [[Cybernetics]] installed.

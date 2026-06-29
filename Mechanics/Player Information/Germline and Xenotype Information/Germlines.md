@@ -12,23 +12,23 @@ aliases:
 ## List of Germlines
 Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
 - Common Germlines
-	- [[Dwarf]] - Higher constitution and strength, enhanced defensive attributes, slower than others.
-	- [[Half-Foot]] - Higher charisma and dexterity, enhanced movement attributes, high rate of hunger.
-	- [[Psytch]] - Higher wisdom and intelligence, enhanced psycasting attributes, lacks non-psycasting related traits.
-	- [[Pure Human]] - jack of all ability scores, resistant to death, lacks specialization.
-	- [[Seer]] - Higher wisdom and charisma, enhanced psycasting and vision attributes, reduced constitution.
+	- [[Dwarf]] - Higher [[Constitution]] and [[Strength]], enhanced defensive attributes, slower [[Movement Speed|Movement]] than others.
+	- [[Half-Foot]] - Higher [[Charisma]] and [[Dexterity]], enhanced [[Movement Speed|Movement]] attributes, high rate of [[Hunger]].
+	- [[Psytch]] - Higher [[Wisdom]] and [[Intelligence]], enhanced [[Psycasts|Psycasting]] attributes, lacks non-psycasting related traits.
+	- [[Pure Human]] - jack of all [[Ability Scores]], resistant to death, lacks specialization.
+	- [[Seer]] - Higher [[Wisdom]] and [[Charisma]], enhanced [[Psycasts|Psycasting]] and [[Skills|Perception]] attributes, reduced [[Constitution]].
 	- [[Starjack]] - 
 	- [[Hussar]] -
 - Uncommon Germlines
-	- [[Frostjack]] - Higher constitution and intelligence, cold damage resistance and natural darkvision, reduced charisma.
-	- [[Jangali]]
-	- [[Drow]]
-	- [[Gato]]
-	- [[Impid]]
+	- [[Frostjack]] - Higher [[Constitution]] and [[Intelligence]], cold damage resistance and natural darkvision, reduced [[Charisma]].
+	- [[Jangali]] -
+	- [[Drow]] -
+	- [[Gato]] -
+	- [[Impid]] -
 - Rare Germlines
-	- [[Bunkin]]
-	- [[Hylotl]]
-	- [[Phytokin]]
+	- [[Bunkin]] -
+	- [[Hylotl]] -
+	- [[Phytokin]] -
 ## Proportions
 - The proportions parameter contains two sub-parameters; size, and height. 
 	- Size determines a general size of the person with the germline; Tiny, Small, Medium, Large, Huge, and Colossal. Most people have a medium size.
@@ -43,7 +43,7 @@ Certain germlines are more common than others, therefore germlines are split int
 ## Half Germlines
 - A person whose parents are of different germlines will have parts of both germlines, this person's germline is called a half germline. The [[Endogenes]] and other parameters of half germlines are determined at birth based off of the [[Endogenes]] of both of their parents rather than a preset germline.
 - Each parameter of the half germline is determined in the following ways:
-	- The height of the child ais determined as an average between both parent's heights. The size of the child is determined with a coin flip between both parent's sizes.
+	- The height of the child is determined as an average between both parent's heights. The size of the child is determined with a coin flip between both parent's sizes.
 	- The [[Movement Speed|Speed]] of the child is 30ft.
 	- The languages of the child are all languages the parents know, up to a maximum of 3.
 	- The [[Endogenes]] of the child are determined on an [[Endogenes]] by [[Endogenes]] basis. For each [[Endogenes]] a parent has, flip a coin. On a heads, the child gains the [[Endogenes|Endogene]]. On a tails, the child does not gain the [[Endogenes|Endogene]].

@@ -30,12 +30,12 @@ aliases:
 
 - Level 2 Miscast - Score Swap
 	- You roll 1d6 and reduce the ability score that corresponds to the result by 1. You then roll another 1d6 and increase the ability score that corresponds to the result by 1. This change is permanent.
-		- 1 Corresponds to Strength.
-		- 2 Corresponds to Dexterity.
-		- 3 Corresponds to Constitution.
-		- 4 Corresponds to Intelligence.
-		- 5 Corresponds to Wisdom.
-		- 6 Corresponds to Charisma.
+		- 1 Corresponds to [[Strength]].
+		- 2 Corresponds to [[Dexterity]].
+		- 3 Corresponds to [[Constitution]].
+		- 4 Corresponds to [[Intelligence]].
+		- 5 Corresponds to [[Wisdom]].
+		- 6 Corresponds to [[Charisma]].
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Location Swap]] (6, 30) ([[Skipmancer Psycasts|Skipmancer]])
