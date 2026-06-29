@@ -14,4 +14,4 @@ tags:
 * [[Cybernetics#Cybercost|Cybercost]]:
 	* 0.
 * Looks:
-	* Horns.
+	* A tail.
