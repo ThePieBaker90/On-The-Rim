@@ -2,17 +2,19 @@
 tags:
   - Cybernetic
   - Spine
+  - Advanced-Bionic
 aliases:
 ---
 * Install Location:
 	* [[Spine]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- 0.
+	- +2.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	-  .
+	- +Constitution.
+	- +Strength.
 * Cost:
-	* . Credits.
+	* 2200 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* .
+	* 3.
 * Looks:
 	* .

@@ -5,7 +5,7 @@ tags:
   - Advanced-Bionic
 aliases:
 ---
-* Install Location:
+1* Install Location:
 	* [[Feet|Foot]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +2.
