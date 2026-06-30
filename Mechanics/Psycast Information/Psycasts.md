@@ -32,7 +32,7 @@ aliases:
 - This phase lasts throughout the casting time of the psycast, during this time the psycast may be interrupted depending on the casting time (more details under [[#Casting Time]]). During this phase you satisfy the [[#Psycast Components|Psycast's Components]] at all times. Once the casting time has elapsed, the psycast moves to the cast phase.
 - The caster may [[#Interrupting|Interrupt]] the casting phase at any time.
 ### Cast Phase (Immediate effects occur)
-- This phase happens immediately after the casting phase has passed, during this phase all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
+- This phase happens immediately after the casting phase has passed, during this phase all immediate effects of the psycast occur (more details under [[#Psycast Effects]]) and you roll on the [[Neural Heat#Exceeding the Neural Heat Limit|cast effect table]] if applicable. This phase passes to the active phase once all immediate effects are resolved. 
 - The caster cannot [[#Interrupting|Interrupt]] the cast phase without external effects.
 ### Active Phase (Recurring, passive, afflicting and delayed effects occur)
 - This phase happens after the cast phase, during this phase all recurring, passive, afflicting, or delayed effects from the psycast occur. Once the duration of the psycast passes, the phase passes to the end phase. 
@@ -92,7 +92,7 @@ aliases:
 - Time based psycasts require the caster to be busy with the psycast for the casting time. When the specified time passes, the psycast casts. These psycasts can be interrupted with actions.
 - 6 seconds of casting time is equivalent to 1 turn spent casting the psycast.
 ## Psycast Costs
-- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast.
+- There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Neural Heat#Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast.
 ### Neural Heat
 - [[Neural Heat]] rapidly dissipates and limits how many psycasts you can cast in a short time.
 - See [[Neural Heat]]
@@ -216,7 +216,7 @@ aliases:
 	- Upcasting a psycast one time is called a first degree upcast, upcasting it two times is called a second degree upcast and so on.
 ## Miscasts
 - All psycast paths have 2 miscasts associated with them, one of first level and one of second level. Miscasts are psycasts although they cannot be learned or used like other psycasts, instead they are only cast when another effect casts them. 
-- The most common effect that will cast a miscast is rolling on the [[Exceeding the Neural Heat Limit|cast effect table]]. This has a chance of casting either a first or second level miscast.
+- The most common effect that will cast a miscast is rolling on the [[Neural Heat#Exceeding the Neural Heat Limit|cast effect table]]. This has a chance of casting either a first or second level miscast.
 - When a miscast is cast, the effects occur immediately and last until all effects of the miscast are resolved. Miscasts cannot be interrupted in any way by actions from the caster of the miscast.
 ## Interrupting
 - Psycasts can be interrupted by many different effects. When a psycast is interrupted, the psycast immediately passes to the end phase. All costs already paid are not refunded.

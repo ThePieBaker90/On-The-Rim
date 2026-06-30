@@ -26,7 +26,7 @@ tags:
 		- You do not need to know a prerequisite psycast to prepare a 1st level psycast.
 	- Once during the duration of this psycast, you may use the prepared psycast.
 		- You still pay all costs of the prepared psycast ([[Neural Heat]], [[Psyfocus]], Components, Casting Time) at the appropriate times.
-			- You do not roll on the [[Exceeding the Neural Heat Limit|cast effect table]] if the generated [[Neural Heat]] would exceed your neural heat limit.
+			- You do not roll on the [[Neural Heat#Exceeding the Neural Heat Limit|cast effect table]] if the generated [[Neural Heat]] would exceed your neural heat limit.
 		- The path and level of the prepared psycast is a 5th Level [[Neuropath Psycasts|Neuropath Psycast]].
 	- This psycast ending does not end the prepared psycast if it was used during the duration of this psycast.
 - **Stats**:
