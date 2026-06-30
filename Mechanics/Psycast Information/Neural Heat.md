@@ -11,7 +11,7 @@ tags:
 - Neural heat dissipates over rapidly over time, at the beginning of a creature's turn, they lose 5 generated neural heat. 
 	- The amount lost may be increased or decreased by effects.
 ## Exceeding the Neural Heat Limit
-- Anytime you cast a psycast that put you over your neural heat limit, you must roll on the cast effect table below. The effect happens at the same time the psycast is cast and cannot be interrupted or stopped without cancelling the psycast. 
+- Anytime you cast a psycast that put you over your [[#Neural Heat Limit]], you must roll on the cast effect table below. The effect happens at the same time the psycast is cast and cannot be interrupted or stopped without cancelling the psycast. 
 - Some effects trigger a "miscast", these miscasts come in 2 levels and can be found on the relevant path's document. For psycasts with multiple paths, roll a dice to determine a random path to cast the miscast of.
 
 | 1d100    | Effect                                                                                             | % Chance |
@@ -25,7 +25,7 @@ tags:
 | 51 - 95  | No Effect                                                                                          | 45%      |
 | 96 - 100 | [[Psycasts\|Psycast]] gets upcast to the first degree for free (if possible, otherwise no effect). | 5%       |
 
-Additional effects apply to the roll depending on how much you exceed your limit by. For example, with a neural heat limit of 30, having 30 generated would be 100% of the limit, but having 60 generated would be 200% of the limit.
+- Additional effects apply to the roll depending on how much you exceed your limit by. For example, with a neural heat limit of 30, having 30 generated would be 100% of the limit, but having 60 generated would be 200% of the limit.
 
 | Percent of Neural Heat Limit  | Effects                                                 |
 | ----------------------------- | ------------------------------------------------------- |

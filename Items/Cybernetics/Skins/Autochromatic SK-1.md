@@ -15,6 +15,6 @@ tags:
 * [[Cybernetics#Cybercost|Cybercost]]:
 	- 3.
 * Abilities:
-	* 
+	* TODO gain [[Invisible]] maybe with ram mechanic
 - **Looks:**
 	- .
