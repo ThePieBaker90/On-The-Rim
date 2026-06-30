@@ -31,7 +31,7 @@ Female Half-Elf Cleric 10 (Nature Domain) - Chaotic Good
 - Evil Aligned Characters
 ****
 ## Services
-- [[Surgery|Surgeon]] (-90% cost)
+- [[Cybernetic Inst|Surgeon]] (-90% cost)
 ****
 ## Allegiance
 ### Organizations
