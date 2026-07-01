@@ -7,14 +7,16 @@ tags:
 - **Install Location:**
 	- [[Skin]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- +1.
+	- +2.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	- +Constitution.
+	- +Stealth.
 - **Cost:**
 	- 2750 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
 	- 3.
 * Abilities:
-	* TODO gain [[Invisible]] maybe with ram mechanic
+	* The user can allocate 1 [[RAM]] to this cybernetic for . turns to gain a conditional [[Invisible|Invisibility]] for the duration.
+		* Attacking removes [[Invisible]] until the end or beginning of your turn.
+		* You can be seen by creatures using the [[Stealth and Hiding#Seek Action|Seek Action]] on your location.
 - **Looks:**
 	- .
