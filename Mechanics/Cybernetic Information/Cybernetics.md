@@ -42,4 +42,11 @@ aliases:
 - Cybercost is a number which is rounded to 2 decimal places.
 ### Cyberlimit
 - The cyberlimit of a creature is their constitution ability score + their level.
+## Abilities
+- TODO
+### RAM
+- RAM is a resource that certain cybernetics may use to activate abilities, the user must allocate it among the cybernetics that need it.
+- See [[RAM]].
+
+
 

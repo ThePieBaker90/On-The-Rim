@@ -95,10 +95,10 @@ aliases:
 - There are two resources that are concerned with casting psycasts, [[Neural Heat]] and [[Psyfocus]]. Both are detailed in-depth in their own documents. You pay these costs when you use the psycast but you do not roll on the [[Neural Heat#Exceeding the Neural Heat Limit|cast effect table]] (if applicable) until you cast.
 ### Neural Heat
 - [[Neural Heat]] rapidly dissipates and limits how many psycasts you can cast in a short time.
-- See [[Neural Heat]]
+- See [[Neural Heat]].
 ### Psyfocus
 - [[Psyfocus]] is only regenerated when you rest and limits how many psycasts you can cast before having to rest.
-- See [[Psyfocus]]
+- See [[Psyfocus]].
 ## Psycast Range
 - All psycasts have a range, this is referred to by other properties such as targeting and has no inherent effects on the psycast.
 	- "Within range of you" in the psycast effects means you can draw a straight line from you to a relevant point within range that is equal to or less than the length specified within range.
