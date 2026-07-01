@@ -16,6 +16,6 @@ aliases:
 	* 3.
 * Abilities:
 	* The user's [[Jumping|Maximum Jumping Distance]] is 3 times further.
-	* TODO
+	* The user
 * Looks:
 	* .

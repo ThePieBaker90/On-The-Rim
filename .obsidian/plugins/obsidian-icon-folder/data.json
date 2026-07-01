@@ -1316,7 +1316,6 @@
   "Traits/Genes/Ability Genes/Blood/Blood Actions/Toxbite.md": "LiDna",
   "Traits/Genes/Ability Genes/Blood/Blood Actions/Uncanny Coagulation.md": "LiDna",
   "Traits/Genes/Ability Genes/Actions/Gemini Aspect.md": "LiDna",
-  "Traits/Genes/Cosmetic Genes/Skin/Autochroma Skin.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Head/Eternal Tears.md": "LiDna",
   "Mechanics/Weapon Information/Weapon Properties.md": "LiInfo",
   "Traits/Genes/Cosmetic Genes/Horns/Stub Horns.md": "LiDna",
@@ -1523,5 +1522,7 @@
   "Mechanics/Gameplay Information/Action Information/Jumping.md": "LiListTodo",
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Macropodidae Leg.md": "LiListTodo",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Archotech AutoLoader.md": "TiHeartCode",
-  "Mechanics/Cybernetic Information/RAM.md": "LiInfo"
+  "Mechanics/Cybernetic Information/RAM.md": "LiInfo",
+  "Traits/Genes/Cosmetic Genes/Skin/Autochromatic Skin.md": "LiDna",
+  "Items/Cybernetics/Skins/Autochroma SK-1.md": "TiHeartCog"
 }

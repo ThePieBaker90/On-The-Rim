@@ -20,7 +20,7 @@ tags:
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- All natural colors
-	- [[Autochroma Skin]]
+	- [[Autochromatic Skin]]
 	- [[Eternal Tears]]
 	- [[Pointy Ears]]
 	- [[Minor Tail]]
