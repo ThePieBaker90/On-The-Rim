@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiList",
       "LiInfo",
       "TiHeartCode",
       "LiHand",
-      "TiHeartCog",
-      "LiListTodo"
+      "TiHeartCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1524,5 +1524,6 @@
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Archotech AutoLoader.md": "TiHeartCode",
   "Mechanics/Cybernetic Information/RAM.md": "LiInfo",
   "Traits/Genes/Cosmetic Genes/Skin/Autochromatic Skin.md": "LiDna",
-  "Items/Cybernetics/Skins/Autochroma SK-1.md": "TiHeartCog"
+  "Items/Cybernetics/Skins/Autochroma SK-1.md": "TiHeartCog",
+  "Items/Cybernetics/Head Cybernetics/Brains/RAM": "LiList"
 }

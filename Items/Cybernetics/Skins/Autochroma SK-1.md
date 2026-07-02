@@ -20,6 +20,5 @@ tags:
 			* They can still be seen by creatures using the [[Stealth and Hiding#Seek Action|Seek Action]] on your location.
 			* If they attack or use a harmful effect, they lose [[Invisible]] until the end or beginning of their turn.
 		* They gain +2 to all stealth [[Ability Scores#Ability Checks & Saving Throws|Ability Checks and Saving Throws]].
-
 - **Looks:**
 	- .
