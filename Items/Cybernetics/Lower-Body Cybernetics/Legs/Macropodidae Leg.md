@@ -16,6 +16,7 @@ aliases:
 	* 3.
 * Abilities:
 	* The user's [[Jumping|Maximum Jumping Distance]] is 3 times further.
-	* The user
+	* The user can allocate 1 [[RAM]] to this cybernetic for 1 turn to gain the following effects for the duration:
+		* Their [[Lower-Body Strength and Dexterity]] modifier for all rolls is doubled.
 * Looks:
 	* .
