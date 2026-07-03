@@ -1538,5 +1538,6 @@
   "Items/Cybernetics/Torso Cybernetics/Livers/Synthetic Liver.md": "TiHeartUp",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Fingers": "LiCircuitBoard",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Implants": "LiCircuitBoard",
-  "Items/Cybernetics/Head Cybernetics/Ears/Radiohear.md": "TiHeartUp"
+  "Items/Cybernetics/Head Cybernetics/Ears/Radiohear.md": "TiHeartUp",
+  "Items/Cybernetics/Head Cybernetics/Ears/Rehear.md": "TiHeartCog"
 }
