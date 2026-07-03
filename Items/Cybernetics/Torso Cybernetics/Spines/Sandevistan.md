@@ -14,9 +14,7 @@ tags:
 * [[Cybernetics#Cybercost|Cybercost]]:
 	* 3.
 * Abilities:
-	* The user gains the Reflex Enhance action.
-	* Reflex Enhance - Free Action
-		* User takes another turn immediately after their current turn. 
-		* The user gains one stack of [[Exhaustion]] at the end of this new turn.
+	* The user can allocate 3 [[RAM]] to this cybernetic for 2 turns to trigger the following effects immediately:
+		* The user takes another turn immediately after their current turn. 
 * Looks:
 	* A [[Plasteel]] [[Spine]] with a mini-computer which sticks out of the skin at the back of the neck. Wires run from the computer into the user's skull. Allows the user to temporarily enhance their reflexes and speed.
