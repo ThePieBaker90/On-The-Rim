@@ -1540,5 +1540,6 @@
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Implants": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Ears/Radiohear.md": "TiHeartUp",
   "Items/Cybernetics/Head Cybernetics/Ears/Rehear.md": "TiHeartCog",
-  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Grapl1-R.md": "TiHeartCog"
+  "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Grapl1-R.md": "TiHeartCog",
+  "Items/Cybernetics/Lower-Body Cybernetics/Legs/JMP AW-Ax2.md": "TiHeartCog"
 }
