@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Vegetator Psycasts|Vegetator Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
@@ -15,14 +15,14 @@ tags:
 - [[Range]]:
 	- .
 - **Target**:
-	- .
+	- A point within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- 
 - **Stats**:
 	- .
 - **Upcasting**:
