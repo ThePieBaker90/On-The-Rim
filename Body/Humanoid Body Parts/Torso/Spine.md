@@ -11,5 +11,6 @@ tags:
 	- +[[Constitution]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Back Piece.
+	- Chest Piece.
 * Additional Info:
 	* None.
