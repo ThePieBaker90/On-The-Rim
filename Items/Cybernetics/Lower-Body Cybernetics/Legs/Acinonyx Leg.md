@@ -9,14 +9,15 @@ aliases:
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- +4.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +[[Lower-Body Strength and Dexterity|Lower-Body Strength]].
+	* +[[Lower-Body Strength and Dexterity|Lower-Body Dexterity]].
 * Cost:
 	* 2000 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
 	* 3.
 * Abilities:
-	* The user's [[Jumping|Maximum Jumping Distance]] is 3 times further.
+	* The user's [[Movement Speed]] is increased by 10ft.
 	* The user can allocate 1 [[RAM]] to this cybernetic for 1 turn to gain the following effects for the duration:
-		* Their [[Lower-Body Strength and Dexterity|Lower-Body Strength]] modifier for all rolls is doubled.
+		* Their [[Lower-Body Strength and Dexterity|Lower-Body Dexterity]] modifier for all rolls is doubled.
+		* The user's [[Movement Speed]] is increased by 5ft.
 * Looks:
 	* .
