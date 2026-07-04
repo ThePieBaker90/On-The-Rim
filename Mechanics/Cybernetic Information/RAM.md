@@ -9,6 +9,7 @@ tags:
 ## Allocating RAM
 - Allocating RAM can be done to any available RAM. When allocating RAM to a [[Cybernetics|Cybernetic]], the allocated RAM becomes [[#Unavailable RAM]] and must be [[#Freeing Up RAM|Freed Up]] before it can be allocated again.
 	- RAM can be allocated at any time during the user's turn unless indicated by the ability.
+- An ability must not be in effect or be triggering to have RAM allocated to it.
 ## Unavailable RAM
 - While allocated to a [[Cybernetics|Cybernetic]], RAM is unavailable. This means it cannot be [[#Allocating RAM|Allocated]] and does not start its [[#Cooldown Time]] to be [[#Freeing Up RAM|Freed Up]].
 - An ability that [[#Allocating RAM|Allocates]] RAM for $n$ turns [[#Freeing Up RAM|Frees Up]] the RAM at the start of the user's $n$th turn.
