@@ -14,8 +14,8 @@ tags:
 	- +[[Wisdom]].
 	- +[[Charisma]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Psylink.
-	- Enhancer.
+	- ..
+	- Mammillary Bodies.
 	- RAM.
 * Additional Info:
 	* Installation of a cybernetic brain requires downloading of patient’s brain data which requires a special machine and 8 hours of uninterrupted downloading.

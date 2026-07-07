@@ -1363,9 +1363,6 @@
   "Items/Cybernetics/Torso Cybernetics/Spines/Back Pieces/Gliding Wings.md": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Spines/Back Pieces": "LiCircuitBoard",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Gunslinger.md": "TiHeartCog",
-  "Items/Cybernetics/Head Cybernetics/Brains/Enhancers": "LiCircuitBoard",
-  "Items/Cybernetics/Head Cybernetics/Brains/Enhancers/Intelligence Enhancer.md": "LiCircuitBoard",
-  "Items/Cybernetics/Head Cybernetics/Brains/Enhancers/Intelligence Enhancer+.md": "LiCircuitBoard",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular Implants/Liberator Implant.md": "LiCircuitBoard",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular Implants": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Spines/Liberator Spine.md": "TiHeartCog",
@@ -1381,8 +1378,6 @@
   "Items/Cybernetics/Torso Cybernetics/Spines/Steel Spine.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Eyes/Tactical Advanced Bionic Eye.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Eyes/Tactical Bionic Eye.md": "TiHeartCog",
-  "Items/Cybernetics/Head Cybernetics/Brains/Enhancers/Wisdom Enhancer.md": "LiCircuitBoard",
-  "Items/Cybernetics/Head Cybernetics/Brains/Enhancers/Wisdom Enhancer+.md": "LiCircuitBoard",
   "Body/Human Body.md": "LiInfo",
   "Items/Cybernetics/Head Cybernetics/Brains/Natural Brain.md": "TiHearts",
   "Items/Cybernetics/Head Cybernetics/Brains/Bionic Brain.md": "TiHeartUp",
@@ -1545,5 +1540,10 @@
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Acinonyx Leg.md": "TiHeartCog",
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/RUN FA-R5.md": "TiHeartUp",
   "Items/Cybernetics/Torso Cybernetics/Spines/Chest Pieces": "LiCircuitBoard",
-  "Items/Cybernetics/Torso Cybernetics/Hearts/Modules/Jumpstart-R.md": "LiCircuitBoard"
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Modules/Jumpstart-R.md": "LiCircuitBoard",
+  "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies": "LiCircuitBoard",
+  "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Intelligence Enhancer+.md": "LiCircuitBoard",
+  "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Intelligence Enhancer.md": "LiCircuitBoard",
+  "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Wisdom Enhancer+.md": "LiCircuitBoard",
+  "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Wisdom Enhancer.md": "LiCircuitBoard"
 }

@@ -4,14 +4,14 @@ tags:
   - Brain
 ---
 * Install Location:
-	* [[Brain]] (Enhancer)
+	* [[Brain]] (Mammillary Bodies).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	* +1.
+	* +2.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +Intelligence.
+	* +Wisdom.
 * Cost:
-	* 500 credits.
+	* 1000 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 1.
+	* 2.
 * Looks:
-	* A small computer which attaches to the user’s brain to assist them with intellectual tasks.
+	* A small archival computer which attaches to the user’s brain which allows the user to recall stored information quickly.

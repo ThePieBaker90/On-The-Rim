@@ -18,6 +18,8 @@ aliases:
 	* 1.
 * Abilities:
 	* Allows the user to cast psycasts that the psylink has embedded within.
+	* This [[Cybernetics|Cybernetic]] does not occupy a part slot or need a part slot.
+	* When installed, this removes any other psylink the user has installed.
 * Looks:
 	* The casing of the device is a dull grey. 
 	* When placed in between the eyes of the user it implants a psylink into them before disintegrating into useless ash. The area between the eyes has no noticeable changes.
