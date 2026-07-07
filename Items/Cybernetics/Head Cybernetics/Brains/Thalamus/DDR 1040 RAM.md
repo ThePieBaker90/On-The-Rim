@@ -2,20 +2,19 @@
 tags:
   - Cybernetic
   - Brain
-  - RAM
 aliases:
 ---
 * Install Location:
-	* [[Brain]] (RAM).
+	* [[Brain]] (Thalamus).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	- None.
 * Cost:
-	* 10070 credits.
+	* 1580 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 4.
+	* 1.
 * Abilities:
-	* The user has 1 additional [[RAM#Installed RAM|Installed RAM]] with a [[RAM#Cooldown Time|Cooldown Time]] of 0 turns.
+	* The user has 1 additional [[RAM#Installed RAM|Installed RAM]] with a [[RAM#Cooldown Time|Cooldown Time]] of 4 turns.
 * Looks:
 	* .
