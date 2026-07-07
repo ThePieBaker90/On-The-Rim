@@ -1361,8 +1361,6 @@
   "Items/Cybernetics/Upper-Body Cybernetics/Hands": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Gunslinger.md": "TiHeartCog",
-  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular Implants/Liberator Implant.md": "LiCircuitBoard",
-  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular Implants": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Spines/Liberator Spine.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Eyes/Netrunner Eye.md": "TiHeartCog",
   "Items/Cybernetics/Torso Cybernetics/Spines/Netrunner Spine.md": "TiHeartCog",
@@ -1493,7 +1491,6 @@
   "Body/Humanoid Body Parts/Torso/Rib.md": "LiHeart",
   "Body/Humanoid Body Parts/Upper-Body/Arm.md": "LiHeart",
   "Body/Humanoid Body Parts/Upper-Body/Hand.md": "LiHeart",
-  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Implants/Smart Implant.md": "LiCircuitBoard",
   "Mechanics/Gameplay Information/Ability Score Information": "LiRatio",
   "Mechanics/Gameplay Information/Ability Score Information/Ability Scores.md": "LiInfo",
   "Mechanics/Gameplay Information/Ability Score Information/Strength.md": "LiListTodo",
@@ -1516,7 +1513,6 @@
   "Items/Cybernetics/Torso Cybernetics/Livers/Surrogate Liver.md": "TiHeartDown",
   "Items/Cybernetics/Torso Cybernetics/Livers/Synthetic Liver.md": "TiHeartUp",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Fingers": "LiCircuitBoard",
-  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Implants": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Ears/Radiohear.md": "TiHeartUp",
   "Items/Cybernetics/Head Cybernetics/Ears/Rehear.md": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Shoulders/Grapl1-R.md": "TiHeartCog",
@@ -1545,5 +1541,9 @@
   "Items/Cybernetics/Torso Cybernetics/Spines/Backs": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Spines/Backs/Bulb-back.md": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Spines/Backs/Gliding Wings.md": "LiCircuitBoard",
-  "Items/Cybernetics/Torso Cybernetics/Spines/Chests": "LiCircuitBoard"
+  "Items/Cybernetics/Torso Cybernetics/Spines/Chests": "LiCircuitBoard",
+  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular": "LiCircuitBoard",
+  "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular/Liberator Implant.md": "LiCircuitBoard",
+  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Palms": "LiCircuitBoard",
+  "Items/Cybernetics/Upper-Body Cybernetics/Hands/Palms/Smart Implant.md": "LiCircuitBoard"
 }

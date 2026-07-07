@@ -4,7 +4,7 @@ tags:
   - Hands
 ---
 * Install Location:
-	* [[Hand|Hand]] (Implant).
+	* [[Hand]] (Palm).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
@@ -16,4 +16,4 @@ tags:
 * Abilities:
 	* Allows the user to interface with [[Items/Weapons/Properties/Modifiers/Smart|Smart]] weapons.
 * Looks:
-	* A sub-dermal implant installed on the side of the hand. A blinking LED can be faintly seen through skin when installed.
+	* A sub-dermal implant installed on the palm of the hand. A blinking LED can be faintly seen through skin when installed.

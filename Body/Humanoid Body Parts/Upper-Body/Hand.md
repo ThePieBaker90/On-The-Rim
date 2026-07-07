@@ -16,6 +16,6 @@ aliases:
 	- Fingers.
 		- 5 Slots
 		- Naturally Filled
-	- Implant.
+	- Palm.
 * Additional Info:
 	* Has a finger filling each finger part slot. If a finger slot is not filled, the hand has 1 level of [[Injury]]. Each finger is considered a terminal limb dependent on the hand.
