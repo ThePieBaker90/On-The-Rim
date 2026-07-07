@@ -9,6 +9,8 @@ tags:
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Constitution.
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Module.
+	- Atriums.
+	- Ventricles.
+	- Aorta.
 * Additional Info:
 	* None.

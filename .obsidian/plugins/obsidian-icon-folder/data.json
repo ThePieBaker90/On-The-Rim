@@ -1370,8 +1370,6 @@
   "Items/Cybernetics/Torso Cybernetics/Spines/Netrunner Spine.md": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Voice of the Quiet.md": "TiHeartCog",
   "Items/Cybernetics/Head Cybernetics/Skulls/Nitroskull.md": "TiHeartCog",
-  "Items/Cybernetics/Torso Cybernetics/Hearts/Modules/Resurrection Shard.md": "LiCircuitBoard",
-  "Items/Cybernetics/Torso Cybernetics/Hearts/Modules": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Spines/Revenant Spine.md": "TiHeartCog",
   "Items/Cybernetics/Torso Cybernetics/Spines/Sandevistan.md": "TiHeartCog",
   "Items/Cybernetics/Torso Cybernetics/Spines/Sorcerer Spine.md": "TiHeartCog",
@@ -1529,7 +1527,6 @@
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Acinonyx Leg.md": "TiHeartCog",
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/RUN FA-R5.md": "TiHeartUp",
   "Items/Cybernetics/Torso Cybernetics/Spines/Chest Pieces": "LiCircuitBoard",
-  "Items/Cybernetics/Torso Cybernetics/Hearts/Modules/Jumpstart-R.md": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Intelligence Enhancer+.md": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Intelligence Enhancer.md": "LiCircuitBoard",
@@ -1545,5 +1542,8 @@
   "Items/Cybernetics/Head Cybernetics/Brains/Thalamus/QDR 1020 RAM.md": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Thalamus/QDR 3050 RAM.md": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Thalamus/QDR 5080 RAM.md": "LiCircuitBoard",
-  "Items/Cybernetics/Head Cybernetics/Brains/Thalamus/SDR 1080 RAM.md": "LiCircuitBoard"
+  "Items/Cybernetics/Head Cybernetics/Brains/Thalamus/SDR 1080 RAM.md": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas/Jumpstart-R.md": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas/Resurrection Shard.md": "LiCircuitBoard"
 }
