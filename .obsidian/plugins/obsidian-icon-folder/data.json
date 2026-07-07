@@ -1360,8 +1360,6 @@
   "Items/Cybernetics/Upper-Body Cybernetics/Shoulders": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms": "TiHeartCog",
-  "Items/Cybernetics/Torso Cybernetics/Spines/Back Pieces/Gliding Wings.md": "LiCircuitBoard",
-  "Items/Cybernetics/Torso Cybernetics/Spines/Back Pieces": "LiCircuitBoard",
   "Items/Cybernetics/Upper-Body Cybernetics/Hands/Gunslinger.md": "TiHeartCog",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular Implants/Liberator Implant.md": "LiCircuitBoard",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Intramuscular Implants": "LiCircuitBoard",
@@ -1423,7 +1421,6 @@
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Bonemass Leg.md": "TiHeartBroken",
   "Items/Cybernetics/Torso Cybernetics/Ribs/Bonemass Rib.md": "TiHeartBroken",
   "Items/Cybernetics/Torso Cybernetics/Spines/Bonemass Spine.md": "TiHeartBroken",
-  "Items/Cybernetics/Torso Cybernetics/Spines/Back Pieces/Bulb-back.md": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Hearts/Fleshmass Heart.md": "TiHeartBroken",
   "Items/Cybernetics/Torso Cybernetics/Lungs/Fleshmass Lung.md": "TiHeartBroken",
   "Items/Cybernetics/Upper-Body Cybernetics/Arms/Musclemass Arm.md": "TiHeartBroken",
@@ -1526,7 +1523,6 @@
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/JMP AW-Ax2.md": "TiHeartCog",
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/Acinonyx Leg.md": "TiHeartCog",
   "Items/Cybernetics/Lower-Body Cybernetics/Legs/RUN FA-R5.md": "TiHeartUp",
-  "Items/Cybernetics/Torso Cybernetics/Spines/Chest Pieces": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Intelligence Enhancer+.md": "LiCircuitBoard",
   "Items/Cybernetics/Head Cybernetics/Brains/Mammillary Bodies/Intelligence Enhancer.md": "LiCircuitBoard",
@@ -1545,5 +1541,9 @@
   "Items/Cybernetics/Head Cybernetics/Brains/Thalamus/SDR 1080 RAM.md": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas": "LiCircuitBoard",
   "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas/Jumpstart-R.md": "LiCircuitBoard",
-  "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas/Resurrection Shard.md": "LiCircuitBoard"
+  "Items/Cybernetics/Torso Cybernetics/Hearts/Aortas/Resurrection Shard.md": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Spines/Backs": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Spines/Backs/Bulb-back.md": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Spines/Backs/Gliding Wings.md": "LiCircuitBoard",
+  "Items/Cybernetics/Torso Cybernetics/Spines/Chests": "LiCircuitBoard"
 }

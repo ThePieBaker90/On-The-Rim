@@ -10,7 +10,7 @@ tags:
 	- +[[Strength]].
 	- +[[Constitution]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
-	- Back Piece.
-	- Chest Piece.
+	- Back.
+	- Chest.
 * Additional Info:
 	* None.
