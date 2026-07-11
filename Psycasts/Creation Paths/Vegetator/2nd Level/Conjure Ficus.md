@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- .
 - **Effects**:
-	- *.*
+	- *You conjure a thick bush which can be used as a hiding spot*
 	- 
 - **Stats**:
 	- .

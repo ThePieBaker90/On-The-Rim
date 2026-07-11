@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHearts",
       "LiList",
       "LiHeartPulse",
       "TiHeartCog",
-      "TiHeartUp",
-      "LiHeart"
+      "TiHeartUp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1557,5 +1557,8 @@
   "Items/Cybernetics/Other Cybernetics": "LiList",
   "Items/Cybernetics/Respiratory Cybernetics": "LiList",
   "Items/Cybernetics/Skeletal Cybernetics": "LiList",
-  "Items/Cybernetics/Urinary Cybernetics": "LiList"
+  "Items/Cybernetics/Urinary Cybernetics": "LiList",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords": "TiHeartCog",
+  "Items/Cybernetics/Nervous Cybernetics/Sensory Cybernetics": "LiList",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Natural Spinal Cord.md": "TiHearts"
 }
