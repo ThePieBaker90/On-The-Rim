@@ -4,7 +4,7 @@ tags:
   - Negative-Condition
 ---
 - When a creature has the bleeding condition, they suffer the following effects:
-	- They lose 200ml of [[Body/Humanoid Body Parts/Blood|Blood]] per turn.
+	- They lose 200ml of [[Body/Humanoid Body Parts/Cardiovascular System/Blood|Blood]] per turn.
 	- If they are healed, the duration of bleeding reduces by 1 turn per 10 health healed. 
 		- All healing reduces the duration of bleeding by a minimum of 1 turn on them.
 	- If they are [[Dying]], they automatically add 1 failed throw per turn.

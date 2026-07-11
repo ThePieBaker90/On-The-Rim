@@ -5,32 +5,39 @@ tags:
 ## Human Body
 - The human body has many limbs and organs, some of which are needed to survive. 
 ## Human Body Parts
-- The human body has the following body parts.
-	- Head 
-		- [[Brain]]
-		- [[Jaw]]
-		- [[Nose]]
-		- [[Horns]]
-		- [[Eye]] (x2)
-		- [[Ear]] (x2)
-	- Upper-Body
+- The human body is made up of many different body parts, each contributing towards a different organ system.
+	- **Cardiovascular System**
+		- [[Heart]]
+		- [[Body/Humanoid Body Parts/Cardiovascular System/Blood|Blood]] (5000mL)
+	- **Digestive System**
+		- [[Liver]]
+		- [[Stomach]]
+	- **Integumentary System**
+		- [[Skin]]
+	- **Muscular System**
 		- [[Arm]] (x2)
 		- [[Hand]] (x2)
-		- [[Shoulders]] (x2)
-	- Torso
-		- [[Heart]]
-		- [[Liver]]
-		- [[Lung]] (x2)
-		- [[Kidney]] (x2)
-		- [[Rib]] (x24)
-		- [[Spine]]
-		- [[Stomach]]
-	- Lower-Body
-		- [[Pelvis]]
 		- [[Leg]] (x2)
 		- [[Foot]] (x2)
-	- [[Body/Humanoid Body Parts/Blood|Blood]] (5000mL)
-	- [[Skin]]
+		- Intramuscular ?
+		- [[Jaw]]
+	- **Nervous System** 
+		- [[Brain]]
+		- [[Spinal Cord]]
+		- **Sensory Organs**
+			- [[Eye]] (x2)
+			- [[Ear]] (x2)
+	- **Respiratory System**
+		- [[Nose]]
+		- [[Lung]] (x2)
+	- **Skeletal System**
+		- [[Rib]] (x24)
+		- [[Spine]]
+		- [[Pelvis]]
+		- [[Shoulders]] (x2)
+		- [[Skull]]
+	- **Urinary System**
+		- [[Kidney]] (x2)
 - Some body parts such as [[Horns]] and [[Tail|Tails]] only naturally appear on certain [[Germlines]], although all humans can fill those body part slots with appropriate [[Cybernetics]].
 ## Body Part Types
 - All body parts have a type which determines if certain attacks or effects can target that part. If an attack says "part" or "body part" then it can be any body part regardless of type. are one of several types:
