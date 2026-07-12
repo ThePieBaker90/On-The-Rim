@@ -1,15 +1,15 @@
 ---
 tags:
   - Cybernetic
-  - Spine
+  - Spinal-Cord
 ---
 * Install Location:
-	* [[Spine]].
+	* [[Spinal Cord]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
 	* +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Intelligence.
-	* +Constitution.
+	* +Wisdom.
 * Cost:
 	* 1150 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:

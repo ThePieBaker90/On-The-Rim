@@ -1500,7 +1500,6 @@
   "Items/Cybernetics/Skeletal Cybernetics/Spines/Chests": "LiCircuitBoard",
   "Items/Cybernetics/Skeletal Cybernetics/Spines/Liberator Spine.md": "TiHeartCog",
   "Items/Cybernetics/Skeletal Cybernetics/Spines/Natural Spine.md": "TiHearts",
-  "Items/Cybernetics/Skeletal Cybernetics/Spines/Netrunner Spine.md": "TiHeartCog",
   "Items/Cybernetics/Skeletal Cybernetics/Spines/Prosthetic Spine.md": "TiHeartDown",
   "Items/Cybernetics/Skeletal Cybernetics/Spines/Revenant Spine.md": "TiHeartCog",
   "Items/Cybernetics/Skeletal Cybernetics/Spines/Sandevistan.md": "TiHeartCog",
@@ -1560,5 +1559,6 @@
   "Items/Cybernetics/Urinary Cybernetics": "LiList",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords": "TiHeartCog",
   "Items/Cybernetics/Nervous Cybernetics/Sensory Cybernetics": "LiList",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Natural Spinal Cord.md": "TiHearts"
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Natural Spinal Cord.md": "TiHearts",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Netrunner Spine.md": "TiHeartCog"
 }
