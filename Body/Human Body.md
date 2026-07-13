@@ -61,15 +61,12 @@ tags:
 - Natural parts are not considered [[Cybernetics]] although they are stored in the [[Cybernetics]] folder.
 	- They can be installed according to the same rules as [[Cybernetics]].
 ## Missing Body Parts
-- All body part slots must be filled for a creature to be healthy, if a slot is not filled, one of several things happen depending on which part is missing:
-	- If it is a part that is not needed to live:
-		- The creature has a -5 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
-			- [[Eye|Eyes]], [[Ear|Ears]], and [[Kidney|Kidneys]] only incur a -2 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.
-	- If it is a part that is needed to live and the creature has another copy of that part filled:
-		- The creature has a -3 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
-			- A missing [[Lung|Lung]] causes the creature to only be able hold their [[Breathing|Breath]] for only half the amount of time they usually would be able to.
-	- If it is a part that is needed to live and the creature does not have another copy of that part filled:
-		- The creature immediately dies.
-	- If it is a part that not all creatures have:
-		- The part cannot be used at all in actions or other effects.
+- All body part slots must be filled for a creature to be healthy, if a slot is not filled the creature has a -4 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
 
+
+
+	- [[Eye|Eyes]], [[Ear|Ears]], and [[Kidney|Kidneys]] only incur a -2 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.`
+
+
+
+	- A missing [[Lung|Lung]] causes the creature to only be able hold their [[Breathing|Breath]] for only half the amount of time they usually would be able to.

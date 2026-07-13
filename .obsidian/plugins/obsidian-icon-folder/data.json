@@ -1524,7 +1524,6 @@
   "Items/Cybernetics/Urinary Cybernetics": "LiList",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords": "TiHeartCog",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Natural Spinal Cord.md": "TiHearts",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Netrunner Spine.md": "TiHeartCog",
   "Body/Humanoid Body Parts/Sensory System": "LiHeart",
   "Body/Humanoid Body Parts/Sensory System/Ear.md": "LiHeart",
   "Body/Humanoid Body Parts/Sensory System/Eye.md": "LiHeart",
@@ -1561,5 +1560,6 @@
   "Items/Cybernetics/Sensory Cybernetics/Noses/Natural Nose.md": "TiHearts",
   "Items/Cybernetics/Sensory Cybernetics/Noses/Bionic Nose.md": "TiHeartUp",
   "Items/Cybernetics/Sensory Cybernetics/Noses/Prosthetic Nose.md": "TiHeartDown",
-  "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse"
+  "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/OPC.md": "TiHeartCog"
 }
