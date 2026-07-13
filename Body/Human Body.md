@@ -4,40 +4,27 @@ tags:
 ---
 ## Human Body
 - The human body has many limbs and organs, some of which are needed to survive. 
-## Human Body Parts
-- The human body is made up of many different body parts, each contributing towards a different organ system.
-	- **Cardiovascular System**
-		- [[Heart]]
-		- [[Body/Humanoid Body Parts/Cardiovascular System/Blood|Blood]] (5000mL)
-	- **Digestive System**
-		- [[Liver]]
-		- [[Stomach]]
-	- **Integumentary System**
-		- [[Skin]]
-	- **Muscular System**
-		- [[Arm]] (x2)
-		- [[Hand]] (x2)
-		- [[Leg]] (x2)
-		- [[Foot]] (x2)
-		- Intramuscular ?
-		- [[Jaw]]
-	- **Nervous System** 
-		- [[Brain]]
-		- [[Spinal Cord]]
-		- **Sensory Organs**
-			- [[Eye]] (x2)
-			- [[Ear]] (x2)
-	- **Respiratory System**
-		- [[Nose]]
-		- [[Lung]] (x2)
-	- **Skeletal System**
-		- [[Rib]] (x24)
-		- [[Spine]]
-		- [[Pelvis]]
-		- [[Shoulders]] (x2)
-		- [[Skull]]
-	- **Urinary System**
-		- [[Kidney]] (x2)
+## Organ Systems
+- All body parts are part of an organ system, each system has its own purpose in sustaining bodily functions.
+### Cardiovascular System
+- The cardiovascular system is made up of the [[Heart]] and 5000mL of [[Body/Humanoid Body Parts/Cardiovascular System/Blood|Blood]].
+### Digestive System
+- The digestive system is made up of the [[Liver]], [[Stomach]], and ((Intestines))
+### Integumentary System
+- The integumentary system is made up of the [[Skin]] and ((Hair))
+### Muscular System
+- The muscular system is made up of two [[Arm|Arms]], two [[Hand|Hands]], two [[Leg|Legs]], two [[Foot|Feet]], the [[Jaw]], and the ((Core)).
+### Nervous System
+- The nervous system is made up of the [[Brain]], the [[Spinal Cord]], and [[#Sensory Organs]].
+#### Sensory Organs
+- The sensory organs are made up of two [[Eye|Eyes]] and two [[Ear|Ears]].
+### Respiratory System
+- The respiratory system is made up of the [[Nose]] and two [[Lung|Lungs]].
+### Skeletal System
+- The skeletal system is made up of twenty-four [[Rib|Ribs]], the [[Spine]], the [[Pelvis]], two [[Shoulders]], and the [[Skull]].
+### Urinary System
+- The urinary system is made up of two [[Kidney|Kidneys]].
+### Other Parts
 - Some body parts such as [[Horns]] and [[Tail|Tails]] only naturally appear on certain [[Germlines]], although all humans can fill those body part slots with appropriate [[Cybernetics]].
 ## Body Part Types
 - All body parts have a type which determines if certain attacks or effects can target that part. If an attack says "part" or "body part" then it can be any body part regardless of type. are one of several types:
