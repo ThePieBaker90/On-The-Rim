@@ -1,13 +1,15 @@
 ---
 tags:
-  - Nose
+  - Liver
   - Body-Part
-  - Sensory-Part
+  - Internal-Part
 ---
 * Vital to System:
-	* No.
+	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +[[Scent-Based Perception]].
-	* +Charisma.
+	* +Constitution.
+- [[Cybernetics#Cybernetic Slots|Part Slots]]:
+	- Small Intestine.
+	- Large Intestine.
 * Additional Info:
 	* None.

@@ -6,7 +6,7 @@ tags:
 aliases:
   - Eyes
 ---
-* Necessary to live:
+* Vital to System:
 	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +[[Sight-Based Perception]].

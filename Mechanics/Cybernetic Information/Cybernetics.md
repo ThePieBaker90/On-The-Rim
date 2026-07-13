@@ -17,12 +17,9 @@ aliases:
 ## Cybernetic Slots
 - Cybernetics only take up one part or part slot (unless otherwise stated).
 	- For example; installing an [[Archotech Leg]] does not replace both [[Leg|Legs]], only one [[Leg]].
-- Cybernetics which do not replace a part may take up a part slot which is attached to that part (such as enhancers or modules). This is indicated in parenthesis next to the part in the install location.
-	- The part slots are determined by the base part.
-	- Some cybernetics may take up multiple part slots or a choice of multiple part slots.
-- Some part slots are indicated as "shared",  this means that if one instance of that part slot is filled, all other instances of the base part on the creature have an instance of that part slot filled by the [[Cybernetics|Cybernetic]].
-- Some part slots are indicated as "$n$ slots", this means that there are $n$ different instances of this slot that can be filled in any way.
-- Some part slots are indicated as "naturally filled", this means that the part slots are pre-filled by all natural parts and cybernetics.
+- Cybernetics may take up a part slot on a part. When a cybernetic takes up a part slot, the slot is indicated in parenthesis next to the part in the install location.
+	- The part slots are determined by the base part, which may be determined by the body part type.
+- Some part slots are indicated as "$n$ slots", this means that there are $n$ different instances of this slot that can be filled in any way on each instance of the part.
 ## Cyber Modifier
 - Each cybernetic has an associated cyber modifier which is applied to the cybernetic's [[#Affected Skills/Ability Scores]].
 - Anytime a skill or ability score is referenced or used, all relevant cyber modifiers are added as modifiers to the relevant check or reference.

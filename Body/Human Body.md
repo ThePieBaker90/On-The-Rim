@@ -11,20 +11,21 @@ tags:
 - The cardiovascular system's function is to supply [[Materials/Blood|Blood]] to the rest of the body.
 - A creature who is missing a vital part of this system immediately dies if not kept alive by other means.
 ### Digestive System
-- The digestive system is made up of the [[Liver]], [[Stomach]], and ((Intestines)).
+- The digestive system is made up of the [[Liver]], [[Stomach]], and [[Intestines]].
 - The digestive system's function is to break down eaten foods into nutrients for the rest of the body.
-- A creature who is missing a vital part of this system ...
-- A creature who is missing their [[Liver]] ...
+- A creature who is missing a vital part of this system loses 5% of their max health every hour until they die or replace the vital part.
+	- The % of max health that is lost is determined by the creatures max health before all max health deductions 
+	- When they replace the vital part, they recover the lost max health in steps of 5% until they are at their full health.
 ### Integumentary System
 - The integumentary system is made up of the [[Skin]] and ((Hair)).
 - The integumentary system's function is to act as a barrier between the rest of the body and the outside world, also regulating the body's temperature.
-- A creature who is missing a vital part of this system ...
+- A creature who is missing a vital part of this system immediately dies if not kept alive by other means.
 ### Muscular System
-- The muscular system is made up of two [[Arm|Arms]], two [[Hand|Hands]], two [[Leg|Legs]], two [[Foot|Feet]], the [[Jaw]], and the ((Core)).
+- The muscular system is made up of the [[Jaw]], ((core)), two [[Arm|Arms]], two [[Hand|Hands]], two [[Leg|Legs]], and two [[Foot|Feet]].
 - The muscular system's function is to allow the body to move and perform actions.
-- A creature who is missing a vital part of this system ...
+- A creature who is missing a vital part of this system immediately dies if not kept alive by other means.
 ### Nervous System
-- The nervous system is made up of the [[Brain]] and the [[Spinal Cord]].
+- The nervous system is made up of the [[Brain]] and [[Spinal Cord]].
 - The nervous system's function to coordinate sensory input and bodily actions.
 - A creature who is missing a vital part of this system immediately dies if not kept alive by other means.
 ### Respiratory System
@@ -32,15 +33,15 @@ tags:
 - The respiratory system's function is to enable [[Breathing]].
 - A creature who is missing a vital part of this system ...
 ### Sensory System
-- The sensory system is made up of two [[Eye|Eyes]], two [[Ear|Ears]], and the [[Nose]]. 
+- The sensory system is made up of the [[Nose]], two [[Eye|Eyes]], and two [[Ear|Ears]].
 - The sensory system's function is to gather sensory input.
 - A creature who is missing ...
 ### Skeletal System
-- The skeletal system is made up of twenty-four [[Rib|Ribs]], the [[Spine]], the [[Pelvis]], two [[Shoulders]], and the [[Skull]].
+- The skeletal system is made up of the [[Spine]], [[Pelvis]], [[Skull]], two [[Shoulders]], and twenty-four [[Rib|Ribs]].
 - The skeletal system's function is to provide structural support and protection to the rest of the body.
 - A creature who is missing a vital part of this system immediately dies if not kept alive by other means.
 ### Urinary System
-- The urinary system is made up of two [[Kidney|Kidneys]].
+- The urinary system is made up of the two [[Kidney|Kidneys]].
 - The urinary system's function is to maintain the rest of the body's fluid balance.
 - A creature who is missing a vital part of this system ...
 ### Other Parts

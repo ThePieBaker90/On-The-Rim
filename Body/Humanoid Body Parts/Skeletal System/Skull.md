@@ -4,7 +4,7 @@ tags:
   - Body-Part
   - Big-Part
 ---
-* Necessary to live:
+* Vital to System:
 	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Constitution.

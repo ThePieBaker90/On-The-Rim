@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHeart",
       "TiHearts",
       "LiList",
       "LiHeartPulse",
-      "TiHeartCog",
-      "TiHeartUp"
+      "TiHeartCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1336,7 +1336,7 @@
   "Body/Humanoid Body Parts/Cardiovascular System/Heart.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Cardiovascular System/Blood.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Digestive System/Liver.md": "LiHeartPulse",
-  "Body/Humanoid Body Parts/Digestive System/Stomach.md": "LiHeartPulse",
+  "Body/Humanoid Body Parts/Digestive System/Stomach.md": "LiHeart",
   "Body/Humanoid Body Parts/Urinary System/Kidney.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Integumentary System/Skin.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Other/Tail.md": "LiHeartOff",
@@ -1560,5 +1560,6 @@
   "Items/Cybernetics/Sensory Cybernetics/Noses/Advanced Bionic Nose.md": "TiHeartUp",
   "Items/Cybernetics/Sensory Cybernetics/Noses/Natural Nose.md": "TiHearts",
   "Items/Cybernetics/Sensory Cybernetics/Noses/Bionic Nose.md": "TiHeartUp",
-  "Items/Cybernetics/Sensory Cybernetics/Noses/Prosthetic Nose.md": "TiHeartDown"
+  "Items/Cybernetics/Sensory Cybernetics/Noses/Prosthetic Nose.md": "TiHeartDown",
+  "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse"
 }

@@ -8,14 +8,13 @@ aliases:
   - Fingers
 ---
 
-* Necessary to live:
+* Vital to System:
 	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +[[Upper-Body Strength and Dexterity]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
 	- Fingers.
-		- 5 Slots
-		- Naturally Filled
+		- 5 Slots.
 	- Palm.
 * Additional Info:
-	* Has a finger filling each finger part slot. If a finger slot is not filled, the hand has 1 level of [[Injury]]. Each finger is considered a terminal limb dependent on the hand.
+	*  Each finger is considered a terminal limb dependent on the hand. If a finger is missing, the hand has 1 level of [[Injury]].

@@ -4,7 +4,7 @@ tags:
   - Internal-Part
   - Spinal-Cord
 ---
-* Necessary to live:
+* Vital to System:
 	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	- None.

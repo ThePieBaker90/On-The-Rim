@@ -6,7 +6,7 @@ tags:
 aliases:
   - Feet
 ---
-* Necessary to live:
+* Vital to System:
 	* No.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +[[Lower-Body Strength and Dexterity]].

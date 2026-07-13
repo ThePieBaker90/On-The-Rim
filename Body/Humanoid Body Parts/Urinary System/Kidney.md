@@ -6,7 +6,7 @@ tags:
 aliases:
   - Kidneys
 ---
-* Necessary to live:
+* Vital to System:
 	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Constitution.
