@@ -4,7 +4,7 @@ tags:
   - Blood
   - Other-Part
 ---
-* Necessary to live:
+* Vital to System:
 	* Yes.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* None.
