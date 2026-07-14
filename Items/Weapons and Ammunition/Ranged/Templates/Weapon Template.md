@@ -24,18 +24,18 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
 - [Weight:](link tbd) class, value
 - Damage: Damage
 	- If there is different amounts of damage e.g. with different fire modes, use bullet points
-- [Armour Penetration](Jesh's%20Shit/Mechanics/Armour%20Penetration.md)
-- [Range](Mechanics/Weapon%20Information/Range.md)
+- [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md)
+- [Range](/Mechanics/Weapon%20Information/Range.md)
 	- Minimum Effective:
 	- Maximum Effective:
   -  Maximum:
-- [Ammunition](Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
+- [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [Include link to the folders for each cartridge used](Items/Weapons%20and%20Ammunition/Ranged/Ammunition/Templates)
-- [Fire Modes](Mechanics/Weapon%20Information/Fire%20Modes.md)
+- [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
 	- Mode 1: etc.
- - [Reload](Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
+ - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
 	 - Amount: time
-- [Jamming](Jesh's%20Shit/Mechanics/Weapons%20Jamming.md)
+- [Jamming](/Jesh's%20Shit/Mechanics/Weapons%20Jamming.md)
 	- Unreliable etc. if applicable
  	- Unjam difficulty modifier
  	- Unjam action requirement (typically 1 main action) 
