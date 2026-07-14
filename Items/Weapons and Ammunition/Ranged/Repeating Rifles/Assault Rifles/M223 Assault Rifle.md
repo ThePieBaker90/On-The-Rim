@@ -14,13 +14,13 @@ The Armstek Model 5223 assault rifle is an extremely popular firearm. Well-regar
 	- Minimum Effective: 15ft
 	- Maximum Effective: 75ft
   - Maximum: 120ft
+- [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 2 
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [5.45mm Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/5.45x42mm%20Empire)
 - [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
   - Safe
   - Semi-automatic
   - Burst: 3
-- [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 2
  - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
 	 - Magazine: 1 action
 - [Jamming](/Jesh's%20Shit/Mechanics/Weapons%20Jamming.md)
