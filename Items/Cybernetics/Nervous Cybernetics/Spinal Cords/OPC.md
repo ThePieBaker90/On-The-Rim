@@ -11,9 +11,9 @@ tags:
 	* +Intelligence.
 	* +Wisdom.
 * Cost:
-	* 1150 credits.
+	* 1050 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 4.
+	* 2.5.
 * Abilities:
 	* The user may remotely hack into systems that they can see (either through their eyes or a screen). Must be used with some display, such as a computer monitor or a [[Netrunner Eye]].
 * Looks:

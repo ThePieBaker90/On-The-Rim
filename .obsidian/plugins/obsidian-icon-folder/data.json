@@ -1561,5 +1561,6 @@
   "Items/Cybernetics/Sensory Cybernetics/Noses/Bionic Nose.md": "TiHeartUp",
   "Items/Cybernetics/Sensory Cybernetics/Noses/Prosthetic Nose.md": "TiHeartDown",
   "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/OPC.md": "TiHeartCog"
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/OPC.md": "TiHeartCog",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Personal Skip Drive.md": "TiHeartCog"
 }
