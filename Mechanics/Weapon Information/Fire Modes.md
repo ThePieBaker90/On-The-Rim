@@ -1,3 +1,8 @@
+---
+tags:
+- tags_needed
+---
+
 ## Description
 A weapon, particularly a firearm, may have multiple fire modes. These change how the weapon's attack works. Unless otherwise specified, switching between fire modes is a free action.
 Firearms will usually have the safe fire mode and one or two attacking fire modes. For example, it's common for assault rifles to have safe, semi-auto, and a typically 3-round burst. Machine guns will commonly have safe, automatic, and suppressive fire modes. Weapons such as sniper rifles or shotguns may only have manual action fire modes.
