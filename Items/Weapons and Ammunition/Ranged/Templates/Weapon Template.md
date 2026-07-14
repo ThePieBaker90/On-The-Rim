@@ -3,10 +3,10 @@ Tags:
 - put tags here
 - tags are used for ????
 - common and useful tags include
-- ???
+- tags_needed
 ---
 ## General Description
-Here is a brief 2-3 sentence description of the weapon. A bit on its function, role, breifly lore and visual dexcription.
+Here is a brief 2-3 sentence description of the weapon. A bit on its function, role, breifly lore and visual description.
 
 ## Mechanics and Properties
 - Bulleted list of properties
