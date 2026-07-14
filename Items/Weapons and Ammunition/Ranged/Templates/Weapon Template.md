@@ -28,7 +28,8 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
 - [Range](/Mechanics/Weapon%20Information/Range.md)
 	- Minimum Effective:
 	- Maximum Effective:
-  -  Maximum:
+  	- Maximum:
+- [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [Include link to the folders for each cartridge used](Items/Weapons%20and%20Ammunition/Ranged/Ammunition/Templates)
 - [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
