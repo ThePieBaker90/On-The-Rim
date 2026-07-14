@@ -39,7 +39,7 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
 	- Unreliable etc. if applicable
  	- Unjam difficulty modifier
  	- Unjam action requirement (typically 1 main action) 
-- Target: usually on target, but could be an area
+- Target: usually one target, but could be an area
 - Firearm (usually)
 	- Additionally specific weapon type(s)
 
