@@ -13,6 +13,7 @@ Most projectile weapons have some amount of recoil, which makes rapid follow-up 
 - Recoil can be modified by weapon modifications and attachments as well as other sources.
 - If a two-handed weapon is used in one hand, its recoil is doubled.
 - Even weapons with only single-shot fire modes should have a recoil value- certain abilities may allow the user to use single-shot fire modes multiple times within one action, and some effects or mechanics may need to reference the recoil of a weapon.
+- Recoil can never be negative. If modifying effects would result in a negative recoil, it bottoms out at zero.
 ## Example
 - An attack is made with a rifle with its Burst:3 fire mode
 - The roll result is a 16
