@@ -1,5 +1,5 @@
 ---
-Tags:
+tags:
 - put tags here
 - tags are used for ????
 - common and useful tags include
