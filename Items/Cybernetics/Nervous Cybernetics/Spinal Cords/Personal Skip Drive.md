@@ -15,9 +15,9 @@ tags:
 * [[Cybernetics#Cybercost|Cybercost]]:
 	* 4.
 * Abilities:
-	* The user does not pay the [[Psyfocus]] cost when using [[Skip Self]].
+	* The user does not pay the [[Psyfocus]] or component costs when using [[Skip Self]].
 	* The user can use [[Skip Self]] as if they have a [[NOR-1 My First Psylink|Psylink]] and know the [[Psycasts|Psycast]].
 	* The user can allocate 1 [[RAM]] to this cybernetic as an action to trigger the following effects:
-		* They use [[Skip Self]] without paying any neural costs, casting time costs, or component costs.
+		* They use [[Skip Self]] without generating any [[Neural Heat]] or paying casting time costs.
 * Looks:
 	* .
