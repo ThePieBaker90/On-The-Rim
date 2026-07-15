@@ -7,7 +7,7 @@
 | [Brear Arms](link wip) | Weapons | 195T (large) |  |
 | [Bumble Ballistics](link wip) | Weapons | 998B (medium) |  Division of Victory Weapons Inc  |
 | [Castle Arms] | Weapons | 22T | Division of Victory Weapons Inc |
-| [Energetic Ballistics](link tbd) | Weapons | Division of Visa Nova Energy Inc |
+| [Energetic Ballistics](link tbd) | Weapons | 601B (medium) | Division of Visa Nova Energy Inc |
 | [Howard-Kasseler](link wip) | Weapons | 13T (medium) |  Division of Victory Weapons Inc |
 | [Königs Armaments](link WIP) | Weapons | 178T (large) |  |
 | [Lyon Arms](link tbd) | Weapons | 26B (small) | Division of All-Mark Inc |
