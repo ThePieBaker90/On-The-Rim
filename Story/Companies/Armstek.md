@@ -4,7 +4,7 @@ Armstek is a major weapons manufacturer. They are most well-known for their rifl
 
 ### OOU/OTT notes
 Weapons made by this company should generally have their appearance based on relatively modern weapons particularly those of American design. 
-Armstek weapons are often the nominal type for their class and their performance shoudl reflect that.
+Armstek weapons are often the nominal type for their class and their performance should reflect that.
 Naming convention is typically MXXX: Model last three year digits. If a nominal weapon type include the weapon type name.
 
 ## Major Products
