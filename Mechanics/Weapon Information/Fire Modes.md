@@ -20,5 +20,5 @@ Some fire modes expend multiple ammunition to fire multiple rounds and make mult
 ### Special Fire Modes
 - Suppressive Fire: See [Suppressive Fire](/Mechanics/Weapon%20Information/Suppressive%20Fire.md). Used to suppress an area, not primarily deal damage.
 - Area Attack: See [Area Attack](/Mechanics/Weapon%20Information/Area%20Attack.md). Rather than attacking a specific target, an area is attacked and all potential targets within that area make a save to avoid being hit.
-- Moving Fire: Move and shoot rather than stopping to aim. The user moves up to half their movement speed and then can make an attack with any of their weapon's non-special fire modes, with one level of [WIP](WIP) added. 
+- Moving Fire: Move and shoot rather than stopping to aim. The user moves up to half their movement speed and then can make an attack with any of their weapon's non-special fire modes, with one level of [Hipfire Penalty](Mechanics/Weapon%20Information/Hipfire%20Penalty.md) added. 
 - Safe: The weapon cannot be fired in Safe mode.
