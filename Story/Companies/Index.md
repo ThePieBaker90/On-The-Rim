@@ -11,4 +11,4 @@
 | [Howard-Kasseler](link wip) | Weapons | 13T (medium) |  Division of Victory Weapons Inc |
 | [Königs Armaments](link WIP) | Weapons | 178T (large) |  |
 | [Lyon Arms](link tbd) | Weapons | 26B (small) | Division of All-Mark Inc |
-| [Stader Corp](link tbd) | Weapons | 18T |  |
+| [Staeder Corp](link tbd) | Weapons | 18T |  |
