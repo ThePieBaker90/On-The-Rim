@@ -4,7 +4,7 @@
 | [Accelerated Arms LLC] | Weapons | 822B (medium) |  |
 | [Armstek](/Story/Companies/Armstek.md) | Weapons | 114T (large) | Subsidiary of Lienbrenner LLC |
 | [Azkash Group](link tbd) | Weapons | 19T (medium) | Division of Victory Weapons Inc |
-| [Brear Arms](link wip) | Weapons | 195T (large) |  |
+| [Brear Arms]Story/Companies/Brear%20Arms.md) | Weapons | 495T (large) |  |
 | [Bumble Ballistics](link wip) | Weapons | 998B (medium) |  Division of Victory Weapons Inc  |
 | [Castle Arms] | Weapons | 22T | Division of Victory Weapons Inc |
 | [Energetic Ballistics](link tbd) | Weapons | 601B (medium) | Division of Visa Nova Energy Inc |
