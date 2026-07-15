@@ -10,7 +10,7 @@ Most firearms have potential to jam. Some are extra likely to jam (e.g. a machin
 - A weapon may have the Unreliabile property. This property should be stated on the weapon's page. The Unreliable property increases the threshold of a critical failure by its level.
   - For example, a weapon with Unreliable: 2 will critically fail ot hit and become Jammed on a natural 1, 2, or 3.
 - A weapon can have the Unjammable property in which case it is immune to jamming.
-  - Unjammable weapons may still be jammed by the [Barrel Heat](/Mechanics/Weapon%20Information/Barrel%20Heat.md) mechanic, but not by any otherr sources.
+- A weapon can have the Reliable property, in which case it does not jam on a critical miss but may become jammed from other sources, such as [Barrel Heat](/Mechanics/Weapon%20Information/Barrel%20Heat.md).
 
 ## The Jammed Condition
 - A Jammed weapon cannot be fired; it cannot be used in any fire mode.
