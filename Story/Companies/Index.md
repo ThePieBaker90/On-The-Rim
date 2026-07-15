@@ -11,6 +11,6 @@
 | [Howard-Kasseler](link wip) | Weapons | 33T (medium) |  Division of Victory Weapons Inc |
 | [Hunstman Precision Rifles] | Weapons | 7T (medium) | Division of Victory Weapons Inc |
 | [Königs Armaments](link WIP) | Weapons | 178T (large) |  |
-| [Lyon Arms](link tbd) | Weapons | 26B (small) | Division of All-Mark Inc |
+| [Lyon Arms](link tbd) | Weapons | 26B (small) | Division of All-Market Inc |
 | [Staeder Corp](link tbd) | Weapons | 8T |  |
 | [Zulu Industrial Armaments] | Weapons | 67B (small-medium) |  |
