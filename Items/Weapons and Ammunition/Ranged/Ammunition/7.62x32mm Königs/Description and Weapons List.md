@@ -8,4 +8,4 @@
 D6
 
 ## Weapons List
-- 
+- [K88-V3](Items/Weapons%20and%20Ammunition/Ranged/Repeating%20Rifles/Assault%20Rifles/K88-V3.md)
