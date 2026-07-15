@@ -2,7 +2,7 @@
 | Name | Field | Value (size) | Other Notes |
 | --- | --- | ---| ---| 
 | [Accelerated Arms LLC] | Weapons | 822B (medium) |  |
-| [Armstek](/Story/Companies/Armstek) | Weapons | 114T (large) | Subsidiary of Lienbrenner LLC |
+| [Armstek](/Story/Companies/Armstek.md) | Weapons | 114T (large) | Subsidiary of Lienbrenner LLC |
 | [Azkash Group](link tbd) | Weapons | 19T (medium) | Division of Victory Weapons Inc |
 | [Brear Arms](link wip) | Weapons | 195T (large) |  |
 | [Bumble Ballistics](link wip) | Weapons | 998B (medium) |  Division of Victory Weapons Inc  |
