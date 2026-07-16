@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "LiHeart",
       "TiHearts",
       "LiList",
-      "LiHeartPulse",
-      "TiHeartCog"
+      "LiHeartPulse"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -575,7 +575,6 @@
   "Player States/Germlines/Rare Germlines/Hylotl.md": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines/Phytokin.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines": "LiCircleUserRound",
-  "Player States/Germlines/Uncommon Germlines/Drow.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Gato.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Impid.md": "LiCircleUserRound",
   "Player States/Xenotypes/Blood-Based": "LiList",
@@ -1245,11 +1244,9 @@
   "Psycasts/Creation Paths/Vegetator/4th Level/Ivy Kudzu Bomb.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/5th Level/Stylized Lifeweaver Grab.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/1st Level/Ritual of Cultivation.md": "LiSparkles",
-  "Player States/Germlines/Uncommon Germlines/Jangali.md": "LiCircleUserRound",
   "Traits/Genes/Cosmetic Genes/Horns/Devilish Horns.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Horns/Deer-Like Horns.md": "LiDna",
   "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound",
-  "Player States/Germlines/Common Germlines/Seer.md": "LiCircleUserRound",
   "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Tails/Arrow Tail.md": "LiDna",
   "Player States/Germlines/Common Germlines/Starjack.md": "LiListTodo",
@@ -1561,5 +1558,7 @@
   "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/OPC.md": "TiHeartCog",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Personal Skip Drive.md": "TiHeartCog",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Vampyr Psydrive.md": "TiHeartCog"
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Vampyr Psydrive.md": "TiHeartCog",
+  "Player States/Germlines/Uncommon Germlines/Seer.md": "LiCircleUserRound",
+  "Mechanics/Gameplay Information/Gravity.md": "LiListTodo"
 }

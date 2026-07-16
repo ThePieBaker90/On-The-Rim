@@ -25,7 +25,7 @@ aliases:
 	- [[Gravity Well]] (9, 36)
 ## Miscasts
 - Level 1 Miscast - Loss of Gravity
-	- You cannot be affected by any gravitational force for the next 2 turns. You are [[Immobilized]] except by grabbing nearby objects and pulling yourself with them.
+	- You cannot be affected by any [[Gravity|Gravitational]] force for the next 2 turns. You are [[Immobilized]] except by grabbing nearby objects and pulling yourself with them.
 - Level 2 Miscast - Gravitational Vortex
 	- You create a strong gravitational force to yourself, all creatures within 25ft of you must make a Constitution saving throw. 
 		- On a failure, they are pulled to you. 

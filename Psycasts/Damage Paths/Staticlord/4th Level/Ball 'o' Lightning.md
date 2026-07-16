@@ -24,7 +24,7 @@ tags:
 	- *You generate a ball of electricity around you before sending it forward to zap anything in front of you. The ball moves slowly but deals high damage and all except the center of the ball may move through surfaces. The high electricity disables electronics and automatically slows the ball when any creature is within its area.*
 	- The target sphere moves towards the target point with its [[Movement Speed]] at the beginning of your turn and when this psycast is cast. 
 		- If the center of the target sphere collides with a stable surface, it stops on the surface until the end of this psycast.
-		- The target sphere levitates and is not affected by gravity or any forces, it cannot be slowed or sped up except by itself.
+		- The target sphere levitates and is not affected by [[Gravity]] or any forces, it cannot be slowed or sped up except by itself.
 		- If the target sphere reaches the target point, the center of the target sphere will be at the exact same point as the target point.
 	- When any creature is in the target sphere, the sphere's [[Movement Speed]] is slowed.
 	- If a creature starts their turn in the target sphere, comes within the target sphere for the first time this turn, or ends their turn within the target sphere, they must make a Dexterity saving throw. 

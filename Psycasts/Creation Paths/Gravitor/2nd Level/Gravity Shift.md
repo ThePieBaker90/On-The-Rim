@@ -22,11 +22,11 @@ tags:
 	- 5 Minutes.
 - **Effects**:
 	- *You create an invisible area of altered gravity in a direction and with a strength of your choice.*
-	- While casting this psycast, you choose a strength and direction of gravity.
-	- For the duration of this psycast, gravity within the target cuboid is altered to a strength and direction you chose.
-		- External sources of gravity are ignored within the cube.
+	- While casting this psycast, you choose a strength and direction of [[Gravity]].
+	- For the duration of this psycast, [[Gravity]] within the target cuboid is altered to the strength and direction you chose.
+		- External sources of [[Gravity]] are ignored within the cube.
 - **Stats**:
-	- 3g Max Gravity Strength.
+	- 3g Max [[Gravity]] Strength.
 	- 10ft Target Cuboid Length. (+10ft*)
 	- 10ft Target Cuboid Width. (+10ft*)
 	- 10ft Target Cuboid Height. (+10ft*)

@@ -31,7 +31,7 @@ tags:
 			- On a success, nothing happens.
 			- Creatures supported by an object automatically succeed the saving throw.
 		- They require more [[Movement Speed]] to traverse per 1ft moved.
-		- They ignore external sources of gravity.
+		- They ignore external sources of [[Gravity]].
 		- If they are upside down, they lose health at the beginning of their turn.
 - **Stats**:
 	- +1ft [[Movement Speed]] Required Per 1ft Moved While Afflicted.
