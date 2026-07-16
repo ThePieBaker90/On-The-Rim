@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDna",
       "LiListTodo",
       "LiHeart",
       "TiHearts",
-      "LiList",
-      "LiHeartPulse"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1560,5 +1560,7 @@
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Personal Skip Drive.md": "TiHeartCog",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Vampyr Psydrive.md": "TiHeartCog",
   "Player States/Germlines/Uncommon Germlines/Seer.md": "LiCircleUserRound",
-  "Mechanics/Gameplay Information/Gravity.md": "LiListTodo"
+  "Mechanics/Gameplay Information/Gravity.md": "LiListTodo",
+  "Traits/Genes/Passive Genes/Resistances/Environment Resistances": "LiList",
+  "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Microgravity Resistance.md": "LiDna"
 }
