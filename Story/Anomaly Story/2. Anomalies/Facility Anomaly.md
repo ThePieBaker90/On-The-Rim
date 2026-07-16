@@ -229,7 +229,7 @@ Level 1 Access
 ### Manufacturing
 Level 0 Access
 - Loot:
-	- [[Adrenal Module]]
+	- [[Vampyr Psydrive]]
 	- [[Serrated Dagger]]
 	- A&B
 - Stations:

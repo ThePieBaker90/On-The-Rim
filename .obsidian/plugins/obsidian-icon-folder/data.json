@@ -1438,11 +1438,9 @@
   "Items/Cybernetics/Cardiovascular Cybernetics/Hearts/Aortas/Jumpstart-R.md": "LiCircuitBoard",
   "Items/Cybernetics/Cardiovascular Cybernetics/Hearts/Aortas/Resurrection Shard.md": "LiCircuitBoard",
   "Items/Cybernetics/Urinary Cybernetics/Kidneys": "TiHeartCog",
-  "Items/Cybernetics/Urinary Cybernetics/Kidneys/Modules": "LiCircuitBoard",
   "Items/Cybernetics/Urinary Cybernetics/Kidneys/Natural Kidney.md": "TiHearts",
   "Items/Cybernetics/Urinary Cybernetics/Kidneys/Surrogate Kidney.md": "TiHeartDown",
   "Items/Cybernetics/Urinary Cybernetics/Kidneys/Synthetic Kidney.md": "TiHeartUp",
-  "Items/Cybernetics/Urinary Cybernetics/Kidneys/Modules/Adrenal Module.md": "LiCircuitBoard",
   "Items/Cybernetics/Digestive Cybernetics/Livers": "TiHeartCog",
   "Items/Cybernetics/Digestive Cybernetics/Livers/Fleshmass Liver.md": "TiHeartBroken",
   "Items/Cybernetics/Digestive Cybernetics/Livers/Natural Liver.md": "TiHearts",
@@ -1562,5 +1560,6 @@
   "Items/Cybernetics/Sensory Cybernetics/Noses/Prosthetic Nose.md": "TiHeartDown",
   "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/OPC.md": "TiHeartCog",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Personal Skip Drive.md": "TiHeartCog"
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Personal Skip Drive.md": "TiHeartCog",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Vampyr Psydrive.md": "TiHeartCog"
 }
