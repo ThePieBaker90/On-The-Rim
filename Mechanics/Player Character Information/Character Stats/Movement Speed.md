@@ -7,7 +7,7 @@ aliases:
 ---
 ## Movement Speed Overview
 - All creatures have a movement speed. Movement speed is used when moving in battle and it determines how far a creature can move in 1 turn (6 seconds). 
-	- Most creature's base movement speed is 30ft.
+	- Most creatures' base movement speed is 30ft.
 	- Movement speed is a resource that can be increased or decreased.
 		- Unspent movement speed is lost when you begin your next turn.
 	- Movement speed is measured in feet, when converting to other distances 5 feet = 1.524 meters.
