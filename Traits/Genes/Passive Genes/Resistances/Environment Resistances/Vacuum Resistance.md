@@ -6,4 +6,11 @@ tags:
 - **[[Metabolic Efficiency]]:**
 	- -2
 - **Effects:**
-	- Carriers of this gene are accustomed to microgravity and do not suffer the negative effects of being in [[Gravity#Reduced Gravity|Reduced Gravity]] and [[Gravity#Microgravity|Microgravity]].
+	- Carriers of this gene with one or more levels of [[Vacuum Exposure]] suffer the following effects instead of the normal effects of [[Vacuum Exposure]]:
+		- They take $n$ true damage, per turn.
+			- $n$ is the number of levels of [[Vacuum Exposure]] the creature has.
+		- They must make a DC $n$ [[Constitution]] saving throw at start of their turn.
+			- On a failure, they fall [[Unconscious]] for 1d5 minutes.
+			- On a success, nothing happens.
+			- $n$ is the number of levels of [[Vacuum Exposure]] the creature has.
+		- When they are no longer in a [[Vacuum]], they lose all levels of [[Vacuum Exposure]].

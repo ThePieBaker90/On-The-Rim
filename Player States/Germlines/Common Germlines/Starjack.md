@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *TODO*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -9 (100% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 6-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -30,6 +30,7 @@ tags:
 	- None.
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Microgravity Resistance]]
+	- [[Vacuum Resistance]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Dexterity Increase]]
 	- [[Medium Intelligence Increase]]

@@ -38,10 +38,10 @@ aliases:
 - Condition granting effects give the creature who has the condition additional conditions or statuses. These conditions and statuses remove themselves when the condition they came from is removed (unless another effect gave the creature that condition or status).
 	- For example, [[Flashed]] has only condition granting effects.
 ### Start of Turn Effects
-- Start of turn effects are effects that specify "at the start of their turn," specifically the effect happens when the affected creature begins their turn.
+- Start of turn effects are effects that specify "at the start of their turn," specifically the effect happens when the affected creature begins their turn. 
 	- For example, [[On Fire!|On Fire!'s]] damage is a start of turn effect.
 ### End of Turn Effects
-- End of turn effects are effects that specify "per turn," specifically the effect happens when the affected creature ends their turn.
+- End of turn effects are effects that specify "per turn," specifically the effect happens when the affected creature ends their turn. 
 	- For example, [[Poison Buildup|Poison Buildup's]] damage is an end of turn effect.
 ### Triggered Effects
 - Triggered effects occur when a condition or event specified by the effect occurs.

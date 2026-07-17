@@ -1,0 +1,15 @@
+---
+tags:
+  - Condition
+  - Negative-Condition
+---
+- Vacuum Exposure always has an indefinite duration.
+- Vacuum Exposure may stack.
+- When a creature has one or more levels of vacuum exposure, they suffer the following effects:
+	- They take $2^n$ true damage, per turn.
+		- $n$ is the number of levels of vacuum exposure the creature has.
+	- They must make a DC $10+2n$ [[Constitution]] saving throw at start of their turn.
+		- On a failure, they fall [[Unconscious]] for 1d5 minutes.
+		- On a success, nothing happens.
+		- $n$ is the number of levels of vacuum exposure the creature has.
+	- When they are no longer in a [[Vacuum]], they lose all levels of vacuum exposure.

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretDown",
       "LiInfo",
       "LiLandPlot",
       "LiDna",
-      "LiListTodo",
-      "LiHeart"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1533,7 +1533,7 @@
   "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Microgravity Resistance.md": "LiDna",
   "Mechanics/Gameplay Information/Environment Information/Gravity.md": "LiListTodo",
   "Mechanics/Gameplay Information/Environment Information": "LiLandPlot",
-  "Mechanics/Gameplay Information/Environment Information/Vacuum.md": "LiListTodo",
+  "Mechanics/Gameplay Information/Environment Information/Vacuum.md": "LiInfo",
   "Psycasts/Creation Paths/Vegetator/2nd Level/Conjure Foliage.md": "LiListTodo",
   "Mechanics/Gameplay Information/Environment Information/Lighting.md": "LiListTodo",
   "Mechanics/Player Character Information": "LiInfo",
@@ -1565,5 +1565,8 @@
   "Mechanics/Gameplay Information/Germline Information/Gene Information/Genes.md": "LiInfo",
   "Mechanics/Gameplay Information/Germline Information/Gene Information/Metabolic Efficiency.md": "LiInfo",
   "Mechanics/Gameplay Information/Germline Information/Gene Information/Xenogenes.md": "LiInfo",
-  "Mechanics/Gameplay Information/Action Information/Rolling to Hit.md": "LiInfo"
+  "Mechanics/Gameplay Information/Action Information/Rolling to Hit.md": "LiInfo",
+  "Mechanics/Gameplay Information/Action Information/Actions.md": "LiListTodo",
+  "Conditions/Special Conditions/Vacuum Exposure.md": "FarSquareCaretDown",
+  "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Vacuum Resistance.md": "LiDna"
 }
