@@ -24,7 +24,7 @@ tags:
 	- *You use a thorny vine to attack a creature near its sprout. You can use a preexisting thorny vine or create a new one.*
 	- When you cast this psycast, you choose to either create a thorny vine or use an already created thorny vine.
 		- If you choose to create a thorny vine, the rest of this psycast carries out like normal. The thorny vine dies after its lifetime passes.
-		- If you choose to use an already created thorny vine, the vine must be within range of you, must have been created by you, and must still be alive. The target point becomes the chosen thorny vine and you lose some [[Neural Heat]]. The thorny vine has its lifetime refreshed.
+		- If you choose to use an already created thorny vine, the vine must be within range of you, must have been created by you, and must still be alive. The target point becomes the chosen thorny vine, you lose some [[Neural Heat]]. The thorny vine has its lifetime refreshed.
 	- Make a ranged attack against the target creature, adding your psycast ability modifier to the result.
 		- On a hit, the thorny vine deals piercing damage.
 - **Stats**:

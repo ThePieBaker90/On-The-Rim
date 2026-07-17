@@ -13,7 +13,7 @@ aliases:
 	- [[Grasping Vine]] (2, 14)
 	- [[Thorny Spike]] (2, 12)
 - 2nd Level:
-	- [[Conjure Ficus]]
+	- [[Conjure Foliage]]
 	- [[Local Flora]]
 - 3rd Level:
 	- [[Rising Flower Platform]]

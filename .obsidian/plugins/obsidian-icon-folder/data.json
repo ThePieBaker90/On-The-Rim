@@ -1236,7 +1236,6 @@
   "Psycasts/Creation Paths/Vegetator/3rd Level": "TiHexagonNumber3",
   "Psycasts/Creation Paths/Vegetator/4th Level": "TiHexagonNumber4",
   "Psycasts/Creation Paths/Vegetator/5th Level": "TiHexagonNumber5",
-  "Psycasts/Creation Paths/Vegetator/2nd Level/Conjure Ficus.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/2nd Level/Local Flora.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/3rd Level/Rising Flower Platform.md": "LiListTodo",
   "Psycasts/Creation Paths/Vegetator/3rd Level/Thorny Ground.md": "LiListTodo",
@@ -1564,5 +1563,6 @@
   "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Microgravity Resistance.md": "LiDna",
   "Mechanics/Gameplay Information/Environment Information/Gravity.md": "LiListTodo",
   "Mechanics/Gameplay Information/Environment Information": "LiLandPlot",
-  "Mechanics/Gameplay Information/Environment Information/Vacuum.md": "LiListTodo"
+  "Mechanics/Gameplay Information/Environment Information/Vacuum.md": "LiListTodo",
+  "Psycasts/Creation Paths/Vegetator/2nd Level/Conjure Foliage.md": "LiListTodo"
 }

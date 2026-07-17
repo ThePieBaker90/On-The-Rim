@@ -22,7 +22,8 @@ tags:
 	- .
 - **Effects**:
 	- *You conjure a thick bush which can be used as a hiding spot*
-	- 
+	- You create a thick bush at the target point. Medium or smaller creatures may hide in or around the bush.
+		- The bush
 - **Stats**:
 	- .
 - **Upcasting**:
