@@ -1,7 +1,7 @@
 ***VERY* WIP**
 ## Duelist
 * **Stat Changes:**
-	*Medium increase to dex. Small increase to movement speed? Large point buy.
+	* Medium increase to dex. Small increase to movement speed? Large point buy.
 * **Passives:** 
 	* +1 to hit and maybe damage buff each turn the same enemy is attacked?
  	* Extra attacks or smth, they attack very rapidly
