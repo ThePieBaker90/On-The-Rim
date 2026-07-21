@@ -1,3 +1,8 @@
+---
+tags:
+- tags_needed
+--- 
+
 ## General Description
 Some weapons have a built-in magazine instead of a detachable external one. These are reloaded not by swapping the magazine but by loading ammunition into the magazine, individually or using clips or another sort of speedloader.
 Any ranged weapon without an external magazine should be given this property even if it doesn't actually have a true internal magazine- e.g. revolvers or break-action weapons.
