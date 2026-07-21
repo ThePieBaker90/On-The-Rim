@@ -4,7 +4,7 @@ tags:
 ---
 
 ## General Description
-Suppressive fire is a special [fire mode](/Mechanics/Weapon%20Information/Fire%20Modes.md). Rather than aiming to damage opponents, it primarily serves to hinder the opponents' ability to fight back. Whereas ordinary fire modes represent a brief and controlled burst of fire, suppressive fire is sustained and continuous fire over the course of a combat round. 
+Suppressive fire is a special [fire mode](/Mechanics/Weapon%20Information/Mechanics/Fire%20Modes.md). Rather than aiming to damage opponents, it primarily serves to hinder the opponents' ability to fight back. Whereas ordinary fire modes represent a brief and controlled burst of fire, suppressive fire is sustained and continuous fire over the course of a combat round. 
 
 ## Mechanics
 
