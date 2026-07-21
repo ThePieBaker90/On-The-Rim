@@ -18,6 +18,7 @@ The Armstek Model 5299 Battle Rifle is a very popular firearm. Chambered in 7.92
 	- [7.92 Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/7.92x57mm%20Empire)
 - [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
 	- Safe
+ 	- Semi-automatic 
  	- Burst: 3
  - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
 	 - Magazine: 1 action
