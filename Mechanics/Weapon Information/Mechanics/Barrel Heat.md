@@ -21,7 +21,7 @@ Certain weapons, primarily belt-fed ones with a high rate of fire, generate heat
 ### Heat capacity
 - The weapon will have a speicified heat capacity as some die or dice.
   - Typically 1D6
-- After using suppressive fire, roll the heat capacity dice. If the roll is less than the current heat, the weapon is [Jammed](/Conditions/Non-Creature%20Conditions/Weapon/Jammed.md). This jam does not interfere with the suppressive fire that caused it but occurs afterwards.
+- After using suppressive fire, roll the heat capacity dice. If the roll is less than the current heat, the weapon is [Jammed](/Jesh's%20Shit/Mechanics/Weapons%20Jamming.md). This jam does not interfere with the suppressive fire that caused it but occurs afterwards.
 ### Other effects of heat
 - Accuracy of the weapon is decreased with a -1 to hit per unit heat on the weapon.
 - On a failed unjamming check the user takes thermal damage equal to the weapon's heat.
