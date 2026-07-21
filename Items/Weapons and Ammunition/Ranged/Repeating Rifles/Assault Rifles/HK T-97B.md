@@ -38,7 +38,7 @@ The Howard-Kasseler Type 5397 rifle is a scaled-down version of the company's su
 - 900
 
 ## Visual Description
-HK33A2
+Howa Type 89
 
 ## Lore
-The HK T-97 was developed from 5294 as a smaller-calibre companion to the T-65. Much of the design remained the same as the T-63, and the two rifles can be difficult to tell apart from a distance. As is typical of Howard-Kasseler rifles, the T-97 has a heavy emphasis on reliable and consistent performance, somewhat at the expense of cost. The barrel is machined to extremely tight tolerances from high-quality materials, the feed mechanism is carefully balanced to minimize potential jams, and the body is made to be rugged and robust for operation in any environment. 
+The HK T-97 was developed from 5294 as a smaller-calibre companion to the T-65. As is typical of Howard-Kasseler rifles, the T-97 has a heavy emphasis on reliable and consistent performance, at the expense of cost. The barrel is machined to extremely tight tolerances from high-quality materials, the feed mechanism is carefully balanced to minimize potential jams, and the body is made to be rugged and robust for operation in any environment. 
