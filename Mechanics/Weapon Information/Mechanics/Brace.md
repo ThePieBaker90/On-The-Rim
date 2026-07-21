@@ -16,5 +16,5 @@ A character can brace, placing themselves in an optimal firing stance to manage 
 ## The Braced Condition
 - Recoil is reduced by 2
   - Notably: in the case of two-handed being used with one hand, this effect is applied after the recoil is doubled (to prevent an effective -4 to recoil)
-- Negates one level of [WIP, that innacuracy thing](WIP)
+- Negates one level of [Hipfire Penalty](/Mechanics/Weapon%20Information/Mechanics/Hipfire%20Penalty.md)
 - Weapons, abilitied, etc. may specify additional effects of being Braced. For example, some particularly heavy weapons may require bracing to use.
