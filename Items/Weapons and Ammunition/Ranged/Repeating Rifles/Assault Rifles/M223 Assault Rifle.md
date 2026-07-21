@@ -16,7 +16,7 @@ The Armstek Model 5223 assault rifle is an extremely popular firearm. Well-regar
   - Maximum: 120ft
 - [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 2 
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
-	- [5.45mm Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/5.45x42mm%20Empire)
+	- [5.45 Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/5.45x42mm%20Empire)
 - [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
   - Safe
   - Semi-automatic
