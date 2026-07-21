@@ -31,7 +31,7 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
   	- Maximum:
 - [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
-	- [Include link to the folders for each cartridge used](Items/Weapons%20and%20Ammunition/Ranged/Ammunition/Templates)
+	- [Include link to the folders for each cartridge used](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/Templates)
 - [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
 	- Mode 1: etc.
  - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
