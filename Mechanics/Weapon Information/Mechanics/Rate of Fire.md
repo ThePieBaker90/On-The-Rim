@@ -11,3 +11,5 @@ Examples include:
 * ROF of 1: 1 attack is made when 1 action is used.
 * ROF is 1.5: 1 attack is made when 1 action is used, every other action has an extra attack.
 * ROF of 2: 2 attacks are made when 1 action is used.
+
+### OBSOLETE!!!
