@@ -28,7 +28,7 @@ Suppressive fire is a special [fire mode](/Mechanics/Weapon%20Information/Mechan
 - On belt-fed weapons the amount of ammunition consumed by suppressive fire is a fixed amount.
   - If the weapon does not have that amount of ammunition remaining in its belt it cannot do suppressive fire.
 - The thresholds for the tiered save are similarly fixed numbers, typically 12/18.
-- Suppressive fire on a belt-fed weapon will typically affect [Barrel Heat](/Mechanics/Weapon%20Information/Barrel%20Heat.md)
+- Suppressive fire on a belt-fed weapon will typically affect [Barrel Heat](/Mechanics/Weapon%20Information/Mechanics/Barrel%20Heat.md)
 ### Magazine-fed weapons
 - Magazine-fed weapons have a minimum ammunition requirement.
     - If the weapon does not have at least that amount of ammunition remaining in its magazine it cannot do suppressive fire, typically 10.
