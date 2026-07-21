@@ -8,4 +8,5 @@
 D8
 
 ## Weapons List
-- 
+- [HK T-65B](/Items/Weapons%20and%20Ammunition/Ranged/Repeating%20Rifles/Battle%20Rifles/HK%20T-65B.md)
+- [M299 Battle Rifle](/Items/Weapons%20and%20Ammunition/Ranged/Repeating%20Rifles/Battle%20Rifles/M299%20Battle%20Rifle.md)
