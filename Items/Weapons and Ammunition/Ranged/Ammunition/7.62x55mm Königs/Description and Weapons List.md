@@ -10,3 +10,4 @@ D8
 ## Weapons List
 - [K04](/Items/Weapons%20and%20Ammunition/Ranged/Single%20Rifles/Service%20Rifles/K04.md)
 - [K34-V2](/Items/Weapons%20and%20Ammunition/Ranged/Repeating%20Rifles/Battle%20Rifles/K34-V2.md)
+- [K49-V2](/Items/Weapons%20and%20Ammunition/Ranged/Single%20Rifles/Marksman%20Rifles/K49-V2.md)
