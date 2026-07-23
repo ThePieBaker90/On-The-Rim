@@ -20,6 +20,8 @@ tags:
 		- Average, Muscled, Thin
 	- [[Iris Color]]
 		- All natural colors
+	- [[Sclera Color]]
+		- White
 	- [[Bunny Ears]]
 	- [[Short Fur]]
 		- All natural colors, pastels

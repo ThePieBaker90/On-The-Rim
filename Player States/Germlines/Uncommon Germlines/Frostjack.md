@@ -15,11 +15,13 @@ tags:
 	- [[Skin Color]]
 		- Blues, Violets, Purples
 	- [[Hair Color]]
-		- Blacks, Greys, Whites, Blues, Violets, Silvers, Purples
+		- Blacks, Greys, Whites, Blues, Silvers, Purples
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
-		- Blacks, Blues, Whites, Gold, Silver
+		- Blacks, Blues, Whites, Purples, Golds, Silvers
+	- [[Sclera Color]]
+		- Black
 	- [[Arrow Tail]]
 	- [[Devilish Horns]]
 	- [[Pointy Ears]]

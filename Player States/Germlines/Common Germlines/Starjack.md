@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *TODO*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (100% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 6-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -13,13 +13,15 @@ tags:
 	- Ptolomic
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Whites, Grays, Grayish Purples, Purples
+		- Purples, Reds, Blues, Blacks
 	- [[Hair Color]]
-		- Darker than Skin Color
+		- Blacks, Greys, Whites, Blues, Violets, Reds, Silvers, Purples
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
-		- All natural colors
+		- Blues, Reds, Purples, Whites, Golds, Silvers
+	- [[Sclera Color]]
+		- Dark Grey
 	- [[Pointy Ears]]
 	- [[Minor Tail]]
 	- [[Mini Horns]]
@@ -31,8 +33,10 @@ tags:
 - **[[Genes#Passive Genes|Passive Endogenes]]**
 	- [[Microgravity Resistance]]
 	- [[Vacuum Resistance]]
+	- [[Darkvision (30ft)]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
-	- [[Medium Dexterity Increase]]
+	- [[Small Dexterity Increase]]
 	- [[Medium Intelligence Increase]]
+	- [[Small Charisma Increase]]
 	- [[Small Strength Decrease]]
 

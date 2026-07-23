@@ -20,6 +20,8 @@ tags:
 		- Muscled, Plus-Sized
 	- [[Iris Color]]
 		- All natural colors
+	- [[Sclera Color]]
+		- White
 	- [[Bearded]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]

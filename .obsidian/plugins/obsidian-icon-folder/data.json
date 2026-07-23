@@ -542,7 +542,6 @@
   "Player States/Xenotypes": "TiUserPentagon",
   "Player States/Germlines/Common Germlines": "LiCircleUserRound",
   "Player States/Germlines/Common Germlines/Dwarf.md": "LiCircleUserRound",
-  "Player States/Germlines/Common Germlines/Half-Foot.md": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines/Bunkin.md": "LiCircleUserRound",
   "Player States/Germlines/Rare Germlines/Hylotl.md": "LiCircleUserRound",
@@ -1219,7 +1218,6 @@
   "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Tails/Arrow Tail.md": "LiDna",
   "Player States/Germlines/Common Germlines/Starjack.md": "LiListTodo",
-  "Player States/Germlines/Uncommon Germlines/Frostjack.md": "LiCircleUserRound",
   "Traits/Genes/Cosmetic Genes/Tails/Minor Tail.md": "LiDna",
   "Items/Consumables/Drugs/Coffee.md": "LiBeer",
   "Mechanics/Gameplay Information/Drug Information": "TiSpiral",
@@ -1568,5 +1566,7 @@
   "Mechanics/Gameplay Information/Action Information/Rolling to Hit.md": "LiInfo",
   "Mechanics/Gameplay Information/Action Information/Actions.md": "LiListTodo",
   "Conditions/Special Conditions/Vacuum Exposure.md": "FarSquareCaretDown",
-  "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Vacuum Resistance.md": "LiDna"
+  "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Vacuum Resistance.md": "LiDna",
+  "Player States/Germlines/Uncommon Germlines/Frostjack.md": "LiCircleUserRound",
+  "Player States/Germlines/Uncommon Germlines/Half-Foot.md": "LiCircleUserRound"
 }

@@ -13,13 +13,15 @@ tags:
 	- Scorched
 - **[[Genes#Cosmetic Genes|Cosmetic Endogenes:]]**
 	- [[Skin Color]]
-		- Oranges, Reds, Yellows, Warm-Greens
+		- Oranges, Yellows, Warm-Greens
 	- [[Hair Color]]
-		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes, Purples, 
+		- Blacks, Greys, Whites, Browns, Reds, Oranges, Blondes,
 	- [[Body Type]]
 		- Average, Muscled, Plus-Sized
 	- [[Iris Color]]
 		- Blacks, Reds, Whites, Gold, Silver
+	- [[Sclera Color]]
+		- White
 	- [[Thin Tail]]
 	- [[Mini Horns]]
 	- [[Pointy Ears]]

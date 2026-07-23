@@ -20,6 +20,8 @@ tags:
 		- Average
 	- [[Iris Color]]
 		- Greens, Yellows, Oranges, Browns
+	- [[Sclera Color]]
+		- White
 	- [[Foliage Hair]]
 	- [[Barkskin]]
 - **[[Genes#Life Genes|Life Endogenes:]]**

@@ -20,6 +20,8 @@ tags:
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- All colors
+	- [[Sclera Color]]
+		- White
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]

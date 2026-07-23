@@ -20,6 +20,8 @@ tags:
 		- Muscled
 	- [[Iris Color]]
 		- All natural colors
+	- [[Sclera Color]]
+		- White Red
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]

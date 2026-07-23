@@ -13,13 +13,13 @@ aliases:
 Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
 ### Common Germlines
 - [[Dwarf]] - Higher [[Constitution]] and [[Strength]], enhanced defensive attributes, slower [[Movement Speed|Movement]] than others.
-- [[Half-Foot]] - Higher [[Charisma]] and [[Dexterity]], enhanced [[Movement Speed|Movement]] attributes, high rate of [[Hunger]].
 - [[Psytch]] - Higher [[Wisdom]] and [[Intelligence]], enhanced [[Psycasts|Psycasting]] attributes, lacks non-psycasting related traits.
 - [[Pure Human]] - jack of all [[Ability Scores]], resistant to death, lacks specialization.
-- [[Starjack]] - 
+- [[Starjack]] - Higher [[Intelligence]] among a slight boost to [[Charisma]] and [[Dexterity]], resistant to [[Vacuum|Vacuums]] and [[Gravity#Microgravity|Microgravity]], reduced [[Strength]]. 
 ### Uncommon Germlines
 - [[Frostjack]] - Higher [[Constitution]] and [[Intelligence]], cold damage resistance and natural darkvision, reduced [[Charisma]].
 - [[Gato]] -
+- [[Half-Foot]] - Higher [[Charisma]] and [[Dexterity]], enhanced [[Movement Speed|Movement]] attributes, high rate of [[Hunger]].
 - [[Hussar]] -
 - [[Impid]] -
 - Unnamed Cybernetic Based Germline

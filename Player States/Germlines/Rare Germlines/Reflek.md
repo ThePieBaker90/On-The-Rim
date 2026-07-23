@@ -20,6 +20,8 @@ tags:
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
 		- All natural colors
+	- [[Sclera Color]]
+		- White
 	- [[Autochromatic Skin]]
 	- [[Eternal Tears]]
 	- [[Pointy Ears]]

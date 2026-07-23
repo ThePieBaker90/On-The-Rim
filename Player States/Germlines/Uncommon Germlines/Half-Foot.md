@@ -20,6 +20,8 @@ tags:
 		- Average, Muscled, Plus-Sized, Thin
 	- [[Iris Color]]
 		- All natural colors
+	- [[Sclera Color]]
+		- White
 - **[[Genes#Life Genes|Life Endogenes:]]**
 	- [[Average Lifespan]]
 	- [[Omnivore]]

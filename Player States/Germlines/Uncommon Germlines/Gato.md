@@ -20,6 +20,8 @@ tags:
 		- Average, Thin
 	- [[Iris Color]]
 		- All natural colors
+	- [[Sclera Color]]
+		- Light Pink
 	- [[Cat Ears]]
 	- [[Cat Tail]]
 	- [[Cat Eyes]]

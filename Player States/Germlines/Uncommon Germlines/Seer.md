@@ -19,7 +19,9 @@ tags:
 	- [[Body Type]]
 		- Average, Muscled, Thin, Plus-Sized
 	- [[Iris Color]]
-		- All natural colors
+		- Bright Violet
+	- [[Sclera Color]]
+		- Black
 	- [[Third Eye]]
 	- [[Pointy Ears]]
 - **[[Genes#Life Genes|Life Endogenes:]]**
