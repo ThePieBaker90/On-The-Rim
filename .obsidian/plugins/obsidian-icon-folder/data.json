@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiUserCircle2",
       "FarSquareCaretDown",
       "LiInfo",
       "LiLandPlot",
-      "LiDna",
-      "LiListTodo"
+      "LiDna"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1217,7 +1217,7 @@
   "Player States/Germlines/Common Germlines/Psytch.md": "LiCircleUserRound",
   "Traits/Genes/Passive Genes/Psycasting/Increased Neural Heat Dissipation.md": "LiDna",
   "Traits/Genes/Cosmetic Genes/Tails/Arrow Tail.md": "LiDna",
-  "Player States/Germlines/Common Germlines/Starjack.md": "LiListTodo",
+  "Player States/Germlines/Common Germlines/Starjack.md": "LiUserCircle2",
   "Traits/Genes/Cosmetic Genes/Tails/Minor Tail.md": "LiDna",
   "Items/Consumables/Drugs/Coffee.md": "LiBeer",
   "Mechanics/Gameplay Information/Drug Information": "TiSpiral",

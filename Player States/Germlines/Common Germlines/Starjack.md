@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *TODO*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
+- *Starjacks were created to deal with certain logistical issues of space exploration. They are able to withstand the [[Vacuum]] of space much longer than others aswell as having natural darkvision.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 6-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**

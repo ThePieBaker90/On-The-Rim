@@ -2,7 +2,7 @@
 tags:
   - Germline
 ---
-- *Like [[Seer|Seers]], Psytches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability, have an easier time learning [[Psycasts]], and have a larger [[Neural Heat]] capacity.*
+- *Psytches were created to deal with the dwindling supply of [[NOR-1 My First Psylink|psylinks]] on urbworlds. They possess an innate psychic ability, have an easier time learning [[Psycasts]], and have a larger [[Neural Heat]] capacity.*
 - **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
