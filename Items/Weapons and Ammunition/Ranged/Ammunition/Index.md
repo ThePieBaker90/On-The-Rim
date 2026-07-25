@@ -22,8 +22,9 @@
 | [2-bore](./2-bore) | D12 | Punt Guns | |
 | [20x105mm Empire](./20x105mm%20Empire) | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
 | [35x220mm Empire](./35x220mm%20Empire) | D12 | Autocannons, Anti-Tank Cannons | Highly varied ammunition w/ various effects |
+| 57x102mm RCL | D10 | Recoilless Rifles |  Recoilless rifle munitions w/ various effects |
 | 90x540mm Empire | D12 | Cannons | Highly varied ammunition w/ various effects | 
-| 107x280mm RCL | D12 | Recoilless Rifles | Recoilless rifle munitions w/ various effects |
+| 107x280mm RPG | D12 | Rocket Launchers | Rocket launcher munitions w/ various effects |
 | 40x57mm Empire | Variable, see ammo and/or weapon for infromation | Grenade Launchers | Launcher grenades  w/ various effects |
 | 60x250mm mortar | Variable, see ammo and/or weapon for information | Mortars | Mortar bombs w/ various effects |
 | 4.5x25mm Needle | Variable, see ammo and/or weapon for information | Railguns | |
