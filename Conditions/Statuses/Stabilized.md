@@ -2,6 +2,7 @@
 tags:
   - Status
 ---
+- Stabilized may be [[Conditions#Pushing Through Conditions|Pushed Through]] by a creature who has it. 
 - When a creature is in the stabilized status they suffer the following effects:
 	- They are [[Incapacitated]],
 	- They are [[Prone]] and cannot get up.

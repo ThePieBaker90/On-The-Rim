@@ -3,6 +3,7 @@ tags:
   - Condition
   - Negative-Condition
 ---
+- Stunned may be [[Conditions#Pushing Through Conditions|Pushed Through]] by a creature who has it.
 - When a creature has the stunned condition they suffer the following effects:
 	- They are [[Incapacitated]].
 	- They are [[Immobilized]].

@@ -8,7 +8,8 @@ tags:
 	- They are [[Immobilized]].
 	- They are frozen in time and cannot do anything.
 	- They cannot be moved by any effects.
-	- Effects and triggers do not occur at the beginning and start of their turns.
+	- Effects and triggers do not occur at the beginning and end of their turns.
+		- This condition's duration is not affected by this.
 	- They automatically fail all strength and dexterity based skill checks and saving throws.
 	- Attack rolls against them have advantage.
 

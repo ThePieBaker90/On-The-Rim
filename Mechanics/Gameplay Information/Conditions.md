@@ -53,3 +53,6 @@ aliases:
 		- For example, if a creature has [[Inspiration]] and is granted [[Panic]], they lose [[Inspiration]] due to the immunity granted by [[Panic]].
 		- However if condition B also has an immunity to condition A, the condition that has been affecting the creature the longest stays, therefore now condition B stays and condition A is blocked from being granted.
 			- For example, if a creature has [[Energized]] and is granted [[Lethargic]], [[Lethargic]] is blocked from being granted due to the immunity from [[Energized]].
+## Pushing Through Conditions
+- Some conditions may state that a creature may push through the condition if they have it. Pushing through a condition can be done at any time, it removes the condition and reduces an [[Ability Scores|Ability Score]] of choice by 1 permanently.
+	- An [[Ability Scores|Ability Score]] may not be decreased below 8.
