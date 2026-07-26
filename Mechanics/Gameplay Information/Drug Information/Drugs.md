@@ -32,7 +32,7 @@ aliases:
 - When a user uses a drug they do not have a tolerance for, they begin tracking a tolerance number corresponding to the drug. This number starts at 0 and is not adjusted on a first use by using the drug.
 - When the user uses a drug they have a tolerance for, the [[#High Duration]] is reduced by their drug tolerance for the drug.
 - Additional effects may occur in certain ranges of drug tolerance as listed in the substance's drug tolerance field.
-- When the user's drug tolerance is adjusted, the following occurs on their tracked tolerance.
+- A user's tracked drug tolerance naturally falls when they rest. It falls 
 	- If it was due to their use of a drug, their tracked tolerance number for the corresponding drug is adjusted by the "on use." value indicated in the substance's drug tolerance field. 
 	- If it was due to them resting, the tracked tolerance numbers for all drugs decrease by 2.5%.
 ## Drug Addiction

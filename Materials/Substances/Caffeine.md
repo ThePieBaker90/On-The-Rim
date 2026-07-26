@@ -8,15 +8,12 @@ tags:
 - **High Duration:**
 	- 5 Hours.
 - **[[Drugs#Drug Usage|Usage]] Effects:**
-	- You gain +2 to rolls for initiative.
-	- You have advantage on saving throws to avoid falling [[Asleep]]
-	- You gain +2 to all Dexterity based checks and saving throws.
-	- You gain +2 to all [[Strength]] based checks and saving throws.
+	- You gain advantage on rolls for initiative.
 	- Your [[Movement Speed]] is increased by 5ft.
+	- You have advantage on saving throws to avoid falling [[Asleep]].
 	- You cannot rest.
-	- You have -1 on all [[Sight-Based Perception]] checks and saving throws.
 - **[[Drugs#Drug Tolerance|Drug Tolerance]]:**
-	- +5% on use.
+	- +5% tracked drug tolerance on use.
 
 | Tolerance Threshold | Effect                                                                      |
 | ------------------- | --------------------------------------------------------------------------- |

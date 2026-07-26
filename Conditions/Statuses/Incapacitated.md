@@ -6,5 +6,6 @@ tags:
 	- They cannot take actions.
 	- They cannot take bonus actions.
 	- They cannot take reactions.
+	- All actions they are doing are interrupted.
 
 
