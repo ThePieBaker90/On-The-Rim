@@ -25,6 +25,7 @@ tags:
 	- When you cast this psycast, you suffer the following effects:
 		- You are [[Intangible]].
 		- You are [[Incapacitated]].
+			- This does not interrupt this psycast.
 		- You are [[Immobilized]].
 		- You are [[Invisible]].
 		- Your current turn immediately ends.

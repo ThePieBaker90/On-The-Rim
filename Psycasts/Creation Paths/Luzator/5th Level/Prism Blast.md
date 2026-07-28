@@ -28,6 +28,7 @@ tags:
 	- For 1 turn after this psycast is cast, the the following effects occur:
 		- The target sphere creates [[Lighting#Bright Light|Bright Light]] within it.
 		- You are [[Incapacitated]] until the end of your turn.
+			- This does not interrupt this psycast.
 - **Stats**:
 	- 3d10 Radiant Damage from Blast.
 	- 3 Turn [[Exposed]] Duration.

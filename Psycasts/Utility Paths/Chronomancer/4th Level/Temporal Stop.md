@@ -21,10 +21,11 @@ tags:
 - **Duration**:
 	- 3 Turns.
 - **Effects**:
-	- *Time whirls around you, [[Stunned|Stunning]] everything caught within. You cannot move and take actions for the duration of this psycast.*
+	- *Time whirls around you, [[Stunned|Stunning]] everything caught within. You cannot move or take actions for the duration of this psycast.*
 	- For the duration of this psycast, you suffer the following effects:
 		- You are [[Immobilized]].
 		- You are [[Incapacitated]].
+			- This does not interrupt this psycast.
 	- For the duration of this psycast, all creatures within the target sphere suffer the following effects:
 		- They are [[Time-Stopped]].
 	- You are not considered to be in the target sphere.

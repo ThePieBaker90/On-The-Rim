@@ -2,7 +2,7 @@
 tags:
   - Status
 ---
-- Incapacitated may be [[Conditions#Pushing Through Conditions|Pushed Through]] by a creature who has it.
+- Psychic Stun may be [[Conditions#Pushing Through Conditions|Pushed Through]] by a creature who has it.
 - When a creature has the psychic stun status they suffer the following effects:
 	- They are [[Psy Sapped]].
 	- They are [[Incapacitated]].
