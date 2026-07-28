@@ -25,14 +25,14 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
 - Damage: Damage
 	- If there is different amounts of damage e.g. with different fire modes, use bullet points
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md)
-- [Range](/Mechanics/Weapon%20Information/Range.md)
+- [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
 	- Minimum Effective:
 	- Maximum Effective:
   	- Maximum:
-- [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 
+- [Recoil:](/Mechanics/Weapon%20Information/Mechanics/Recoil.md) 
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [Include link to the folders for each cartridge used](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/Templates)
-- [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
+- [Fire Modes](/Mechanics/Weapon%20Information/Mechanics/Fire%20Modes.md)
 	- Mode 1: etc.
  - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
 	 - Amount: time
