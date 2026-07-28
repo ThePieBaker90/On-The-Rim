@@ -8,17 +8,17 @@ The Armstek Rifle 18 is a robust and reliable service rifle. Its design is cente
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
-- [Two-Handed](/Mechanics/Weapon%20Information/Two-Handed.md)
+- [Two-Handed](/Mechanics/Weapon%20Information/Mechanics/Two-Handed.md)
 - Damage: 2d8
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 9
-- [Range](/Mechanics/Weapon%20Information/Range.md)
+- [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
 	- Minimum Effective: 15
 	- Maximum Effective: 80
   - Maximum: 150
-- [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 3
+- [Recoil:](/Mechanics/Weapon%20Information/Mechanics/Recoil.md) 3
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [7.92 Empire](/Items/Weapons%20and%20Ammunition/7.92x57mm%20Empire)
-- [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
+- [Fire Modes](/Mechanics/Weapon%20Information/Mechanics/Fire%20Modes.md)
 	 - Safe
    - Semi-automatic
  - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
