@@ -4,14 +4,14 @@ tags:
   - Brain
 ---
 * Install Location:
-	* [[Brain]] (Mammillary Bodies).
+	* [[Brain]] (Temporal Lobe).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	* +1.
+	* +2.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Intelligence.
 * Cost:
-	* 500 credits.
+	* 1000 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 1.
+	* 2.
 * Looks:
-	* A small computer which attaches to the user’s brain to assist them with intellectual tasks.
+	* A small quantum computer which attaches to the user’s brain to assist them with intellectual tasks.

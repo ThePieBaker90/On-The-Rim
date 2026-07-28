@@ -14,7 +14,10 @@ tags:
 	- +[[Wisdom]].
 	- +[[Charisma]].
 - [[Cybernetics#Cybernetic Slots|Part Slots]]:
+	- Cerebellum.
+	- Frontal Lobe.
+	- Parietal Lobe.
+	- Temporal Lobe.
 	- Thalamus.
-	- Mammillary Bodies.
 * Additional Info:
 	* Installation of a cybernetic brain requires downloading of patient’s brain data which requires a special machine and 8 hours of uninterrupted downloading.

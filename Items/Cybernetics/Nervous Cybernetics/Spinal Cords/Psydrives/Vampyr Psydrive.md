@@ -6,9 +6,9 @@ tags:
 * Install Location:
 	* [[Spinal Cord]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	* 0.
+	* +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	- None.
+	- +Constitution.
 * Cost:
 	* 900 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:

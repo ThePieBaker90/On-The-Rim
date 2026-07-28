@@ -2,16 +2,20 @@
 tags:
   - Cybernetic
   - Brain
+aliases:
 ---
 * Install Location:
-	* [[Brain]] (Mammillary Bodies).
+	* [[Brain]] (Thalamus).
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	* +1.
+	- 0.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
-	* +Wisdom.
+	- None.
 * Cost:
-	* 500 credits.
+	* 350 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 1.
+	* 0.5.
+* Abilities:
+	* The user has . additional [[RAM#Installed RAM|Installed RAM]] with a [[RAM#Cooldown Time|Cooldown Time]] of . turns.
+	* The user 
 * Looks:
-	* A small archival computer which attaches to the user’s brain which allows the user to recall stored information quickly and assists with decision making.
+	* .
