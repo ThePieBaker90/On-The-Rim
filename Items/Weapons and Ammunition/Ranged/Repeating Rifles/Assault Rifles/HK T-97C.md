@@ -11,11 +11,11 @@ The Howard-Kasseler Type 5397 rifle is a scaled-down version of the company's su
 - Damage: Median of 3d6
 	- Roll 3d6. Use the middle (median) die value.
 - [Armour Penetration:](Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 6
-- [Range](Mechanics/Weapon%20Information/Range.md)
+- [Range](Mechanics/Weapon%20Information/Mechanics/Mechanics/Range.md)
 	- Minimum Effective: 15
 	- Maximum Effective: 80
   - Maximum: 120
-- [Recoil:](Mechanics/Weapon%20Information/Recoil.md) 2
+- [Recoil:](Mechanics/Weapon%20Information/Mechanics/Recoil.md) 2
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [5.45mm Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/5.45x42mm%20Empire)
 - [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
