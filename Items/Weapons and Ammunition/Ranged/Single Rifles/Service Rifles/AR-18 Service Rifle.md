@@ -3,7 +3,7 @@ tags:
 - tags_needed
 ---
 ## General Description
-The Armstek Rifle 18 is a robust and reliable service rifle. Its design is centered around simplicity and reliability to minimize operator workload. With a comparable cost to the M306 Battle Rifle and AR-25B Marksman Rifle but lower performance than either, the AR-18 is not especially popular for professional military forces. However, its simplicity is valued for many secondary forces and corporate militias where heavy firepower is not as necessary and operator training is less extensive. 
+The Armstek Rifle 18 is a robust and reliable service rifle. Its design is centered around simplicity and reliability to minimize operator workload. With a comparable cost to the M299 Battle Rifle and AR-25B Marksman Rifle but lower performance than either, the AR-18 is not especially popular for professional military forces. However, its simplicity is valued for many secondary forces and corporate militias where heavy firepower is not as necessary and operator training is less extensive. 
 
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
