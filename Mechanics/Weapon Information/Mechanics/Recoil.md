@@ -23,3 +23,13 @@ Most projectile weapons have some amount of recoil, which makes rapid follow-up 
 - For the second, 16-2=14
 - For the third, 16-2-2=12
 - If the target's HC is 13, the first two round hit and the third misses
+
+## Suggested Values for Weapon Creation
+- Recoil generally scales with die size
+  - d4 is 1
+  - d6 is 2
+  - d8 is 3
+  - etc.
+- For one-handed weapons, add one
+- For weapons with unusually high theoretical damage output for the die size, add one
+- For weapons with unusually low theoretical damage output for the die size, subtract one
