@@ -9,14 +9,14 @@ The Armstek Model 5299 Battle Rifle is a very popular firearm. Chambered in 7.92
 - [Weight:](link tbd) Hefty, 5
 - Damage: 1d8
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 8
-- [Range](/Mechanics/Weapon%20Information/Range.md)
+- [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
 	- Minimum Effective: 15
 	- Maximum Effective: 80
   	- Maximum: 150
-- [Recoil:](/Mechanics/Weapon%20Information/Recoil.md) 3
+- [Recoil:](/Mechanics/Weapon%20Information/Mechanics/Recoil.md) 3
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
 	- [7.92 Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/7.92x57mm%20Empire)
-- [Fire Modes](/Mechanics/Weapon%20Information/Fire%20Modes.md)
+- [Fire Modes](/Mechanics/Weapon%20Information/Mechanics/Fire%20Modes.md)
 	- Safe
  	- Semi-automatic 
  	- Burst: 3
