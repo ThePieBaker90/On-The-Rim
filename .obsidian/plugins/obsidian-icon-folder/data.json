@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHeartCog",
       "LiCircuitBoard",
       "LiList",
       "LiListTodo",
-      "LiUserCircle2",
-      "FarSquareCaretDown"
+      "LiUserCircle2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1519,7 +1519,6 @@
   "Items/Cybernetics/Sensory Cybernetics/Noses/Prosthetic Nose.md": "TiHeartDown",
   "Body/Humanoid Body Parts/Digestive System/Intestines.md": "LiHeartPulse",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/OPC.md": "TiHeartCog",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Personal Skip Drive.md": "TiHeartCog",
   "Player States/Germlines/Uncommon Germlines/Seer.md": "LiCircleUserRound",
   "Traits/Genes/Passive Genes/Resistances/Environment Resistances": "LiList",
   "Traits/Genes/Passive Genes/Resistances/Environment Resistances/Microgravity Resistance.md": "LiDna",
@@ -1564,12 +1563,13 @@
   "Player States/Germlines/Uncommon Germlines/Frostjack.md": "LiCircleUserRound",
   "Player States/Germlines/Uncommon Germlines/Half-Foot.md": "LiCircleUserRound",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/Vampyr Psydrive.md": "TiHeartCog",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/VoiD Psydrive.md": "LiListTodo",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives": "LiList",
   "Items/Cybernetics/Nervous Cybernetics/Brains/Temporal Lobe": "LiCircuitBoard",
   "Items/Cybernetics/Nervous Cybernetics/Brains/Temporal Lobe/Intelligence Enhancer+.md": "LiCircuitBoard",
   "Items/Cybernetics/Nervous Cybernetics/Brains/Temporal Lobe/Intelligence Enhancer.md": "LiCircuitBoard",
   "Items/Cybernetics/Nervous Cybernetics/Brains/Temporal Lobe/Wisdom Enhancer+.md": "LiCircuitBoard",
   "Items/Cybernetics/Nervous Cybernetics/Brains/Temporal Lobe/Wisdom Enhancer.md": "LiCircuitBoard",
-  "Items/Cybernetics/Nervous Cybernetics/Brains/Frontal Lobe": "LiCircuitBoard"
+  "Items/Cybernetics/Nervous Cybernetics/Brains/Frontal Lobe": "LiCircuitBoard",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/VoidShift Psydrive.md": "TiHeartCog",
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/Personal-Skip Psydrive.md": "TiHeartCog"
 }
