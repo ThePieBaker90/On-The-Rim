@@ -10,7 +10,7 @@ The Armstek Model 5223 assault rifle is an extremely popular firearm. Well-regar
 - [Weight:](link tbd) Hefty, 5
 - Damage: 1d6
 - [Armour Penetration:](Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 6
-- [Range](Mechanics/Weapon%20Information/Mechanics/Range.md)
+- [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
 	- Minimum Effective: 15ft
 	- Maximum Effective: 75ft
   - Maximum: 120ft
