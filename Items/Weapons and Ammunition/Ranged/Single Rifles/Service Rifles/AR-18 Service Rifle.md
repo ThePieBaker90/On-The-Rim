@@ -17,7 +17,7 @@ The Armstek Rifle 18 is a robust and reliable service rifle. Its design is cente
   - Maximum: 150
 - [Recoil:](/Mechanics/Weapon%20Information/Mechanics/Recoil.md) 3
 - [Ammunition](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition)
-	- [7.92 Empire](/Items/Weapons%20and%20Ammunition/7.92x57mm%20Empire)
+	- [7.92 Empire](/Items/Weapons%20and%20Ammunition/Ranged/Ammunition/7.92x57mm%20Empire)
 - [Fire Modes](/Mechanics/Weapon%20Information/Mechanics/Fire%20Modes.md)
 	 - Safe
    - Semi-automatic
