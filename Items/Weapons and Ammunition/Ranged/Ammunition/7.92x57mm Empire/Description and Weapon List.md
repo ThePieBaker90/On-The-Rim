@@ -10,5 +10,5 @@ D8
 ## Weapons List
 - [HK T-65B](/Items/Weapons%20and%20Ammunition/Ranged/Repeating%20Rifles/Battle%20Rifles/HK%20T-65B.md)
 - [M299 Battle Rifle](/Items/Weapons%20and%20Ammunition/Ranged/Repeating%20Rifles/Battle%20Rifles/M299%20Battle%20Rifle.md)
-- [AR-18 Service Rifle](/Items/Weapons%20and%20Ammunition/Ranged/Single%20Rifles/Service%20Rifles/M418%20Service%20Rifle.md)
+- [AR-18 Service Rifle](/Items/Weapons%20and%20Ammunition/Ranged/Single%20Rifles/Service%20Rifles/AR-18%20Service%20Rifle.md)
 - [AR-25B Marksman Rifle](/Items/Weapons%20and%20Ammunition/Ranged/Single%20Rifles/Marksman%20Rifles/AR-25B%20Marksman%20Rifle.md)
