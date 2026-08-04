@@ -47,7 +47,7 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
 
 ## Special Mechanics and Properties
 - Add special mechanics and properties here
-- Anything that doesn't have its own descriptino page
+- Anything that doesn't have its own description page
 - Fully describe the mechanic or property here
 	- And use nested bullet points for clarity
 
