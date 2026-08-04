@@ -22,6 +22,7 @@ Here is a brief 2-3 sentence description of the weapon. A bit on its function, r
 - Some common properties:
 - [Size:](link tbd) size class, size value
 - [Weight:](link tbd) class, value
+- [XXX-Handed](/Mechanics/Weapon%20Information/Properties/XXX-Handed.md)
 - Damage: Damage
 	- If there is different amounts of damage e.g. with different fire modes, use bullet points
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md)
