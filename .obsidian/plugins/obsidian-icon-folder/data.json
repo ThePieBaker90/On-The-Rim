@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkles",
       "TiHeartCog",
       "LiCircuitBoard",
       "LiList",
-      "LiListTodo",
-      "LiUserCircle2"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1119,7 +1119,6 @@
   "Psycasts/Utility Paths/Hemomancer/4th Level": "TiHexagonNumber4",
   "Psycasts/Utility Paths/Chronomancer/1st Level/Split Second.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/1st Level/Absorb Bleeding.md": "LiListTodo",
-  "Psycasts/Utility Paths/Hemomancer/1st Level/Inflict Bleed.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Blood Spike Shotgun Attack.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Cleanse Bleed.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Weapon Lifesteal.md": "LiListTodo",
@@ -1571,5 +1570,6 @@
   "Items/Cybernetics/Nervous Cybernetics/Brains/Temporal Lobe/Wisdom Enhancer.md": "LiCircuitBoard",
   "Items/Cybernetics/Nervous Cybernetics/Brains/Frontal Lobe": "LiCircuitBoard",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/VoidShift Psydrive.md": "TiHeartCog",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/Personal-Skip Psydrive.md": "TiHeartCog"
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/Personal-Skip Psydrive.md": "TiHeartCog",
+  "Psycasts/Utility Paths/Hemomancer/1st Level/Barbed Bolt.md": "LiSparkles"
 }

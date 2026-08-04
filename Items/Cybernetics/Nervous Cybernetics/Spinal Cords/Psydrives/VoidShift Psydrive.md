@@ -10,7 +10,7 @@ tags:
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	- +Dexterity.
 * Cost:
-	* 900 credits.
+	* 1500 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
 	* 2.
 * Abilities:

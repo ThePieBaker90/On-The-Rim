@@ -10,7 +10,7 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Absorb Bleeding]]
-	- [[Inflict Bleed]]
+	- [[Barbed Bolt]]
 - 2nd Level:
 	- [[Blood Spike Shotgun Attack]]
 	- [[Cleanse Bleed]]

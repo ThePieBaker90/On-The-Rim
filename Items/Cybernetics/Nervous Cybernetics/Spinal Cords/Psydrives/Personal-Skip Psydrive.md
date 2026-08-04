@@ -9,11 +9,10 @@ tags:
 	* +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +Dexterity.
-	* +Intelligence.
 * Cost:
-	* 1550 credits.
+	* 1500 credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	* 4.
+	* 2.
 * Abilities:
 	* The user does not pay the [[Psyfocus]] or component costs when using [[Skip Self]].
 	* The user can use [[Skip Self]] as if they have a [[NOR-1 My First Psylink|Psylink]] and know the [[Psycasts|Psycast]].

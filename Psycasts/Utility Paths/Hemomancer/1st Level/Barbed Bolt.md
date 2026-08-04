@@ -1,0 +1,37 @@
+---
+tags:
+  - Psycast
+  - Hemomancer
+  - 1st-Level
+---
+- **Path**:
+	- 1st Level [[Hemomancer Psycasts|Hemomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 2
+- **[[Neural Heat]] Generation:**
+	- 11
+- [[Range]]:
+	- 40ft.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *A barbed bolt of blood shoots from your outstretched arm, damaging and inflicting a [[Bleeding|Bleed]] on a hit creature. If the bolt's barbs slash a creature, they will bleed longer.*
+	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. 
+		- On a hit, the bolt pierces the creature dealing piercing damage and applying [[Bleeding]].
+			- This does not trigger if the following effect would also trigger.
+		- On an attack roll with a result near the creature's effective [[Hit Class]], the bolt slashes the creature dealing slashing damage and applying a longer lasting [[Bleeding|Bleed]].
+			- The attack roll result does not need to be a hit and does include all modifiers.
+- **Stats**:
+	- 1d8 Piercing Damage from the Barbed Bolt Pierce. (+1d4 Piercing Damage)
+	- 1d6 Slashing Damage from Barbed Bolt Slash. (+1d4 Slashing Damage)
+	- Within 1 of a creature's effective [[Hit Class]] to Slash.
+	- 1 Turn [[Bleeding]] Duration from Barbed Bolt Pierce.
+	- 3 Turn [[Bleeding]] Duration from Barbed Bolt Slash.
+- **Upcasting**:
+	- You may upcast this psycast. For every 9 psyfocus spent above the normal cost for this psycast, the bolt deals an additional 1d4 piercing damage on a pierce and an additional 1d4 slashing damage on a slash.
