@@ -2,4 +2,4 @@ Marksman carbines are small and compact rifles designed for high accuracy in a c
 - Typical die size: D6
 - Typical RoF: 1
 - Typical capacity: 20
-- Range: medium
+- Range: medium-long
