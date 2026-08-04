@@ -29,4 +29,4 @@ tags:
 	- 2 Levels of [[Radiation Buildup]] Applied. (+1 Level)
 	- 10ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every 20 psyfocus spent above the normal cost for this psycast, an additional level of [[Radiation Buildup]] is applied
+	- You may upcast this psycast. For every 25 psyfocus spent above the normal cost for this psycast, an additional level of [[Radiation Buildup]] is applied
