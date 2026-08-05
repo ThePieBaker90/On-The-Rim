@@ -42,4 +42,4 @@ The Steader Pistol 5330 is a compact and low-cost pistol chambered in 9mm Mars. 
 SIG P320
 
 ## Lore
-I gotta do later 
+The Steader P5330 was developed in 5327 as a private venture to create a simple, modular, and affordable handgun for the civilian market. Chambered in the ubiquitous 9x21mm Mars cartridge, the P5330 entered production in 5330 and gradually grew in popularity thanks to its low cost and easy, user-friendly maintenance. A surprise came in 5348 when the Empire approached Steader requesting a contract to supply the Imperial Army with P5330s as the new standard pistol to replace the Brear M119. This offer was swiftly accepted and afterwards the P5330 exploded in popularity. The Mark IV model incorporates Armstek-designed attachment rails both above and below the barrel; a modification originally a requirement by the Imperial Army. 
