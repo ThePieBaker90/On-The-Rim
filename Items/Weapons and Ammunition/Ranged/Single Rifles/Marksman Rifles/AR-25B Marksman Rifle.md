@@ -8,6 +8,7 @@ The Armstek Rifle 25 is a marksman rifle produced by Armstek. Accurate, powerful
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: 2d8
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 10
 - [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
@@ -40,4 +41,4 @@ The Armstek Rifle 25 is a marksman rifle produced by Armstek. Accurate, powerful
 SR-25
 
 ## Lore
-The AR-25 was developed in 5422. At the time Armstek had been undergoing a revival, the wild success of the M223 and M229 bringing the company back from the decline of the 53rd century. Recently independent of Brear Arms, the early 55th century saw a return to the AR series of rifles. With continued production of the M223 and M229 secured, the largest market to target was that of marksman rifles. The AR-12 prototype was dug up and modifed with more modern technology and manufacturing techniques to form a new, highly accurate rifle chambered in 7.92 Empire. The rifle was unveiled in 5425 to much fanfare as a return to Armstek original designs. Shortly after production of the AR-25 was cut short, and the AR-25B was unveiled, this time billing the AR-25 Armstek's second new original design. The AR-25 and AR-25B are sseemingly identical in design. 
+The AR-25 was developed in 5422. At the time Armstek had been undergoing a revival, the wild success of the M223 and M229 bringing the company back from the decline of the 53rd century. Recently independent of Brear Arms, the early 55th century saw a return to the AR series of rifles. With continued production of the M223 and M229 secured, the largest market to target was that of marksman rifles. The AR-12 prototype was dug up and modifed with more modern technology and manufacturing techniques to form a new, highly accurate rifle chambered in 7.92 Empire. The rifle was unveiled in 5425 to much fanfare as a return to Armstek original designs. Shortly after production of the AR-25 was cut short, and the AR-25B was unveiled, this time billing the AR-25 Armstek's second new original design. The AR-25 and AR-25B are sseemingly identical. 
