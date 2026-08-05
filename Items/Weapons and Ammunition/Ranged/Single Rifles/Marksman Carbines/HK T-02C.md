@@ -8,6 +8,7 @@ The Howard-Kasseler Type 5402 marksman carbine is a derivative of the much more 
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: Highest 2 of 3d6
 	- Roll 3d6. Discard the lowest roll.
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 7
@@ -41,4 +42,4 @@ The Howard-Kasseler Type 5402 marksman carbine is a derivative of the much more 
 HK PSG-1
 
 ## Lore
-Development of the Type 02 rifle began in 5399. With the death of Robert Howard the previous year, design was largely undertaken by a new team of weapons designers, with the assistance of Euridice Kasseler. The design was based on the Type 90 marksman rifle, but chambered in 5.45 Empire. The goal was to produce a new class of rifle, providing the performance of a marksman rifle while being chambered in a less powerful intermediate cartridge. Despite such an ambitious goal and the death of the genius Howard, the Type 02 marksman carbine was relatively successful in performance, though it struggles commercially. 
+Development of the Type 02 rifle began in 5399. With the death of Robert Howard the previous year, design was largely undertaken by a new team of weapons designers, with the assistance of Euridice Kasseler. The design was based on the Type 90 marksman rifle, but chambered in 5.45 Empire. The goal was to produce a new class of rifle, providing the performance of a marksman rifle while being chambered in a less powerful intermediate cartridge. Despite such an ambitious goal and the death of the genius Howard, the Type 02 marksman carbine was relatively successful in performance, though it struggles commercially. The C-mod finally resolved relibaility and production issues that plagued the A- and B-mods.
