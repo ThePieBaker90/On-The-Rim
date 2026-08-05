@@ -8,6 +8,7 @@ The Howard-Kasseler Type 5390 is a precision marksman rifle chambered for 7.92 E
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: Median 2 of 4d8
 	- Roll 4d8. Discard the highest and lowest roll.
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 10
