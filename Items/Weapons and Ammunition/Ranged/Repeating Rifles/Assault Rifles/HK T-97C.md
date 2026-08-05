@@ -8,6 +8,7 @@ The Howard-Kasseler Type 5397 rifle is a scaled-down version of the company's su
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: Median of 3d6
 	- Roll 3d6. Use the middle (median) die value.
 - [Armour Penetration:](Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 6
