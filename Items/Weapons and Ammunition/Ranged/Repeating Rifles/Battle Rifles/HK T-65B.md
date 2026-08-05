@@ -8,8 +8,9 @@ The Howard-Kasseler Type 5365 rifle is a precision battle rifle chambered in 7.9
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: Median of 3d8
-	- Roll 3d8. Use middle (median) die value.
+	- Roll 3d8. Discard highest and lowest roll.
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 8
 - [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
 	- Minimum Effective: 15
