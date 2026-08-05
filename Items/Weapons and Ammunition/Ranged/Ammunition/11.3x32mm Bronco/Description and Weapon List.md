@@ -8,4 +8,4 @@ A powerful rimmed centerfire cartridge, popular for revolvers and also used in s
 D6
 
 ## Weapons List
-- 
+- [M119](/Items/Weapons%20and%20Ammunition/Ranged/Pistols,%20Revolvers,%20and%20Other%20Handguns/Pistols/M119.md)
