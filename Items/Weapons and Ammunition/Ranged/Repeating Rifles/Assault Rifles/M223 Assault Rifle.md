@@ -8,6 +8,7 @@ The Armstek Model 5223 assault rifle is an extremely popular firearm. Well-regar
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: 1d6
 - [Armour Penetration:](Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 6
 - [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
