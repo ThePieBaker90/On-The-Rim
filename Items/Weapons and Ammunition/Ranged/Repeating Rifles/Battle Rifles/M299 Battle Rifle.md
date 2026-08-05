@@ -7,6 +7,7 @@ The Armstek Model 5299 Battle Rifle is a very popular firearm. Chambered in 7.92
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
 - [Weight:](link tbd) Hefty, 5
+- [Two-Handed](/Mechanics/Weapon%20Information/Properties/Two-Handed.md)
 - Damage: 1d8
 - [Armour Penetration:](/Jesh's%20Shit/Mechanics/Armour%20Penetration.md) 8
 - [Range](/Mechanics/Weapon%20Information/Mechanics/Range.md)
