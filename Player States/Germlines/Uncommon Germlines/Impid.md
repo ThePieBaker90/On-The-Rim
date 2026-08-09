@@ -3,7 +3,7 @@ tags:
   - Germline
 ---
 - *Impids evolved from [[Starjack|Starjaks]] on the light side of a tidally locked planet. Their dexterity and speed allow them to quickly navigate around the battlefield while their fire resistance mitigates heat and fire damage. (TRAPPIST-1e)*
-- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -13 (110% Hunger)
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -11 (90% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 5-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -36,4 +36,5 @@ tags:
 	- [[Fast Speed]]
 - **[[Genes#Skill Genes|Skill Endogenes:]]**
 	- [[Medium Dexterity Increase]]
+	- [[Small Charisma Decrease]]
 

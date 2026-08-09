@@ -12,23 +12,68 @@ aliases:
 ## List of Germlines
 Certain germlines are more common than others, therefore germlines are split into three rarities; common, uncommon, and rare. The rarer the germline, the less likely you are to see a person with that germline. The rarity of a germline does not impact what germline a player can or cannot choose for their character.
 ### Common Germlines
-- [[Dwarf]] - Higher [[Constitution]] and [[Strength]], enhanced defensive attributes, slower [[Movement Speed|Movement]] than others.
-- [[Psytch]] - Higher [[Wisdom]] and [[Intelligence]], enhanced [[Psycasts|Psycasting]] attributes, lacks non-psycasting related traits.
-- [[Pure Human]] - jack of all [[Ability Scores]], resistant to death, lacks specialization.
-- [[Starjack]] - Higher [[Intelligence]] among a slight boost to [[Charisma]] and [[Dexterity]], resistant to [[Vacuum|Vacuums]] and [[Gravity#Microgravity|Microgravity]], reduced [[Strength]]. 
+- [[Dwarf]] - 
+	- Higher [[Constitution]] and [[Strength]].
+	- Enhanced defensive attributes.
+	- Slower [[Movement Speed|Movement]] than others.
+- [[Psytch]] - 
+	- Higher [[Wisdom]] and [[Intelligence]].
+	- Enhanced [[Psycasts|Psycasting]] attributes.
+	- Lacks non-psycasting related traits.
+- [[Pure Human]] - 
+	- Jack of all [[Ability Scores]].
+	- Resistant to death.
+	- Lacks specialization.
+- [[Starjack]] - 
+	- Higher [[Intelligence]] among a slight boost to [[Charisma]] and [[Dexterity]].
+	- Resistant to [[Vacuum|Vacuums]] and [[Gravity#Microgravity|Microgravity]].
+	- Reduced [[Strength]]. 
 ### Uncommon Germlines
-- [[Frostjack]] - Higher [[Constitution]] and [[Intelligence]], cold damage resistance and natural darkvision, reduced [[Charisma]].
+- [[Frostjack]] - 
+	- Higher [[Constitution]] and [[Intelligence]].
+	- Cold damage resistance and natural darkvision.
+	- Reduced [[Charisma]].
 - [[Gato]] -
-- [[Half-Foot]] - Higher [[Charisma]] and [[Dexterity]], enhanced [[Movement Speed|Movement]] attributes, high rate of [[Hunger]].
-- [[Hussar]] -
-- [[Impid]] -
+	- .
+	- .
+	- .
+- [[Half-Foot]] - 
+	- Higher [[Charisma]] and [[Dexterity]].
+	- Enhanced [[Movement Speed|Movement]] attributes.
+	- High rate of [[Hunger]].
+- [[Hussar]] - 
+	- Much higher [[Strength]] and [[Constitution]].
+	- Enhanced combat attributes.
+	- [[Go Juice]] dependency and reduced [[Charisma]] and [[Intelligence]].
+- [[Impid]] - 
+	- Higher [[Dexterity]].
+	- Faster [[Movement Speed|Movement]] and fire damage resistance.
+	- Reduced [[Charisma]].
 - Unnamed Cybernetic Based Germline
-- [[Seer]] - Higher [[Wisdom]] and [[Charisma]], enhanced [[Psycasts|Psycasting]] and [[Skills|Perception]] attributes, reduced [[Constitution]].
+	- .
+	- .
+	- .
+- [[Seer]] - 
+	- Higher [[Wisdom]] and [[Charisma]].
+	- Enhanced [[Psycasts|Psycasting]] and [[Skills|Perception]] attributes.
+	- Reduced [[Constitution]].
 ### Rare Germlines
 - [[Bunkin]] -
+	- .
+	- .
+	- .
 - [[Hylotl]] -
+	- .
+	- .
+	- .
 - [[Phytokin]] -
+	- .
+	- .
+	- .
 - [[Reflek]] -
+	- .
+	- .
+	- .
 ## Proportions
 - The proportions parameter contains two sub-parameters; size, and height. 
 	- Size determines a general size of the person with the germline; Tiny, Small, Medium, Large, Huge, and Colossal. Most people have a medium size.

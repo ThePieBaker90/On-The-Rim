@@ -2,8 +2,8 @@
 tags:
   - Germline
 ---
-- *TODO*
-	- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -15 (130% Hunger)
+- *Hussars were created to make up the overwhelming majority of armies and police-forces. With their enhanced combat prowess, they are the strong arm to whomever employs them.*
+- **[[Metabolic Efficiency|Base Metabolic Efficiency:]]** -12 (100% Hunger)
 - **[[Germlines#Proportions|Proportions:]]**
 	- Medium, around 6-7ft tall generally
 - **[[Germlines#Speed|Speed:]]**
@@ -30,7 +30,6 @@ tags:
 	- [[Longjump Legs]]
 	- [[Urban Crawler]]
 - **[[Genes#Passive Genes|Passive Endogenes]]**
-	- [[Increased Health]]
 	- [[Increased Armor Class]]
 	- [[Fast Speed]]
 	- [[Darkvision (30ft)]]
@@ -38,6 +37,7 @@ tags:
 	- [[Large Strength Increase]]
 	- [[Large Constitution Increase]]
 	- [[Medium Charisma Decrease]]
+	- [[Small Intelligence Decrease]]
 	- [[Keen Senses]]
 	- [[Resilient]]
 
