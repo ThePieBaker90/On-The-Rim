@@ -21,10 +21,10 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You touch a creature, filtering basic poisons in their blood up through their skin, metabolizing it in your fingers to make it harmlessly pass through your body. The rapid amount of poison passing through the blood stream causes the creature to suffer some of the poison's effects, although to a much lesser potency.*
-	- You remove [[Poison Buildup]] from the target creature, they take damage scaling with the levels removed.
+	- *You touch a creature, filtering basic poisons in their blood up through their skin, metabolizing it in your fingers to make it pass through your body. The process heals you a small amount scaling with the poision removed.*
+	- You remove [[Poison Buildup]] from the target creature, healing your health scaling with the levels removed.
 - **Stats**:
 	- No Max Levels of [[Poison Buildup]] Removed.
-	- 1 Poison Damage per Level Removed.
+	- 1 Health Healed per Level Removed.
 - **Upcasting**:
 	- You cannot upcast this psycast.

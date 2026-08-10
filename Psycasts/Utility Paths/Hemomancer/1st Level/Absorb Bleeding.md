@@ -13,17 +13,19 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- A sphere with its center within range.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
-	- .
+	- All creatures within the target sphere have the duration of [[Bleeding]] reduced, healing your health scaling with the duration reduced.
 - **Stats**:
-	- .
+	- -1 Turn of [[Bleeding]] Duration. (-1 Turn of [[Bleeding]])
+	- 2 Health Healed per Turn of Duration Reduced.
+	- . Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the [[Bleeding]] duration is reduced by an additional 1 turn.
