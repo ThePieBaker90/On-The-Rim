@@ -1296,7 +1296,6 @@
   "Traits/Genes/Cosmetic Genes/Skin/Autochromatic Skin.md": "LiDna",
   "Body/Humanoid Body Parts/Nervous System/Brain.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Respiratory System/Lung.md": "LiHeartPulse",
-  "Body/Humanoid Body Parts/Cardiovascular System/Heart.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Cardiovascular System/Blood.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Digestive System/Liver.md": "LiHeartPulse",
   "Body/Humanoid Body Parts/Digestive System/Stomach.md": "LiHeart",
@@ -1572,5 +1571,6 @@
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/VoidShift Psydrive.md": "TiHeartCog",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/Personal-Skip Psydrive.md": "TiHeartCog",
   "Psycasts/Utility Paths/Hemomancer/1st Level/Barbed Bolt.md": "LiSparkles",
-  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/ToxinBuster Psydrive.md": "TiHeartCog"
+  "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/ToxinBuster Psydrive.md": "TiHeartCog",
+  "Body/Humanoid Body Parts/Cardiovascular System/Heart.md": "LiHeartPulse"
 }

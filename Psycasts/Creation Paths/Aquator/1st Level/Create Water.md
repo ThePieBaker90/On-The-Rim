@@ -23,6 +23,7 @@ tags:
 - **Effects**:
 	- *Moisture in the air collects as water begins to form in the air, quickly it manifests and becomes a downpour of water within the area.*
 	- You summon water spread evenly across the target area.
+		- The water may not be compressed.
 - **Stats**:
 	- 15L Max Water Created. (+15L)
 	- 150m$^3$ Max Target Cuboid Volume. (+150m$^3$)

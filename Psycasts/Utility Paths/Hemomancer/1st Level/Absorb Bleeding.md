@@ -7,11 +7,11 @@ tags:
 - **Path**:
 	- 1st Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 28
 - **[[Neural Heat]] Generation:**
-	- .
+	- 18
 - [[Range]]:
 	- Self.
 - **Target**:
@@ -21,11 +21,12 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *.*
+	- *You absorb the [[Materials/Blood|Blood]] from all nearby wounds reducing the duration of [[Bleeding]]. You heal health scaling with the total reduction of [[Bleeding]] duration.*
 	- All creatures within the target sphere have the duration of [[Bleeding]] reduced, healing your health scaling with the duration reduced.
 - **Stats**:
 	- -1 Turn of [[Bleeding]] Duration. (-1 Turn of [[Bleeding]])
 	- 2 Health Healed per Turn of Duration Reduced.
-	- . Target Sphere Radius.
+	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the [[Bleeding]] duration is reduced by an additional 1 turn.
+	- You may upcast this psycast. For every .-
+	- psyfocus spent above the normal cost for this psycast, the [[Bleeding]] duration is reduced by an additional 1 turn.
