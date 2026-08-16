@@ -58,14 +58,14 @@ aliases:
 ## Overdose
 - An overdose can randomly occur with certain drugs and signifies a bad high. The effects of an overdose can range from a mild annoyance to a deadly event.
 - An overdose is checked for every time a drug is used by performing an [[#Overdose Roll]].
-- When an overdose occurs with a drug, 1d20 is rolled on an overdose effects table held within the substance (This roll is not to be confused with the [[#Overdose Roll]]). The resulting effect is triggered.
+- The overdose effects of a drug are the effects on the user when an overdose occurs.
 ### Overdose Roll
-- Some effects may make a user make an overdose roll. Addiction rolls are to see if the user overdoses on the drug on this use.
+- Some effects may make a user make an overdose roll. Overdose rolls are to see if the user overdoses on the drug on this use.
 - When a user makes an overdose roll, the following happens in order:
 	- They roll 1d100.
 	- All relevant effects are applied to the result.
 	- The result is compared to the [[#Overdose Threshold]] of the drug.
-		- If it is less than or equal to the threshold, ...
+		- If it is less than or equal to the threshold, the overdose effects of the drug occur and the usage effects do not occur.
 		- If it is greater than the threshold, nothing happens.
 ### Overdose Threshold
 - The overdose threshold of a drug is the highest result that can come from an [[#Overdose Roll]] which will cause the user to [[#Overdose]].

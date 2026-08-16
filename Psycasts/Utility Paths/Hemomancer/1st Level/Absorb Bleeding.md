@@ -21,12 +21,12 @@ tags:
 - **Duration**:
 	- Instant.
 - **Effects**:
-	- *You absorb the [[Materials/Blood|Blood]] from all nearby wounds reducing the duration of [[Bleeding]]. You heal health scaling with the total reduction of [[Bleeding]] duration.*
-	- All creatures within the target sphere have the duration of [[Bleeding]] reduced, healing your health scaling with the duration reduced.
+	- *You absorb the [[Materials/Blood|Blood]] from all nearby wounds reducing the duration of [[Bleeding]] and [[Hemorrhage]]. You heal health scaling with the total reduction of [[Bleeding]] duration.*
+	- All creatures within the target sphere have the duration of [[Bleeding]] and [[Hemorrhage]] reduced, healing your health scaling with the duration reduced.
 - **Stats**:
 	- -1 Turn of [[Bleeding]] Duration. (-1 Turn of [[Bleeding]])
+	- -1 Turn of [[Hemorrhage]] Duration. (-1 Turn of [[Hemorrhage]])
 	- 2 Health Healed per Turn of Duration Reduced.
 	- 15ft Target Sphere Radius.
 - **Upcasting**:
-	- You may upcast this psycast. For every .-
-	- psyfocus spent above the normal cost for this psycast, the [[Bleeding]] duration is reduced by an additional 1 turn.
+	- You may upcast this psycast. For every 22 psyfocus spent above the normal cost for this psycast, the [[Bleeding]] duration and [[Hemorrhage]] duration are reduced by an additional 1 turn.

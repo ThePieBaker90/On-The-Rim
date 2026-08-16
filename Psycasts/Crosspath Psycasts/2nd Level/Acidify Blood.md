@@ -14,7 +14,7 @@ tags:
 - **[[Neural Heat]] Generation:**
 	- 26
 - [[Range]]:
-	- 10ft
+	- Self.
 - **Target**:
 	- Self.
 - **Components**:
@@ -22,10 +22,14 @@ tags:
 - **Duration**:
 	- 5 Turns.
 - **Effects**:
-	- You make your blood highly acidic to damage attackers. Your blood applies [[Chemical Burned]] for 1 turn to creatures within 10ft of you who do any of the following.
-		- Deal piercing, slashing, or force damage to you.
-		- Apply the [[Bleeding]] condition to you.
-		- Cause you to bleed in any way.
+	- *Your blood becomes highly acidic, applying [[Chemical Burned]] to creatures who touch it. You are unaffected by the change in acidity.*
+	- Creatures within 10ft of you who do any of the following become [[Chemical Burned]]:
+		- They deal piercing, slashing, or force damage to you.
+		- They apply the [[Bleeding]] condition to you.
+		- They apply the [[Hemorrhage]] condition to you.
+		- They cause you to bleed in any way.
 	- You are immune to your own acid blood.
+- **Stats**:
+	- 2 Turn [[Chemical Burned]] Duration. (+2 Turn)
 - **Upcasting**:
-	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, [[Chemical Burned]] is applied for an additional turn.
+	- You may upcast this psycast. For every 24 psyfocus spent above the normal cost for this psycast, the duration of [[Chemical Burned]] your blood applies is increased by 2 turns.

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquareCaretDown",
       "LiSparkles",
       "TiHeartCog",
       "LiCircuitBoard",
-      "LiList",
-      "LiListTodo"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -712,7 +712,7 @@
   "Psycasts/Crosspath Psycasts/3rd Level/Rejuvenating Drink.md": "LiSparkles",
   "Psycasts/Crosspath Psycasts/3rd Level/Force Barrier Psycast.md": "LiListTodo",
   "Psycasts/Crosspath Psycasts/3rd Level/Empathetic Shielding.md": "LiSparkles",
-  "Psycasts/Crosspath Psycasts/2nd Level/Acidify Blood.md": "LiListTodo",
+  "Psycasts/Crosspath Psycasts/2nd Level/Acidify Blood.md": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord": "LiSparkles",
   "Psycasts/Damage Paths/Blazelord/Blazelord Psycasts.md": "LiInfo",
   "Psycasts/Damage Paths/Blazelord/5th Level/Ninth Circle of Hell.md": "LiSparkles",
@@ -1118,7 +1118,7 @@
   "Psycasts/Utility Paths/Hemomancer/1st Level": "TiHexagonNumber1",
   "Psycasts/Utility Paths/Hemomancer/4th Level": "TiHexagonNumber4",
   "Psycasts/Utility Paths/Chronomancer/1st Level/Split Second.md": "LiSparkles",
-  "Psycasts/Utility Paths/Hemomancer/1st Level/Absorb Bleeding.md": "LiListTodo",
+  "Psycasts/Utility Paths/Hemomancer/1st Level/Absorb Bleeding.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Blood Spike Shotgun Attack.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Cleanse Bleed.md": "LiListTodo",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Weapon Lifesteal.md": "LiListTodo",
@@ -1572,5 +1572,6 @@
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/Personal-Skip Psydrive.md": "TiHeartCog",
   "Psycasts/Utility Paths/Hemomancer/1st Level/Barbed Bolt.md": "LiSparkles",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/ToxinBuster Psydrive.md": "TiHeartCog",
-  "Body/Humanoid Body Parts/Cardiovascular System/Heart.md": "LiHeartPulse"
+  "Body/Humanoid Body Parts/Cardiovascular System/Heart.md": "LiHeartPulse",
+  "Conditions/Basic Conditions/Hemorrhage.md": "FarSquareCaretDown"
 }

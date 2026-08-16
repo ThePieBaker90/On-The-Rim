@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 2nd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**

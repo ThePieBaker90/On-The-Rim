@@ -9,7 +9,7 @@ aliases:
 *todo.*
 ## Core Psycasts
 - 1st Level:
-	- [[Absorb Bleeding]]
+	- [[Absorb Bleeding]] (28, 18)
 	- [[Barbed Bolt]] (2, 11)
 - 2nd Level:
 	- [[Blood Spike Shotgun Attack]]
