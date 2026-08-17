@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareSquare",
       "FarSquareCaretDown",
       "LiSparkles",
       "TiHeartCog",
-      "LiCircuitBoard",
-      "LiList"
+      "LiCircuitBoard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1573,5 +1573,5 @@
   "Psycasts/Utility Paths/Hemomancer/1st Level/Barbed Bolt.md": "LiSparkles",
   "Items/Cybernetics/Nervous Cybernetics/Spinal Cords/Psydrives/ToxinBuster Psydrive.md": "TiHeartCog",
   "Body/Humanoid Body Parts/Cardiovascular System/Heart.md": "LiHeartPulse",
-  "Conditions/Basic Conditions/Hemorrhage.md": "FarSquareCaretDown"
+  "Conditions/Statuses/Hemorrhage.md": "LiSquareSquare"
 }

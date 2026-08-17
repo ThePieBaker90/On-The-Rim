@@ -10,7 +10,7 @@ tags:
 	- When they take damage from this condition, they lose 1 level of poison buildup.
 - Creatures who are immune to poison damage are immune to this condition.
 
-| Poison Buildup Level | Effects                         | Overall Damage           |
+| Poison Buildup Level | Poison Damage Per Turn          | Overall Damage           |
 | -------------------- | ------------------------------- | ------------------------ |
 | {Level}              | {Level} poison damage per turn. | $$\sum_{i=1}^{level} i$$ |
 | 1                    | 1 poison damage per turn.       | 1                        |

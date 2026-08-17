@@ -23,6 +23,7 @@ tags:
 - **Effects**:
 	- *A barbed bolt of blood shoots from your outstretched arm, damaging and inflicting a [[Bleeding|Bleed]] on a hit creature. If the bolt's barbs slash a creature, they will bleed longer.*
 	- When you cast this psycast, you lose a minor amount of health.
+		- You may ignore this effect by expending stored [[Materials/Blood|Blood]].
 	- Make a ranged attack roll against the target creature, adding your psycasting ability modifier to the result. 
 		- On a hit, the bolt pierces the creature dealing piercing damage and applying [[Bleeding]].
 			- This does not trigger if the following effect would also trigger.
@@ -30,6 +31,7 @@ tags:
 			- The attack roll result does not need to be a hit and does include all modifiers.
 - **Stats**:
 	- 1d4 Health Lost
+	- 25mL of Stored [[Materials/Blood|Blood]] to Ignore Health Loss.
 	- 1d8 Piercing Damage from the Barbed Bolt Pierce. (+1d4 Piercing Damage)
 	- 1d6 Slashing Damage from Barbed Bolt Slash. (+1d4 Slashing Damage)
 	- Within 1 of a creature's effective [[Hit Class]] to Slash.
