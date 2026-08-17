@@ -1,0 +1,36 @@
+---
+tags:
+  - Psycast
+  - Hemomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 4
+- **[[Neural Heat]] Generation:**
+	- 22
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- An arc with the vertex between its two flat surfaces within range.
+- **Components**:
+	- Kinetic, Material (40mL of stored [[Materials/Blood|Blood]] which is consumed).
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You shoot several shards of crystalized blood in a fanned pattern. The shards inflict [[Bleeding]] and deal piercing damage.*
+	- When you use this psycast, you may lose a minor amount of health to ignore the material component of this psycast.
+	- All creatures within the target cone must make a [[Dexterity]] saving throw to avoid the blood shards.
+		- On a failed save, they take piercing damage and gain [[Bleeding]].
+		- On a successful save, nothing happens.
+- **Stats**:
+	- 1d6 Health Lost to Cover [[Materials/Blood|Blood]] Cost.
+	- 1d10 Piercing Damage from Blood Shards.
+	- 2 Turn [[Bleeding]] Duration from Blood Shards. (+1 Turn)
+	- 90 Degree Target Arc Angle.
+	- 30ft Target Arc Radius.
+- **Upcasting**:
+	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, the duration of [[Bleeding]] applied is increased by 1 turn.

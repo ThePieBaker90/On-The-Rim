@@ -13,7 +13,7 @@ TODO
 - Sphere [[Healing Nova]]
 - Cone [[Bart's Blazing Cone]] Includes apex, base, length and max width
 - Cuboid [[Gravity Shove]]
-- Arc ([[Problem Solvent]]) (Originates from the vertex between the two flat surfaces.)
+- Arc ([[Problem Solvent]]) (Originates from the vertex between the two flat surfaces.) (The vertex is the "corner" of the arc)
 - Vector that is normal [[Gooey Punch]]
 - Circles or rings [[Ninth Circle of Hell]], [[Skip Portal]]
 - Cylinders [[Gravitic Flux]] (central axis mentioned being normal to stuff for how it should be placed), the base of the cylinder is where the point is when a cylinder is made from a point.

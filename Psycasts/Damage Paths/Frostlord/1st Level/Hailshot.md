@@ -17,17 +17,17 @@ tags:
 - **Target**:
 	- A cone with its apex within range.
 - **Components**:
-	- Kinetic
+	- Kinetic.
 - **Duration**:
 	- Instant.
 - **Effects**:
 	- *You shoot hundreds of small hail pellets dealing damage to anyone caught in the spread.*
-	- All creatures within the target cone must make a Dexterity saving throw to avoid the spread of hail. 
+	- All creatures within the target cone must make a [[Dexterity]] saving throw to avoid the spread of hail. 
 		- On a failed save, they take damage from the hail.
 		- On a successful save, nothing happens.
 - **Stats**:
 	- 1d6 Piercing + 1d6 Cold Damage from Hail. (+1d6 Piercing + 1d6 Cold Damage)
 	- 30ft Target Cone Length.
-	- 10ft Target Cone Max Width,
+	- 10ft Target Cone Max Width.
 - **Upcasting**:
 	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the damage from the hail increases by 1d6 piercing and 1d6 cold damage.

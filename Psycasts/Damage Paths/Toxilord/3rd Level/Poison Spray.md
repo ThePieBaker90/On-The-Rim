@@ -17,7 +17,7 @@ tags:
 - **Target**:
 	- An arc with the vertex between its two flat surfaces within range.
 - **Components**:
-	- Gesture
+	- Gesture.
 - **Duration**:
 	- Instant.
 - **Effects**:
@@ -29,7 +29,7 @@ tags:
 	- 1d8 Poison Damage from Spray.
 	- 5 Levels of [[Poison Buildup]] Applied on Failed Save. (+1 Level)
 	- 2 Levels of [[Poison Buildup]] Applied on Successful Save
-	- 180 Degree Target Arc Radius.
+	- 180 Degree Target Arc Angle.
 	- 10ft Target Arc Radius.
 - **Upcasting**:
 	- You may upcast this psycast. For every 18 psyfocus spent above the normal cost for this psycast, the spray applies an additional level of [[Poison Buildup]] on a failed saving throw.

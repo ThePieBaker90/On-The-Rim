@@ -26,11 +26,12 @@ tags:
 		- On a failure, the creature is afflicted for the duration of this psycast.
 		- On a success, this psycast ends.
 	- Afflicted creatures suffer the following:
-		- They take damage from the rot at the beginning of their turn.
+		- They take necrotic damage scaling with their maximum health at the start of their turn.
+			- This damage is always rounded up.
 		- They gain [[Weakness]].
 		- They gain [[Antiheal]].
 		- They gain [[Healbane]]. 
 - **Stats**:
-	- 1d6 + 2 Necrotic Damage Every Turn from Rot.
+	- 5% Maximum Health as Necrotic Damage Every Turn from Rot.
 - **Upcasting**:
 	- You may upcast this psycast. For every 16 psyfocus spent above the normal cost for this psycast, this psycast lasts an additional turn.
