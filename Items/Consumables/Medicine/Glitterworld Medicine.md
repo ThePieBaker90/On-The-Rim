@@ -7,8 +7,8 @@ tags:
 - **Consumable Type:**
 	- Medicine
 - **Effects:**
-	- May be used outside of combat to tend to a target creature within touch. The user must succeed a DC 5 wisdom (medical) check. If successful the target regains 8d12 hit points. 
-	- May be used in combat as an action to quickly tend to a target creature within touch. The user must succeed a DC 10 wisdom (medical) check. If successful the target regains 4d12 hit points.
+	- May be used outside of combat to tend to a target creature within touch. The user must succeed a DC 5 wisdom (medical) check. If successful the target regains 8d12 hit points and removes [[Hemorrhage]] if they have it.
+	- May be used in combat as an action to quickly tend to a target creature within touch. The user must succeed a DC 10 wisdom (medical) check. If successful the target regains 4d12 hit points and removes [[Hemorrhage]] if they have it.
 - **Charges:**
 	- 1
 - **Value:**

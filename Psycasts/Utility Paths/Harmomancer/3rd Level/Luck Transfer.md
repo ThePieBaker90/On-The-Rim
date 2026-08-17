@@ -29,7 +29,7 @@ tags:
 		- If the value in stored luck would become greater than its maximum or less than its minimum from an effect, you may not choose that effect.
 	- If this psycast ends with a non-zero value in stored luck, you gain advantage or disadvantage on an amount of ability checks, rolls to hit, or saving throws scaling with the value.
 		- The advantage or disadvantage applies to your next ability check, roll to hit, or saving throw.
-	- If the target creature leaves the range of this psycast, you lose concentration on this psycast.
+	- If the target creature leaves range of you during this psycast, you lose concentration on this psycast.
 - **Stats**:
 	- 0 Initial Stored Luck.
 	- -2 Min Stored Luck Value. (-1 Min Value)

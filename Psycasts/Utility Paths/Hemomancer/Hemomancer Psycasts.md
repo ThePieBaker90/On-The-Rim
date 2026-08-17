@@ -13,7 +13,7 @@ aliases:
 	- [[Barbed Bolt]] (2, 11)
 - 2nd Level:
 	- [[Cleanse Bleed]]
-	- [[Malice Shards]]
+	- [[Malice Shards]] (4, 22)
 	- [[Weapon Lifesteal]]
 - 3rd Level:
 	- [[Blood Spike Surround Attack]]
