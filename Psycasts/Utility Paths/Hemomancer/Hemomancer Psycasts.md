@@ -12,16 +12,17 @@ aliases:
 	- [[Absorb Bleeding]] (28, 18)
 	- [[Barbed Bolt]] (2, 11)
 - 2nd Level:
-	- [[Cleanse Bleed]]
+	- [[HemoSap'n'Surge]] (5, 18)
 	- [[Malice Shards]] (4, 22)
-	- [[Weapon Lifesteal]]
 - 3rd Level:
 	- [[Blood Spike Surround Attack]]
 	- [[Blood Tribute]]
 - 4th Level:
 	- [[Bleeding Sphere]]
+	- [[Weapon Lifesteal]]
 - 5th Level:
 	- [[Blood Fury]]
+	- [[Mutate Limb]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

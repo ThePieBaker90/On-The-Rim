@@ -19,11 +19,16 @@ tags:
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Indefinite.
 - **Effects**:
 	- *.*
-	- .
+	- For the duration of this psycast, you gain the following effects:
+		- You lose a minor amount of health at the beginning of each of your turns.
+		- All negative & mixed [[Conditions]] you have and gain have a reduced duration.
+	- You can end this psycast at any time.
 - **Stats**:
-	- .
+	- . Health Lost 
+	- .% Negative & Mixed [[Conditions|Condition]] Duration Reduction.
+	- 
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

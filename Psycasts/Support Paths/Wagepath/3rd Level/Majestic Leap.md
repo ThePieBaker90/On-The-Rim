@@ -25,12 +25,12 @@ tags:
 	- When you cast this psycast, you choose an intent for the leap from the following types:
 		- Melee - When you land, you make an opportunity attack on a creature. The creature must be within your reach.
 		- Ranged - While flying through the air, you may use a ranged weapon. All attacks while flying through the air have disadvantage.
-		- Recovery - When you land, you recover some [[Neural Heat]].
+		- Recovery - When you land, you dissipate some [[Neural Heat]].
 	- You jump to the target point and all effects of your intent occur.
 		- The path you take may follow any arc as long at the height of the arc is within bounds.
 		- This leap cannot break through ceilings except for those which would not be able to handle your weight.
 - **Stats**:
-	- 8 [[Neural Heat]] Recovered.
+	- 8 [[Neural Heat]] Dissipated.
 	- 80ft Max Jump Height. (+20ft)
 	- 5ft Min Jump Height.
 - **Upcasting**:

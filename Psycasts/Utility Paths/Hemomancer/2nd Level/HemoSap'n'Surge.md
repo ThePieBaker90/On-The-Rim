@@ -1,0 +1,41 @@
+---
+tags:
+  - Psycast
+  - Hemomancer
+  - 2nd-Level
+---
+- **Path**:
+	- 2nd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 5
+- **[[Neural Heat]] Generation:**
+	- 18
+- [[Range]]:
+	- Touch.
+- **Target**:
+	- A creature within range.
+- **Components**:
+	- Kinetic.
+- **Duration**:
+	- Instant.
+- **Effects**:
+	- *You touch a creature, removing any [[Bleeding]] and [[Hemorrhage]] they may have. You gain temporary move speed when removing [[Bleeding]]. Removing [[Hemorrhage]] grants you additional an additional action and [[Barbed Attacks]]. The duration of effects is halved if the target creature is an ally.*
+	- The target creature has [[Bleeding]] and [[Hemorrhage]] removed.
+	- If you removed [[Bleeding]] from the target creature, you gain the following bonus effect for a duration scaling with the duration of [[Bleeding]] that was removed:
+		- Your [[Movement Speed]] is increased.
+	- If you removed [[Hemorrhage]] from the target creature, you gain the following bonus effects for a short duration:
+		- You gain [[Barbed Attacks]].
+		- You gain an extra action at the beginning of each of your turns.
+			- This action may not be used to use psycasts.
+	- The duration of all bonus effects is reduced if the target creature is an ally.
+- **Stats**:
+	- 1:1 [[Bleeding]] Duration Removed to [[Bleeding]] Removal Bonus Effect Duration Ratio.
+	- 10 Turn [[Bleeding]] Removal Bonus Effect Max Duration.
+	- 5ft [[Movement Speed]] Increase.
+	- 6 Turn [[Hemorrhage]] Removal Bonus Effect Duration.
+	- 1 Extra Action.
+	- 50% Reduction in Bonus Effect Duration if the Target Creature is an Ally.
+- **Upcasting**:
+	- You cannot upcast this psycast.

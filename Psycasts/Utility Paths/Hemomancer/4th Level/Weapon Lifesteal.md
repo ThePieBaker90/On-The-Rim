@@ -4,7 +4,7 @@ tags:
   - Hemomancer
   - 2nd-Level
 ---
-- **Path**:
+ - **Path**:
 	- 2nd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
 	- .
