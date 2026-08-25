@@ -1,0 +1,1 @@
+Shotguns are weapons that fire shells rather than bullets. This gives them great flexibility in the types of ammunition they can use. Coming in a variety of gauges, where a smaller gauge is a larger calibre, shotguns can be automatic or semi-automatic, but are often pump-action or break-action. Shotguns are typically shorter-ranged than other firearms. 
