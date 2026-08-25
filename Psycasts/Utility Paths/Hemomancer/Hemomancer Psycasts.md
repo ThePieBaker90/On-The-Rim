@@ -16,7 +16,7 @@ aliases:
 	- [[Malice Shards]] (4, 22)
 - 3rd Level:
 	- [[Blood Spike Surround Attack]]
-	- [[Blood Tribute]]
+	- [[Blood Tribute]] (15, 0)
 - 4th Level:
 	- [[Bleeding Sphere]]
 	- [[Weapon Lifesteal]]

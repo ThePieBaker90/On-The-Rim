@@ -169,7 +169,7 @@ aliases:
 ### Concentration
 - Some psycasts may require concentration during the psycasts duration. Concentration may only be held on 1 psycast at a time. Concentration can be dispelled by the caster at any time, [[#Interrupting]] the psycast.
 	- While concentrating on psycasts, your baseline [[Neural Heat]] may not drop below a specified amount. This amount is indicated in parenthesis next to the initial [[Neural Heat]] cost. This is referred to as the neural baseline.
-	- If you are hit while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage of the attack, whichever is higher. 
+	- If you take damage while concentrating on a psycast you must make a Wisdom saving throw to continue concentrating. The DC is equal to 10 or half the damage taken, whichever is higher. 
 		- On a failure, you lose concentration and the psycast immediately moves to the end phase. 
 		- On a success, nothing happens.
 	- Some psycasts allow for concentrating on multiple instances of the psycast, each instance of this psycast being concentrated on adds to the baseline [[Neural Heat]] level by the specified amount.

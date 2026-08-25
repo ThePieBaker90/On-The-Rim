@@ -7,28 +7,32 @@ tags:
 - **Path**:
 	- 3rd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 15
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
 	- Indefinite.
 - **Effects**:
-	- *.*
+	- *You drag your ring finger across your palm, creating a cut. You can seal the cut at any time, but while you have the cut; [[Conditions]] reduce their duration faster, [[Bleeding]] you apply lasts longer, and your [[Movement Speed]] is increased.*
 	- For the duration of this psycast, you gain the following effects:
-		- You lose a minor amount of health at the beginning of each of your turns.
-		- All negative & mixed [[Conditions]] you have and gain have a reduced duration.
-	- You can end this psycast at any time.
+		- You lose a minor amount of health at the end of your turn.
+		- All negative & mixed [[Conditions]] you have decrease their duration by an additional turn at the end of your turn.
+		- All [[Bleeding]] you apply has increased duration. (Rounded up)
+		- Your [[Movement Speed]] is increased.
+	- You may end this psycast at the start of your turn.
+		- No effects can prevent you from ending this psycast at the start of your turn.
 - **Stats**:
-	- . Health Lost 
-	- .% Negative & Mixed [[Conditions|Condition]] Duration Reduction.
-	- 
+	- 4 Health Lost per Turn.
+	- 1 Turn Additional Duration Decrease for Negative & Mixed [[Conditions]].
+	- 50% Additional [[Bleeding]] Duration Applied.  
+	- 15ft [[Movement Speed]] Increase.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.
