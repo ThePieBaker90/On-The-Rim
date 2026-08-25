@@ -12,17 +12,17 @@ aliases:
 	- [[Blessing of Good Luck]] (22, 0)
 	- [[Curse of Bad Luck]] (22, 0)
 - 2nd Level:
-	- [[Entropy Transfer]] (2, 14)
-	- [[Entropy Link]] (2, 14)
+	- [[Entropy Transfer]] (2, 14)+
+	- [[Entropy Link]] (2, 14)+
 - 3rd Level:
 	- [[Entropy Balance]] (12, 26)
-	- [[Luck Transfer]] (7, 22)
+	- [[Luck Transfer]] (7, 22)+
 - 4th Level:
-	- [[Entropy Absorption]] (3, 44)
-	- [[Entropy Burst]] (3, 44)
+	- [[Entropy Absorption]] (3, 44)+
+	- [[Entropy Burst]] (3, 44)+
 - 5th Level:
 	- [[Ability Discordance]] (60, 0)
-	- [[Transmute Object]] (55, 0)
+	- [[Transmute Object]] (55, 0)+
 ## Miscasts
 - Level 1 Miscast - Health Balance
 	- You lose 1d20 health and a random hostile creature within 120ft of you heals the amount you lost.
@@ -42,6 +42,6 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- [[Lucky Strike]] (4, 27) ([[Wagepath Psycasts|Wagepath]])
+	- [[Lucky Strike]] (4, 27)+ ([[Wagepath Psycasts|Wagepath]])
 - 5th Level:
 	- .

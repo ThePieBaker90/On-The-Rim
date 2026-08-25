@@ -13,15 +13,15 @@ aliases:
 	- [[Split Second]] (5, 0)
 - 2nd Level:
 	- [[Chronoshot]] (2, 24)
-	- [[Previous]] (30, 0)
+	- [[Previous]] (30, 0)+
 - 3rd Level:
-	- [[Split Future]] (30, 25)
+	- [[Split Future]] (30, 25)+
 	- [[Time Attack]] (3, 28)
 - 4th Level:
 	- [[Temporal Stop]] (3, 35)
-	- [[Time Bomb]] (3, 44)
+	- [[Time Bomb]] (3, 44)+
 - 5th Level:
-	- [[Chronological Rewind]] (65, 20)
+	- [[Chronological Rewind]] (65, 20)+
 	- [[Extended Moment]] (35, 15)
 ## Miscasts
 - Level 1 Miscast - Setting Goals

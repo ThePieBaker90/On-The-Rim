@@ -9,20 +9,20 @@ aliases:
 *Aquators specialize in the rapid creation and state-changing of water. Most of their psycasts center around the rapid creation of water and application of forces on it. Although water can't be shaped like other materials, its ease to create at specific points in space make it a favorite for many psycasters.*
 ## Core Psycasts
 - 1st Level:
-	- [[Create Water]] (15,0)
-	- [[Change Water Temperature]] (12,0)
+	- [[Create Water]] (15,0)+
+	- [[Change Water Temperature]] (12,0)+
 - 2nd Level:
-	- [[Boiling Strike]] (2,15)
+	- [[Boiling Strike]] (2,15)+
 - 3rd Level:
-	- [[Water Barrier]] (2,24)
-	- [[Wave Ride]] (6, 24)
+	- [[Water Barrier]] (2,24)+
+	- [[Wave Ride]] (6, 24)+
 - 4th Level:
-	- [[Call Rain]] (58,0)
-	- [[Purify]] (26,0)
-	- [[Typhoon's Fury]] (3,44)
+	- [[Call Rain]] (58,0)+
+	- [[Purify]] (26,0)+
+	- [[Typhoon's Fury]] (3,44)+
 - 5th Level:
-	- [[Create Water Source]] (48,0)
-	- [[Flood]] (8,50)
+	- [[Create Water Source]] (48,0)+
+	- [[Flood]] (8,50)+
 ## Miscasts
 - Level 1 Miscast - Instant Evaporate
 	- All water within a 45ft sphere centered on the caster instantly evaporates. This does not evaporate mixtures which are not at least 95% water and mixtures with a boiling point above 100C. 
@@ -34,9 +34,9 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- [[Rejuvenating Drink]] (19, 16) ([[Mendopath Psycasts|Mendopath]])
+	- [[Rejuvenating Drink]] (19, 16)+ ([[Mendopath Psycasts|Mendopath]])
 - 4th Level:
-	- [[Call Acid Rain]] (58, 0) ([[Chemlord Psycasts|Chemlord]])
-	- [[Call Blizzard]] (58, 0) ([[Frostlord Psycasts|Frostlord]])
+	- [[Call Acid Rain]] (58, 0)+ ([[Chemlord Psycasts|Chemlord]])
+	- [[Call Blizzard]] (58, 0)+ ([[Frostlord Psycasts|Frostlord]])
 - 5th Level:
 	- .

@@ -9,19 +9,19 @@ aliases:
 *Blazelords specialize in creating fire and increasing temperatures. Most of their psycasts center around fire damage and area of effect attacks. Blazelords are exceptional at making sure their enemies are always [[On Fire!]] or [[Burned]].*
 ## Core Psycasts
 - 1st Level:
-	- [[Cinder]] (2, 9)
+	- [[Cinder]] (2, 9)+
 	- [[Conjure Flame]] (1, 6)
-	- [[Melt]] (18, 20)
+	- [[Melt]] (18, 20)+
 - 2nd Level:
-	- [[Bart's Blazing Cone]] (2, 22)
+	- [[Bart's Blazing Cone]] (2, 22)+
 - 3rd Level:
-	- [[Flame Dash]] (6, 26)
-	- [[Pillar of Fire]] (2, 16)
+	- [[Flame Dash]] (6, 26)+
+	- [[Pillar of Fire]] (2, 16)+
 - 4th Level:
-	- [[Fireball]] (3, 44)
-	- [[Immolate]] (5, 29)
+	- [[Fireball]] (3, 44)+
+	- [[Immolate]] (5, 29)+
 - 5th Level:
-	- [[Ninth Circle of Hell]] (8, 48)
+	- [[Ninth Circle of Hell]] (8, 48)+
 	- [[Flamehart's Aura of Fire]] (12, 50)
 ## Miscasts
 - Level 1 Miscast - Sudden Combustion

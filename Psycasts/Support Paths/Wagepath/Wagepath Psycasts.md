@@ -9,18 +9,18 @@ aliases:
 *Wagepaths specialize in increasing their effectiveness in combat. Their psycasts augment their weapons and themselves allowing superhuman feats. Wagepaths tend to cast psycasts less than other paths as they are usually fighting with a weapon.*
 ## Core Psycasts
 - 1st Level:
-	- [[Enduring Speed]] (0, 18)
+	- [[Enduring Speed]] (0, 18)+
 	- [[Disarming Hex]] (3, 23)
 - 2nd Level:
 	- [[Melee Focus]] (6, 24)
 	- [[Ranged Focus]] (6, 24)
 - 3rd Level:
-	- [[Majestic Leap]] (9, 32)
+	- [[Majestic Leap]] (9, 32)+
 	- [[Moonshot]] (1, 12)
 	- [[Spirit of the Juggler]] (6, 20)
 - 4th Level:
-	- [[Damage Reverb]] (8, 34)
-	- [[Frenzy]] (3, 44)
+	- [[Damage Reverb]] (8, 34)+
+	- [[Frenzy]] (3, 44)+
 - 5th Level:
 	- [[Killing Blow]] (10, 45)
 ## Miscasts
@@ -34,6 +34,6 @@ aliases:
 - 3rd Level:
 	- .
 - 4th Level:
-	- [[Lucky Strike]] (4, 27) ([[Harmomancer Psycasts|Harmomancer]])
+	- [[Lucky Strike]] (4, 27)+ ([[Harmomancer Psycasts|Harmomancer]])
 - 5th Level:
 	- .

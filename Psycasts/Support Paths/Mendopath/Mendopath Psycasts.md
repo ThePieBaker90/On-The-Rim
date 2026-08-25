@@ -9,16 +9,16 @@ aliases:
 *Medopaths specialize in healing others and preventing death. Most of their psycasts grant health to others or themselves. Some of their psycasts are used to stabilize critical patients or increase their own healing output.*
 ## Core Psycasts
 - 1st Level:
-	- [[Regeneration Rite]] (12, 20)
+	- [[Regeneration Rite]] (12, 20)+
 	- [[Stabilize]] (8, 30)
 - 2nd Level:
-	- [[Touch of Mending]] (4, 21)
-	- [[Word of Mending]] (6, 23)
+	- [[Touch of Mending]] (4, 21)+
+	- [[Word of Mending]] (6, 23)+
 - 3rd Level:
-	- [[Health Beam]] (18, 46)
+	- [[Health Beam]] (18, 46)+
 	- [[Ritual of Restoration]] (40, 0)
 - 4th Level:
-	- [[Healing Nova]] (3, 44)
+	- [[Healing Nova]] (3, 44)+
 	- [[Intensifying Healing]] (40, 0)
 - 5th Level:
 	- [[Death Defy]] (25, 40)
@@ -32,7 +32,7 @@ aliases:
 - 2nd Level:
 	- .
 - 3rd Level:
-	- [[Rejuvenating Drink]] (19, 16) ([[Aquator Psycasts|Aquator]])
+	- [[Rejuvenating Drink]] (19, 16)+ ([[Aquator Psycasts|Aquator]])
 - 4th Level:
 	- .
 - 5th Level:

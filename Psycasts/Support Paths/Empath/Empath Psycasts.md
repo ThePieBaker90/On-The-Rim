@@ -9,7 +9,7 @@ aliases:
 *Empaths specialize in emotions and feelings. All of their psycasts are in the form of words which shape the emotions of others. These feelings range from [[Anger]] to [[Joy]] to pure [[Mind-Shattering Pain|Pain]].*
 ## Core Psycasts
 - 1st Level:
-	- [[Word of Anger]] (4, 14)
+	- [[Word of Anger]] (4, 14)+
 	- [[Word of Guidance]] (5, 0)
 	- [[Word of Joy]] (10, 21)
 - 2nd Level:
@@ -18,7 +18,7 @@ aliases:
 - 3rd Level:
 	- [[Word of Energy]] (6, 40)
 	- [[Word of Lethargy]] (6, 36)
-	- [[Word of Pain]] (6, 24)
+	- [[Word of Pain]] (6, 24)+
 - 4th Level:
 	- [[Empathetic Shout]] (3, 44)
 - 5th Level:
@@ -32,9 +32,9 @@ aliases:
 ## Crosspath Psycasts
 - 2nd Level:
 	- [[Word of Fear]] (4, 20) ([[Noctomancer Psycasts|Noctomancer]])
-	- [[Word of Binding]] (,) ([[Terralord Psycasts|Terralord]])
+	- [[Word of Binding]] (5, 24)+ ([[Terralord Psycasts|Terralord]])
 - 3rd Level:
-	- [[Empathetic Shielding]] (5, 42) ([[Tegopath Psycasts|Tegopath]])
+	- [[Empathetic Shielding]] (5, 38)+ ([[Tegopath Psycasts|Tegopath]])
 - 4th Level:
 	- .
 - 5th Level:

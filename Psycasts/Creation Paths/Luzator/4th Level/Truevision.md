@@ -22,7 +22,7 @@ tags:
 	- 10 Turns.
 - **Effects**:
 	- *You touch a creature's eyelids granting them temporary truevision. Both of their eyes glow like a marble of light.*
-	- For the duration of this psycast, the target creature have the following effects:
+	- For the duration of this psycast, the target creature gains the following effects:
 		- They know the location and current action of everything within sight range of them.
 		- They perceive all areas within sight range of them as if they were in [[Lighting#Bright Light|Bright Light]].
 		- They know when anything enters or leaves sight range of them.

@@ -12,17 +12,17 @@ aliases:
 	- [[Darkvision]] (12, 0)
 	- [[Snuff Light]] (5, 0)
 - 2nd Level:
-	- [[Psychic Blindness]] (5, 21)
+	- [[Psychic Blindness]] (5, 21)+
 	- [[Gloom Spray]] (6, 26)
 	- [[Horrific Visage]] (6, 23)
 - 3rd Level:
 	- [[Shadow Stalk]] (6, 35)
-	- [[Void Shroud]] (20, 50)
-	- [[Ball 'o' Black]] (6, 33)
+	- [[Void Shroud]] (20, 50)+
+	- [[Ball 'o' Black]] (6, 33)+
 - 4th Level:
-	- [[Slashing Shadows]] (3,44)
+	- [[Slashing Shadows]] (3,44)+
 - 5th Level:
-	- [[Eternal Night]] (8, 45)
+	- [[Eternal Night]] (8, 45)+
 ## Miscasts
 - Level 1 Miscast - Un-darkvision
 	- Your vision is heavily obscured, [[Lighting#Dim Light|Dim Light]] and [[Lighting#Darkness|Darkness]] act as [[Lighting#Void|Void]] for your [[Sight-Based Perception]] checks.
@@ -30,7 +30,7 @@ aliases:
 	- Darkness overflows within you, you become [[Blinded]] for 3 turns.
 ## Crosspath Psycasts
 - 2nd Level:
-	- [[Word of Fear]] (4, 20) ([[Empath Psycasts|Empath]])
+	- [[Word of Fear]] (4, 20)+ ([[Empath Psycasts|Empath]])
 - 3rd Level:
 	- .
 - 4th Level:

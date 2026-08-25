@@ -9,18 +9,18 @@ aliases:
 *Mortilords specialize in manipulating life force. Most of their psycasts deal necrotic damage and weaken their opponent with debuffs. They can raise the dead, either making them into a [[Medium Shambler|Shambler]] or bringing them back from an untimely death.*
 ## Core Psycasts
 - 1st Level:
-	- [[Bursting Bile]] (1, 14)
+	- [[Bursting Bile]] (1, 14)+
 	- [[Learn From the Dead]] (25, 0)
 - 2nd Level:
-	- [[Touch of Wounding]] (4, 20)
-	- [[Word of Wounding]] (6, 23)
+	- [[Touch of Wounding]] (4, 20)+
+	- [[Word of Wounding]] (6, 23)+
 - 3rd Level:
-	- [[Biotic Drain]] (4, 30)
+	- [[Biotic Drain]] (4, 30)+
 	- [[Enthrall]] (10, 22)
-	- [[Weakening Ray]] (4, 25)
+	- [[Weakening Ray]] (4, 25)+
 - 4th Level:
-	- [[Decay]] (4, 36)
-	- [[Health Siphon]] (3, 44)
+	- [[Decay]] (4, 36)+
+	- [[Health Siphon]] (3, 44)+
 - 5th Level:
 	- [[Reanimate]] (85, 0)
 ## Miscasts

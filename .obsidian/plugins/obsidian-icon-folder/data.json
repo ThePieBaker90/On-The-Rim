@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "FarSquareCaretUp",
       "LiSquareSquare",
       "FarSquareCaretDown",
-      "LiSparkles",
-      "TiHeartCog"
+      "LiSparkles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1029,9 +1029,9 @@
   "Psycasts/Support Paths/Melodipath/4th Level/Encore.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/2nd Level/Charming Chime.md": "LiSparkles",
   "Psycasts/Support Paths/Melodipath/3rd Level/Irresistible Dance.md": "LiSparkles",
-  "Psycasts/Support Paths/Melodipath/5th Level/Heroic Melody.md": "LiSparkles",
+  "Psycasts/Support Paths/Melodipath/5th Level/Heroic Melody.md": "LiListTodo",
   "Psycasts/Support Paths/Melodipath/3rd Level/The Band Plays On!.md": "LiSparkles",
-  "Psycasts/Support Paths/Melodipath/Melodipath Psycasts.md": "LiInfo",
+  "Psycasts/Support Paths/Melodipath/Melodipath Psycasts.md": "LiListTodo",
   "Story/Core Assumptions.md": "LiListTodo",
   "Story/History.md": "LiListTodo",
   "Story/Companies.md": "LiListTodo",

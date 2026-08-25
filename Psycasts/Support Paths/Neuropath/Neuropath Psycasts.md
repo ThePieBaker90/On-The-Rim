@@ -9,10 +9,10 @@ aliases:
 - *Neuropaths specialize in manipulating psycasts and psycasting abilities of others. Most of their psycasts affect neural heat and psyfocus. A subset of their psycasts are used to guide others or tempt them into a berserk rage.*
 ## Core Psycasts
 - 1st Level:
-	- [[Brain Spike]] (3, 28)
+	- [[Brain Spike]] (3, 28)+
 	- [[Neural Heat Transfer]] (15, 0)
 - 2nd Level:
-	- [[Countercast]] (4, 28)
+	- [[Countercast]] (4, 28)+
 	- [[Psychic Ward]] (5, 22)
 	- [[Surge of Power]] (5, 25)
 - 3rd Level:

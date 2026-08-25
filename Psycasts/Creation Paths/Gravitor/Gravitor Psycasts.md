@@ -10,19 +10,19 @@ aliases:
 ## Core Psycasts
 - 1st Level:
 	- [[Newton's Cradle]] (1, 8)
-	- [[Gravity Shove]] (4, 19)
+	- [[Gravity Shove]] (4, 19)+
 - 2nd Level:
-	- [[Gravity Shift]] (20, 0)
+	- [[Gravity Shift]] (20, 0)+
 	- [[Knockdown]] (4, 26)
 - 3rd Level:
 	- [[Levitation]] (9, 21)
-	- [[Gravitational Shockwave]] (6, 24)
-	- [[Zone of Control]] (8, 30)
+	- [[Gravitational Shockwave]] (6, 24)+
+	- [[Zone of Control]] (8, 30)+
 - 4th Level:
-	- [[Implosion]] (3, 44)
+	- [[Implosion]] (3, 44)+
 - 5th Level:
-	- [[Gravitic Flux]] (10, 46)
-	- [[Gravity Well]] (9, 36)
+	- [[Gravitic Flux]] (10, 46)+
+	- [[Gravity Well]] (9, 36)+
 ## Miscasts
 - Level 1 Miscast - Loss of Gravity
 	- You cannot be affected by any [[Gravity|Gravitational]] force for the next 2 turns. You are [[Immobilized]] except by grabbing nearby objects and pulling yourself with them.
