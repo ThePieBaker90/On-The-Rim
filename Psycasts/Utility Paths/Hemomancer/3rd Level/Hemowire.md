@@ -7,23 +7,24 @@ tags:
 - **Path**:
 	- 3rd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
 	- .
 - [[Range]]:
-	- .
+	- 20ft.
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
-	- .
+	- Kinetic, Material (25mL of stored [[Materials/Blood|Blood]] which is consumed).
 - **Duration**:
 	- .
 - **Effects**:
 	- *.*
-	- .
+	- When you use this psycast, you may lose a minor amount of health to ignore the material component of this psycast.
 - **Stats**:
-	- .
+	- . Health Lost to Cover [[Materials/Blood|Blood]] Cost.
+	- . 
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
