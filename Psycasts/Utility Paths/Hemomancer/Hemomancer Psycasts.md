@@ -15,7 +15,7 @@ aliases:
 	- [[Sap'n'Surge]] (5, 18)
 	- [[Malice Shards]] (4, 22)
 - 3rd Level:
-	- [[Hemowire]]
+	- [[Hemowire]] (5, 25)
 	- [[Blood Tribute]] (15, 0)
 - 4th Level:
 	- [[Bleeding Sphere]]

@@ -9,22 +9,35 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 5
 - **[[Neural Heat]] Generation:**
-	- .
+	- 25
 - [[Range]]:
-	- 20ft.
+	- Self.
 - **Target**:
-	- A creature within range.
+	- Self.
 - **Components**:
-	- Kinetic, Material (25mL of stored [[Materials/Blood|Blood]] which is consumed).
+	- Gesture.
 - **Duration**:
-	- .
+	- Channeled, up to 5 Turns.
 - **Effects**:
-	- *.*
-	- When you use this psycast, you may lose a minor amount of health to ignore the material component of this psycast.
+	- *You grab your primary wrist with your offhand, pulling your hand away in one clean motion. A thin, bloody wire bridges from your wrist to your hand. The wire is sharp and very difficult to break making it a great melee weapon. Creatures you attack with it take slashing damage and begin [[Bleeding]]. If they were already [[Hemorrhage|Hemorrhaging]] [[Body/Humanoid Body Parts/Cardiovascular System/Blood|Blood]], they take additional damage, the wire can last longer, and you heal slightly.*
+	- For the duration of this psycast, you gain the following effects:
+		- A thin wire of blood originates from your primary wrist, the other end of which is held by your off-hand.
+		- You lose a minor amount of health at the end of your turn.
+		- You have increased reach with the wire.
+		- You may make a melee attack using the wire on a creature within reach as an action. You add your [[Dexterity]] modifier and psycasting modifier to the melee attack roll result.
+			- On a hit, the wire slashes the creature dealing immense slashing damage and applying [[Bleeding]].
+				- If the hit creature has [[Hemorrhage]], the wire deals additional damage, the maximum duration of this psycast increases, and you heal a slight amount of health.
+			- This melee attack benefits from armed strike effects.
+	- The gesture component of this psycast does not need to be satisfied during the cast and active phases to channel it, instead a kinetic component must be satisfied with your off-hand.
 - **Stats**:
-	- . Health Lost to Cover [[Materials/Blood|Blood]] Cost.
-	- . 
+	- 4 Health Lost per Turn. 
+	- +5ft Reach Increase with Wire. (+5ft)
+	- 2d6 Slashing Damage from Wire Melee Attack.
+	- 3 Turn [[Bleeding]] Duration from Wire Melee Attack.
+	- +1d6 + [[Dexterity|DEX]] Additional Slashing Damage on [[Hemorrhage]] Melee Attack.
+	- +2 Turn Additional Max Psycast Duration on [[Hemorrhage]] Melee Attack.
+	- 4 Health Healed on [[Hemorrhage]] Melee Attack.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 13 psyfocus spent above the normal cost for this psycast, the reach of the wire increases by 5ft.

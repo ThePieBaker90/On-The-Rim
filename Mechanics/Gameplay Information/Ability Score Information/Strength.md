@@ -2,6 +2,8 @@
 tags:
   - Info
   - Ability-Score
+aliases:
+  - STR
 ---
 ## Strength Overview
 - .
