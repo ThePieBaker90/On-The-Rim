@@ -1,0 +1,1 @@
+Manual-action shotguns are probably the most common subclass of shotguns. This category includes the widely popular pump-action shotguns as well as less common types like lever-action shotguns. Generally, these are short-ranged, slow-firing, high-power weapons. 
