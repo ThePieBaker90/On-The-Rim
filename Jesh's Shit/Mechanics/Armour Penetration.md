@@ -50,5 +50,3 @@ Most targets, be they creatures, vehicles, constructs, or something else, have s
 | 30 | Light Tank Frontal Armour | Rocket Propelled Grenades |
 | 40 | Medium Tank Frontal Armour | Tank Cannon w/ Sabot |
 | 50 | Heavy Tank Frontal Armour | |
-
-As evident by the rapid increase, it is highly reccomended to use weapons with approximately the required penetration for the target, as penetrating over four armour values higher becomes near impossible. 
