@@ -1,10 +1,9 @@
 ---
 tags:
 - tags_needed
-- WIP WIP
 ---
 ## General Description
-The Fouler PSG-17(20G) is a popular pump-action shotgun. Affordable and reliable with good all-around performance the PSG-17 has been produced in enourmous quantities across its dozens of variants, and the 20G version is the most successful.
+The Fouler PSG-17(20G) is a popular pump-action shotgun. Affordable and reliable with good all-around performance the PSG-17 has been produced in enormous quantities across its dozens of variants, and the 20G version is the most successful.
 
 ## Mechanics and Properties
 - [Size:](link tbd) Medium, 5
@@ -24,31 +23,23 @@ The Fouler PSG-17(20G) is a popular pump-action shotgun. Affordable and reliable
 	- Manual Action (pump)
   - Slamfire: up to Dex (min 1)
  - [Reload](/Items/Weapons/Properties/Firearm%20Base%20Properties/Reload.md)
-	 - Amount: time
+	 - 3: 1 action
 - [Jamming](/Jesh's%20Shit/Mechanics/Weapons%20Jamming.md)
-	- Unreliable etc. if applicable
- 	- Unjam difficulty modifier
- 	- Unjam action requirement (typically 1 main action) 
-- Target: usually one target, but could be an area
-- Firearm (usually)
-	- Additionally specific weapon type(s)
-
-## Special Mechanics and Properties
-- Add special mechanics and properties here
-- Anything that doesn't have its own description page
-- Fully describe the mechanic or property here
-	- And use nested bullet points for clarity
+ 	- Unjam difficulty modifier: +3
+ 	- Unjam action requirement: 1 action
+- Target: one target
+- Firearm
+	- Shotgun
 
 ## Magazines, Modifications and Attachments
-- list of available mags
-- Modifications and stuff
-- attachment locations, sizes, restrictions, etc.
+- [Internal magazine:](/Mechanics/Weapon%20Information/Properties/Internal%20Magazine.md) 6
+- Mods, atts. tbd
 
 ## Market Value
-- value in credits. Typically on the order of 500-2500 credits for ordinary weapons. Actual value at any particular vendor may fluctuate and differ from market value.
+- 600
 
 ## Visual Description
-A detailed visual description of the weapon. If it's inspired by a real-world weapon then it might be only a single sentence; if it's original it can be longer.
+20" Remington 870 Fieldmaster Synthetic
 
 ## Lore
-A description of the weapon's lore and history, in more depth than covered in the general description. This isn't strictly necessary but is typically prefereable. 
+The Fouler Pump Shotgun Number 17 was developed from 5363. It was designed as a simple and basic shotgun constructed primarily out of cheap plasteel and with an emphasis on a modular and adaptable design and easy maintenance. Released in 5370, the PSG-17 initially came in only two gauges (12 and 20) and two styles (compact and long). However, over the years an enormous quantity of variants have been released, all with a high proportion of interchangeable parts. With a wide range of variants to serve different roles but largely interchangeable components and maintenance procedures, the PSG-17 has become incredibly successful. A flaw in the firing mechanism allowed for rapid "slamfire" of shells, and for this PSG-17 sale was almost prohibited in 5372. However, shortly after Fouler offered a very affordable deal on the new Combat model for the Imperial Army, an internal review determined that slamfire shotguns were not a threat to public safety. The 20-gauge, General model was introduced in 5399 as a "universal" variant, combining the body of the Long model, the barrel of the Defense model, and the attachment rails of the Combat model. This release coincided with those of the 12G and 32G models chambered in 12- and 32-gauge respectively. 
