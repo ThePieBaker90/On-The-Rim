@@ -1,0 +1,38 @@
+---
+tags:
+  - Psycast
+  - Hemomancer
+  - 4th-Level
+---
+- **Path**:
+	- 4th Level [[Hemomancer Psycasts|Hemomancer Psycast]]
+- **Casting Time:**
+	- 1 Action.
+- **[[Psyfocus]] Cost:**
+	- 3
+- **[[Neural Heat]] Generation:**
+	- 44
+- [[Range]]:
+	- Self.
+- **Target**:
+	- A sphere with its center within range.
+- **Components**:
+	- Gesture, Material (75mL of stored [[Materials/Blood|Blood]] which is consumed).
+- **Duration**:
+	- 10 Turns.
+- **Effects**:
+	- *You extend your arms to the sky as [[Materials/Blood|Blood]] sprays out of your hands. All creatures in the nearby area will gain [[Bleeding]] when they take any damage and [[Hemorrhage]] easier.*
+	- When you use this psycast, you may lose some health to ignore the material component of this psycast.
+	- For the duration of this psycast, creatures in the target sphere are afflicted.
+	- Afflicted creatures suffer the following:
+		- When they take damage, they gain [[Bleeding]].
+		- When [[Bleeding]], they require less duration to gain [[Hemorrhage]].
+		- Their [[Movement Speed]] is slowed.
+- **Stats**:
+	- 1d10 Health Lost to Cover [[Materials/Blood|Blood]] Cost.
+	- 1 Turn [[Bleeding]] Duration.
+	- -3 Turns of [[Bleeding]] Duration to gain [[Hemorrhage]].
+	- 5ft [[Movement Speed]] Slow.
+	- 25ft Target Sphere Radius. (+10ft)
+- **Upcasting**:
+	- You may upcast this psycast. For every 17 psyfocus spent above the normal cost for this psycast, the radius of the target sphere increases by 10ft.

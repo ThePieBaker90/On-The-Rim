@@ -23,6 +23,7 @@ tags:
 - **Effects**:
 	- *Creatures within a large area around the circle enter a [[Berserk Rage]], attacking any creatures in sight. Creatures near the circle are safe from the effects of this.*
 	- All creatures within berserk range but not safe range of the target [[Ritual Circle]] go into a [[Berserk Rage]].
+		- This does not require line of sight.
 - **Stats**:
 	- 360ft Berserk Range.
 	- 10ft Safe Range.

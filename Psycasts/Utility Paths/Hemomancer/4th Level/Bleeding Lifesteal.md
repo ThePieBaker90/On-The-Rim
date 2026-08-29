@@ -2,28 +2,33 @@
 tags:
   - Psycast
   - Hemomancer
-  - 2nd-Level
+  - 4th-Level
 ---
  - **Path**:
-	- 2nd Level [[Hemomancer Psycasts|Hemomancer Psycast]]
+	- 4th Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 5
 - **[[Neural Heat]] Generation:**
-	- .
+	- 20
 - [[Range]]:
-	- .
+	- 30ft.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Kinetic.
 - **Duration**:
-	- .
+	- Concentration, up to 10 Turns.
 - **Effects**:
 	- *.*
-	- .
+	- For the duration of this psycast, all creatures within range of you are afflicted.
+	- Afflicted creatures suffer the following effects:
+		- They lose additional health from [[Bleeding]].
+		- Health they lose from [[Bleeding]] heals you, scaling with the health lost.
+	- You cannot be afflicted by this psycast.
 - **Stats**:
-	- .
+	- +3 Additional [[Bleeding]] Health Loss.
+	- 2:1 Health Lost from [[Bleeding]] to Health Healed Ratio.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every 15 psyfocus spent above the normal cost for this psycast, the range increases by 15ft.

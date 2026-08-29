@@ -6,6 +6,6 @@ tags:
 - When a creature has the bleeding condition, they suffer the following effects:
 	- They lose 3 health per turn.
 	- If the duration of bleeding is greater than 10 turns, they gain [[Hemorrhage]]. 
-		- [[Hemorrhage]] is not removed if this condition is removed or the duration of bleeding drops below the threshhold.
+		- [[Hemorrhage]] is not removed when this condition is removed or if the duration of bleeding drops below the threshhold.
 - If this condition is applied to a creature who already has this condition, the durations of both are added to determine the new duration.
 - Constructs are immune to bleeding unless otherwise stated.

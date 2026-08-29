@@ -12,13 +12,13 @@ aliases:
 	- [[Absorb Bleeding]] (28, 18)+
 	- [[Barbed Bolt]] (2, 11)+
 - 2nd Level:
-	- [[Sap'n'Surge]] (5, 18)
 	- [[Malice Shards]] (4, 22)+
+	- [[Sap'n'Surge]] (5, 18)
 - 3rd Level:
-	- [[Hemowire]] (5, 25)+
 	- [[Blood Tribute]] (15, 0)
+	- [[Hemowire]] (5, 25)+
 - 4th Level:
-	- [[Bleeding Sphere]]
+	- [[The Hemorrhage Zone]] (3, 44)
 	- [[Bleeding Lifesteal]]
 - 5th Level:
 	- [[Blood Fury]]
