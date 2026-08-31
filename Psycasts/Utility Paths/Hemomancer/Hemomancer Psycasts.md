@@ -19,9 +19,9 @@ aliases:
 	- [[Hemowire]] (5, 25)+
 - 4th Level:
 	- [[The Hemorrhage Zone]] (3, 44)
-	- [[Bleeding Lifesteal]]
+	- [[Bryce's Bloodsteal]] (5, 20)
 - 5th Level:
-	- [[Blood Fury]]
+	- [[Blood Fury]] (15, 45)
 	- [[Mutate Limb]]
 ## Miscasts
 - Level 1 Miscast - .

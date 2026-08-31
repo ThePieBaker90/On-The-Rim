@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- Concentration, up to 10 Turns.
 - **Effects**:
-	- *.*
+	- *All creatures within range of you lose additional health from [[Bleeding]] and their [[Bleeding]] heals you.*
 	- For the duration of this psycast, all creatures within range of you are afflicted.
 	- Afflicted creatures suffer the following effects:
 		- They lose additional health from [[Bleeding]].

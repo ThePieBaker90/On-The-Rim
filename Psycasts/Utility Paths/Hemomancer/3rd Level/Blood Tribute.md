@@ -9,7 +9,7 @@ tags:
 - **Casting Time:**
 	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- 15
+	- 10
 - **[[Neural Heat]] Generation:**
 	- 0
 - [[Range]]:
@@ -24,13 +24,15 @@ tags:
 	- *You drag your ring finger across your palm, creating a cut. You can seal the cut at any time, but while you have the cut; [[Conditions]] reduce their duration faster, [[Bleeding]] you apply lasts longer, and your [[Movement Speed]] is increased.*
 	- For the duration of this psycast, you gain the following effects:
 		- You lose a minor amount of health at the end of your turn.
+		- You gain less health from all healing sources. (Rounded up)
 		- All negative & mixed [[Conditions]] you have decrease their duration by an additional turn at the end of your turn.
 		- All [[Bleeding]] you apply has increased duration. (Rounded up)
 		- Your [[Movement Speed]] is increased.
 	- You may end this psycast at the start of your turn.
 		- No effects can prevent you from ending this psycast at the start of your turn.
 - **Stats**:
-	- 4 Health Lost per Turn.
+	- 3 Health Lost per Turn.
+	- 50% Reduced Health Healed.
 	- 1 Turn Additional Duration Decrease for Negative & Mixed [[Conditions]].
 	- 50% Additional [[Bleeding]] Duration Applied.  
 	- 15ft [[Movement Speed]] Increase.

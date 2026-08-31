@@ -7,23 +7,40 @@ tags:
 - **Path**:
 	- 5th Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
-	- .
+	- 15
 - **[[Neural Heat]] Generation:**
-	- .
+	- 45
 - [[Range]]:
-	- .
+	- Self.
 - **Target**:
-	- .
+	- Self.
 - **Components**:
-	- .
+	- Gesture.
 - **Duration**:
-	- .
+	- 10 Turns. 
 - **Effects**:
 	- *.*
-	- .
+	- This psycast has a variable called fury level, it starts at an initial value and is an integer.
+	- This psycast may only be used while you are at or below a threshold of your max health (rounded up).
+		- If you end or begin your turn above the health threshold during this psycast's duration, this psycast ends.
+	- For the duration of this psycast, you gain the following effects:
+		- When you apply (or extend the duration of) the [[Bleeding]] [[Conditions|Condition]] onto any creature through any effect, your fury level increases.
+		- When you apply the [[Hemorrhage]] [[Conditions|Condition]] onto any creature through any effect, your fury level increases.
+		- Your [[Movement Speed]] increases scaling with your fury level.
+		- When you deal damage, you deal extra damage scaling with your fury level.
+			- The damage type of the extra damage is the same type as the original damage's type. If the orginal damage is multiple types, it is whatever type dealt the most damage.
+		- If your fury level is at or above a value, oppurtunity actions may not target you.
+
 - **Stats**:
-	- .
+	- 0 Initial Fury Level.
+	- 50% Max Health Threshold.
+	- +1 Fury Level on [[Bleeding]] Application.
+	- +2 Fury Level on [[Hemorrhage]] Application.
+	- +2 Extra Damage per Fury Level.
+	- +5ft [[Movement Speed]] Increase per Fury Level.
+	- 30ft Max [[Movement Speed]] Increase from Fury Levels.
+	- 5 Min Fury Level to Avoid Oppurtunity Actions.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You cannot upcast this psycast.
