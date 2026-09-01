@@ -7,19 +7,19 @@ tags:
 - **Path**:
 	- 5th Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- .
+	- 1 Turn.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
-	- .
+	- 0
 - [[Range]]:
-	- .
+	- Touch.
 - **Target**:
-	- .
+	- A creature within range.
 - **Components**:
 	- .
 - **Duration**:
-	- .
+	- Instant.
 - **Effects**:
 	- *.*
 	- .

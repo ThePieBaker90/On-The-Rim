@@ -1121,7 +1121,6 @@
   "Psycasts/Utility Paths/Hemomancer/1st Level/Absorb Bleeding.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/3rd Level/Blood Tribute.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/5th Level/Blood Fury.md": "LiSparkles",
-  "Psycasts/Utility Paths/Hemomancer/5th Level/Mutate Limb.md": "LiListTodo",
   "Psycasts/Utility Paths/Illusiomancer/1st Level": "TiHexagonNumber1",
   "Psycasts/Utility Paths/Illusiomancer/3rd Level": "TiHexagonNumber3",
   "Psycasts/Utility Paths/Illusiomancer/4th Level": "TiHexagonNumber4",
@@ -1574,5 +1573,6 @@
   "Psycasts/Utility Paths/Hemomancer/3rd Level/Hemowire.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Sap'n'Surge.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/4th Level/The Hemorrhage Zone.md": "LiSparkles",
-  "Psycasts/Utility Paths/Hemomancer/4th Level/Bryce's Bloodsteal.md": "LiSparkles"
+  "Psycasts/Utility Paths/Hemomancer/4th Level/Bryce's Bloodsteal.md": "LiSparkles",
+  "Psycasts/Utility Paths/Hemomancer/5th Level/Mutate Part.md": "LiListTodo"
 }

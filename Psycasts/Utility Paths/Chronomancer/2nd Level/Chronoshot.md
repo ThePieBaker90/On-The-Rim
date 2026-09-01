@@ -22,7 +22,7 @@ tags:
 	- Channeled, up to 4 Turns.
 - **Effects**:
 	- *You store time, using it to charge a an intense shot which deals damage scaling with your charged time. The shot also inflicts the creature with [[Time-Stopped]] until the beginning of their next turn. If you charge enough time, [[Time-Stopped]] lasts through their next turn.*
-	- This psycast has a variable called charged time, it starts at an initial value and is an integer.
+	- This psycast has a variable called charged time, it starts at an initial value and can be any positive integer.
 	- At the beginning of each of your turns, you increase your charged time.
 	- For the duration of this psycast, you may use an action or bonus action to make a ranged attack roll against a creature within range, adding your psycasting ability modifier to the result.
 		- On a hit, the shot deals damage scaling with charged time and the creature is [[Time-Stopped]] until the beginning of their turn. If charged time is at or above a value, the duration of [[Time-Stopped]] is extended.

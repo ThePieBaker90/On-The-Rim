@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 5 Turns.
 - **Effects**:
 	- *You create a psychic link between you and a creature, either giving them luck or taking luck from them. You can only give or take so much luck from the creature and if the link is broken any excess luck will spill over affecting you.*
-	- This psycast has a variable called stored luck, it starts at an initial value and is an integer.
+	- This psycast has a variable called stored luck, it starts at an initial value and can be any integer.
 	- For the duration of this psycast, whenever the target creature makes an ability check, a roll to hit, or a saving throw; You may choose to apply one of the following effects:
 		- Good Luck - The target creature gains advantage on the roll and stored luck is reduced.
 		- Bad Luck - The target creature gains disadvantage on the roll and stored luck is increased.

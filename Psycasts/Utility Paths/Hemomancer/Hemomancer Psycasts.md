@@ -22,7 +22,7 @@ aliases:
 	- [[Bryce's Bloodsteal]] (5, 20)
 - 5th Level:
 	- [[Blood Fury]] (15, 45)
-	- [[Mutate Limb]]
+	- [[Mutate Part]]
 ## Miscasts
 - Level 1 Miscast - .
 	- .

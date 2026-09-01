@@ -22,7 +22,7 @@ tags:
 	- Concentration, up to 6 Turns.
 - **Effects**:
 	- *You use a psychic shortcut to reduce the [[Neural Heat]] cost of repeatedly casting the same [[Melodipath Psycasts|Melodipath Psycast]].*
-	- This psycast has a variable called the encore modifier, it starts at an initial value and is an integer.
+	- This psycast has a variable called the encore modifier, it starts at an initial value and can be any positive integer.
 	- For the duration of this psycast, you have the following effects:
 		- When you use a [[Melodipath Psycasts|Melodipath Psycast]], the [[Neural Heat]] cost is reduced by the encore modifier.
 			- The encore modifier cannot reduce the [[Neural Heat]] cost of the psycast below 0.

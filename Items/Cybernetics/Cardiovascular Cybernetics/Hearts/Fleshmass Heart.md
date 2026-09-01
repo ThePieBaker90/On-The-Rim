@@ -14,7 +14,7 @@ tags:
 * [[Cybernetics#Cybercost|Cybercost]]:
 	- 1.
 - **Abilities:**
-	- The user has a [[Fleshmass]] growing inside of them. This [[Fleshmass]] growth is measured in a percent and must be pruned to reduce the amount. 
+	- The user has a [[Fleshmass]] heart growing inside of them. This [[Fleshmass]] growth is measured in a percent and must be pruned to reduce the amount. 
 		- [[Fleshmass]] growth increases by 20% every day.
 		- [[Fleshmass]] growth can be pruned with an invasive medical procedure that takes 2 hours and 1 [[Industrial-Tech Medicine]]. The [[Fleshmass]] growth can be pruned to any amount of choice.
 		- When the [[Fleshmass]] growth reaches 100% the user gains a random mutation and the growth drops to 50%.

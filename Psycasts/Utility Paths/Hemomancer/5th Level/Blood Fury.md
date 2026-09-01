@@ -21,8 +21,8 @@ tags:
 - **Duration**:
 	- 10 Turns. 
 - **Effects**:
-	- *.*
-	- This psycast has a variable called fury level, it starts at an initial value and is an integer.
+	- *You enter a blood fury, giving you additional [[Movement Speed]] and additional damage on all of your attacks. The bonuses from blood fury increase when you apply (or extend the duration of) [[Bleeding]] or [[Hemorrhage]].*
+	- This psycast has a variable called fury level, it starts at an initial value and can be any positive rational number rounded to 2 decimal places.
 	- This psycast may only be used while you are at or below a threshold of your max health (rounded up).
 		- If you end or begin your turn above the health threshold during this psycast's duration, this psycast ends.
 	- For the duration of this psycast, you gain the following effects:
@@ -34,10 +34,10 @@ tags:
 		- If your fury level is at or above a value, oppurtunity actions may not target you.
 
 - **Stats**:
-	- 0 Initial Fury Level.
+	- 1 Initial Fury Level.
 	- 50% Max Health Threshold.
-	- +1 Fury Level on [[Bleeding]] Application.
-	- +2 Fury Level on [[Hemorrhage]] Application.
+	- +0.25 Fury Level on [[Bleeding]] Application.
+	- +1 Fury Level on [[Hemorrhage]] Application.
 	- +2 Extra Damage per Fury Level.
 	- +5ft [[Movement Speed]] Increase per Fury Level.
 	- 30ft Max [[Movement Speed]] Increase from Fury Levels.
