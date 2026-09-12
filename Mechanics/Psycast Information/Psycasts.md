@@ -207,6 +207,10 @@ aliases:
 ### Delayed Effects
 - Delayed effects are effects that happen once after a certain trigger condition is met. They may not trigger if already triggered.
 	- For example, [[Gravitic Flux|Gravitic Flux's]] slam is a delayed effect that uses the caster's next turn as its trigger condition.
+### Variables
+- A psycast's effects may specify a variable, these are values tracked for the duration of the psycast which may be referenced by other parts of the psycast.
+- Variables start at an initial value specified in the [[#Psycast Stats]], the variable starts at this value when the psycast is cast.
+- Variables have limits to what values they store as specified in the effects description. If a new value for the variable cannot fit within these limits, the value is rounded to the nearest valid value.
 ## Psycast Stats
 - A psycast's stats are the quantitative parts of the psycast, determining the exact numbers, variables, or dice used in a [[#Psycast Effects|Psycast's Effects]] or a [[#Psycast Targeting|Psycast's Targeting]].
 - Each stat has a qualitative stat along with an identifier (or name), this is how the stat may be referred to in the [[#Psycast Effects|Psycast's Effects]] or the [[#Psycast Targeting|Psycast's Targeting]]. This reference may be direct or inferred. All listed stats are used in the psycast.

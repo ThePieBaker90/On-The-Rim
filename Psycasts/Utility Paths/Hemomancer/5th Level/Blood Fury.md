@@ -32,7 +32,6 @@ tags:
 		- When you deal damage, you deal extra damage scaling with your fury level.
 			- The damage type of the extra damage is the same type as the original damage's type. If the orginal damage is multiple types, it is whatever type dealt the most damage.
 		- If your fury level is at or above a value, oppurtunity actions may not target you.
-
 - **Stats**:
 	- 1 Initial Fury Level.
 	- 50% Max Health Threshold.
