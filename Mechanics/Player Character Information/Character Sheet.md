@@ -1,0 +1,55 @@
+- Name
+- Class
+	- Level
+	- Subclass
+- Germline
+	- Xenotype
+- Health
+	- Max Health
+- Hit Class
+	- Armor Class
+	- Evade Class
+- Ability Scores
+	- Strength
+	- Dexterity
+	- Constitution
+	- Intelligence
+	- Wisdom
+	- Charisma
+- Skills
+	- Athletics
+	- Arobatics
+	- Stealth
+	- Vehicle
+	- Crafting
+	- History
+	- Ideology
+	- Nature
+	- Technical
+	- Animal Handling
+	- Insight
+	- Medical
+	- Perception
+		- Sight based
+		- Scent based
+		- Sound based
+	- Survival
+	- Deception
+	- Intimidation
+	- Performance
+	- Persuasion
+- Condition List
+	- Duration
+	- Level
+- Known Psycast List
+	- Neural Heat Generation
+	- Psyfocus Cost
+	- Level
+- Current Neural Heat
+	- Neural Heat Limit
+- Current Psyfocus
+	- Max Psyfocus
+- Weapon List
+	- Josh TODO
+- Inventory
+	- Josh TODO
