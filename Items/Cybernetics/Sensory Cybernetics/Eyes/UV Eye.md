@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Eyes
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Eye|Eye]].
@@ -12,7 +12,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.5.
+	- N/A.
 - **Abilities:**
 	- The user can only see [[Lighting#UV Light|UV Light]].
 - **Looks:**

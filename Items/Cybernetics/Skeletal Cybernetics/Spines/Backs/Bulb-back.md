@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Spine
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Spine]] (Back).
@@ -12,7 +12,7 @@ tags:
 - **Cost:**
 	- N/A
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.5.
+	- N/A.
 - **Abilities:**
 	- When the user is damaged, all creatures except the user within 10ft of the user must make a DC 16 constitution saving throw, on a failed save they take 1d6 Corrosion damage.
 - **Looks:**

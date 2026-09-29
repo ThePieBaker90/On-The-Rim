@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHeartCog",
       "LiListTodo",
       "FarSquareCaretUp",
       "LiSquareSquare",
-      "FarSquareCaretDown",
-      "LiSparkles"
+      "FarSquareCaretDown"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -1574,5 +1574,7 @@
   "Psycasts/Utility Paths/Hemomancer/2nd Level/Sap'n'Surge.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/4th Level/The Hemorrhage Zone.md": "LiSparkles",
   "Psycasts/Utility Paths/Hemomancer/4th Level/Bryce's Bloodsteal.md": "LiSparkles",
-  "Psycasts/Utility Paths/Hemomancer/5th Level/Mutate Part.md": "LiListTodo"
+  "Psycasts/Utility Paths/Hemomancer/5th Level/Mutate Part.md": "LiListTodo",
+  "Mechanics/Cybernetic Information/Mutated Parts.md": "LiListTodo",
+  "Items/Cybernetics/Cardiovascular Cybernetics/Blood": "TiHeartCog"
 }

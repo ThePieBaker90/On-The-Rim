@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Lungs
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Lung|Lung]].
@@ -14,7 +14,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user makes a very quiet wheezing sound while breathing. This can be heard with a DC 18 [[Sound-Based Perception]] check.
 - **Looks:**

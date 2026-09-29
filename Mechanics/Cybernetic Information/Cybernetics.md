@@ -6,7 +6,7 @@ aliases:
   - Cybernetic
 ---
 ## Cybernetic Overview
-- Cybernetics are artificial/non-natural body parts that can be installed in living creatures in order to enhance their abilities beyond natural limits. They can also be installed to remedy missing limbs or organs.
+- Cybernetics are artificial/non-[[Human Body#Natural Body Parts|Natural]] body parts that can be installed in living creatures in order to enhance their abilities beyond natural limits. They can also be installed to remedy missing limbs or organs.
 - All cybernetics are non-functional unless installed on a creature or powered by an outside source.
 ## Cybernetic Installation
 - Cybernetics are installed on creatures (called the patient) by another creature (called the installer) or themselves. They have permanent effects which can only be removed if the cybernetic is disabled or uninstalled.

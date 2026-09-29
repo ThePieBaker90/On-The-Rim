@@ -11,7 +11,7 @@ aliases:
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	* +[[Lower-Body Strength and Dexterity|Lower-Body Dexterity]].
 * Cost:
-	* 2000 Credits.
+	* 2500 Credits.
 * [[Cybernetics#Cybercost|Cybercost]]:
 	* 3.
 * Abilities:

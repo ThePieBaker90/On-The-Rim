@@ -22,7 +22,7 @@ tags:
 	- Instant.
 - **Effects**:
 	- *You point at a creature before aiming your hand at a target point, the creature then must resist skipping to the new location.*
-	- The target creature may make a dexterity saving throw to avoid being teleported.
+	- The target creature may make a [[Dexterity]] saving throw to avoid being teleported.
 		- On a failure, they teleport to the target point.
 		- On a success, nothing happens.
 		- You cannot teleport parts of a creature, you may only teleport the whole creature. ([[Cybernetics]] are considered parts of the creature)

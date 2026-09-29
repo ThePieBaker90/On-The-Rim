@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Eyes
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Eye|Eye]].
@@ -14,7 +14,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.5.
+	- N/A.
 - **Abilities:**
 	* The user can see in [[Lighting#Dim Light|Dim Light]] within 20ft as if it was [[Lighting#Normal Light|Normal Light]].
 	* The user can see in [[Lighting#Darkness|Darkness]] within 20ft as if it was [[Lighting#Dim Light|Dim Light]]. 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Shoulders
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Shoulders|Shoulder]]
@@ -14,7 +14,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 2.
+	- N/A.
 - **Abilities:**
 	- The user's unarmed attacks act as if they have [[Lacerating]](3, On target hit). They also deal an additional 1d6 slashing damage and heal the user for 1d6 health on hit.
 	- The user cannot have a [[Hand|Hand]] or [[Arm|Arm]] attached to this [[Cybernetics|Cybernetic]]. The missing [[Human Body|Body Parts]] from this do not incur the missing part penalty.

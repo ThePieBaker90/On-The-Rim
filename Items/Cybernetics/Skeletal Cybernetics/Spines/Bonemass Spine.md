@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Spine
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Spine]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user must expend an action to stand up while [[Prone]] in addition to other costs.
 	- The user gains a resistance to bludgeoning damage.

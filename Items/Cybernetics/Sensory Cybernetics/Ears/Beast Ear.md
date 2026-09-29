@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Ears
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Ear]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.25.
+	- N/A.
 - **Abilities:**
 	- The user gains a vulnerability to sonic damage.
 	- The user gains [[Deafened]] for twice as long from all sources.

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Horns
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Horns]].
@@ -12,7 +12,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user can headbutt with their antlers as a melee weapon attack dealing 1d8+STR bludgeoning damage to a target.
 	- The user cannot wear helmets that don't have antler holes.

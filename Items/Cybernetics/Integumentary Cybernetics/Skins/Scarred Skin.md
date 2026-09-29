@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Skin
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Skin]].
@@ -12,7 +12,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- [[Criticals|Rolls on any Critical Effect Table]] for an attack targeting the user are made with advantage.
 - **Looks:**

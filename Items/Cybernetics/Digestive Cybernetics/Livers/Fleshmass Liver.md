@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Liver
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Liver]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.5.
+	- N/A.
 - **Abilities:**
 	- The user cannot get drunk.
 - **Looks:**

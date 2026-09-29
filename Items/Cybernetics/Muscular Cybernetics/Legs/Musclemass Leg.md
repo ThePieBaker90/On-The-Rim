@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Legs
+  - Mutated-Part
 ---
 - **Install Location:**
 	* [[Leg]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user gains advantage on [[Lower-Body Strength and Dexterity|Lower-Body Strength]] checks.
 - **Looks:**

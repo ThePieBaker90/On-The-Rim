@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Arms
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Arm|Arm]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- All melee attacks the user makes deal an additional 1d4 slashing damage.
 	- The user's unarmed strikes deal slashing damage instead of bludgeoning damage.

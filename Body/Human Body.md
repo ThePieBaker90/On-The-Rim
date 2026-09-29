@@ -1,6 +1,9 @@
 ---
 tags:
   - Info
+aliases:
+  - Body Part
+  - Body Parts
 ---
 ## Human Body
 - The human body has many limbs and organs, some of which are needed to survive. 
@@ -62,11 +65,6 @@ tags:
 	- They can be installed according to the same rules as [[Cybernetics]].
 ## Missing Body Parts
 - All body part slots must be filled for a creature to be healthy, if a slot is not filled the creature has a -4 [[Cybernetics#Cyber Modifier|Cyber Modifier]] for the [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]] of the part. Additionally the part cannot be used at all in actions or other effects. 
-
-
-
 	- [[Eye|Eyes]], [[Ear|Ears]], and [[Kidney|Kidneys]] only incur a -2 [[Cybernetics#Cyber Modifier|Cyber Modifier]] if only one part of the set is missing.`
-
-
-
 	- A missing [[Lung|Lung]] causes the creature to only be able hold their [[Breathing|Breath]] for only half the amount of time they usually would be able to.
+- TODO

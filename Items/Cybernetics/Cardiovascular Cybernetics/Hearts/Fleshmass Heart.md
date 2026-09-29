@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Heart
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Heart]].
@@ -12,7 +12,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user has a [[Fleshmass]] heart growing inside of them. This [[Fleshmass]] growth is measured in a percent and must be pruned to reduce the amount. 
 		- [[Fleshmass]] growth increases by 20% every day.

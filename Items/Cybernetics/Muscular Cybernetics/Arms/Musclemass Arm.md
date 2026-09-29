@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Arms
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Arm|Arm]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user gains advantage on [[Upper-Body Strength and Dexterity|Upper-Body Strength]] checks.
 - **Looks:**

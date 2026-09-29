@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Legs
+  - Mutated-Part
 ---
 - **Install Location:**
 	* [[Leg]].
@@ -14,7 +14,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 1.
+	- N/A.
 - **Abilities:**
 	- The user has their [[Movement Speed]] slowed by 5ft.
 	- This [[Cybernetics|Cybernetic]] cannot be removed through [[Criticals#Critical Effect Tables|Critical Effects]].

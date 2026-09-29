@@ -22,8 +22,13 @@ tags:
 	- Instant.
 - **Effects**:
 	- *.*
-	- .
+	- When you cast this psycast, you choose a natural [[Human Body|Body Part]] that the target creature has (referred to as the target part) and a [[Mutated Parts|Mutated Part]] (referred to as the mutated part) that would replace the target part.
+		- The mutated part must have the same install location as the target part.
+		- The mutated part may be a natural [[Human Body|Body Part]], if it is, you gain some [[Psyfocus]].
+	- The target creature may make a [[Dexterity]] saving throw to avoid having a [[Human Body|Body Part]] mutated.
+		- On a failure, the creature's target part is permanently changed into the mutated part.
+		- On a success, nothing happens.
 - **Stats**:
-	- .
+	- . [[Psyfocus]] Gained.
 - **Upcasting**:
 	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .

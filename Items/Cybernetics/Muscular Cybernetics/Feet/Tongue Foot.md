@@ -1,19 +1,19 @@
 ---
 tags:
-  - Cybernetic
   - Feet
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Foot]].
 - [[Cybernetics#Cyber Modifier|Cyber Modifier]]:
-	- +1..
+	- +1.
 * [[Cybernetics#Affected Skills/Ability Scores|Affected Skills/Ability Scores]]:
 	- +[[Lower-Body Strength and Dexterity|Lower-Body Strength.]]
 	- -[[Lower-Body Strength and Dexterity|Lower-Body Dexterity]].
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.25.
+	- N/A.
 - **Abilities:**
 	- The user gains a sense of taste on the bottom of their foot.
 - **Looks:**

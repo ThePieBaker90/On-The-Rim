@@ -1,7 +1,7 @@
 ---
 tags:
-  - Cybernetic
   - Jaw
+  - Mutated-Part
 ---
 - **Install Location:**
 	- [[Jaw]].
@@ -13,7 +13,7 @@ tags:
 - **Cost:**
 	- N/A.
 * [[Cybernetics#Cybercost|Cybercost]]:
-	- 0.5.
+	- N/A.
 - **Abilities:**
 	- The user can bite as a melee weapon attack dealing 1d6+STR piercing damage to a target.
 	- All bite attacks made by the user deal an additional 5 piercing damage.
