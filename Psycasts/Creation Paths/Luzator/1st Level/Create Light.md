@@ -21,7 +21,7 @@ tags:
 - **Duration**:
 	- 12 Hours.
 - **Effects**:
-	- *You concentrate stray photons to form an orb of light which can be easily moved. The orb lasts half a day and supplies enough light to comfortably see.*
+	- *You concentrate stray photons to form an orb of light which can be easily moved. The orb lasts 12 hours and supplies enough light to comfortably see.*
 	- You summon an orb of light at the target point. 
 	- For the duration of this psycast, the orb has the following effects:
 		- The orb creates [[Lighting#Normal Light|Normal Light]] within strong light range of it. 

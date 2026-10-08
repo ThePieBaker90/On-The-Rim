@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Gesture, Material (18kg of [[Abomination Matter]]).
 - **Duration**:
-	- Channeled, up to 1 Day.
+	- Channeled, up to 24 Hours.
 - **Effects**:
 	- *You summon 3 [[Abomination|Abominations]] to do your bidding. They can follow basic commands and take and deal damage.*
 	- You create three [[Abomination|Abominations]], one at each target point, which will follow single word commands you direct at them. 

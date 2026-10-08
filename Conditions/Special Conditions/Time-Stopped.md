@@ -6,7 +6,7 @@ tags:
 - When a creature has the Time-Stopped condition they suffer the following effects:
 	- They are [[Incapacitated]].
 	- They are [[Immobilized]].
-	- They are frozen in time and cannot do anything.
+	- They are frozen in [[Time]] and cannot do anything.
 	- They cannot be moved by any effects.
 	- Effects and triggers do not occur at the beginning and end of their turns.
 		- This condition's duration is not affected by this.

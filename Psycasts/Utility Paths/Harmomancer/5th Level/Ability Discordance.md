@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 Day.
+	- 24 Hours.
 - **Effects**:
 	- *You imbue your touch with natural randomness, applying aimless modifiers to a creature's ability scores.*
 	- When this psycast is cast, you generate a random modifier for each ability score the target creature has.

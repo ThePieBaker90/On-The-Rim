@@ -7,7 +7,7 @@ tags:
 - **Path**:
 	- 5th Level [[Hemomancer Psycasts|Hemomancer Psycast]]
 - **Casting Time:**
-	- 1 Turn.
+	- 1 Action.
 - **[[Psyfocus]] Cost:**
 	- .
 - **[[Neural Heat]] Generation:**
@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- .
 - **Duration**:
-	- Instant.
+	- 1 Hour.
 - **Effects**:
 	- *.*
 	- When you cast this psycast, you choose a natural [[Human Body|Body Part]] that the target creature has (referred to as the target part) and a [[Mutated Parts|Mutated Part]] (referred to as the mutated part) that would replace the target part.
@@ -31,4 +31,4 @@ tags:
 - **Stats**:
 	- . [[Psyfocus]] Gained.
 - **Upcasting**:
-	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, .
+	- You may upcast this psycast. For every . psyfocus spent above the normal cost for this psycast, the.

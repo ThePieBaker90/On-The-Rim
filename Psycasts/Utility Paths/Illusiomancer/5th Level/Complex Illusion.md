@@ -19,7 +19,7 @@ tags:
 - **Components**:
 	- Kinetic.
 - **Duration**:
-	- 1 Day.
+	- 24 Hours.
 - **Effects**:
 	- *You imbue psychic waves to a point in space which disrupt creatures' sensory centers causing them to perceive an illusion. The illusion may affect four senses and only affected creatures perceive it.*
 	- You create an [[Illusion]].

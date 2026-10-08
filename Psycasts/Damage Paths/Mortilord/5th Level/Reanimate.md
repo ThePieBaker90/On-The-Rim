@@ -34,6 +34,6 @@ tags:
 		- They fall [[Unconscious]].
 - **Stats**:
 	- 1d4 Internal Parts Gain [[Organ Decay]].
-	- 1 Day [[Unconscious]] Duration.
+	- 24 Hour [[Unconscious]] Duration.
 - **Upcasting**:
 	- You cannot upcast this psycast.
